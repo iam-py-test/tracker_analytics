@@ -1,2 +1,2 @@
-# tracker_analydics
+# tracker_analytics
 Tracking the trackers
