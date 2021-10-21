@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(5)
+latest_top = t.list().top(10)
 trackerdomains = {"Google":["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com"]}
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0}
@@ -53,8 +53,8 @@ for domain in latest_top:
       pass
 
 with open("report.md","w") as f:
-  f.write("## Tracker report")
-  f.write("{} domains tested".format(data["domains_tested"]))
-  f.write("{} of the domains tested used known trackers".format(data["domains_with_tracker"]))
-  f.write("{} of the domains tested supported HTTPS".format(data["domains_with_HTTPS"]))
+  f.write("## Tracker report\n")
+  f.write("{} domains tested\n".format(data["domains_tested"]))
+  f.write("{} of the domains tested used known trackers\n".format(data["domains_with_tracker"]))
+  f.write("{} of the domains tested supported HTTPS\n".format(data["domains_with_HTTPS"]))
   f.close()
