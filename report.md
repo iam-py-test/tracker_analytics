@@ -1,7 +1,7 @@
-## Tracker report
-19 domains tested
-0 of the domains tested used known trackers
-18 of the domains tested supported HTTPS
+## Tracker report 
+19 domains tested 
+0 of the domains tested used known trackers 
+18 of the domains tested supported HTTPS 
 
 
 ### Individual domain statistics: 
