@@ -1,37 +1,102 @@
 ## Tracker report
-15 domains tested
+19 domains tested
 0 of the domains tested used known trackers
-14 of the domains tested supported HTTPS
+18 of the domains tested supported HTTPS
 
 
 ### Individual domain statistics: 
 
-#### google.comHTTPS: TrueKnown trackers: False
 
-#### youtube.comHTTPS: TrueKnown trackers: False
+#### google.com
+HTTPS: True
+Known trackers: False
 
-#### facebook.comHTTPS: TrueKnown trackers: False
 
-#### netflix.comHTTPS: TrueKnown trackers: False
+#### youtube.com
+HTTPS: True
+Known trackers: False
 
-#### microsoft.comHTTPS: TrueKnown trackers: False
 
-#### twitter.comHTTPS: TrueKnown trackers: False
+#### facebook.com
+HTTPS: True
+Known trackers: False
 
-#### instagram.comHTTPS: TrueKnown trackers: False
 
-#### tmall.comHTTPS: FalseKnown trackers: False
+#### netflix.com
+HTTPS: True
+Known trackers: False
 
-#### linkedin.comHTTPS: TrueKnown trackers: False
 
-#### apple.comHTTPS: TrueKnown trackers: False
+#### microsoft.com
+HTTPS: True
+Known trackers: False
 
-#### qq.comHTTPS: TrueKnown trackers: False
 
-#### wikipedia.orgHTTPS: TrueKnown trackers: False
+#### twitter.com
+HTTPS: True
+Known trackers: False
 
-#### baidu.comHTTPS: TrueKnown trackers: False
 
-#### sohu.comHTTPS: TrueKnown trackers: False
+#### instagram.com
+HTTPS: True
+Known trackers: False
 
-#### googletagmanager.comHTTPS: TrueKnown trackers: False
+
+#### tmall.com
+HTTPS: False
+Known trackers: False
+
+
+#### linkedin.com
+HTTPS: True
+Known trackers: False
+
+
+#### apple.com
+HTTPS: True
+Known trackers: False
+
+
+#### qq.com
+HTTPS: True
+Known trackers: False
+
+
+#### wikipedia.org
+HTTPS: True
+Known trackers: False
+
+
+#### baidu.com
+HTTPS: True
+Known trackers: False
+
+
+#### sohu.com
+HTTPS: True
+Known trackers: False
+
+
+#### googletagmanager.com
+HTTPS: True
+Known trackers: False
+
+
+#### wordpress.org
+HTTPS: True
+Known trackers: False
+
+
+#### live.com
+HTTPS: True
+Known trackers: False
+
+
+#### yahoo.com
+HTTPS: True
+Known trackers: False
+
+
+#### amazon.com
+HTTPS: True
+Known trackers: False
