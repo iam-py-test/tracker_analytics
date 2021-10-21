@@ -33,10 +33,10 @@ def hastrackers(html):
             report["has_trackers"] = True
       except:
         pass
-    except:
-      return report
-    else:
-      return report
+  except:
+    return report
+  else:
+    return report
     
 
 for domain in latest_top:
@@ -51,6 +51,7 @@ for domain in latest_top:
         data["domains_with_HTTPS"] += 1
     except:
       pass
+
 with open("report.md","w") as f:
   f.write("## Tracker report")
   f.write("{} domains tested".format(data["domains_tested"]))
