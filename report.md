@@ -1,1 +1,4 @@
-## Tracker report5 domains tested0 of the domains tested used known trackers5 of the domains tested supported HTTPS
+## Tracker report
+10 domains tested
+0 of the domains tested used known trackers
+10 of the domains tested supported HTTPS
