@@ -33,6 +33,16 @@ def hastrackers(html):
             report["has_trackers"] = True
       except:
         pass
+      try:
+        maybetracker_contents = script.content
+        for tracker_type in trackerdomains:
+          for tracker_domain in trackerdomains[tracker_type]:
+            if tracker_domain in maybetracker_contents:
+              report[tracker_type] = True
+              report["total"] += 1
+              report["has_trackers"] = True
+      except:
+        pass
   except:
     return report
   else:
@@ -55,10 +65,10 @@ for domain in latest_top:
       pass
 
 with open("report.md","w") as f:
-  f.write("## Tracker report\n")
-  f.write("{} domains tested\n".format(data["domains_tested"]))
-  f.write("{} of the domains tested used known trackers\n".format(data["domains_with_tracker"]))
-  f.write("{} of the domains tested supported HTTPS\n".format(data["domains_with_HTTPS"]))
+  f.write("## Tracker report \n")
+  f.write("{} domains tested \n".format(data["domains_tested"]))
+  f.write("{} of the domains tested used known trackers \n".format(data["domains_with_tracker"]))
+  f.write("{} of the domains tested supported HTTPS \n".format(data["domains_with_HTTPS"]))
   f.write("\n\n### Individual domain statistics: ")
   
   for entry in data["per_domain_stats"]:
