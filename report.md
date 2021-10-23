@@ -1,7 +1,7 @@
 ## Tracker report
 19 domains tested <br>
 0 of the domains tested used known trackers <br>
-18 of the domains tested supported HTTPS <br>
+19 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -73,7 +73,7 @@ HTTPS: True
 
 
 #### sohu.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
