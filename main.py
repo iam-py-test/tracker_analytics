@@ -26,6 +26,7 @@ def hastrackers(html):
     for script in scripts:
       try:
         domain = urlparse(script.get("src")).netloc
+        print(domain)
         for tracker_type in trackerdomains:
           if domain in trackerdomains[tracker_type]:
             report[tracker_type] = True
@@ -44,6 +45,7 @@ def hastrackers(html):
       except Exception as err:
         print(err)
     pf = soup.select("[rel=\"dns-prefetch\"]")
+    print(pf)
     for prefetch in pf:
       try:
         domain = urlparse(pf.get("href")).netloc
@@ -76,7 +78,7 @@ for domain in latest_top:
       pass
 
 with open("report.md","w") as f:
-  f.write("## Tracker report <br>\n")
+  f.write("## Tracker report\n")
   f.write("{} domains tested <br>\n".format(data["domains_tested"]))
   f.write("{} of the domains tested used known trackers <br>\n".format(data["domains_with_tracker"]))
   f.write("{} of the domains tested supported HTTPS <br>\n".format(data["domains_with_HTTPS"]))
@@ -84,6 +86,6 @@ with open("report.md","w") as f:
   
   for entry in data["per_domain_stats"]:
     f.write("\n\n\n#### {}".format(entry))
-    f.write("\n<br>HTTPS: {}".format(data["per_domain_stats"][entry]["hasHTTPS"]))
+    f.write("\nHTTPS: {}".format(data["per_domain_stats"][entry]["hasHTTPS"]))
     f.write("\n<br>Known trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
   f.close()
