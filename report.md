@@ -47,12 +47,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### linkedin.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
