@@ -54,8 +54,8 @@ def hastrackers(html):
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
-      except:
-        pass
+      except Exception as err:
+        print(err)
   except:
     return report
   else:
