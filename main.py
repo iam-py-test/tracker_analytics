@@ -26,7 +26,6 @@ def hastrackers(html):
     for script in scripts:
       try:
         domain = urlparse(script.get("src")).netloc
-        print(domain)
         for tracker_type in trackerdomains:
           if domain in trackerdomains[tracker_type]:
             report[tracker_type] = True
@@ -43,12 +42,13 @@ def hastrackers(html):
               report["total"] += 1
               report["has_trackers"] = True
       except Exception as err:
-        print(err)
-    pf = soup.select("[rel=\"dns-prefetch\"]")
-    print(pf)
+        pass
+    pf = soup.select("link[rel=\"dns-prefetch\"]")
+    print("prefetch",pf)
     for prefetch in pf:
       try:
         domain = urlparse(pf.get("href")).netloc
+        print(domain)
         for tracker_type in trackerdomains:
           if domain in trackerdomains[tracker_type]:
             report[tracker_type] = True
