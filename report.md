@@ -1,5 +1,5 @@
 ## Tracker report
-19 domains tested <br>
+18 domains tested <br>
 0 of the domains tested used known trackers <br>
 18 of the domains tested supported HTTPS <br>
 
@@ -43,7 +43,7 @@ HTTPS: True
 
 
 #### tmall.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -68,11 +68,6 @@ HTTPS: True
 
 
 #### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### sohu.com
 HTTPS: True
 <br>Known trackers: False
 
