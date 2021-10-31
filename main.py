@@ -44,18 +44,18 @@ def hastrackers(html,d=""):
       except Exception as err:
         pass
     pf = soup.select("link[rel=\"dns-prefetch\"]")
-    print("prefetch",pf)
+    #print("prefetch",pf)
     for prefetch in pf:
       try:
         domain = urlparse(prefetch.get("href")).netloc
-        print(domain)
+        #print(domain)
         for tracker_type in trackerdomains:
           if domain in trackerdomains[tracker_type]:
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
       except Exception as err:
-        print(err)
+        pass
     try:
       for tracker_type in trackerdomains:
           if d in trackerdomains[tracker_type]:
@@ -82,8 +82,8 @@ for domain in latest_top:
       if hassec:
         data["domains_with_HTTPS"] += 1
       data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"]}
-    except:
-      pass
+    except Exception as err:
+      print(err)
 
 with open("report.md","w") as f:
   f.write("## Tracker report\n")
