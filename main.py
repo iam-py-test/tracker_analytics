@@ -47,7 +47,7 @@ def hastrackers(html):
     print("prefetch",pf)
     for prefetch in pf:
       try:
-        domain = urlparse(pf.get("href")).netloc
+        domain = urlparse(prefetch.get("href")).netloc
         print(domain)
         for tracker_type in trackerdomains:
           if domain in trackerdomains[tracker_type]:
