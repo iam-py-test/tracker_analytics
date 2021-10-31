@@ -18,7 +18,7 @@ def hasHTTPS(domain):
     return False
   else:
     return True
-def hastrackers(html):
+def hastrackers(html,d=""):
   report = {"Google":False,"total":0,"has_trackers":False}
   try:
     soup = BeautifulSoup(html,'html.parser')
@@ -56,6 +56,14 @@ def hastrackers(html):
             report["has_trackers"] = True
       except Exception as err:
         print(err)
+    try:
+      for tracker_type in trackerdomains:
+          if d in trackerdomains[tracker_type]:
+            report[tracker_type] = True
+            report["total"] += 1
+            report["has_trackers"] = True
+    except:
+      pass
   except:
     return report
   else:
@@ -67,7 +75,7 @@ for domain in latest_top:
     try:
       req = requests.get("http://{}".format(domain))
       data["domains_tested"] += 1
-      domainreport = hastrackers(req.text)
+      domainreport = hastrackers(req.text,domain)
       if domainreport["has_trackers"] == True:
         data["domains_with_tracker"] += 1
       hassec = hasHTTPS(domain)
