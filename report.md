@@ -12,12 +12,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### youtube.com
+#### netflix.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### netflix.com
+#### youtube.com
 HTTPS: True
 <br>Known trackers: False
 
