@@ -92,11 +92,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yahoo.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### yahoo.com
 HTTPS: True
 <br>Known trackers: False
