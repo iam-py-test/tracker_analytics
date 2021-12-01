@@ -72,14 +72,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googletagmanager.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### sohu.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### googletagmanager.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### wordpress.org
@@ -87,12 +87,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### live.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
