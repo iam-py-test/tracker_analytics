@@ -1,7 +1,7 @@
 ## Tracker report
-19 domains tested <br>
+18 domains tested <br>
 2 of the domains tested used known trackers <br>
-18 of the domains tested supported HTTPS <br>
+17 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -68,11 +68,6 @@ HTTPS: True
 
 
 #### wikipedia.org
-HTTPS: True
-<br>Known trackers: False
-
-
-#### sohu.com
 HTTPS: True
 <br>Known trackers: False
 
