@@ -62,17 +62,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sohu.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -80,6 +75,11 @@ HTTPS: True
 #### googletagmanager.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### sohu.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### wordpress.org
