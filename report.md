@@ -27,12 +27,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### twitter.com
+#### microsoft.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### microsoft.com
+#### twitter.com
 HTTPS: True
 <br>Known trackers: False
 
