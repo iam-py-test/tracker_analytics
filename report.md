@@ -1,6 +1,6 @@
 ## Tracker report
 50 domains tested <br>
-18 of the domains tested used known trackers <br>
+8 of the domains tested used known trackers <br>
 48 of the domains tested supported HTTPS <br>
 
 
@@ -39,7 +39,7 @@ HTTPS: True
 
 #### instagram.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### tmall.com
@@ -54,12 +54,12 @@ HTTPS: True
 
 #### apple.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### wikipedia.org
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### qq.com
@@ -119,7 +119,7 @@ HTTPS: True
 
 #### adobe.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### vimeo.com
@@ -169,7 +169,7 @@ HTTPS: True
 
 #### jd.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### reddit.com
@@ -184,7 +184,7 @@ HTTPS: True
 
 #### zoom.us
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### sina.com.cn
@@ -194,7 +194,7 @@ HTTPS: True
 
 #### blogspot.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### mozilla.org
@@ -239,12 +239,12 @@ HTTPS: True
 
 #### europa.eu
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### office365.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### flickr.com
@@ -254,4 +254,4 @@ HTTPS: True
 
 #### nih.gov
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
