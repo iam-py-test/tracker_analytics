@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(40)
+latest_top = t.list().top(55)
 extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
@@ -28,7 +28,7 @@ def hastrackers(html,d=""):
     for script in scripts:
       try:
         domain = urlparse(script.get("src")).netloc
-          if domain in trackerdomains:
+        if domain in trackerdomains:
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
@@ -36,7 +36,7 @@ def hastrackers(html,d=""):
         pass
       try:
         maybetracker_contents = script.content
-          for tracker_domain in trackerdomains:
+        for tracker_domain in trackerdomains:
             if tracker_domain in maybetracker_contents:
               report[tracker_type] = True
               report["total"] += 1
@@ -48,8 +48,7 @@ def hastrackers(html,d=""):
     for prefetch in pf:
       try:
         domain = urlparse(prefetch.get("href")).netloc
-        #print(domain)
-          if domain in trackerdomains:
+        if domain in trackerdomains:
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
@@ -69,6 +68,8 @@ def hastrackers(html,d=""):
     
 
 for domain in latest_top:
+  if domain in malwaredomains:
+    print("Avoided going to malware domain '{}'")
   if domain not in malwaredomains:
     try:
       req = requests.get("http://{}".format(domain))
