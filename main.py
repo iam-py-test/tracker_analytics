@@ -5,8 +5,10 @@ from urllib.parse import urlparse
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(50)
-trackerdomains = {"Google":["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net"],"Yahoo":["geo.yahoo.com"],"Other":["go-mpulse.net",""]}
+latest_top = t.list().top(40)
+extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com"]
+trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
+trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
 
@@ -26,8 +28,7 @@ def hastrackers(html,d=""):
     for script in scripts:
       try:
         domain = urlparse(script.get("src")).netloc
-        for tracker_type in trackerdomains:
-          if domain in trackerdomains[tracker_type]:
+          if domain in trackerdomains:
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
@@ -35,8 +36,7 @@ def hastrackers(html,d=""):
         pass
       try:
         maybetracker_contents = script.content
-        for tracker_type in trackerdomains:
-          for tracker_domain in trackerdomains[tracker_type]:
+          for tracker_domain in trackerdomains:
             if tracker_domain in maybetracker_contents:
               report[tracker_type] = True
               report["total"] += 1
@@ -49,16 +49,14 @@ def hastrackers(html,d=""):
       try:
         domain = urlparse(prefetch.get("href")).netloc
         #print(domain)
-        for tracker_type in trackerdomains:
-          if domain in trackerdomains[tracker_type]:
+          if domain in trackerdomains:
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
       except Exception as err:
         pass
-    try:
-      for tracker_type in trackerdomains:
-          if d in trackerdomains[tracker_type]:
+    try:         
+      if d in trackerdomains:
             report[tracker_type] = True
             report["total"] += 1
             report["has_trackers"] = True
