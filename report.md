@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -92,11 +92,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sohu.com
+#### yahoo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yahoo.com
+#### sohu.com
 HTTPS: True
 <br>Known trackers: False
