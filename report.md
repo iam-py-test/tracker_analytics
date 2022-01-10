@@ -1,7 +1,7 @@
 ## Tracker report
-19 domains tested <br>
-2 of the domains tested used known trackers <br>
-19 of the domains tested supported HTTPS <br>
+45 domains tested <br>
+14 of the domains tested used known trackers <br>
+44 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -39,7 +39,7 @@ HTTPS: True
 
 #### instagram.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### tmall.com
@@ -54,12 +54,12 @@ HTTPS: True
 
 #### apple.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### wikipedia.org
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### qq.com
@@ -94,9 +94,139 @@ HTTPS: True
 
 #### yahoo.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### sohu.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### youtu.be
+HTTPS: True
+<br>Known trackers: False
+
+
+#### pinterest.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### taobao.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### adobe.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### vimeo.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### office.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### 360.cn
+HTTPS: True
+<br>Known trackers: False
+
+
+#### bing.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### amazonaws.com
+HTTPS: False
+<br>Known trackers: False
+
+
+#### goo.gl
+HTTPS: True
+<br>Known trackers: False
+
+
+#### github.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### wordpress.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### weibo.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### jd.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### reddit.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
+
+
+#### zoom.us
+HTTPS: True
+<br>Known trackers: True
+
+
+#### sina.com.cn
+HTTPS: True
+<br>Known trackers: False
+
+
+#### blogspot.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
+
+
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### whatsapp.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### tumblr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### skype.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
