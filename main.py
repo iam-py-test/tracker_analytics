@@ -12,11 +12,10 @@ trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
 
-
 # functions
 def hasHTTPS(domain):
   try:
-    requests.get("https://{}".format(domain))
+    requests.get("https://{}".format(domain),allow_redirects=False)
   except:
     return False
   else:
@@ -30,6 +29,7 @@ def hastrackers(html,d=""):
       try:
         domain = urlparse(script.get("src")).netloc
         if domain in trackerdomains:
+            print(domain)
             report["total"] += 1
             report["has_trackers"] = True
       except:
@@ -38,6 +38,7 @@ def hastrackers(html,d=""):
         maybetracker_contents = script.content
         for tracker_domain in trackerdomains:
             if tracker_domain in maybetracker_contents:
+              print(tracker_domain)
               report["total"] += 1
               report["has_trackers"] = True
       except Exception as err:
@@ -48,12 +49,14 @@ def hastrackers(html,d=""):
       try:
         domain = urlparse(prefetch.get("href")).netloc
         if domain in trackerdomains:
+            print(domain)
             report["total"] += 1
             report["has_trackers"] = True
       except Exception as err:
         pass
     try:         
       if d in trackerdomains:
+            print(d)
             report["total"] += 1
             report["has_trackers"] = True
     except:
