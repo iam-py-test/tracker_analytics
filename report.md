@@ -1,7 +1,7 @@
 ## Tracker report
-45 domains tested <br>
-14 of the domains tested used known trackers <br>
-44 of the domains tested supported HTTPS <br>
+50 domains tested <br>
+0 of the domains tested used known trackers <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -39,7 +39,7 @@ HTTPS: True
 
 #### instagram.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### tmall.com
@@ -54,12 +54,12 @@ HTTPS: True
 
 #### apple.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### wikipedia.org
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### qq.com
@@ -74,12 +74,12 @@ HTTPS: True
 
 #### googletagmanager.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### wordpress.org
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### amazon.com
@@ -94,7 +94,7 @@ HTTPS: True
 
 #### yahoo.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### sohu.com
@@ -114,12 +114,12 @@ HTTPS: True
 
 #### taobao.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### adobe.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### vimeo.com
@@ -159,7 +159,7 @@ HTTPS: True
 
 #### wordpress.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### weibo.com
@@ -169,7 +169,7 @@ HTTPS: True
 
 #### jd.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### reddit.com
@@ -179,12 +179,12 @@ HTTPS: True
 
 #### bit.ly
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### zoom.us
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### sina.com.cn
@@ -194,7 +194,7 @@ HTTPS: True
 
 #### blogspot.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### mozilla.org
@@ -204,7 +204,7 @@ HTTPS: True
 
 #### doubleclick.net
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### msn.com
@@ -228,5 +228,30 @@ HTTPS: True
 
 
 #### vk.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### nytimes.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### europa.eu
+HTTPS: True
+<br>Known trackers: False
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### flickr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### nih.gov
 HTTPS: True
 <br>Known trackers: False
