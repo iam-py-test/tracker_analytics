@@ -28,8 +28,8 @@ def hastrackers(html,d=""):
     for script in scripts:
       try:
         domain = urlparse(script.get("src")).netloc
-        if domain in trackerdomains:
-            print(domain)
+        if domain in trackerdomains and domain != "":
+            print("src",domain)
             report["total"] += 1
             report["has_trackers"] = True
       except:
@@ -38,7 +38,7 @@ def hastrackers(html,d=""):
         maybetracker_contents = script.content
         for tracker_domain in trackerdomains:
             if tracker_domain in maybetracker_contents:
-              print(tracker_domain)
+              print("contents",tracker_domain)
               report["total"] += 1
               report["has_trackers"] = True
       except Exception as err:
@@ -48,15 +48,15 @@ def hastrackers(html,d=""):
     for prefetch in pf:
       try:
         domain = urlparse(prefetch.get("href")).netloc
-        if domain in trackerdomains:
-            print(domain)
+        if domain in trackerdomains and domain != "":
+            print("prefetch",domain)
             report["total"] += 1
             report["has_trackers"] = True
       except Exception as err:
         pass
     try:         
       if d in trackerdomains:
-            print(d)
+            print("direct",d)
             report["total"] += 1
             report["has_trackers"] = True
     except:
