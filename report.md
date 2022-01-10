@@ -1,6 +1,6 @@
 ## Tracker report
 50 domains tested <br>
-0 of the domains tested used known trackers <br>
+18 of the domains tested used known trackers <br>
 49 of the domains tested supported HTTPS <br>
 
 
@@ -39,7 +39,7 @@ HTTPS: True
 
 #### instagram.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### tmall.com
@@ -54,12 +54,12 @@ HTTPS: True
 
 #### apple.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### wikipedia.org
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### qq.com
@@ -74,12 +74,12 @@ HTTPS: True
 
 #### googletagmanager.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### wordpress.org
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### amazon.com
@@ -94,7 +94,7 @@ HTTPS: True
 
 #### yahoo.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### sohu.com
@@ -114,12 +114,12 @@ HTTPS: True
 
 #### taobao.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### adobe.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### vimeo.com
@@ -159,7 +159,7 @@ HTTPS: True
 
 #### wordpress.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### weibo.com
@@ -169,7 +169,7 @@ HTTPS: True
 
 #### jd.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### reddit.com
@@ -179,12 +179,12 @@ HTTPS: True
 
 #### bit.ly
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### zoom.us
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### sina.com.cn
@@ -194,7 +194,7 @@ HTTPS: True
 
 #### blogspot.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### mozilla.org
@@ -204,7 +204,7 @@ HTTPS: True
 
 #### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### msn.com
@@ -234,17 +234,17 @@ HTTPS: True
 
 #### nytimes.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### europa.eu
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### office365.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### flickr.com
@@ -254,4 +254,4 @@ HTTPS: True
 
 #### nih.gov
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
