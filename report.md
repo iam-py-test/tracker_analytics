@@ -1,7 +1,7 @@
 ## Tracker report
 50 domains tested <br>
 8 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -27,12 +27,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### microsoft.com
+#### twitter.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### twitter.com
+#### microsoft.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -42,12 +42,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tmall.com
-HTTPS: False
+#### linkedin.com
+HTTPS: True
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### tmall.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -62,12 +62,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,14 +107,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### pinterest.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### adobe.com
@@ -167,11 +167,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### jd.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### reddit.com
 HTTPS: True
 <br>Known trackers: False
@@ -182,12 +177,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### zoom.us
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,7 +192,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### sina.com.cn
+HTTPS: True
+<br>Known trackers: False
+
+
 #### mozilla.org
+HTTPS: True
+<br>Known trackers: False
+
+
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -205,11 +210,6 @@ HTTPS: True
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
-
-
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
 
 
 #### whatsapp.com
