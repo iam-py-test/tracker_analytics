@@ -27,12 +27,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### twitter.com
+#### microsoft.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### microsoft.com
+#### twitter.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -97,12 +97,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### sohu.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### sohu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,14 +207,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
 
 
 #### tumblr.com
