@@ -1,7 +1,7 @@
 ## Tracker report
 50 domains tested <br>
 8 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -48,7 +48,7 @@ HTTPS: True
 
 
 #### tmall.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -102,14 +102,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sohu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### sohu.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### pinterest.com
@@ -192,12 +192,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### sina.com.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,17 +207,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
 
+#### whatsapp.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### tumblr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -248,10 +253,5 @@ HTTPS: True
 
 
 #### flickr.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### nih.gov
 HTTPS: True
 <br>Known trackers: False
