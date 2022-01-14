@@ -47,12 +47,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tmall.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### tmall.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -97,22 +97,22 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### youtu.be
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### sohu.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
 #### pinterest.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### sohu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +177,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### jd.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,9 +197,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### msn.com
@@ -207,9 +207,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### sina.com.cn
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
+
+
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### whatsapp.com
@@ -218,11 +223,6 @@ HTTPS: True
 
 
 #### tumblr.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
