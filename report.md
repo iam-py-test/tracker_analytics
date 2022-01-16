@@ -1,7 +1,7 @@
 ## Tracker report
 49 domains tested <br>
 8 of the domains tested used known trackers <br>
-47 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -58,7 +58,7 @@ HTTPS: True
 
 
 #### tmall.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
