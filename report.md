@@ -1,7 +1,7 @@
 ## Tracker report
 49 domains tested <br>
 8 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -52,13 +52,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tmall.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
+#### tmall.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -137,13 +137,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### 360.cn
-HTTPS: True
+#### amazonaws.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### amazonaws.com
-HTTPS: False
+#### 360.cn
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -172,17 +172,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### bit.ly
 HTTPS: True
 <br>Known trackers: True
 
 
 #### zoom.us
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,6 +247,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### sogou.com
 HTTPS: True
 <br>Known trackers: False
