@@ -142,11 +142,6 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### 360.cn
-HTTPS: True
-<br>Known trackers: False
-
-
 #### goo.gl
 HTTPS: True
 <br>Known trackers: False
@@ -157,9 +152,19 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### 360.cn
+HTTPS: True
+<br>Known trackers: False
+
+
 #### wordpress.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### weibo.com
@@ -168,11 +173,6 @@ HTTPS: True
 
 
 #### reddit.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,6 +232,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### sogou.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
@@ -243,10 +248,5 @@ HTTPS: True
 
 
 #### europa.eu
-HTTPS: True
-<br>Known trackers: False
-
-
-#### sogou.com
 HTTPS: True
 <br>Known trackers: False
