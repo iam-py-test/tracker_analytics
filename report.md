@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tmall.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### tmall.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -132,6 +132,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### bing.com
 HTTPS: True
 <br>Known trackers: False
@@ -152,17 +157,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### 360.cn
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### zhihu.com
+#### 360.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,12 +187,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### jd.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,14 +207,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
 
 
 #### sina.com.cn
@@ -227,12 +227,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### skype.com
+#### sogou.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sogou.com
+#### skype.com
 HTTPS: True
 <br>Known trackers: False
 
