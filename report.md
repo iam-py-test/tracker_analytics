@@ -1,7 +1,7 @@
 ## Tracker report
 49 domains tested <br>
 8 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,12 +47,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -63,7 +63,7 @@ HTTPS: True
 
 
 #### tmall.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -87,14 +87,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### live.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### yahoo.com
@@ -112,6 +112,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### adobe.com
 HTTPS: True
 <br>Known trackers: False
@@ -123,11 +128,6 @@ HTTPS: True
 
 
 #### sohu.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,6 +192,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### sogou.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
@@ -202,17 +207,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### jd.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### whatsapp.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### sogou.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -222,12 +217,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### sina.com.cn
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### tumblr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### sina.com.cn
 HTTPS: True
 <br>Known trackers: False
 
