@@ -82,14 +82,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### amazon.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### amazon.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### live.com
@@ -127,12 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sohu.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### sohu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,12 +187,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### sogou.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sogou.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,14 +207,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### whatsapp.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### jd.com
