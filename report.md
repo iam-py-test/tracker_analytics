@@ -1,7 +1,7 @@
 ## Tracker report
 49 domains tested <br>
 8 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -63,7 +63,7 @@ HTTPS: True
 
 
 #### tmall.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -147,12 +147,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### goo.gl
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,12 +167,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### weibo.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### weibo.com
 HTTPS: True
 <br>Known trackers: False
 
