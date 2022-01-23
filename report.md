@@ -42,12 +42,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### linkedin.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -82,14 +82,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### taobao.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### amazon.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### taobao.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### live.com
@@ -107,17 +107,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -127,23 +122,23 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### adobe.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### office.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### sohu.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### amazonaws.com
 HTTPS: False
+<br>Known trackers: False
+
+
+#### bing.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -157,14 +152,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### sohu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### wordpress.com
 HTTPS: True
 <br>Known trackers: True
-
-
-#### 360.cn
-HTTPS: True
-<br>Known trackers: False
 
 
 #### reddit.com
@@ -173,6 +168,11 @@ HTTPS: True
 
 
 #### weibo.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### 360.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -202,14 +202,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### whatsapp.com
@@ -217,12 +217,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### jd.com
+#### tumblr.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### tumblr.com
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
