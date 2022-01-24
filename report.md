@@ -137,12 +137,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### bing.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -152,14 +152,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sohu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### sohu.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### reddit.com
@@ -172,7 +172,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### 360.cn
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -182,7 +182,7 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### zoom.us
+#### 360.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,14 +197,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
 
 
 #### msn.com
@@ -222,12 +222,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### jd.com
+#### sina.com.cn
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,6 +247,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### europa.eu
+#### so.com
 HTTPS: True
 <br>Known trackers: False
