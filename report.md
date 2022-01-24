@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
-8 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+59 domains tested <br>
+10 of the domains tested used known trackers <br>
+58 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -248,5 +248,55 @@ HTTPS: True
 
 
 #### so.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### europa.eu
+HTTPS: True
+<br>Known trackers: False
+
+
+#### flickr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### gravatar.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### google-analytics.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### nih.gov
+HTTPS: True
+<br>Known trackers: False
+
+
+#### lencr.org
+HTTPS: True
+<br>Known trackers: False
+
+
+#### spotify.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### soundcloud.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### dropbox.com
 HTTPS: True
 <br>Known trackers: False
