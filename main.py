@@ -30,7 +30,7 @@ def hastrackers(html,d=""):
             report["total"] += 1
             report["has_trackers"] = True
             return report
-    except:
+  except:
       pass
   try:
     soup = BeautifulSoup(html,'html.parser')
