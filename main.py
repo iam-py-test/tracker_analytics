@@ -32,6 +32,18 @@ def hastrackers(html,d=""):
             return report
   except:
       pass
+  pf = soup.select("link[rel=\"dns-prefetch\"]")
+    #print("prefetch",pf)
+    for prefetch in pf:
+      try:
+        domain = urlparse(prefetch.get("href")).netloc
+        if domain in trackerdomains and domain != "":
+            print("prefetch",domain)
+            report["total"] += 1
+            report["has_trackers"] = True
+            return report
+      except Exception as err:
+        pass
   try:
     soup = BeautifulSoup(html,'html.parser')
     scripts = soup.find_all("script")
@@ -62,18 +74,7 @@ def hastrackers(html,d=""):
       print(csptext)
     except:
       pass
-    pf = soup.select("link[rel=\"dns-prefetch\"]")
-    #print("prefetch",pf)
-    for prefetch in pf:
-      try:
-        domain = urlparse(prefetch.get("href")).netloc
-        if domain in trackerdomains and domain != "":
-            print("prefetch",domain)
-            report["total"] += 1
-            report["has_trackers"] = True
-            return report
-      except Exception as err:
-        pass
+    
   except:
     return report
   else:
