@@ -33,8 +33,7 @@ def hastrackers(html,d=""):
   except:
       pass
   pf = soup.select("link[rel=\"dns-prefetch\"]")
-    #print("prefetch",pf)
-    for prefetch in pf:
+  for prefetch in pf:
       try:
         domain = urlparse(prefetch.get("href")).netloc
         if domain in trackerdomains and domain != "":
