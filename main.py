@@ -42,6 +42,7 @@ def hastrackers(html,d=""):
             print("src",domain)
             report["total"] += 1
             report["has_trackers"] = True
+            return report
       except:
         pass
       try:
@@ -52,8 +53,15 @@ def hastrackers(html,d=""):
                 print("contents",tracker_domain)
                 report["total"] += 1
                 report["has_trackers"] = True
+                return report
       except Exception as err:
         pass
+    try:
+      csps = soup.select("meta[http-equiv=\"Content-Security-Policy\"]")
+      csptext = csps[0].get("content")
+      print(csptext)
+    except:
+      pass
     pf = soup.select("link[rel=\"dns-prefetch\"]")
     #print("prefetch",pf)
     for prefetch in pf:
@@ -63,6 +71,7 @@ def hastrackers(html,d=""):
             print("prefetch",domain)
             report["total"] += 1
             report["has_trackers"] = True
+            return report
       except Exception as err:
         pass
   except:
