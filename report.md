@@ -1,7 +1,7 @@
 ## Tracker report
 59 domains tested <br>
 10 of the domains tested used known trackers <br>
-58 of the domains tested supported HTTPS <br>
+56 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -63,7 +63,7 @@ HTTPS: True
 
 
 #### tmall.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -82,17 +82,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### amazon.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### live.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -100,6 +95,11 @@ HTTPS: True
 #### yahoo.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### live.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### youtu.be
@@ -182,12 +182,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### 360.cn
+#### sogou.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sogou.com
+#### 360.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,12 +227,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### jd.com
+#### skype.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### skype.com
+#### jd.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -242,14 +242,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### nytimes.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### so.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### nytimes.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### europa.eu
@@ -272,12 +272,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office365.com
+#### nih.gov
 HTTPS: True
 <br>Known trackers: False
 
 
-#### nih.gov
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -297,6 +297,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### dropbox.com
-HTTPS: True
+#### soso.com
+HTTPS: False
 <br>Known trackers: False
