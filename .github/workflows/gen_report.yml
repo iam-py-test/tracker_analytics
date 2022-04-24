@@ -26,7 +26,7 @@ jobs:
         cd ..
         rmdir .tranco 
     - name: Commit & Push
-      uses: actions-x/commit@v2
+      uses: actions-x/commit@v5
       with:
           email: updatebot@iam-py-test.github.io
           name: Update bot
