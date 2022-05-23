@@ -1,5 +1,5 @@
 ## Tracker report
-51 domains tested <br>
+50 domains tested <br>
 3 of the domains tested used known trackers <br>
 3 of the domains tested supported HTTPS <br>
 
