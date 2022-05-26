@@ -1,7 +1,7 @@
 ## Tracker report
 49 domains tested <br>
-3 of the domains tested used known trackers <br>
-3 of the domains tested supported HTTPS <br>
+2 of the domains tested used known trackers <br>
+2 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -13,10 +13,5 @@ HTTPS: True
 
 
 #### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
-#### t.co
 HTTPS: True
 <br>Known trackers: True
