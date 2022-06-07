@@ -32,6 +32,7 @@ def hastrackers(html,d=""):
             return report
   except:
       pass
+  soup = BeautifulSoup(html,'html.parser')
   pf = soup.select("link[rel=\"dns-prefetch\"]")
   for prefetch in pf:
       try:
