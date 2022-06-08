@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -82,17 +82,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### live.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### bilibili.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -222,14 +222,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
 
 
 #### windows.net
