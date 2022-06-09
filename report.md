@@ -152,13 +152,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### yandex.ru
+HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -167,12 +167,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -202,12 +202,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### goo.gl
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,14 +227,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### windows.net
 HTTPS: False
 <br>Known trackers: False
+
+
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
 
 
 #### webex.com
@@ -242,12 +242,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.net
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
+#### yandex.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -262,11 +262,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### paypal.com
+#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### intuit.com
+#### paypal.com
 HTTPS: True
 <br>Known trackers: True
