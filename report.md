@@ -87,17 +87,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### bing.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### bilibili.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -122,12 +122,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### whatsapp.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -217,6 +217,11 @@ HTTPS: False
 <br>Known trackers: False
 
 
+#### windows.net
+HTTPS: False
+<br>Known trackers: False
+
+
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
@@ -224,11 +229,6 @@ HTTPS: True
 
 #### msn.com
 HTTPS: True
-<br>Known trackers: False
-
-
-#### windows.net
-HTTPS: False
 <br>Known trackers: False
 
 
