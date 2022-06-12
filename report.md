@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+54 domains tested <br>
 10 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+50 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -107,14 +107,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googletagmanager.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### googletagmanager.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### wordpress.org
@@ -227,14 +227,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### bit.ly
 HTTPS: True
 <br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### webex.com
@@ -252,14 +252,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### yandex.net
+HTTPS: True
+<br>Known trackers: False
 
 
 #### t.co
@@ -270,3 +270,8 @@ HTTPS: True
 #### paypal.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### blogspot.com
+HTTPS: True
+<br>Known trackers: False
