@@ -1,5 +1,5 @@
 ## Tracker report
-53 domains tested <br>
+54 domains tested <br>
 10 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -112,14 +112,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
+
+
+#### office.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### fastly.net
@@ -172,12 +172,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,12 +187,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### wordpress.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### wordpress.com
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
@@ -213,6 +213,11 @@ HTTPS: True
 
 
 #### aaplimg.com
+HTTPS: False
+<br>Known trackers: False
+
+
+#### windows.net
 HTTPS: False
 <br>Known trackers: False
 
@@ -247,17 +252,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### t.co
 HTTPS: True
 <br>Known trackers: True
 
 
-#### yandex.net
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -267,6 +272,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### blogspot.com
+#### yandex.net
 HTTPS: True
 <br>Known trackers: False
