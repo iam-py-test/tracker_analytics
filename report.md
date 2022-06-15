@@ -1,6 +1,6 @@
 ## Tracker report
 54 domains tested <br>
-10 of the domains tested used known trackers <br>
+9 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
 
@@ -67,14 +67,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### yahoo.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### cloudflare.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### amazon.com
@@ -107,6 +107,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### office.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### googletagmanager.com
 HTTPS: True
 <br>Known trackers: True
@@ -117,22 +122,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -163,6 +163,11 @@ HTTPS: False
 
 
 #### mail.ru
+HTTPS: True
+<br>Known trackers: False
+
+
+#### gene.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,17 +237,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### myfritz.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### roche.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -263,15 +273,5 @@ HTTPS: True
 
 
 #### blogspot.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### paypal.com
-HTTPS: True
-<br>Known trackers: True
-
-
-#### yandex.net
 HTTPS: True
 <br>Known trackers: False
