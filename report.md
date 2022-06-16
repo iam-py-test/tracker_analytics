@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -127,12 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,12 +157,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### mail.ru
+HTTPS: True
+<br>Known trackers: False
+
+
 #### googlevideo.com
 HTTPS: False
 <br>Known trackers: False
 
 
-#### mail.ru
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -172,17 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
 #### adobe.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,6 +237,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### myfritz.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
@@ -247,14 +252,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### roche.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### tiktok.com
@@ -263,11 +268,6 @@ HTTPS: True
 
 
 #### t.co
-HTTPS: True
-<br>Known trackers: True
-
-
-#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
