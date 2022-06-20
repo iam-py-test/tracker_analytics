@@ -47,12 +47,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### baidu.com
+#### linkedin.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -102,12 +102,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,12 +167,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### gene.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gene.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -202,23 +202,23 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### vk.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
 
 #### aaplimg.com
 HTTPS: False
+<br>Known trackers: False
+
+
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
+
+
+#### goo.gl
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### webex.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
