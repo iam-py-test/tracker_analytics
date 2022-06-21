@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,9 +107,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### wordpress.org
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### googletagmanager.com
@@ -117,9 +117,9 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### wordpress.org
+#### bilibili.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### fastly.net
@@ -177,17 +177,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
-HTTPS: True
-<br>Known trackers: False
-
-
 #### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### vimeo.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -212,11 +212,6 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### goo.gl
 HTTPS: True
 <br>Known trackers: False
@@ -225,6 +220,11 @@ HTTPS: True
 #### windows.net
 HTTPS: False
 <br>Known trackers: False
+
+
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
 
 
 #### myfritz.net
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### msn.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -267,11 +267,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### tiktok.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
