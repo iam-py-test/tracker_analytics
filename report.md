@@ -102,12 +102,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -182,12 +182,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,6 +207,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### windows.net
+HTTPS: False
+<br>Known trackers: False
+
+
 #### aaplimg.com
 HTTPS: False
 <br>Known trackers: False
@@ -214,11 +219,6 @@ HTTPS: False
 
 #### goo.gl
 HTTPS: True
-<br>Known trackers: False
-
-
-#### windows.net
-HTTPS: False
 <br>Known trackers: False
 
 
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### webex.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -257,7 +257,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### t.co
+#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
@@ -267,7 +267,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### t.co
 HTTPS: True
 <br>Known trackers: True
 
