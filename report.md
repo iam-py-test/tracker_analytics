@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,23 +192,23 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wordpress.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### wordpress.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### windows.net
 HTTPS: False
+<br>Known trackers: False
+
+
+#### vk.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -262,6 +262,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### blogspot.com
 HTTPS: True
 <br>Known trackers: False
@@ -270,8 +275,3 @@ HTTPS: True
 #### t.co
 HTTPS: True
 <br>Known trackers: True
-
-
-#### tiktok.com
-HTTPS: True
-<br>Known trackers: False
