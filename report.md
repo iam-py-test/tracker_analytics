@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -212,8 +212,8 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### myfritz.net
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -222,8 +222,8 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -262,6 +262,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### t.co
+HTTPS: True
+<br>Known trackers: True
+
+
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
@@ -270,8 +275,3 @@ HTTPS: True
 #### blogspot.com
 HTTPS: True
 <br>Known trackers: False
-
-
-#### t.co
-HTTPS: True
-<br>Known trackers: True
