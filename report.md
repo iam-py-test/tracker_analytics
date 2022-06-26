@@ -207,12 +207,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### vk.com
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -257,6 +257,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
@@ -265,11 +270,6 @@ HTTPS: True
 #### t.co
 HTTPS: True
 <br>Known trackers: True
-
-
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
 
 
 #### blogspot.com
