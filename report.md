@@ -47,12 +47,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### linkedin.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,7 +177,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,7 +187,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
