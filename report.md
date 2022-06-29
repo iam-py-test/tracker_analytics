@@ -202,13 +202,13 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### myfritz.net
-HTTPS: True
+#### windows.net
+HTTPS: False
 <br>Known trackers: False
 
 
-#### windows.net
-HTTPS: False
+#### myfritz.net
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -227,12 +227,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### bit.ly
 HTTPS: True
 <br>Known trackers: True
 
 
-#### bit.ly
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
@@ -262,14 +262,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### blogspot.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### t.co
