@@ -132,12 +132,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -172,7 +172,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gene.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,7 +187,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### gene.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -212,12 +212,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
 
-#### goo.gl
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,12 +232,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### bit.ly
 HTTPS: True
 <br>Known trackers: True
 
 
-#### bit.ly
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
@@ -252,11 +252,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### roche.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
@@ -265,6 +260,11 @@ HTTPS: True
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### roche.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### taobao.com
