@@ -137,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -162,22 +162,22 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### mail.ru
-HTTPS: True
-<br>Known trackers: False
-
-
 #### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
 #### vimeo.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,14 +227,14 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### bit.ly
 HTTPS: True
 <br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### doubleclick.net
