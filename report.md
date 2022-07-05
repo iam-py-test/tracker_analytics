@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,14 +237,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
 
 
 #### zhihu.com
