@@ -1,6 +1,6 @@
 ## Tracker report
 54 domains tested <br>
-9 of the domains tested used known trackers <br>
+8 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
 
@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,17 +252,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### roche.com
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -272,6 +267,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
+#### roche.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
+
+
+#### tiktok.com
+HTTPS: True
+<br>Known trackers: False
