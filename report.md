@@ -47,12 +47,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### linkedin.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gene.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gene.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,14 +227,14 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
 
 
 #### webex.com
@@ -252,14 +252,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### blogspot.com
