@@ -1,6 +1,6 @@
 ## Tracker report
 54 domains tested <br>
-8 of the domains tested used known trackers <br>
+9 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
 
@@ -32,14 +32,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### instagram.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### twitter.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### instagram.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### amazonaws.com
@@ -72,12 +72,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### cloudflare.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -222,13 +222,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### msn.com
+HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -272,6 +272,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
+#### taobao.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
