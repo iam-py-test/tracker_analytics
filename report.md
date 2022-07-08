@@ -72,12 +72,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### amazon.com
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,17 +177,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### zoom.us
+HTTPS: True
+<br>Known trackers: False
+
+
 #### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### gene.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -222,13 +222,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### msn.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -252,14 +252,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### blogspot.com
