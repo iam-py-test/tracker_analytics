@@ -72,12 +72,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### cloudflare.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,13 +157,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### gandi.net
+HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -182,12 +182,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gene.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gene.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
