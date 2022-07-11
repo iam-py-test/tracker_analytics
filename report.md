@@ -132,12 +132,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,13 +157,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### gandi.net
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -177,17 +177,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
-HTTPS: True
-<br>Known trackers: False
-
-
 #### gene.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### adobe.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,12 +207,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### myfritz.net
+#### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
 
-#### goo.gl
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
