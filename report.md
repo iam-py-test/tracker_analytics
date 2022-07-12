@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -217,13 +217,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### vk.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -267,11 +267,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### roche.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### taobao.com
+HTTPS: True
+<br>Known trackers: True
