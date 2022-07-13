@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -97,12 +97,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,14 +252,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### blogspot.com
@@ -267,11 +267,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### roche.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### roche.com
+HTTPS: True
+<br>Known trackers: False
