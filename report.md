@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -173,11 +173,6 @@ HTTPS: True
 
 
 #### vimeo.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### gene.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,11 +242,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### zhihu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
@@ -260,6 +250,11 @@ HTTPS: True
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### blogspot.com
@@ -272,6 +267,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### roche.com
+#### tiktok.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
