@@ -72,22 +72,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### amazon.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -98,6 +93,11 @@ HTTPS: True
 
 
 #### azure.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,13 +207,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### myfritz.net
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -222,14 +222,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
 
 
 #### webex.com
@@ -242,14 +242,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### zhihu.com
