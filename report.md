@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -212,17 +212,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### myfritz.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -230,6 +225,11 @@ HTTPS: True
 #### bit.ly
 HTTPS: True
 <br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### webex.com
@@ -242,14 +242,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### zhihu.com
