@@ -147,12 +147,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -212,12 +212,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### vk.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,7 +227,7 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### msn.com
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
