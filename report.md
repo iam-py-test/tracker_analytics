@@ -1,6 +1,6 @@
 ## Tracker report
 54 domains tested <br>
-9 of the domains tested used known trackers <br>
+10 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
 
@@ -147,23 +147,23 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### whatsapp.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
 #### googlevideo.com
 HTTPS: False
-<br>Known trackers: False
-
-
-#### gandi.net
-HTTPS: True
 <br>Known trackers: False
 
 
@@ -212,12 +212,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### msn.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,17 +237,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### intuit.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
@@ -262,16 +262,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### taobao.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
+
+
+#### t.co
+HTTPS: True
+<br>Known trackers: True
