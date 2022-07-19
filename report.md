@@ -1,6 +1,6 @@
 ## Tracker report
 54 domains tested <br>
-10 of the domains tested used known trackers <br>
+9 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
 
@@ -67,14 +67,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yahoo.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### yahoo.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### amazon.com
@@ -212,6 +212,11 @@ HTTPS: False
 <br>Known trackers: False
 
 
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
+
+
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
@@ -220,11 +225,6 @@ HTTPS: True
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
-
-
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
 
 
 #### myfritz.net
@@ -237,9 +237,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### intuit.com
@@ -247,9 +247,9 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### doubleclick.net
+#### office365.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### zhihu.com
@@ -267,11 +267,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### t.co
 HTTPS: True
 <br>Known trackers: True
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
