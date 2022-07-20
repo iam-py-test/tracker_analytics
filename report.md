@@ -72,14 +72,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yahoo.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### amazon.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### yahoo.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### bilibili.com
@@ -157,13 +157,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### gandi.net
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -237,6 +237,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
@@ -245,11 +250,6 @@ HTTPS: True
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
-
-
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
 
 
 #### zhihu.com
