@@ -67,11 +67,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### amazon.com
 HTTPS: True
 <br>Known trackers: False
@@ -80,6 +75,11 @@ HTTPS: True
 #### yahoo.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### cloudflare.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### bilibili.com
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -142,17 +142,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
+#### reddit.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### yandex.ru
+HTTPS: True
+<br>Known trackers: False
+
+
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -163,11 +168,6 @@ HTTPS: False
 
 
 #### gandi.net
-HTTPS: True
-<br>Known trackers: False
-
-
-#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,14 +247,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### blogspot.com
