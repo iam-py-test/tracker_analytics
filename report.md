@@ -97,12 +97,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,12 +167,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### gandi.net
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,17 +197,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### windows.net
-HTTPS: False
-<br>Known trackers: False
-
-
 #### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
 
-#### aaplimg.com
+#### windows.net
 HTTPS: False
 <br>Known trackers: False
 
@@ -222,12 +217,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### aaplimg.com
+HTTPS: False
+<br>Known trackers: False
+
+
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,7 +237,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
