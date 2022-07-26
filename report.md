@@ -72,12 +72,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### cloudflare.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### yahoo.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### cloudflare.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -87,17 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### bing.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,22 +157,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
-HTTPS: True
-<br>Known trackers: False
-
-
 #### googlevideo.com
 HTTPS: False
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
 #### gandi.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,13 +197,18 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### goo.gl
-HTTPS: True
+#### windows.net
+HTTPS: False
 <br>Known trackers: False
 
 
-#### windows.net
+#### aaplimg.com
 HTTPS: False
+<br>Known trackers: False
+
+
+#### goo.gl
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -212,22 +217,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### aaplimg.com
-HTTPS: False
-<br>Known trackers: False
-
-
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -242,12 +237,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### intuit.com
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
@@ -267,11 +267,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### t.co
 HTTPS: True
 <br>Known trackers: True
+
+
+#### tiktok.com
+HTTPS: True
+<br>Known trackers: False
