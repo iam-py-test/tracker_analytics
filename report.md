@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,12 +197,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### windows.net
+#### aaplimg.com
 HTTPS: False
 <br>Known trackers: False
 
 
-#### aaplimg.com
+#### windows.net
 HTTPS: False
 <br>Known trackers: False
 
@@ -237,14 +237,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### doubleclick.net
@@ -252,12 +252,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### zhihu.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -267,11 +267,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### t.co
-HTTPS: True
-<br>Known trackers: True
-
-
 #### tiktok.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### t.co
+HTTPS: True
+<br>Known trackers: True
