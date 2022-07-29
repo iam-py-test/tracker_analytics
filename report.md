@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,13 +157,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### mail.ru
+HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -217,12 +217,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### msn.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
