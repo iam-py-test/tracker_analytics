@@ -1,7 +1,7 @@
 ## Tracker report
-54 domains tested <br>
+53 domains tested <br>
 9 of the domains tested used known trackers <br>
-50 of the domains tested supported HTTPS <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -223,11 +223,6 @@ HTTPS: True
 
 
 #### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
