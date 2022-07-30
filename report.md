@@ -57,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,17 +232,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### myfritz.net
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -250,6 +245,11 @@ HTTPS: True
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### myfritz.net
+HTTPS: True
+<br>Known trackers: False
 
 
 #### zhihu.com
