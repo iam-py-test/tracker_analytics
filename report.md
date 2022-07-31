@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+54 domains tested <br>
 9 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+50 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,14 +107,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
+
+
+#### office.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### googletagmanager.com
@@ -202,13 +202,13 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### windows.net
-HTTPS: False
+#### goo.gl
+HTTPS: True
 <br>Known trackers: False
 
 
-#### goo.gl
-HTTPS: True
+#### windows.net
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -227,24 +227,24 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### myfritz.net
+#### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### zhihu.com
@@ -253,6 +253,11 @@ HTTPS: True
 
 
 #### blogspot.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
