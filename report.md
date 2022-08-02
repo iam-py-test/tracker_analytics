@@ -242,22 +242,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
-
-
 #### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
-#### myfritz.net
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -267,11 +262,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### t.co
+HTTPS: True
+<br>Known trackers: True
+
+
 #### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### t.co
+#### myfritz.net
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
