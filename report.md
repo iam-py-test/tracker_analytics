@@ -1,6 +1,6 @@
 ## Tracker report
 54 domains tested <br>
-10 of the domains tested used known trackers <br>
+11 of the domains tested used known trackers <br>
 50 of the domains tested supported HTTPS <br>
 
 
@@ -209,7 +209,7 @@ HTTPS: True
 
 #### windows.net
 HTTPS: False
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### bit.ly
