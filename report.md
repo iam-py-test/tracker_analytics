@@ -17,12 +17,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### netflix.com
+#### youtube.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtube.com
+#### netflix.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -67,12 +67,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,12 +167,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### gandi.net
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
