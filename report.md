@@ -132,17 +132,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### whatsapp.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
 #### github.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
