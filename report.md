@@ -1,7 +1,7 @@
 ## Tracker report
-54 domains tested <br>
-11 of the domains tested used known trackers <br>
-50 of the domains tested supported HTTPS <br>
+53 domains tested <br>
+10 of the domains tested used known trackers <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -152,12 +152,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,14 +192,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wordpress.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### aaplimg.com
 HTTPS: False
 <br>Known trackers: False
+
+
+#### wordpress.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### goo.gl
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
 
-#### doubleclick.net
+#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
@@ -268,10 +268,5 @@ HTTPS: True
 
 
 #### t.co
-HTTPS: True
-<br>Known trackers: True
-
-
-#### taobao.com
 HTTPS: True
 <br>Known trackers: True
