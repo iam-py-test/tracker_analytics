@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,13 +207,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### windows.net
-HTTPS: False
+#### bit.ly
+HTTPS: True
 <br>Known trackers: True
 
 
-#### bit.ly
-HTTPS: True
+#### windows.net
+HTTPS: False
 <br>Known trackers: True
 
 
@@ -252,12 +252,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
