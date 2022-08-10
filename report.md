@@ -137,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,13 +187,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### sharepoint.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -242,14 +242,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### blogspot.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### mozilla.org
