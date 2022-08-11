@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
-10 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+54 domains tested <br>
+11 of the domains tested used known trackers <br>
+50 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -122,12 +122,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,13 +187,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### sharepoint.com
+HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -232,14 +232,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### blogspot.com
@@ -252,12 +252,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### mozilla.org
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -268,5 +268,10 @@ HTTPS: True
 
 
 #### t.co
+HTTPS: True
+<br>Known trackers: True
+
+
+#### taobao.com
 HTTPS: True
 <br>Known trackers: True
