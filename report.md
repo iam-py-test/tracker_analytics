@@ -52,12 +52,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### webex.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -267,6 +267,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### t.co
+#### taobao.com
 HTTPS: True
 <br>Known trackers: True
