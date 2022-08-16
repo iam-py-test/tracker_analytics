@@ -1,7 +1,7 @@
 ## Tracker report
-52 domains tested <br>
-10 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+53 domains tested <br>
+9 of the domains tested used known trackers <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -53,6 +53,11 @@ HTTPS: True
 
 
 #### apple.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -152,13 +157,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### yandex.ru
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -212,6 +217,11 @@ HTTPS: False
 <br>Known trackers: True
 
 
+#### dell.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
@@ -260,8 +270,3 @@ HTTPS: True
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
-
-
-#### taobao.com
-HTTPS: True
-<br>Known trackers: True
