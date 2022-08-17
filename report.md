@@ -147,12 +147,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### mail.ru
+HTTPS: True
+<br>Known trackers: False
+
+
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -217,11 +222,6 @@ HTTPS: False
 <br>Known trackers: True
 
 
-#### dell.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
@@ -252,14 +252,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### tiktok.com
