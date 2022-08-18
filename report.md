@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+52 domains tested <br>
 9 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -53,11 +53,6 @@ HTTPS: True
 
 
 #### apple.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -122,6 +117,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### dell.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### pinterest.com
 HTTPS: True
 <br>Known trackers: False
@@ -132,12 +132,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -147,7 +147,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### dell.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,7 +157,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,22 +167,17 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### yandex.ru
-HTTPS: True
-<br>Known trackers: False
-
-
 #### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,14 +247,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
 
 
 #### tiktok.com
