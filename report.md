@@ -1,6 +1,6 @@
 ## Tracker report
 53 domains tested <br>
-9 of the domains tested used known trackers <br>
+10 of the domains tested used known trackers <br>
 49 of the domains tested supported HTTPS <br>
 
 
@@ -132,11 +132,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
@@ -147,17 +142,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### fastly.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,13 +192,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### aaplimg.com
-HTTPS: False
+#### sharepoint.com
+HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
-HTTPS: True
+#### aaplimg.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -247,14 +247,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### mozilla.org
@@ -267,6 +267,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### taobao.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
