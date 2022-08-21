@@ -62,12 +62,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -87,12 +87,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -132,17 +132,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### fastly.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### whatsapp.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,12 +157,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
