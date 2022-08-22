@@ -117,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
+#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### dell.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -137,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -222,12 +222,12 @@ HTTPS: False
 <br>Known trackers: True
 
 
-#### msn.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
