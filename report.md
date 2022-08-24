@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+52 domains tested <br>
 10 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -17,12 +17,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### netflix.com
+#### youtube.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtube.com
+#### netflix.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -53,11 +53,6 @@ HTTPS: True
 
 
 #### apple.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -152,12 +147,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,14 +227,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### blogspot.com
@@ -252,14 +247,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### tiktok.com
