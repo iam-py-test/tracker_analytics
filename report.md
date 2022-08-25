@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+52 domains tested <br>
 10 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -57,11 +57,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
@@ -92,12 +87,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -117,12 +112,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### dell.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -132,12 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +172,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,14 +247,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
 
 
 #### tiktok.com
