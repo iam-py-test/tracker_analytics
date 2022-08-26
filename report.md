@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+52 domains tested <br>
 10 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -57,11 +57,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
@@ -82,12 +77,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### bilibili.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -137,12 +132,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,14 +242,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### mozilla.org
