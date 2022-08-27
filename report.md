@@ -1,6 +1,6 @@
 ## Tracker report
 53 domains tested <br>
-9 of the domains tested used known trackers <br>
+10 of the domains tested used known trackers <br>
 49 of the domains tested supported HTTPS <br>
 
 
@@ -117,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
+#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### dell.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -214,7 +214,7 @@ HTTPS: True
 
 #### bit.ly
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### windows.net
@@ -227,14 +227,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### office365.com
