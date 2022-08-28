@@ -177,12 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
