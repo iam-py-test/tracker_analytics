@@ -102,11 +102,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
@@ -115,6 +110,11 @@ HTTPS: True
 #### googletagmanager.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### azure.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### dell.com
@@ -142,12 +142,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,12 +157,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,16 +247,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
-#### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
@@ -267,6 +257,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### t.co
 HTTPS: True
 <br>Known trackers: True
