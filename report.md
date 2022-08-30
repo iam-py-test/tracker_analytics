@@ -1,7 +1,7 @@
 ## Tracker report
 53 domains tested <br>
 10 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -58,7 +58,7 @@ HTTPS: True
 
 
 #### baidu.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -102,6 +102,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### azure.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
@@ -110,11 +115,6 @@ HTTPS: True
 #### googletagmanager.com
 HTTPS: True
 <br>Known trackers: True
-
-
-#### azure.com
-HTTPS: True
-<br>Known trackers: False
 
 
 #### dell.com
@@ -137,6 +137,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### fastly.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### github.com
 HTTPS: True
 <br>Known trackers: False
@@ -147,22 +152,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -222,22 +222,17 @@ HTTPS: False
 <br>Known trackers: True
 
 
-#### vk.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
 
-#### msn.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,12 +242,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
-#### tiktok.com
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -262,7 +252,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
+
+
 #### webex.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
