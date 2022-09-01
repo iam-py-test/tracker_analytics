@@ -47,12 +47,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### apple.com
+#### linkedin.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### linkedin.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,12 +107,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wordpress.org
+#### googletagmanager.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### googletagmanager.com
+#### wordpress.org
 HTTPS: True
 <br>Known trackers: True
 
@@ -137,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,22 +237,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### office365.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
-#### tiktok.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -260,6 +250,16 @@ HTTPS: True
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### tiktok.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
 
 
 #### webex.com
