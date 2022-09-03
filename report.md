@@ -32,14 +32,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### twitter.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### amazonaws.com
 HTTPS: False
 <br>Known trackers: False
+
+
+#### twitter.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### instagram.com
@@ -132,12 +132,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,13 +167,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### gandi.net
+HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -212,12 +212,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bit.ly
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
 
-#### doubleclick.net
+#### bit.ly
 HTTPS: True
 <br>Known trackers: True
 
@@ -237,9 +237,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### intuit.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### blogspot.com
@@ -247,17 +247,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
-#### tiktok.com
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### webex.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
