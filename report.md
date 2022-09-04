@@ -1,6 +1,6 @@
 ## Tracker report
 53 domains tested <br>
-10 of the domains tested used known trackers <br>
+9 of the domains tested used known trackers <br>
 49 of the domains tested supported HTTPS <br>
 
 
@@ -47,6 +47,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### baidu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -57,7 +62,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -67,19 +72,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### yahoo.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### amazon.com
 HTTPS: True
 <br>Known trackers: False
-
-
-#### yahoo.com
-HTTPS: True
-<br>Known trackers: True
 
 
 #### bing.com
@@ -157,23 +157,23 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
-HTTPS: True
-<br>Known trackers: False
-
-
-#### reddit.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### gandi.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
 #### googlevideo.com
 HTTPS: False
+<br>Known trackers: False
+
+
+#### reddit.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -247,12 +247,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -267,6 +267,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### t.co
+#### zhihu.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
