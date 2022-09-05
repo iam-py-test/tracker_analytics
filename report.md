@@ -1,7 +1,7 @@
 ## Tracker report
-52 domains tested <br>
+53 domains tested <br>
 9 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -48,6 +48,11 @@ HTTPS: True
 
 
 #### apple.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -147,12 +152,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,11 +232,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
@@ -242,17 +242,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
+#### office365.com
 HTTPS: True
 <br>Known trackers: False
 
