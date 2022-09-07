@@ -47,12 +47,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### apple.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
+#### apple.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -127,12 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
