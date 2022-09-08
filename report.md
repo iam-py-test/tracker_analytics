@@ -1,7 +1,7 @@
 ## Tracker report
-52 domains tested <br>
+53 domains tested <br>
 9 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+49 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -43,6 +43,11 @@ HTTPS: True
 
 
 #### instagram.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -112,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### dell.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -132,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,13 +162,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### mail.ru
+HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -237,12 +242,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,12 +257,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
