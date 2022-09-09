@@ -1,7 +1,7 @@
 ## Tracker report
-53 domains tested <br>
+51 domains tested <br>
 9 of the domains tested used known trackers <br>
-49 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,11 +47,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -87,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -197,12 +192,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### wordpress.com
+HTTPS: True
+<br>Known trackers: True
+
+
 #### aaplimg.com
 HTTPS: False
 <br>Known trackers: False
 
 
-#### wordpress.com
+#### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
 
@@ -210,11 +210,6 @@ HTTPS: True
 #### goo.gl
 HTTPS: True
 <br>Known trackers: False
-
-
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
 
 
 #### windows.net
@@ -232,17 +227,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### zhihu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
 
 #### blogspot.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -263,10 +258,5 @@ HTTPS: True
 
 
 #### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
-#### office365.com
 HTTPS: True
 <br>Known trackers: False
