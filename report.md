@@ -137,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -162,13 +162,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### mail.ru
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -197,6 +197,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
+
+
 #### wordpress.com
 HTTPS: True
 <br>Known trackers: True
@@ -205,11 +210,6 @@ HTTPS: True
 #### aaplimg.com
 HTTPS: False
 <br>Known trackers: False
-
-
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
 
 
 #### goo.gl
@@ -252,12 +252,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
