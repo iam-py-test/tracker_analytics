@@ -1,7 +1,7 @@
 ## Tracker report
-51 domains tested <br>
+52 domains tested <br>
 9 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -78,6 +78,11 @@ HTTPS: True
 
 
 #### amazon.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -253,7 +258,7 @@ HTTPS: True
 
 
 #### tiktok.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
