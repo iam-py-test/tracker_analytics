@@ -1,5 +1,5 @@
 ## Tracker report
-52 domains tested <br>
+51 domains tested <br>
 9 of the domains tested used known trackers <br>
 48 of the domains tested supported HTTPS <br>
 
@@ -97,12 +97,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -117,17 +117,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### dell.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### office.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### fastly.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,11 +207,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### aaplimg.com
-HTTPS: False
-<br>Known trackers: False
-
-
 #### goo.gl
 HTTPS: True
 <br>Known trackers: False
@@ -252,12 +247,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
