@@ -12,12 +12,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### facebook.com
+#### youtube.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtube.com
+#### facebook.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -92,7 +92,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -102,7 +102,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -123,11 +123,6 @@ HTTPS: True
 
 
 #### fastly.net
-HTTPS: True
-<br>Known trackers: False
-
-
-#### dell.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,6 +187,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### dell.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
@@ -222,12 +222,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### vk.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
