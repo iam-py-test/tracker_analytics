@@ -1,7 +1,7 @@
 ## Tracker report
-51 domains tested <br>
-9 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+50 domains tested <br>
+10 of the domains tested used known trackers <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -43,11 +43,6 @@ HTTPS: True
 
 
 #### instagram.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -172,22 +167,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### dell.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,12 +227,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### blogspot.com
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,11 +242,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
+
+
 #### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### taobao.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
