@@ -1,6 +1,6 @@
 ## Tracker report
 51 domains tested <br>
-10 of the domains tested used known trackers <br>
+9 of the domains tested used known trackers <br>
 48 of the domains tested supported HTTPS <br>
 
 
@@ -187,14 +187,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### sharepoint.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### wordpress.com
@@ -212,14 +212,14 @@ HTTPS: False
 <br>Known trackers: True
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
 
 
 #### vk.com
@@ -242,11 +242,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
@@ -257,6 +252,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
+#### tiktok.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
+
+
+#### myfritz.net
+HTTPS: True
+<br>Known trackers: False
