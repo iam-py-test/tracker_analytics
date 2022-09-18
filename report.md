@@ -22,12 +22,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### netflix.com
+#### microsoft.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### microsoft.com
+#### netflix.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -137,12 +137,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### youtu.be
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -172,12 +172,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -207,14 +207,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### windows.net
-HTTPS: False
-<br>Known trackers: True
-
-
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### windows.net
+HTTPS: False
+<br>Known trackers: True
 
 
 #### bit.ly
@@ -247,16 +247,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### myfritz.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
