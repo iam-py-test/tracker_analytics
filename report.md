@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -142,23 +142,23 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### googlevideo.com
 HTTPS: False
+<br>Known trackers: False
+
+
+#### yandex.ru
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -242,17 +242,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### myfritz.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
 
 #### tiktok.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
