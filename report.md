@@ -1,7 +1,7 @@
 ## Tracker report
 51 domains tested <br>
 9 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -23,7 +23,7 @@ HTTPS: True
 
 
 #### microsoft.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
