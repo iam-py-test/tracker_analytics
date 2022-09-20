@@ -1,7 +1,7 @@
 ## Tracker report
 51 domains tested <br>
-9 of the domains tested used known trackers <br>
-47 of the domains tested supported HTTPS <br>
+10 of the domains tested used known trackers <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -12,22 +12,22 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### youtube.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### facebook.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### microsoft.com
-HTTPS: False
+#### youtube.com
+HTTPS: True
 <br>Known trackers: False
 
 
 #### netflix.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### microsoft.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -117,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,9 +227,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### myfritz.net
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### webex.com
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### intuit.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
-#### myfritz.net
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -257,6 +257,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### taobao.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
