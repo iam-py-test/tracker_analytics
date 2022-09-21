@@ -12,12 +12,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### facebook.com
+#### youtube.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### youtube.com
+#### facebook.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -202,12 +202,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### goo.gl
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### goo.gl
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,14 +237,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### blogspot.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### mozilla.org
