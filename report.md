@@ -1,7 +1,7 @@
 ## Tracker report
-51 domains tested <br>
+50 domains tested <br>
 10 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,11 +47,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -87,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -117,12 +112,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
+#### fastly.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### fastly.net
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -172,9 +167,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### zoom.us
@@ -182,14 +177,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### vimeo.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### sharepoint.com
@@ -222,12 +217,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### vk.com
+#### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### myfritz.net
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,14 +242,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
 
 
 #### tiktok.com
