@@ -182,12 +182,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
