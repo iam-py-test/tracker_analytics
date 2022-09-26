@@ -87,12 +87,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -102,14 +102,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### googletagmanager.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### bing.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### wordpress.org
@@ -177,17 +177,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### zoom.us
-HTTPS: True
-<br>Known trackers: False
-
-
 #### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### adobe.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
