@@ -82,17 +82,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### bilibili.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,17 +107,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### bing.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
 
 
 #### fastly.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -147,13 +147,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### whatsapp.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -192,12 +192,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,7 +237,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### taobao.com
 HTTPS: True
 <br>Known trackers: True
 
@@ -247,7 +247,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
+#### intuit.com
 HTTPS: True
 <br>Known trackers: True
 
