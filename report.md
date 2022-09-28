@@ -62,12 +62,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,12 +107,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### fastly.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
 
 
-#### fastly.net
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -122,17 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### github.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,12 +192,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -242,14 +242,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### blogspot.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### intuit.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### blogspot.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### mozilla.org
