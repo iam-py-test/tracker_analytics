@@ -1,5 +1,5 @@
 ## Tracker report
-51 domains tested <br>
+50 domains tested <br>
 10 of the domains tested used known trackers <br>
 47 of the domains tested supported HTTPS <br>
 
@@ -254,9 +254,4 @@ HTTPS: True
 
 #### mozilla.org
 HTTPS: True
-<br>Known trackers: False
-
-
-#### 163.com
-HTTPS: False
 <br>Known trackers: False
