@@ -1,7 +1,7 @@
 ## Tracker report
 51 domains tested <br>
 10 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -62,12 +62,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -77,17 +77,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### amazon.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### amazon.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -97,7 +97,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -127,12 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,12 +192,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -217,22 +217,22 @@ HTTPS: False
 <br>Known trackers: True
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### myfritz.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
+
+
+#### webex.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -257,6 +257,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
-HTTPS: True
+#### 163.com
+HTTPS: False
 <br>Known trackers: False
