@@ -47,11 +47,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -67,14 +62,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### yahoo.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### cloudflare.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### qq.com
@@ -162,9 +157,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### doubleclick.net
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### reddit.com
@@ -172,9 +167,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### yandex.ru
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
+
+
+#### zoom.us
+HTTPS: True
+<br>Known trackers: False
 
 
 #### vimeo.com
@@ -183,11 +183,6 @@ HTTPS: True
 
 
 #### adobe.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -253,5 +248,10 @@ HTTPS: True
 
 
 #### mozilla.org
+HTTPS: True
+<br>Known trackers: False
+
+
+#### 163.com
 HTTPS: True
 <br>Known trackers: False
