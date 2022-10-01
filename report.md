@@ -67,22 +67,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yahoo.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### yahoo.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
-#### amazon.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -92,12 +87,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### bilibili.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -142,13 +142,13 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
-HTTPS: True
+#### googlevideo.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
+#### gandi.net
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -212,14 +212,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### windows.net
-HTTPS: False
-<br>Known trackers: True
-
-
 #### myfritz.net
 HTTPS: True
 <br>Known trackers: False
+
+
+#### windows.net
+HTTPS: False
+<br>Known trackers: True
 
 
 #### bit.ly
@@ -232,14 +232,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### vk.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### intuit.com
