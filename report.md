@@ -1,7 +1,7 @@
 ## Tracker report
-51 domains tested <br>
+50 domains tested <br>
 10 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -62,12 +62,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -82,17 +82,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### bilibili.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### amazon.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,12 +187,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -248,11 +248,6 @@ HTTPS: True
 
 
 #### blogspot.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### 163.com
 HTTPS: True
 <br>Known trackers: False
 
