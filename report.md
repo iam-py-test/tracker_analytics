@@ -1,7 +1,7 @@
 ## Tracker report
-50 domains tested <br>
+49 domains tested <br>
 10 of the domains tested used known trackers <br>
-47 of the domains tested supported HTTPS <br>
+46 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -32,22 +32,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazonaws.com
-HTTPS: False
-<br>Known trackers: False
-
-
 #### twitter.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### instagram.com
-HTTPS: True
+#### amazonaws.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### baidu.com
+#### instagram.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -82,12 +77,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -107,14 +102,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### fastly.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### wordpress.org
 HTTPS: True
 <br>Known trackers: True
+
+
+#### fastly.net
+HTTPS: True
+<br>Known trackers: False
 
 
 #### office.com
@@ -147,12 +142,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### gandi.net
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -172,12 +167,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,12 +182,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -217,12 +212,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
+
+
 #### windows.net
 HTTPS: False
 <br>Known trackers: True
 
 
-#### bit.ly
+#### taobao.com
 HTTPS: True
 <br>Known trackers: True
 
@@ -232,19 +232,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### taobao.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
-
-
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
 
 
 #### blogspot.com
@@ -255,3 +245,8 @@ HTTPS: True
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
