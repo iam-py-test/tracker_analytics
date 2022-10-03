@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
+50 domains tested <br>
 10 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -43,6 +43,11 @@ HTTPS: False
 
 
 #### instagram.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
