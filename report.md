@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
-10 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+50 domains tested <br>
+9 of the domains tested used known trackers <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,6 +47,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### baidu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -82,12 +87,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -152,11 +157,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
-HTTPS: True
-<br>Known trackers: False
-
-
 #### reddit.com
 HTTPS: True
 <br>Known trackers: False
@@ -167,17 +167,22 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### gandi.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -247,6 +252,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### tiktok.com
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
