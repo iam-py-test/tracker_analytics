@@ -137,14 +137,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googlevideo.com
-HTTPS: False
-<br>Known trackers: False
-
-
 #### doubleclick.net
 HTTPS: True
 <br>Known trackers: True
+
+
+#### googlevideo.com
+HTTPS: False
+<br>Known trackers: False
 
 
 #### whatsapp.com
@@ -172,12 +172,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
