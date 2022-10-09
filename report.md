@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
+50 domains tested <br>
 10 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -44,6 +44,11 @@ HTTPS: True
 
 #### amazonaws.com
 HTTPS: False
+<br>Known trackers: False
+
+
+#### baidu.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -147,12 +152,12 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
