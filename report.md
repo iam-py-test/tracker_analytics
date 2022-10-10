@@ -1,7 +1,7 @@
 ## Tracker report
-51 domains tested <br>
-10 of the domains tested used known trackers <br>
-48 of the domains tested supported HTTPS <br>
+50 domains tested <br>
+9 of the domains tested used known trackers <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -37,13 +37,13 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### instagram.com
-HTTPS: True
+#### amazonaws.com
+HTTPS: False
 <br>Known trackers: False
 
 
-#### amazonaws.com
-HTTPS: False
+#### instagram.com
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -87,12 +87,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,17 +177,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
-HTTPS: True
-<br>Known trackers: False
-
-
 #### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
 #### adobe.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,11 +232,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### 163.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
@@ -257,6 +252,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### sina.com.cn
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
