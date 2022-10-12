@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
+50 domains tested <br>
 9 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,6 +47,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### baidu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -82,12 +87,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,12 +162,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
