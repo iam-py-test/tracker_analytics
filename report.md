@@ -27,14 +27,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### netflix.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### twitter.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### netflix.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### amazonaws.com
@@ -127,12 +127,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -157,12 +157,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
