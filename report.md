@@ -1,6 +1,6 @@
 ## Tracker report
 50 domains tested <br>
-9 of the domains tested used known trackers <br>
+8 of the domains tested used known trackers <br>
 47 of the domains tested supported HTTPS <br>
 
 
@@ -224,7 +224,7 @@ HTTPS: True
 
 #### windows.net
 HTTPS: False
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### taobao.com
