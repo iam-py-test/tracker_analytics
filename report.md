@@ -1,7 +1,7 @@
 ## Tracker report
-50 domains tested <br>
+49 domains tested <br>
 8 of the domains tested used known trackers <br>
-47 of the domains tested supported HTTPS <br>
+46 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,11 +47,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### baidu.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -62,12 +57,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wikipedia.org
+#### cloudflare.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.com
+#### wikipedia.org
 HTTPS: True
 <br>Known trackers: False
 
@@ -77,22 +72,22 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### qq.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### amazon.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -127,12 +122,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### github.com
+#### pinterest.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### pinterest.com
+#### github.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -182,12 +177,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
