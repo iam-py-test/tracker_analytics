@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
-8 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+51 domains tested <br>
+9 of the domains tested used known trackers <br>
+48 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,6 +47,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### baidu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -72,12 +77,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### live.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### qq.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -112,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -177,12 +182,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### yandex.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### yandex.ru
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,6 +232,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### 163.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
@@ -247,6 +257,6 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### t.co
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
