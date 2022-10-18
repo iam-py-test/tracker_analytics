@@ -1,7 +1,7 @@
 ## Tracker report
-49 domains tested <br>
+50 domains tested <br>
 9 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -27,12 +27,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### netflix.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### twitter.com
 HTTPS: True
 <br>Known trackers: True
 
 
-#### netflix.com
+#### instagram.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -42,7 +47,7 @@ HTTPS: False
 <br>Known trackers: False
 
 
-#### instagram.com
+#### baidu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,12 +192,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,11 +232,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
@@ -240,6 +240,11 @@ HTTPS: True
 #### t.co
 HTTPS: True
 <br>Known trackers: True
+
+
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### blogspot.com
