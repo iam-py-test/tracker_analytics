@@ -1,7 +1,7 @@
 ## Tracker report
-50 domains tested <br>
+51 domains tested <br>
 9 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -152,12 +152,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### mail.ru
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zhihu.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,14 +232,14 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### 163.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### t.co
 HTTPS: True
 <br>Known trackers: True
-
-
-#### vk.com
-HTTPS: True
-<br>Known trackers: False
 
 
 #### webex.com
@@ -247,11 +247,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### csdn.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
