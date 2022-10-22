@@ -1,7 +1,7 @@
 ## Tracker report
 51 domains tested <br>
 9 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+47 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -82,17 +82,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### bilibili.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -117,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### bing.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -162,12 +162,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -233,7 +233,7 @@ HTTPS: True
 
 
 #### 163.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -247,12 +247,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### csdn.net
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
