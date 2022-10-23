@@ -1,5 +1,5 @@
 ## Tracker report
-49 domains tested <br>
+51 domains tested <br>
 9 of the domains tested used known trackers <br>
 46 of the domains tested supported HTTPS <br>
 
@@ -43,6 +43,11 @@ HTTPS: True
 
 
 #### amazonaws.com
+HTTPS: False
+<br>Known trackers: False
+
+
+#### baidu.com
 HTTPS: False
 <br>Known trackers: False
 
@@ -112,12 +117,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### office.com
+#### bing.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bing.com
+#### office.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -147,12 +152,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### zhihu.com
+#### mail.ru
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mail.ru
+#### zhihu.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,14 +232,19 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### t.co
-HTTPS: True
-<br>Known trackers: True
+#### 163.com
+HTTPS: False
+<br>Known trackers: False
 
 
 #### webex.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### t.co
+HTTPS: True
+<br>Known trackers: True
 
 
 #### csdn.net
