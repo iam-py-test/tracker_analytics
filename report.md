@@ -1,5 +1,5 @@
 ## Tracker report
-51 domains tested <br>
+50 domains tested <br>
 9 of the domains tested used known trackers <br>
 46 of the domains tested supported HTTPS <br>
 
@@ -230,11 +230,6 @@ HTTPS: False
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
-
-
-#### 163.com
-HTTPS: False
-<br>Known trackers: False
 
 
 #### webex.com
