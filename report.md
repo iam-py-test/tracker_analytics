@@ -1,7 +1,7 @@
 ## Tracker report
-50 domains tested <br>
-9 of the domains tested used known trackers <br>
-46 of the domains tested supported HTTPS <br>
+77 domains tested <br>
+13 of the domains tested used known trackers <br>
+73 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -92,12 +92,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### live.com
+#### azure.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### azure.com
+#### live.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,19 +232,9 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### t.co
 HTTPS: True
 <br>Known trackers: True
-
-
-#### csdn.net
-HTTPS: True
-<br>Known trackers: False
 
 
 #### vk.com
@@ -252,6 +242,151 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### blogspot.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### csdn.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### mozilla.org
+HTTPS: True
+<br>Known trackers: False
+
+
+#### sina.com.cn
+HTTPS: True
+<br>Known trackers: False
+
+
+#### tiktok.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### googledomains.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### weibo.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### google-analytics.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### msn.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### cloudflare.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### tumblr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### outlook.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### spotify.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### nih.gov
+HTTPS: True
+<br>Known trackers: False
+
+
+#### icloud.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### paypal.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### nytimes.com
+HTTPS: True
+<br>Known trackers: True
+
+
+#### opera.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### europa.eu
+HTTPS: True
+<br>Known trackers: False
+
+
+#### flickr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### xvideos.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### nic.ru
+HTTPS: True
+<br>Known trackers: False
+
+
+#### dropbox.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### google.com.hk
+HTTPS: True
+<br>Known trackers: False
+
+
+#### yandex.net
+HTTPS: True
+<br>Known trackers: False
+
+
+#### skype.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### wellsfargo.com
 HTTPS: True
 <br>Known trackers: False
