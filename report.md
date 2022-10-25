@@ -1,7 +1,7 @@
 ## Tracker report
-77 domains tested <br>
+78 domains tested <br>
 13 of the domains tested used known trackers <br>
-73 of the domains tested supported HTTPS <br>
+74 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -137,19 +137,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### youtu.be
-HTTPS: True
-<br>Known trackers: False
-
-
 #### googlevideo.com
 HTTPS: False
 <br>Known trackers: False
 
 
-#### doubleclick.net
+#### youtu.be
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### mail.ru
@@ -162,12 +157,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### reddit.com
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
+
+
+#### whatsapp.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### whatsapp.com
+#### reddit.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,6 +232,11 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### 163.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### t.co
 HTTPS: True
 <br>Known trackers: True
@@ -252,12 +257,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### csdn.net
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -272,14 +277,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### googledomains.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### intuit.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### office365.com
@@ -292,9 +297,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### google-analytics.com
+#### cloudflare.net
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### msn.com
@@ -302,9 +307,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.net
+#### google-analytics.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### tumblr.com
@@ -377,16 +382,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### wellsfargo.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### yandex.net
 HTTPS: True
 <br>Known trackers: False
 
 
 #### skype.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### wellsfargo.com
 HTTPS: True
 <br>Known trackers: False
