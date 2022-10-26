@@ -1,5 +1,5 @@
 ## Tracker report
-78 domains tested <br>
+77 domains tested <br>
 13 of the domains tested used known trackers <br>
 74 of the domains tested supported HTTPS <br>
 
@@ -48,7 +48,7 @@ HTTPS: False
 
 
 #### baidu.com
-HTTPS: False
+HTTPS: True
 <br>Known trackers: False
 
 
@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -112,14 +112,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wordpress.org
-HTTPS: True
-<br>Known trackers: True
-
-
 #### bing.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### wordpress.org
+HTTPS: True
+<br>Known trackers: True
 
 
 #### office.com
@@ -232,11 +232,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### 163.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### t.co
 HTTPS: True
 <br>Known trackers: True
@@ -267,12 +262,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### tiktok.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### tiktok.com
+#### sina.com.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -297,12 +292,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### cloudflare.net
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### cloudflare.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -367,6 +362,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### wellsfargo.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### nic.ru
 HTTPS: True
 <br>Known trackers: False
@@ -378,11 +378,6 @@ HTTPS: True
 
 
 #### google.com.hk
-HTTPS: True
-<br>Known trackers: False
-
-
-#### wellsfargo.com
 HTTPS: True
 <br>Known trackers: False
 
