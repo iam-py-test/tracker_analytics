@@ -1,7 +1,7 @@
 ## Tracker report
 77 domains tested <br>
 13 of the domains tested used known trackers <br>
-74 of the domains tested supported HTTPS <br>
+73 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -48,7 +48,7 @@ HTTPS: False
 
 
 #### baidu.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
