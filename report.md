@@ -1,7 +1,7 @@
 ## Tracker report
 78 domains tested <br>
 13 of the domains tested used known trackers <br>
-75 of the domains tested supported HTTPS <br>
+73 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -48,7 +48,7 @@ HTTPS: False
 
 
 #### baidu.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -147,6 +147,11 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### doubleclick.net
+HTTPS: True
+<br>Known trackers: True
+
+
 #### zhihu.com
 HTTPS: True
 <br>Known trackers: False
@@ -155,11 +160,6 @@ HTTPS: True
 #### mail.ru
 HTTPS: True
 <br>Known trackers: False
-
-
-#### doubleclick.net
-HTTPS: True
-<br>Known trackers: True
 
 
 #### whatsapp.com
@@ -177,7 +177,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### adobe.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -187,7 +187,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### adobe.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -233,7 +233,7 @@ HTTPS: True
 
 
 #### 163.com
-HTTPS: True
+HTTPS: False
 <br>Known trackers: False
 
 
@@ -242,17 +242,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
+#### csdn.net
+HTTPS: True
+<br>Known trackers: False
+
+
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
 #### webex.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -277,24 +277,24 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### googledomains.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### office365.com
+#### intuit.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### google-analytics.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### office365.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### weibo.com
@@ -362,12 +362,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### xvideos.com
+#### google.com.hk
 HTTPS: True
 <br>Known trackers: False
 
 
-#### google.com.hk
+#### xvideos.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -382,16 +382,16 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### wellsfargo.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### yandex.net
 HTTPS: True
 <br>Known trackers: False
 
 
 #### skype.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### wellsfargo.com
 HTTPS: True
 <br>Known trackers: False
