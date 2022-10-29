@@ -1,7 +1,7 @@
 ## Tracker report
-77 domains tested <br>
+76 domains tested <br>
 13 of the domains tested used known trackers <br>
-74 of the domains tested supported HTTPS <br>
+73 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -82,12 +82,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### amazon.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### amazon.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -192,12 +192,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sharepoint.com
+#### gandi.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### gandi.net
+#### sharepoint.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -237,12 +237,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### csdn.net
+#### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vk.com
+#### blogspot.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -252,7 +252,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### blogspot.com
+#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -292,12 +292,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### weibo.com
+#### msn.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### msn.com
+#### weibo.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -327,14 +327,14 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### paypal.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### icloud.com
 HTTPS: True
 <br>Known trackers: False
+
+
+#### paypal.com
+HTTPS: True
+<br>Known trackers: True
 
 
 #### nytimes.com
@@ -383,10 +383,5 @@ HTTPS: True
 
 
 #### skype.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### wellsfargo.com
 HTTPS: True
 <br>Known trackers: False
