@@ -1,5 +1,5 @@
 ## Tracker report
-77 domains tested <br>
+76 domains tested <br>
 13 of the domains tested used known trackers <br>
 73 of the domains tested supported HTTPS <br>
 
@@ -43,11 +43,6 @@ HTTPS: True
 
 
 #### amazonaws.com
-HTTPS: False
-<br>Known trackers: False
-
-
-#### baidu.com
 HTTPS: False
 <br>Known trackers: False
 
@@ -172,12 +167,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -232,11 +227,6 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### 163.com
-HTTPS: True
-<br>Known trackers: False
-
-
 #### t.co
 HTTPS: True
 <br>Known trackers: True
@@ -257,12 +247,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### csdn.net
+#### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### mozilla.org
+#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -272,12 +262,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### sina.com.cn
+#### googledomains.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### googledomains.com
+#### sina.com.cn
 HTTPS: True
 <br>Known trackers: False
 
@@ -362,12 +352,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### google.com.hk
+#### xvideos.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### xvideos.com
+#### google.com.hk
 HTTPS: True
 <br>Known trackers: False
 
@@ -388,5 +378,10 @@ HTTPS: True
 
 
 #### skype.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### wellsfargo.com
 HTTPS: True
 <br>Known trackers: False
