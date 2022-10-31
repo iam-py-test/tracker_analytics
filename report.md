@@ -1,7 +1,7 @@
 ## Tracker report
-76 domains tested <br>
+77 domains tested <br>
 13 of the domains tested used known trackers <br>
-73 of the domains tested supported HTTPS <br>
+74 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -47,6 +47,11 @@ HTTPS: False
 <br>Known trackers: False
 
 
+#### baidu.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### apple.com
 HTTPS: True
 <br>Known trackers: False
@@ -72,12 +77,12 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### qq.com
+#### bilibili.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### bilibili.com
+#### qq.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -167,12 +172,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
@@ -227,17 +232,22 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### t.co
-HTTPS: True
-<br>Known trackers: True
-
-
 #### vk.com
 HTTPS: True
 <br>Known trackers: False
 
 
+#### t.co
+HTTPS: True
+<br>Known trackers: True
+
+
 #### blogspot.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -248,11 +258,6 @@ HTTPS: True
 
 
 #### mozilla.org
-HTTPS: True
-<br>Known trackers: False
-
-
-#### csdn.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -347,12 +352,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### xvideos.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### flickr.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### xvideos.com
+#### nic.ru
 HTTPS: True
 <br>Known trackers: False
 
@@ -363,11 +373,6 @@ HTTPS: True
 
 
 #### dropbox.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### nic.ru
 HTTPS: True
 <br>Known trackers: False
 
