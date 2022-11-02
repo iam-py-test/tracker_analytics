@@ -1,4 +1,5 @@
 import requests
+import socket
 from bs4 import BeautifulSoup
 from tranco import Tranco
 from urllib.parse import urlparse
@@ -15,6 +16,11 @@ disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly"]
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
 
 # functions
+def getIP(domain):
+  try:
+    return socket.gethostbyname(domain)
+  except:
+    return "Unknown"
 def hasHTTPS(domain):
   try:
     requests.get("https://{}".format(domain),allow_redirects=False)
@@ -96,7 +102,7 @@ for domain in latest_top:
       hassec = hasHTTPS(domain)
       if hassec:
         data["domains_with_HTTPS"] += 1
-      data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"]}
+      data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain)}
     except Exception as err:
       print(err)
 
@@ -109,6 +115,7 @@ with open("report.md","w") as f:
   
   for entry in data["per_domain_stats"]:
     f.write("\n\n\n#### {}".format(entry))
+    f.write("\nIP Address: {}".format(data["per_domain_stats"][entry]["ip"]))
     f.write("\nHTTPS: {}".format(data["per_domain_stats"][entry]["hasHTTPS"]))
     f.write("\n<br>Known trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
   f.close()
