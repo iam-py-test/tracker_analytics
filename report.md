@@ -1,5 +1,5 @@
 ## Tracker report
-76 domains tested <br>
+77 domains tested <br>
 13 of the domains tested used known trackers <br>
 73 of the domains tested supported HTTPS <br>
 
@@ -43,6 +43,11 @@ HTTPS: True
 
 
 #### amazonaws.com
+HTTPS: False
+<br>Known trackers: False
+
+
+#### baidu.com
 HTTPS: False
 <br>Known trackers: False
 
@@ -167,12 +172,12 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### vimeo.com
+#### zoom.us
 HTTPS: True
 <br>Known trackers: False
 
 
-#### zoom.us
+#### vimeo.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -212,19 +217,24 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### bit.ly
-HTTPS: True
-<br>Known trackers: True
-
-
 #### windows.net
 HTTPS: False
 <br>Known trackers: False
 
 
+#### bit.ly
+HTTPS: True
+<br>Known trackers: True
+
+
 #### taobao.com
 HTTPS: True
 <br>Known trackers: True
+
+
+#### warnerbros.com
+HTTPS: True
+<br>Known trackers: False
 
 
 #### vk.com
@@ -242,12 +252,17 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### webex.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### mozilla.org
 HTTPS: True
 <br>Known trackers: False
 
 
-#### webex.com
+#### googledomains.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -262,9 +277,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### googledomains.com
+#### intuit.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### sina.com.cn
@@ -272,9 +287,9 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### intuit.com
+#### cloudflare.net
 HTTPS: True
-<br>Known trackers: True
+<br>Known trackers: False
 
 
 #### google-analytics.com
@@ -288,11 +303,6 @@ HTTPS: True
 
 
 #### office365.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### cloudflare.net
 HTTPS: True
 <br>Known trackers: False
 
@@ -332,27 +342,17 @@ HTTPS: True
 <br>Known trackers: True
 
 
-#### nytimes.com
-HTTPS: True
-<br>Known trackers: True
-
-
 #### opera.com
 HTTPS: True
 <br>Known trackers: False
 
 
-#### europa.eu
+#### nytimes.com
 HTTPS: True
-<br>Known trackers: False
+<br>Known trackers: True
 
 
 #### xvideos.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### flickr.com
 HTTPS: True
 <br>Known trackers: False
 
@@ -362,12 +362,7 @@ HTTPS: True
 <br>Known trackers: False
 
 
-#### dropbox.com
-HTTPS: True
-<br>Known trackers: False
-
-
-#### google.com.hk
+#### europa.eu
 HTTPS: True
 <br>Known trackers: False
 
@@ -377,11 +372,21 @@ HTTPS: True
 <br>Known trackers: False
 
 
+#### flickr.com
+HTTPS: True
+<br>Known trackers: False
+
+
+#### dropbox.com
+HTTPS: True
+<br>Known trackers: False
+
+
 #### yandex.net
 HTTPS: True
 <br>Known trackers: False
 
 
-#### skype.com
+#### google.com.hk
 HTTPS: True
 <br>Known trackers: False
