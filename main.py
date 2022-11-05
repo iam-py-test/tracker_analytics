@@ -15,6 +15,8 @@ malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_
 disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly"]
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
 
+trackers_found_obj = {}
+
 # functions
 def getIP(domain):
   try:
@@ -29,12 +31,16 @@ def hasHTTPS(domain):
   else:
     return True
 def hastrackers(html,d=""):
+  global trackers_found_obj
   report = {"total":0,"has_trackers":False}
   try:         
       if d in trackerdomains:
             print("direct",d)
             report["total"] += 1
             report["has_trackers"] = True
+            if d not in trackers_found_obj:
+              trackers_found_obj[d] = 0
+            trackers_found_obj[d] += 1
             return report
   except:
       pass
@@ -47,6 +53,9 @@ def hastrackers(html,d=""):
             print("prefetch",domain)
             report["total"] += 1
             report["has_trackers"] = True
+            if domain not in trackers_found_obj:
+              trackers_found_obj[domain] = 0
+            trackers_found_obj[domain] += 1
             return report
       except Exception as err:
         pass
@@ -60,6 +69,9 @@ def hastrackers(html,d=""):
             print("src",domain)
             report["total"] += 1
             report["has_trackers"] = True
+            if domain not in trackers_found_obj:
+              trackers_found_obj[domain] = 0
+            trackers_found_obj[domain] += 1
             return report
       except:
         pass
@@ -71,6 +83,9 @@ def hastrackers(html,d=""):
                 print("contents",tracker_domain)
                 report["total"] += 1
                 report["has_trackers"] = True
+                if tracker_domain not in trackers_found_obj:
+                  trackers_found_obj[tracker_domain] = 0
+                trackers_found_obj[tracker_domain] += 1
                 return report
       except Exception as err:
         pass
@@ -105,7 +120,7 @@ for domain in latest_top:
       data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain)}
     except Exception as err:
       print(err)
-
+print(trackers_found_obj)
 with open("report.md","w") as f:
   f.write("## Tracker report\n")
   f.write("{} domains tested <br>\n".format(data["domains_tested"]))
