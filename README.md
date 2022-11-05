@@ -1,2 +1,2 @@
 # Tracker Analytics
-Tracking the trackers
+Gathering information on the trackers on popular websites.
