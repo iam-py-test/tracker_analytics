@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(100)
+latest_top = t.list().top(110)
 extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
@@ -133,4 +133,7 @@ with open("report.md","w") as f:
     f.write("\nIP Address: {}".format(data["per_domain_stats"][entry]["ip"]))
     f.write("\nHTTPS: {}".format(data["per_domain_stats"][entry]["hasHTTPS"]))
     f.write("\n<br>Known trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
+  f.write("\n### Statistics for each tracker domain\n")
+  for trackerf in trackers_found_obj:
+    f.write("{}: {}<br>\n".format(trackerf,trackers_found_obj[trackerf]))
   f.close()
