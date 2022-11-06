@@ -130,9 +130,9 @@ with open("report.md","w") as f:
 	
 	for entry in data["per_domain_stats"]:
 		f.write("\n\n\n#### {}".format(entry))
-		f.write("\nIP Address: {}".format(data["per_domain_stats"][entry]["ip"]))
-		f.write("\nHTTPS: {}".format(data["per_domain_stats"][entry]["hasHTTPS"]))
-		f.write("\n<br>Known trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
+		f.write("\nIP Address: {} <br>".format(data["per_domain_stats"][entry]["ip"]))
+		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
+		f.write("\nKnown trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
 	
 	f.write("\n### Statistics for each tracker domain\n")
 	for trackerf in trackers_found_obj:
