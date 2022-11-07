@@ -56,7 +56,6 @@ def hastrackers(html,d=""):
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-						return report
 			except Exception as err:
 				pass
 	try:
@@ -72,7 +71,17 @@ def hastrackers(html,d=""):
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-						return report
+				if domain != "" and domain not in excluded_scripts:
+					maybetracker_contents = requests.get(script.get("src"))
+					if len(maybetracker_contents) > 5:
+						for tracker_domain in trackerdomains:
+								if tracker_domain in maybetracker_contents:
+									print("contents",tracker_domain)
+									report["total"] += 1
+									report["has_trackers"] = True
+									if tracker_domain not in trackers_found_obj:
+										trackers_found_obj[tracker_domain] = 0
+									trackers_found_obj[tracker_domain] += 1
 			except:
 				pass
 			try:
@@ -86,7 +95,6 @@ def hastrackers(html,d=""):
 								if tracker_domain not in trackers_found_obj:
 									trackers_found_obj[tracker_domain] = 0
 								trackers_found_obj[tracker_domain] += 1
-								return report
 			except Exception as err:
 				pass
 		try:
@@ -95,6 +103,7 @@ def hastrackers(html,d=""):
 			print(csptext)
 		except:
 			pass
+		return report
 		
 	except:
 		return report
