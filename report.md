@@ -8,37 +8,37 @@
 
 
 #### google.com
-IP Address: 142.251.46.238 <br>
+IP Address: 172.217.219.101 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### youtube.com
-IP Address: 142.250.188.14 <br>
+IP Address: 172.217.219.190 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### facebook.com
-IP Address: 157.240.22.35 <br>
+IP Address: 157.240.249.35 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### microsoft.com
-IP Address: 20.53.203.50 <br>
+IP Address: 20.103.85.33 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### netflix.com
-IP Address: 44.240.158.19 <br>
+IP Address: 54.237.226.164 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### twitter.com
-IP Address: 104.244.42.129 <br>
+IP Address: 104.244.42.193 <br>
 HTTPS: True <br>
 Known trackers: True
 
@@ -50,7 +50,7 @@ Known trackers: False
 
 
 #### amazonaws.com
-IP Address: 207.171.166.22 <br>
+IP Address: 72.21.206.80 <br>
 HTTPS: False <br>
 Known trackers: False
 
@@ -80,25 +80,25 @@ Known trackers: False
 
 
 #### wikipedia.org
-IP Address: 198.35.26.96 <br>
+IP Address: 208.80.153.224 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### yahoo.com
-IP Address: 98.137.11.163 <br>
+IP Address: 74.6.231.20 <br>
 HTTPS: True <br>
 Known trackers: True
 
 
 #### bilibili.com
-IP Address: 47.103.24.173 <br>
+IP Address: 120.92.78.97 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### qq.com
-IP Address: 61.129.7.47 <br>
+IP Address: 203.205.254.157 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -110,7 +110,7 @@ Known trackers: False
 
 
 #### azure.com
-IP Address: 191.235.228.36 <br>
+IP Address: 40.112.243.51 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -128,19 +128,19 @@ Known trackers: False
 
 
 #### googletagmanager.com
-IP Address: 142.250.189.168 <br>
+IP Address: 173.194.194.97 <br>
 HTTPS: True <br>
 Known trackers: True
 
 
 #### bing.com
-IP Address: 13.107.21.200 <br>
+IP Address: 204.79.197.200 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### epicgames.com
-IP Address: 34.205.223.123 <br>
+IP Address: 54.165.65.155 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -170,19 +170,19 @@ Known trackers: False
 
 
 #### github.com
-IP Address: 192.30.255.113 <br>
+IP Address: 140.82.113.3 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### googlevideo.com
-IP Address: 142.251.46.196 <br>
+IP Address: 209.85.146.99 <br>
 HTTPS: False <br>
 Known trackers: False
 
 
 #### youtu.be
-IP Address: 142.250.189.206 <br>
+IP Address: 209.85.145.91 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -194,13 +194,13 @@ Known trackers: False
 
 
 #### mail.ru
-IP Address: 94.100.180.200 <br>
+IP Address: 94.100.180.201 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### doubleclick.net
-IP Address: 142.251.46.206 <br>
+IP Address: 142.250.125.100 <br>
 HTTPS: True <br>
 Known trackers: True
 
@@ -212,7 +212,7 @@ Known trackers: False
 
 
 #### reddit.com
-IP Address: 151.101.129.140 <br>
+IP Address: 151.101.65.140 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -224,19 +224,19 @@ Known trackers: False
 
 
 #### vimeo.com
-IP Address: 162.159.138.60 <br>
+IP Address: 162.159.128.61 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### adobe.com
-IP Address: 23.45.112.27 <br>
+IP Address: 23.218.232.177 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### yandex.ru
-IP Address: 5.255.255.60 <br>
+IP Address: 77.88.55.60 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -254,25 +254,25 @@ Known trackers: False
 
 
 #### cnn.com
-IP Address: 151.101.3.5 <br>
+IP Address: 151.101.67.5 <br>
 HTTPS: True <br>
 Known trackers: True
 
 
 #### wordpress.com
-IP Address: 192.0.78.17 <br>
+IP Address: 192.0.78.9 <br>
 HTTPS: True <br>
 Known trackers: True
 
 
 #### goo.gl
-IP Address: 142.251.214.142 <br>
+IP Address: 108.177.111.113 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### bit.ly
-IP Address: 67.199.248.11 <br>
+IP Address: 67.199.248.10 <br>
 HTTPS: True <br>
 Known trackers: True
 
@@ -308,19 +308,19 @@ Known trackers: False
 
 
 #### blogspot.com
-IP Address: 142.251.46.201 <br>
+IP Address: 209.85.147.191 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### mozilla.org
-IP Address: 44.236.72.93 <br>
+IP Address: 44.235.246.155 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### t.co
-IP Address: 104.244.42.133 <br>
+IP Address: 104.244.42.5 <br>
 HTTPS: True <br>
 Known trackers: True
 
@@ -338,13 +338,13 @@ Known trackers: False
 
 
 #### tiktok.com
-IP Address: 13.35.125.57 <br>
+IP Address: 18.172.122.51 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### intuit.com
-IP Address: 23.6.191.163 <br>
+IP Address: 69.192.241.236 <br>
 HTTPS: True <br>
 Known trackers: True
 
@@ -356,7 +356,7 @@ Known trackers: False
 
 
 #### google-analytics.com
-IP Address: 142.250.189.228 <br>
+IP Address: 209.85.147.104 <br>
 HTTPS: True <br>
 Known trackers: True
 
@@ -392,7 +392,7 @@ Known trackers: False
 
 
 #### outlook.com
-IP Address: 52.96.111.82 <br>
+IP Address: 52.96.229.242 <br>
 HTTPS: True <br>
 Known trackers: False
 
@@ -434,31 +434,31 @@ Known trackers: False
 
 
 #### nytimes.com
-IP Address: 151.101.65.164 <br>
+IP Address: 151.101.129.164 <br>
 HTTPS: True <br>
 Known trackers: True
 
 
 #### europa.eu
-IP Address: 147.67.210.45 <br>
+IP Address: 147.67.34.45 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### google.com.hk
-IP Address: 142.250.72.195 <br>
+IP Address: 142.251.161.94 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### flickr.com
-IP Address: 108.139.9.122 <br>
+IP Address: 52.85.248.119 <br>
 HTTPS: True <br>
 Known trackers: False
 
 
 #### jd.com
-IP Address: 106.39.171.134 <br>
+IP Address: 211.144.24.218 <br>
 HTTPS: True <br>
 Known trackers: False
 ### Statistics for each tracker domain
