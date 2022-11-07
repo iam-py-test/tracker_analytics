@@ -1,21 +1,23 @@
-name: Update data
+name: Update tracker data
 on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '16 20,2 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch:
 jobs:
   getdata:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
     - name: Build tracker data
       run: |
+        pip3 --version
+        python3 -m pip install --upgrade pip
         pip3 install requests
         pip3 install beautifulsoup4
         pip3 install tranco
