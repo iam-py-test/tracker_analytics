@@ -74,7 +74,7 @@ def hastrackers(html,d=""):
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
 				if domain != "" and domain not in excluded_scripts:
-					maybetracker_contents = requests.get(script.get("src"))
+					maybetracker_contents = requests.get(script.get("src")).text
 					if len(maybetracker_contents) > 5:
 						for tracker_domain in trackerdomains:
 								if tracker_domain in maybetracker_contents:
@@ -84,8 +84,8 @@ def hastrackers(html,d=""):
 									if tracker_domain not in trackers_found_obj:
 										trackers_found_obj[tracker_domain] = 0
 									trackers_found_obj[tracker_domain] += 1
-			except:
-				pass
+			except Exception as err:
+				print(err)
 			try:
 				maybetracker_contents = script.content
 				if len(maybetracker_contents) > 5:
@@ -99,12 +99,6 @@ def hastrackers(html,d=""):
 								trackers_found_obj[tracker_domain] += 1
 			except Exception as err:
 				pass
-		try:
-			csps = soup.select("meta[http-equiv=\"Content-Security-Policy\"]")
-			csptext = csps[0].get("content")
-			print(csptext)
-		except:
-			pass
 		return report
 		
 	except:
