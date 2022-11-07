@@ -65,7 +65,8 @@ def hastrackers(html,d=""):
 		scripts = soup.find_all("script")
 		for script in scripts:
 			try:
-				domain = urlparse(script.get("src")).netloc
+				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
+				domain = urlparse(srcurl).netloc
 				if domain in trackerdomains and domain != "":
 						print("src",domain)
 						report["total"] += 1
@@ -73,8 +74,8 @@ def hastrackers(html,d=""):
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-				if domain != "" and domain not in excluded_scripts:
-					maybetracker_contents = requests.get(script.get("src")).text
+				if domain != "" and domain not in excluded_scripts and domain == None:
+					maybetracker_contents = requests.get(srcurl).text
 					if len(maybetracker_contents) > 5:
 						for tracker_domain in trackerdomains:
 								if tracker_domain in maybetracker_contents and tracker_domain != "":
