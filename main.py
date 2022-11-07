@@ -77,7 +77,7 @@ def hastrackers(html,d=""):
 					maybetracker_contents = requests.get(script.get("src")).text
 					if len(maybetracker_contents) > 5:
 						for tracker_domain in trackerdomains:
-								if tracker_domain in maybetracker_contents:
+								if tracker_domain in maybetracker_contents and tracker_domain != "":
 									print("contents",tracker_domain)
 									report["total"] += 1
 									report["has_trackers"] = True
