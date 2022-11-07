@@ -13,6 +13,8 @@ trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 # don't visit ip loggers & adfly
 disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly"]
+# don't scan allowlisted scripts
+excluded_scripts = ["jquery.org"]
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
 
 trackers_found_obj = {}
