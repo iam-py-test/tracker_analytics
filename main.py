@@ -67,7 +67,6 @@ def hastrackers(html,d=""):
 		for script in scripts:
 			try:
 				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
-				print(srcurl)
 				domain = urlparse(srcurl).netloc
 				if domain in trackerdomains and domain != "":
 						print("src",domain)
