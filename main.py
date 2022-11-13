@@ -7,13 +7,13 @@ from urllib.parse import urlparse
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(100)
-extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com"]
+latest_top = t.list().top(110)
+extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 # don't visit ip loggers & adfly
-disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly"]
+disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly","bit.ly"]
 # don't scan allowlisted scripts
 excluded_scripts = ["jquery.org"]
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
@@ -80,7 +80,7 @@ def hastrackers(html,d=""):
 					if len(maybetracker_contents) > 5:
 						for tracker_domain in trackerdomains:
 								if tracker_domain in maybetracker_contents and tracker_domain != "":
-									print("contents",tracker_domain)
+									print("remote contents",tracker_domain)
 									report["total"] += 1
 									report["has_trackers"] = True
 									if tracker_domain not in trackers_found_obj:
@@ -124,7 +124,7 @@ for domain in latest_top:
 			hassec = hasHTTPS(domain)
 			if hassec:
 				data["domains_with_HTTPS"] += 1
-			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain)}
+			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain),"total":domainreport["total"]}
 		except Exception as err:
 			print(err)
 print(trackers_found_obj)
@@ -140,6 +140,7 @@ with open("report.md","w") as f:
 		f.write("\nIP Address: {} <br>".format(data["per_domain_stats"][entry]["ip"]))
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
 		f.write("\nKnown trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
+		f.write("\nNumber of trackers detected: {}".format(data["per_domain_stats"][entry]["total"]))
 	
 	f.write("\n### Statistics for each tracker domain\n")
 	for trackerf in trackers_found_obj:
