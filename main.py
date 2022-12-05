@@ -122,7 +122,7 @@ for domain in latest_top:
 			hassec = hasHTTPS(domain)
 			if hassec:
 				data["domains_with_HTTPS"] += 1
-			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain),"total":domainreport["total"]}
+			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain),"total":domainreport["total"],"endurl":req.url}
 		except Exception as err:
 			pass
 
@@ -135,6 +135,7 @@ with open("report.md","w") as f:
 	
 	for entry in data["per_domain_stats"]:
 		f.write("\n\n\n#### {}".format(entry))
+		f.write("\nEnd URL: `{}` <br>".format(data["endurl"]))
 		f.write("\nIP Address: {} <br>".format(data["per_domain_stats"][entry]["ip"]))
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
 		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
