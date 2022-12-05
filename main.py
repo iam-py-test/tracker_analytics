@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(110)
+latest_top = t.list().top(120)
 extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
@@ -53,7 +53,6 @@ def hastrackers(html,d=""):
 			try:
 				domain = urlparse(prefetch.get("href")).netloc
 				if domain in trackerdomains and domain != "":
-						print("prefetch",domain)
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
@@ -69,13 +68,12 @@ def hastrackers(html,d=""):
 				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
 				domain = urlparse(srcurl).netloc
 				if domain in trackerdomains and domain != "":
-						print("src",domain)
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-				if domain != "" and domain not in excluded_scripts and domain == None:
+				if domain != "" and domain not in excluded_scripts and domain != None:
 					maybetracker_contents = requests.get(srcurl).text
 					if len(maybetracker_contents) > 5:
 						for tracker_domain in trackerdomains:
@@ -100,7 +98,7 @@ def hastrackers(html,d=""):
 									trackers_found_obj[tracker_domain] = 0
 								trackers_found_obj[tracker_domain] += 1
 			except Exception as err:
-				pass
+				print(err)
 		return report
 		
 	except:
@@ -126,8 +124,8 @@ for domain in latest_top:
 				data["domains_with_HTTPS"] += 1
 			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain),"total":domainreport["total"]}
 		except Exception as err:
-			print(err)
-print(trackers_found_obj)
+			pass
+
 with open("report.md","w") as f:
 	f.write("## Tracker report\n")
 	f.write("{} domains tested <br>\n".format(data["domains_tested"]))
@@ -139,8 +137,8 @@ with open("report.md","w") as f:
 		f.write("\n\n\n#### {}".format(entry))
 		f.write("\nIP Address: {} <br>".format(data["per_domain_stats"][entry]["ip"]))
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
-		f.write("\nKnown trackers: {}".format(data["per_domain_stats"][entry]["has_trackers"]))
-		f.write("\nNumber of trackers detected: {}".format(data["per_domain_stats"][entry]["total"]))
+		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
+		f.write("\nNumber of trackers detected: {} <br>".format(data["per_domain_stats"][entry]["total"]))
 	
 	f.write("\n### Statistics for each tracker domain\n")
 	for trackerf in trackers_found_obj:
