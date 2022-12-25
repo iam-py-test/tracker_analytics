@@ -1,7 +1,7 @@
 ## Tracker report
 92 domains tested <br>
-81 of the domains tested used known trackers <br>
-88 of the domains tested supported HTTPS <br>
+82 of the domains tested used known trackers <br>
+89 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -9,7 +9,7 @@
 
 #### google.com
 End URL: `http://www.google.com/` <br>
-IP Address: 172.253.122.102 <br>
+IP Address: 142.250.138.113 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -17,15 +17,15 @@ Number of trackers detected: 0 <br>
 
 #### youtube.com
 End URL: `https://www.youtube.com/` <br>
-IP Address: 142.251.163.136 <br>
+IP Address: 142.251.32.206 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 116 <br>
+Number of trackers detected: 120 <br>
 
 
 #### facebook.com
 End URL: `https://www.facebook.com/` <br>
-IP Address: 157.240.22.35 <br>
+IP Address: 157.240.254.35 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 178 <br>
@@ -33,7 +33,7 @@ Number of trackers detected: 178 <br>
 
 #### amazonaws.com
 End URL: `https://aws.amazon.com/` <br>
-IP Address: 72.21.210.29 <br>
+IP Address: 207.171.166.22 <br>
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 173 <br>
@@ -41,7 +41,7 @@ Number of trackers detected: 173 <br>
 
 #### microsoft.com
 End URL: `https://www.microsoft.com/en-us/` <br>
-IP Address: 20.53.203.50 <br>
+IP Address: 20.103.85.33 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
@@ -49,7 +49,7 @@ Number of trackers detected: 31 <br>
 
 #### netflix.com
 End URL: `https://www.netflix.com/` <br>
-IP Address: 52.3.144.142 <br>
+IP Address: 54.237.226.164 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 34 <br>
@@ -57,7 +57,7 @@ Number of trackers detected: 34 <br>
 
 #### twitter.com
 End URL: `https://twitter.com/` <br>
-IP Address: 104.244.42.129 <br>
+IP Address: 104.244.42.193 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 20 <br>
@@ -65,7 +65,7 @@ Number of trackers detected: 20 <br>
 
 #### instagram.com
 End URL: `https://www.instagram.com/` <br>
-IP Address: 157.240.22.174 <br>
+IP Address: 157.240.19.174 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 776 <br>
@@ -73,7 +73,7 @@ Number of trackers detected: 776 <br>
 
 #### baidu.com
 End URL: `http://baidu.com/` <br>
-IP Address: 110.242.68.66 <br>
+IP Address: 39.156.66.10 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -97,7 +97,7 @@ Number of trackers detected: 3 <br>
 
 #### wikipedia.org
 End URL: `https://www.wikipedia.org/` <br>
-IP Address: 208.80.154.224 <br>
+IP Address: 208.80.153.224 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -105,7 +105,7 @@ Number of trackers detected: 1 <br>
 
 #### yahoo.com
 End URL: `https://www.yahoo.com/` <br>
-IP Address: 74.6.231.20 <br>
+IP Address: 74.6.231.21 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 145 <br>
@@ -113,7 +113,7 @@ Number of trackers detected: 145 <br>
 
 #### amazon.com
 End URL: `https://www.amazon.com/` <br>
-IP Address: 54.239.28.85 <br>
+IP Address: 205.251.242.103 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -129,7 +129,7 @@ Number of trackers detected: 29 <br>
 
 #### qq.com
 End URL: `https://www.qq.com/` <br>
-IP Address: 183.3.226.35 <br>
+IP Address: 203.205.254.157 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 15 <br>
@@ -137,7 +137,7 @@ Number of trackers detected: 15 <br>
 
 #### bilibili.com
 End URL: `https://www.bilibili.com/` <br>
-IP Address: 47.103.24.173 <br>
+IP Address: 139.159.241.37 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 10 <br>
@@ -145,7 +145,7 @@ Number of trackers detected: 10 <br>
 
 #### azure.com
 End URL: `https://azure.microsoft.com/en-us/` <br>
-IP Address: 40.112.243.51 <br>
+IP Address: 20.50.2.51 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 144 <br>
@@ -169,7 +169,7 @@ Number of trackers detected: 18 <br>
 
 #### googletagmanager.com
 End URL: `http://googletagmanager.com/` <br>
-IP Address: 142.251.16.97 <br>
+IP Address: 142.250.138.97 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -177,7 +177,7 @@ Number of trackers detected: 1 <br>
 
 #### googlevideo.com
 End URL: `http://www.google.com/videohp` <br>
-IP Address: 142.251.16.106 <br>
+IP Address: 142.251.40.68 <br>
 HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -201,7 +201,7 @@ Number of trackers detected: 34 <br>
 
 #### pinterest.com
 End URL: `https://www.pinterest.com/` <br>
-IP Address: 151.101.192.84 <br>
+IP Address: 151.101.128.84 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 43 <br>
@@ -209,7 +209,7 @@ Number of trackers detected: 43 <br>
 
 #### github.com
 End URL: `https://github.com/` <br>
-IP Address: 140.82.114.4 <br>
+IP Address: 140.82.112.4 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 17 <br>
@@ -217,7 +217,7 @@ Number of trackers detected: 17 <br>
 
 #### doubleclick.net
 End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
-IP Address: 142.250.65.78 <br>
+IP Address: 216.58.193.142 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -233,7 +233,7 @@ Number of trackers detected: 18 <br>
 
 #### mail.ru
 End URL: `https://mail.ru/` <br>
-IP Address: 217.69.139.202 <br>
+IP Address: 94.100.180.201 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 246 <br>
@@ -241,7 +241,7 @@ Number of trackers detected: 246 <br>
 
 #### youtu.be
 End URL: `https://www.youtube.com/?feature=youtu.be` <br>
-IP Address: 142.251.16.190 <br>
+IP Address: 142.251.32.174 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 117 <br>
@@ -257,7 +257,7 @@ Number of trackers detected: 105 <br>
 
 #### whatsapp.com
 End URL: `https://www.whatsapp.com/` <br>
-IP Address: 157.240.22.53 <br>
+IP Address: 157.240.254.60 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 167 <br>
@@ -265,10 +265,10 @@ Number of trackers detected: 167 <br>
 
 #### reddit.com
 End URL: `https://www.reddit.com/` <br>
-IP Address: 151.101.193.140 <br>
+IP Address: 151.101.1.140 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 35 <br>
+Number of trackers detected: 34 <br>
 
 
 #### zhihu.com
@@ -289,7 +289,7 @@ Number of trackers detected: 8 <br>
 
 #### adobe.com
 End URL: `https://www.adobe.com/` <br>
-IP Address: 23.45.112.27 <br>
+IP Address: 23.218.232.151 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -305,7 +305,7 @@ Number of trackers detected: 24 <br>
 
 #### sharepoint.com
 End URL: `https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1` <br>
-IP Address: 13.107.6.168 <br>
+IP Address: 13.107.9.168 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 27 <br>
@@ -313,15 +313,15 @@ Number of trackers detected: 27 <br>
 
 #### goo.gl
 End URL: `https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html` <br>
-IP Address: 172.253.115.100 <br>
+IP Address: 142.251.33.14 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 33 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=374ee838-49ad-43ca-a2fd-8c974be1d67a&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
-IP Address: 77.88.55.50 <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=ae482bdc-7085-4b56-8f6d-11911877986b&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+IP Address: 5.255.255.70 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -329,7 +329,7 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 End URL: `https://wordpress.com/` <br>
-IP Address: 192.0.78.17 <br>
+IP Address: 192.0.78.9 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 102 <br>
@@ -337,7 +337,7 @@ Number of trackers detected: 102 <br>
 
 #### windows.net
 End URL: `https://dotnet.microsoft.com/en-us/` <br>
-IP Address: 20.103.85.33 <br>
+IP Address: 20.84.181.62 <br>
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 125 <br>
@@ -345,7 +345,7 @@ Number of trackers detected: 125 <br>
 
 #### intuit.com
 End URL: `https://www.intuit.com/` <br>
-IP Address: 23.1.195.49 <br>
+IP Address: 23.2.249.213 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 74 <br>
@@ -353,7 +353,7 @@ Number of trackers detected: 74 <br>
 
 #### tiktok.com
 End URL: `https://www.tiktok.com/` <br>
-IP Address: 52.85.132.112 <br>
+IP Address: 108.156.211.87 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -361,7 +361,7 @@ Number of trackers detected: 0 <br>
 
 #### vk.com
 End URL: `https://m.vk.com/` <br>
-IP Address: 87.240.129.133 <br>
+IP Address: 87.240.137.164 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 13 <br>
@@ -369,7 +369,7 @@ Number of trackers detected: 13 <br>
 
 #### taobao.com
 End URL: `https://world.taobao.com` <br>
-IP Address: 140.205.94.189 <br>
+IP Address: 140.205.220.96 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 57 <br>
@@ -377,7 +377,7 @@ Number of trackers detected: 57 <br>
 
 #### t.co
 End URL: `https://t.co/` <br>
-IP Address: 104.244.42.69 <br>
+IP Address: 104.244.42.133 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -385,7 +385,7 @@ Number of trackers detected: 1 <br>
 
 #### blogspot.com
 End URL: `https://www.blogger.com/about/?bpli=1` <br>
-IP Address: 172.253.115.191 <br>
+IP Address: 172.217.1.137 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 6 <br>
@@ -393,7 +393,7 @@ Number of trackers detected: 6 <br>
 
 #### mozilla.org
 End URL: `https://www.mozilla.org/` <br>
-IP Address: 44.236.72.93 <br>
+IP Address: 44.235.246.155 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 8 <br>
@@ -401,10 +401,10 @@ Number of trackers detected: 8 <br>
 
 #### cloudflare.net
 End URL: `https://cloudflare.net/home/default.aspx` <br>
-IP Address: 104.16.208.90 <br>
+IP Address: 104.17.156.85 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 175 <br>
+Number of trackers detected: 124 <br>
 
 
 #### myfritz.net
@@ -425,23 +425,23 @@ Number of trackers detected: 15 <br>
 
 #### office365.com
 End URL: `https://www.microsoft.com/en-us/microsoft-365?ms.url=office365com&rtc=1` <br>
-IP Address: 104.43.221.31 <br>
+IP Address: 40.71.11.169 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 43 <br>
 
 
 #### weibo.com
-End URL: `https://weibo.com/overseas` <br>
+End URL: `https://weibo.com/us` <br>
 IP Address: 36.51.226.13 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 58 <br>
+Number of trackers detected: 121 <br>
 
 
 #### outlook.com
 End URL: `https://outlook.live.com/owa/` <br>
-IP Address: 52.96.223.2 <br>
+IP Address: 52.96.229.242 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 9 <br>
@@ -449,7 +449,7 @@ Number of trackers detected: 9 <br>
 
 #### google-analytics.com
 End URL: `https://marketingplatform.google.com/about/analytics/` <br>
-IP Address: 142.251.111.104 <br>
+IP Address: 142.251.40.68 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -472,11 +472,11 @@ Number of trackers detected: 59 <br>
 
 
 #### spotify.com
-End URL: `https://www.spotify.com/us/` <br>
+End URL: `https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49` <br>
 IP Address: 35.186.224.25 <br>
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 21 <br>
 
 
 #### tumblr.com
@@ -505,10 +505,10 @@ Number of trackers detected: 92 <br>
 
 #### xvideos.com
 End URL: `https://www.xvideos.com/` <br>
-IP Address: 185.88.181.3 <br>
+IP Address: 185.88.181.7 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 117 <br>
+Number of trackers detected: 115 <br>
 
 
 #### nih.gov
@@ -529,7 +529,7 @@ Number of trackers detected: 9 <br>
 
 #### europa.eu
 End URL: `https://european-union.europa.eu/select-language?destination=/node/1` <br>
-IP Address: 147.67.210.45 <br>
+IP Address: 147.67.34.45 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
@@ -537,7 +537,7 @@ Number of trackers detected: 2 <br>
 
 #### nytimes.com
 End URL: `https://www.nytimes.com/` <br>
-IP Address: 151.101.129.164 <br>
+IP Address: 151.101.193.164 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 276 <br>
@@ -553,7 +553,7 @@ Number of trackers detected: 46 <br>
 
 #### zemanta.com
 End URL: `https://www.zemanta.com:443/` <br>
-IP Address: 104.127.85.64 <br>
+IP Address: 23.64.156.37 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -564,12 +564,12 @@ End URL: `https://www.pornhub.com/` <br>
 IP Address: 66.254.114.41 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 476 <br>
+Number of trackers detected: 464 <br>
 
 
 #### force.com
 End URL: `https://www.salesforce.com/products/platform/overview/?sfdc-redirect=300&bc=HL` <br>
-IP Address: 184.31.10.133 <br>
+IP Address: 104.109.11.129 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 219 <br>
@@ -577,7 +577,7 @@ Number of trackers detected: 219 <br>
 
 #### skype.com
 End URL: `https://www.skype.com/` <br>
-IP Address: 20.53.203.50 <br>
+IP Address: 20.112.52.29 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 36 <br>
@@ -585,7 +585,7 @@ Number of trackers detected: 36 <br>
 
 #### flickr.com
 End URL: `https://flickr.com/` <br>
-IP Address: 18.67.81.125 <br>
+IP Address: 18.161.172.123 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 744 <br>
@@ -617,7 +617,7 @@ Number of trackers detected: 20 <br>
 
 #### jd.com
 End URL: `https://corporate.jd.com/home` <br>
-IP Address: 211.144.24.218 <br>
+IP Address: 106.39.171.134 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -625,7 +625,7 @@ Number of trackers detected: 1 <br>
 
 #### salesforce.com
 End URL: `https://www.salesforce.com/?bc=HL` <br>
-IP Address: 184.31.3.130 <br>
+IP Address: 104.109.10.129 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 67 <br>
@@ -633,7 +633,7 @@ Number of trackers detected: 67 <br>
 
 #### medium.com
 End URL: `https://medium.com/` <br>
-IP Address: 162.159.152.4 <br>
+IP Address: 162.159.153.4 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 28 <br>
@@ -657,7 +657,7 @@ Number of trackers detected: 24 <br>
 
 #### wellsfargo.com
 End URL: `https://www.wellsfargo.com/` <br>
-IP Address: 159.45.66.143 <br>
+IP Address: 159.45.2.143 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 13 <br>
@@ -665,7 +665,7 @@ Number of trackers detected: 13 <br>
 
 #### google.com.hk
 End URL: `http://www.google.com.hk/` <br>
-IP Address: 142.251.111.94 <br>
+IP Address: 142.251.116.94 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -673,7 +673,7 @@ Number of trackers detected: 0 <br>
 
 #### imdb.com
 End URL: `https://www.imdb.com/` <br>
-IP Address: 52.94.225.248 <br>
+IP Address: 52.94.228.167 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -697,7 +697,7 @@ Number of trackers detected: 68 <br>
 
 #### cnn.com
 End URL: `https://www.cnn.com/` <br>
-IP Address: 151.101.195.5 <br>
+IP Address: 151.101.67.5 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 651 <br>
@@ -721,15 +721,15 @@ Number of trackers detected: 2 <br>
 
 #### nic.ru
 End URL: `https://www.nic.ru/` <br>
-IP Address: 31.177.76.4 <br>
-HTTPS: False <br>
+IP Address: 31.177.80.4 <br>
+HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 24 <br>
+Number of trackers detected: 34 <br>
 
 
 #### yahoo.co.jp
 End URL: `https://www.yahoo.co.jp:443/` <br>
-IP Address: 183.79.217.124 <br>
+IP Address: 183.79.250.251 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 26 <br>
@@ -737,29 +737,29 @@ Number of trackers detected: 26 <br>
 
 #### fandom.com
 End URL: `https://www.fandom.com/` <br>
-IP Address: 151.101.64.194 <br>
+IP Address: 151.101.192.194 <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 116 <br>
+Number of trackers detected: 118 <br>
 ### Statistics for each tracker domain
-adjust.com: 74<br>
-cs.co: 306<br>
-t.co: 1413<br>
+adjust.com: 71<br>
+cs.co: 310<br>
+t.co: 1410<br>
 2mdn.net: 2<br>
-doubleclick.net: 301<br>
-google-analytics.com: 327<br>
-googlesyndication.com: 96<br>
-googletagservices.com: 92<br>
+doubleclick.net: 327<br>
+google-analytics.com: 321<br>
+googlesyndication.com: 98<br>
+googletagservices.com: 114<br>
 ssl.google-analytics.com: 22<br>
-www.google-analytics.com: 134<br>
-www.googletagservices.com: 48<br>
+www.google-analytics.com: 131<br>
+www.googletagservices.com: 59<br>
 securepubads.g.doubleclick.net: 19<br>
 ad.style: 5<br>
 content.ad: 3<br>
 googleadservices.com: 40<br>
-googletagmanager.com: 433<br>
-props.id: 24<br>
-www.googletagmanager.com: 219<br>
+googletagmanager.com: 425<br>
+props.id: 26<br>
+www.googletagmanager.com: 215<br>
 adform.net: 90<br>
 adition.com: 90<br>
 adnxs.com: 129<br>
@@ -793,22 +793,22 @@ target.microsoft.com: 28<br>
 stats.wp.com: 22<br>
 ads.pinterest.com: 2<br>
 log.pinterest.com: 2<br>
-adman.otenet.gr: 2<br>
-adserver.html.it: 2<br>
-hotlog.ru: 2<br>
-interactive.forthnet.gr: 2<br>
+adman.otenet.gr: 3<br>
+adserver.html.it: 3<br>
+hotlog.ru: 3<br>
+interactive.forthnet.gr: 3<br>
 jsecoin.com: 1<br>
 marketing.net.brillen.de: 1<br>
-top.mail.ru: 2<br>
-webads.nl: 2<br>
-weborama.fr: 2<br>
+top.mail.ru: 3<br>
+webads.nl: 3<br>
+weborama.fr: 3<br>
 ads-twitter.com: 28<br>
 adsrvr.org: 14<br>
 tns-counter.ru: 82<br>
 yadro.ru: 82<br>
 optimizely.com: 17<br>
-js-agent.newrelic.com: 24<br>
-nr-data.net: 24<br>
+js-agent.newrelic.com: 19<br>
+nr-data.net: 19<br>
 ads.tiktok.com: 1<br>
 bat.bing.com: 21<br>
 t.eloqua.com: 11<br>
@@ -820,7 +820,8 @@ analytics.google.com: 1<br>
 bizographics.com: 3<br>
 viglink.com: 3<br>
 anrdoezrs.net: 9<br>
-trafficfactory.biz: 57<br>
+litix.io: 1<br>
+trafficfactory.biz: 56<br>
 realsrv.com: 1<br>
 crazyegg.com: 9<br>
 foresee.com: 8<br>
@@ -830,10 +831,10 @@ et.nytimes.com: 24<br>
 go-mpulse.net: 84<br>
 openx.net: 37<br>
 zemanta.com: 1<br>
-ads2.contentabc.com: 40<br>
-adtng.com: 39<br>
-etahub.com: 39<br>
-trafficjunky.net: 39<br>
+ads2.contentabc.com: 39<br>
+adtng.com: 38<br>
+etahub.com: 38<br>
+trafficjunky.net: 38<br>
 evergage.com: 20<br>
 krxd.net: 44<br>
 1rx.io: 12<br>
@@ -915,5 +916,5 @@ beemray.com: 1<br>
 ads.adfox.ru: 1<br>
 ads.yahoo.com: 1<br>
 moatads.com: 1<br>
-fastly-insights.com: 7<br>
+fastly-insights.com: 8<br>
 sail-horizon.com: 1<br>
