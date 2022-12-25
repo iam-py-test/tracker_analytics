@@ -21,11 +21,6 @@ data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_
 trackers_found_obj = {}
 
 # functions
-def getIP(domain):
-	try:
-		return socket.gethostbyname(domain)
-	except:
-		return "Unknown"
 def hasHTTPS(domain):
 	try:
 		requests.get("https://{}".format(domain),allow_redirects=False)
@@ -38,13 +33,12 @@ def hastrackers(html,d=""):
 	report = {"total":0,"has_trackers":False}
 	try:				 
 			if d in trackerdomains:
-						print("direct",d)
-						report["total"] += 1
-						report["has_trackers"] = True
-						if d not in trackers_found_obj:
-							trackers_found_obj[d] = 0
-						trackers_found_obj[d] += 1
-						return report
+				report["total"] += 1
+				report["has_trackers"] = True
+				if d not in trackers_found_obj:
+					trackers_found_obj[d] = 0
+				trackers_found_obj[d] += 1
+				return report
 	except:
 			pass
 	soup = BeautifulSoup(html,'html.parser')
@@ -64,29 +58,33 @@ def hastrackers(html,d=""):
 		soup = BeautifulSoup(html,'html.parser')
 		scripts = soup.find_all("script")
 		for script in scripts:
+			hassrc = False
 			try:
 				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
 				domain = urlparse(srcurl).netloc
+				hassrc = True
 				if domain in trackerdomains and domain != "":
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-				if domain != "" and domain not in excluded_scripts and domain != None:
+				elif domain != "" and domain not in excluded_scripts and domain != None:
 					maybetracker_contents = requests.get(srcurl).text
-					if len(maybetracker_contents) > 5:
+					if len(maybetracker_contents) > 6:
 						for tracker_domain in trackerdomains:
 								if tracker_domain in maybetracker_contents and tracker_domain != "":
-									print("remote contents",tracker_domain)
 									report["total"] += 1
 									report["has_trackers"] = True
 									if tracker_domain not in trackers_found_obj:
 										trackers_found_obj[tracker_domain] = 0
 									trackers_found_obj[tracker_domain] += 1
+									break
 			except Exception as err:
-				print(err)
+				pass
 			try:
+				if hassrc == True:
+					continue
 				maybetracker_contents = script.content
 				if len(maybetracker_contents) > 5:
 					for tracker_domain in trackerdomains:
@@ -98,7 +96,7 @@ def hastrackers(html,d=""):
 									trackers_found_obj[tracker_domain] = 0
 								trackers_found_obj[tracker_domain] += 1
 			except Exception as err:
-				print(err)
+				pass
 		return report
 		
 	except:
@@ -108,11 +106,9 @@ def hastrackers(html,d=""):
 		
 
 for domain in latest_top:
-	if domain in malwaredomains:
-		print("Avoided going to malware domain '{}'".format(domain))
-	elif domain in disalloweddomains:
-		print("Disallowed domain {} avoided".format(domain))
-	elif domain not in malwaredomains:
+	if domain in malwaredomains or domain in disalloweddomains:
+		print("Avoided going to domain '{}'".format(domain))
+	else:
 		try:
 			req = requests.get("http://{}".format(domain))
 			data["domains_tested"] += 1
@@ -122,7 +118,7 @@ for domain in latest_top:
 			hassec = hasHTTPS(domain)
 			if hassec:
 				data["domains_with_HTTPS"] += 1
-			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"ip":getIP(domain),"total":domainreport["total"],"endurl":req.url}
+			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"total":domainreport["total"],"endurl":req.url}
 		except Exception as err:
 			pass
 
@@ -136,7 +132,6 @@ with open("report.md","w") as f:
 	for entry in data["per_domain_stats"]:
 		f.write("\n\n\n#### {}".format(entry))
 		f.write("\nEnd URL: `{}` <br>".format(data["per_domain_stats"][entry]["endurl"]))
-		f.write("\nIP Address: {} <br>".format(data["per_domain_stats"][entry]["ip"]))
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
 		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
 		f.write("\nNumber of trackers detected: {} <br>".format(data["per_domain_stats"][entry]["total"]))
