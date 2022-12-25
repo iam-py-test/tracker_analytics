@@ -135,7 +135,7 @@ with open("report.md","w") as f:
 	
 	for entry in data["per_domain_stats"]:
 		f.write("\n\n\n#### {}".format(entry))
-		f.write("\nEnd URL: `{}` <br>".format(data["endurl"]))
+		f.write("\nEnd URL: `{}` <br>".format(data["per_domain_stats"][entry]["endurl"]))
 		f.write("\nIP Address: {} <br>".format(data["per_domain_stats"][entry]["ip"]))
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
 		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
