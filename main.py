@@ -18,6 +18,11 @@ disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly","bit.
 excluded_scripts = ["jquery.org"]
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
 
+try:
+	known_domains_list = open("kdl.txt",'r',encoding="UTF-8").read().split("\n")
+except:
+	known_domains_list = []
+
 trackers_found_obj = {}
 
 # functions
@@ -30,6 +35,7 @@ def hasHTTPS(domain):
 		return True
 def hastrackers(html,d=""):
 	global trackers_found_obj
+	global known_domains_list
 	report = {"total":0,"has_trackers":False}
 	try:				 
 			if d in trackerdomains:
@@ -52,6 +58,8 @@ def hastrackers(html,d=""):
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
+				if domain not in known_domains_list:
+					known_domains_list.append(domain)
 			except Exception as err:
 				pass
 	try:
@@ -63,6 +71,8 @@ def hastrackers(html,d=""):
 				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
 				domain = urlparse(srcurl).netloc
 				hassrc = True
+				if domain not in known_domains_list:
+					known_domains_list.append(domain)
 				if domain in trackerdomains and domain != "":
 						report["total"] += 1
 						report["has_trackers"] = True
@@ -140,3 +150,6 @@ with open("report.md","w") as f:
 	for trackerf in trackers_found_obj:
 		f.write("{}: {}<br>\n".format(trackerf,trackers_found_obj[trackerf]))
 	f.close()
+kdl_out = open("kdl.txt",'w',encoding="UTF-8")
+kdl_out.write("\n".join(known_domains_list))
+kdl_out.close()
