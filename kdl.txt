@@ -273,3 +273,7 @@ yandex.net
 cse.google.com
 apache.org
 lencr.org
+static.zdassets.com
+st6-22.vk.com
+domains.google.com
+googledomains.com
