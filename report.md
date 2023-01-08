@@ -1,6 +1,8 @@
 ## Tracker report
+Tried to test 120 domains<br>
 91 domains tested <br>
-80 of the domains tested used known trackers <br>
+Failed to test 29 domains <br>
+81 of the domains tested used known trackers <br>
 87 of the domains tested supported HTTPS <br>
 
 
@@ -61,13 +63,6 @@ End URL: `https://www.instagram.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 63 <br>
-
-
-#### baidu.com
-End URL: `http://baidu.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### apple.com
@@ -214,7 +209,7 @@ Number of trackers detected: 82 <br>
 End URL: `https://www.reddit.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 30 <br>
+Number of trackers detected: 31 <br>
 
 
 #### whatsapp.com
@@ -270,7 +265,7 @@ Number of trackers detected: 13 <br>
 End URL: `https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 23 <br>
 
 
 #### goo.gl
@@ -281,7 +276,7 @@ Number of trackers detected: 5 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=1f64a473-1e10-4c26-892e-64119bf990a1&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=ecf2cf40-438c-43b0-95de-54611e1a586b&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -299,6 +294,13 @@ End URL: `https://dotnet.microsoft.com/en-us/` <br>
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 16 <br>
+
+
+#### bit.ly
+End URL: `https://bitly.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 11 <br>
 
 
 #### intuit.com
@@ -396,14 +398,14 @@ Number of trackers detected: 39 <br>
 End URL: `https://www.tumblr.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 4 <br>
 
 
 #### weibo.com
 End URL: `https://weibo.com/us` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 15 <br>
+Number of trackers detected: 14 <br>
 
 
 #### paypal.com
@@ -445,7 +447,7 @@ Number of trackers detected: 9 <br>
 End URL: `https://www.nih.gov/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 15 <br>
+Number of trackers detected: 13 <br>
 
 
 #### zemanta.com
@@ -571,7 +573,7 @@ Number of trackers detected: 14 <br>
 End URL: `https://www.ebay.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 31 <br>
+Number of trackers detected: 30 <br>
 
 
 #### salesforce.com
@@ -610,7 +612,7 @@ Number of trackers detected: 0 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1&uuid=12e130ce-3826-4cd7-a70b-8509ba7bd698` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1&uuid=c5d5c95e-a337-4f78-bcd9-9e0e49f9da39` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -643,11 +645,12 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
 ### Statistics for each tracker domain
-t.co: 817<br>
+t.co: 819<br>
 2mdn.net: 2<br>
 ad.style: 5<br>
+pxf.io: 2<br>
 adform.net: 90<br>
-cs.co: 134<br>
+cs.co: 133<br>
 ads.linkedin.com: 18<br>
 2o7.net: 4<br>
 media.net: 17<br>
@@ -662,9 +665,9 @@ advertising.com: 1<br>
 skimresources.com: 1<br>
 go-mpulse.net: 33<br>
 demdex.net: 5<br>
-adjust.com: 9<br>
-googletagmanager.com: 56<br>
-www.googletagmanager.com: 3<br>
+adjust.com: 10<br>
+googletagmanager.com: 63<br>
+www.googletagmanager.com: 4<br>
 stats.wp.com: 2<br>
 ads.pinterest.com: 1<br>
 ads-twitter.com: 2<br>
@@ -673,8 +676,8 @@ js-agent.newrelic.com: 7<br>
 ads.tiktok.com: 1<br>
 bat.bing.com: 17<br>
 target.microsoft.com: 1<br>
+content.ad: 2<br>
 tags.tiqcdn.com: 1<br>
-content.ad: 1<br>
 mmstat.com: 3<br>
 bizographics.com: 3<br>
 realsrv.com: 1<br>
@@ -694,7 +697,7 @@ www.googletagservices.com: 1<br>
 quantserve.com: 1<br>
 fastly-insights.com: 1<br>
 cdn.branch.io: 1<br>
-adlightning.com: 25<br>
+adlightning.com: 24<br>
 googlesyndication.com: 2<br>
 ssl.google-analytics.com: 1<br>
 adswizz.com: 1<br>

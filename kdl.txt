@@ -280,3 +280,6 @@ googledomains.com
 static-ss.xvideos-cdn.com
 st6-20.vk.com
 hbo.com
+bit.ly
+docrdsfx76ssb.cloudfront.net
+bitly.com
