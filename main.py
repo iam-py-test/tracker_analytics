@@ -5,18 +5,22 @@ from bs4 import BeautifulSoup
 from tranco import Tranco
 from urllib.parse import urlparse
 
+DOMAINS_TO_SCAN = 120
+
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
-latest_top = t.list().top(120)
+latest_top = t.list().top(DOMAINS_TO_SCAN)
 extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
-# don't visit ip loggers & adfly
-disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly","bit.ly"]
+# don't visit ip loggers, adf.ly, etc
+disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly","lyksoomu.com","localhost"]
 # don't scan allowlisted scripts
-excluded_scripts = ["jquery.org"]
+excluded_scripts = ["code.jquery.com"]
 data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_domain_stats":{}}
+abletoscan = 0
+failedtoscan = 0
 
 try:
 	known_domains_list = open("kdl.txt",'r',encoding="UTF-8").read().split("\n")
@@ -118,6 +122,7 @@ def hastrackers(html,d=""):
 for domain in latest_top:
 	if domain in malwaredomains or domain in disalloweddomains:
 		print("Avoided going to domain '{}'".format(domain))
+		failedtoscan += 1
 	else:
 		try:
 			req = requests.get("http://{}".format(domain))
@@ -130,11 +135,13 @@ for domain in latest_top:
 				data["domains_with_HTTPS"] += 1
 			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"total":domainreport["total"],"endurl":req.url}
 		except Exception as err:
-			pass
+			failedtoscan += 1
 
 with open("report.md","w") as f:
 	f.write("## Tracker report\n")
+	f.write("Tried to test {} domains<br>\n".format(DOMAINS_TO_SCAN))
 	f.write("{} domains tested <br>\n".format(data["domains_tested"]))
+	f.write("Failed to test {} domains <br>\n".format(failedtoscan))
 	f.write("{} of the domains tested used known trackers <br>\n".format(data["domains_with_tracker"]))
 	f.write("{} of the domains tested supported HTTPS <br>\n".format(data["domains_with_HTTPS"]))
 	f.write("\n\n### Individual domain statistics: ")
