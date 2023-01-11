@@ -98,22 +98,6 @@ def hastrackers(html,d=""):
 									break
 			except Exception as err:
 				pass
-			try:
-				if hassrc == True:
-					continue
-				maybetracker_contents = script.content
-				if len(maybetracker_contents) > 5:
-					for tracker_domain in trackerdomains:
-							if tracker_domain in maybetracker_contents:
-								print("contents",tracker_domain)
-								report["total"] += 1
-								report["has_trackers"] = True
-								if tracker_domain not in trackers_found_obj:
-									trackers_found_obj[tracker_domain] = 0
-								trackers_found_obj[tracker_domain] += 1
-								break # not ideal, but slows down the script too much
-			except Exception as err:
-				pass
 		return report
 		
 	except:
