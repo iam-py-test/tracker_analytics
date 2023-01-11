@@ -22,6 +22,8 @@ data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_
 abletoscan = 0
 failedtoscan = 0
 
+errlog = open("err.log",'w')
+
 try:
 	known_domains_list = open("kdl.txt",'r',encoding="UTF-8").read().split("\n")
 except:
@@ -109,6 +111,7 @@ def hastrackers(html,d=""):
 								if tracker_domain not in trackers_found_obj:
 									trackers_found_obj[tracker_domain] = 0
 								trackers_found_obj[tracker_domain] += 1
+								break # not ideal, but slows down the script too much
 			except Exception as err:
 				pass
 		return report
@@ -136,6 +139,7 @@ for domain in latest_top:
 			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"total":domainreport["total"],"endurl":req.url}
 		except Exception as err:
 			failedtoscan += 1
+			errlog.write("[{}] {}\n".format(domain,err))
 
 with open("report.md","w") as f:
 	f.write("## Tracker report\n")
