@@ -284,3 +284,9 @@ bit.ly
 docrdsfx76ssb.cloudfront.net
 bitly.com
 st6-21.vk.com
+productreviews.shopifycdn.com
+maps.googleapis.com
+maps.gstatic.com
+monorail-edge.shopifysvc.com
+fraiche.com.mx
+cdn.shopify.com

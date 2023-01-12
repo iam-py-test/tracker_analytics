@@ -2,8 +2,8 @@
 Tried to test 120 domains<br>
 92 domains tested <br>
 Failed to test 28 domains <br>
-80 of the domains tested used known trackers <br>
-87 of the domains tested supported HTTPS <br>
+81 of the domains tested used known trackers <br>
+88 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -63,6 +63,13 @@ End URL: `https://www.instagram.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 63 <br>
+
+
+#### baidu.com
+End URL: `http://baidu.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### apple.com
@@ -128,18 +135,18 @@ Known trackers: True <br>
 Number of trackers detected: 39 <br>
 
 
+#### live.com
+End URL: `https://outlook.live.com/owa/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 6 <br>
+
+
 #### bing.com
 End URL: `http://www.bing.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 9 <br>
-
-
-#### live.com
-End URL: `https://www.microsoft.com/en/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 37 <br>
 
 
 #### googletagmanager.com
@@ -163,18 +170,18 @@ Known trackers: True <br>
 Number of trackers detected: 11 <br>
 
 
-#### fastly.net
-End URL: `https://www.fastly.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 21 <br>
-
-
 #### pinterest.com
 End URL: `https://www.pinterest.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 14 <br>
+
+
+#### fastly.net
+End URL: `https://www.fastly.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 21 <br>
 
 
 #### github.com
@@ -226,6 +233,13 @@ Known trackers: True <br>
 Number of trackers detected: 8 <br>
 
 
+#### zhihu.com
+End URL: `https://www.zhihu.com/signin?next=%2F` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 8 <br>
+
+
 #### zoom.us
 End URL: `https://zoom.us/` <br>
 HTTPS: True <br>
@@ -233,11 +247,11 @@ Known trackers: True <br>
 Number of trackers detected: 35 <br>
 
 
-#### zhihu.com
-End URL: `https://www.zhihu.com/signin?next=%2F` <br>
+#### doubleclick.net
+End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 8 <br>
+Number of trackers detected: 1 <br>
 
 
 #### vimeo.com
@@ -254,13 +268,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### doubleclick.net
-End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### sharepoint.com
 End URL: `https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1` <br>
 HTTPS: True <br>
@@ -269,7 +276,7 @@ Number of trackers detected: 23 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=16927a8d-9f96-447b-bf85-afd108eae24a&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=83b833c0-c859-4841-aa94-24cfb1e12ef5&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -345,13 +352,6 @@ Known trackers: True <br>
 Number of trackers detected: 6 <br>
 
 
-#### cloudflare.net
-End URL: `https://cloudflare.net/home/default.aspx` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 15 <br>
-
-
 #### taobao.com
 End URL: `https://world.taobao.com` <br>
 HTTPS: True <br>
@@ -359,11 +359,11 @@ Known trackers: True <br>
 Number of trackers detected: 15 <br>
 
 
-#### 163.com
-End URL: `http://www.163.com/` <br>
+#### cloudflare.net
+End URL: `https://cloudflare.net/home/default.aspx` <br>
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 15 <br>
 
 
 #### myfritz.net
@@ -382,7 +382,7 @@ Number of trackers detected: 56 <br>
 
 #### msn.com
 End URL: `http://www.msn.com/` <br>
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -391,14 +391,14 @@ Number of trackers detected: 3 <br>
 End URL: `https://www.microsoft.com/en-us/microsoft-365?ms.url=office365com&rtc=1` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 39 <br>
+Number of trackers detected: 38 <br>
 
 
 #### tumblr.com
 End URL: `https://www.tumblr.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 1 <br>
 
 
 #### pornhub.com
@@ -412,6 +412,13 @@ Number of trackers detected: 46 <br>
 End URL: `https://weibo.com/us` <br>
 HTTPS: True <br>
 Known trackers: True <br>
+Number of trackers detected: 15 <br>
+
+
+#### paypal.com
+End URL: `https://www.paypal.com/us/home` <br>
+HTTPS: True <br>
+Known trackers: True <br>
 Number of trackers detected: 14 <br>
 
 
@@ -420,13 +427,6 @@ End URL: `https://outlook.live.com/owa/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 6 <br>
-
-
-#### paypal.com
-End URL: `https://www.paypal.com/us/home` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 14 <br>
 
 
 #### spotify.com
@@ -443,6 +443,13 @@ Known trackers: True <br>
 Number of trackers detected: 4 <br>
 
 
+#### googledomains.com
+End URL: `https://domains.google/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 11 <br>
+
+
 #### nih.gov
 End URL: `https://www.nih.gov/` <br>
 HTTPS: True <br>
@@ -457,13 +464,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### googledomains.com
-End URL: `https://domains.google/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 11 <br>
-
-
 #### europa.eu
 End URL: `https://european-union.europa.eu/select-language?destination=/node/1` <br>
 HTTPS: True <br>
@@ -475,14 +475,7 @@ Number of trackers detected: 1 <br>
 End URL: `https://www.nytimes.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 35 <br>
-
-
-#### icloud.com
-End URL: `https://www.icloud.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 8 <br>
+Number of trackers detected: 30 <br>
 
 
 #### skype.com
@@ -492,60 +485,18 @@ Known trackers: True <br>
 Number of trackers detected: 34 <br>
 
 
-#### digicert.com
-End URL: `https://www.digicert.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 13 <br>
-
-
-#### flickr.com
-End URL: `https://flickr.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 12 <br>
-
-
-#### webex.com
-End URL: `https://www.webex.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 24 <br>
-
-
 #### nic.ru
 End URL: `https://www.nic.ru/` <br>
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 11 <br>
 
 
-#### csdn.net
-End URL: `https://www.csdn.net/` <br>
+#### icloud.com
+End URL: `https://www.icloud.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 9 <br>
-
-
-#### fandom.com
-End URL: `https://www.fandom.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 15 <br>
-
-
-#### dropbox.com
-End URL: `https://www.dropbox.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 50 <br>
-
-
-#### jd.com
-End URL: `https://corporate.jd.com/home` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 8 <br>
 
 
 #### google-analytics.com
@@ -555,6 +506,62 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### csdn.net
+End URL: `https://www.csdn.net/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 9 <br>
+
+
+#### flickr.com
+End URL: `https://flickr.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 12 <br>
+
+
+#### digicert.com
+End URL: `https://www.digicert.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 13 <br>
+
+
+#### webex.com
+End URL: `https://www.webex.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 24 <br>
+
+
+#### jd.com
+End URL: `https://corporate.jd.com/home` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
+#### fandom.com
+End URL: `https://www.fandom.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 14 <br>
+
+
+#### dropbox.com
+End URL: `https://www.dropbox.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 49 <br>
+
+
+#### yandex.net
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1&uuid=59facd56-b6b8-403e-a16f-db49f312628b` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### sina.com.cn
 End URL: `https://www.sina.com.cn/` <br>
 HTTPS: True <br>
@@ -562,11 +569,11 @@ Known trackers: True <br>
 Number of trackers detected: 92 <br>
 
 
-#### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1&uuid=d966b832-09a4-48df-bfc6-adc97acafa71` <br>
+#### force.com
+End URL: `https://www.salesforce.com/products/platform/overview/?sfdc-redirect=300&bc=HL` <br>
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 31 <br>
 
 
 #### ebay.com
@@ -597,11 +604,11 @@ Known trackers: True <br>
 Number of trackers detected: 12 <br>
 
 
-#### force.com
-End URL: `https://www.salesforce.com/products/platform/overview/?sfdc-redirect=300&bc=HL` <br>
+#### canva.com
+End URL: `https://www.canva.com/` <br>
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 31 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### hbo.com
@@ -611,18 +618,11 @@ Known trackers: True <br>
 Number of trackers detected: 6 <br>
 
 
-#### canva.com
-End URL: `https://www.canva.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### salesforce.com
 End URL: `https://www.salesforce.com/?bc=HL` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 12 <br>
+Number of trackers detected: 14 <br>
 
 
 #### t.me
@@ -630,13 +630,6 @@ End URL: `https://telegram.org/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-
-
-#### comcast.net
-End URL: `https://www.xfinity.com/` <br>
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### soundcloud.com
@@ -651,13 +644,19 @@ End URL: `https://letsencrypt.org/docs/lencr.org/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+
+
+#### fraiche.com.mx
+End URL: `https://fraiche.com.mx/password` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 25 <br>
 ### Statistics for each tracker domain
-t.co: 845<br>
+t.co: 837<br>
 2mdn.net: 2<br>
-pxf.io: 1<br>
 ad.style: 5<br>
 adform.net: 90<br>
-cs.co: 134<br>
+cs.co: 135<br>
 ads.linkedin.com: 38<br>
 2o7.net: 4<br>
 media.net: 17<br>
@@ -693,19 +692,18 @@ ads2.contentabc.com: 39<br>
 anrdoezrs.net: 9<br>
 crazyegg.com: 9<br>
 zemanta.com: 1<br>
-als-svc.nytimes.com: 28<br>
-1rx.io: 12<br>
-omtrdc.net: 1<br>
+als-svc.nytimes.com: 24<br>
 adman.otenet.gr: 2<br>
 ads.adfox.ru: 1<br>
+google-analytics.com: 1<br>
+1rx.io: 12<br>
+omtrdc.net: 1<br>
 www.googletagservices.com: 1<br>
 quantserve.com: 1<br>
-fastly-insights.com: 1<br>
-google-analytics.com: 1<br>
+evergage.com: 2<br>
 adlightning.com: 25<br>
 googlesyndication.com: 2<br>
 cdn.branch.io: 1<br>
-evergage.com: 2<br>
 adsafeprotected.com: 1<br>
 ssl.google-analytics.com: 1<br>
 adswizz.com: 1<br>
