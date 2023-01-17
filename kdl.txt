@@ -290,3 +290,4 @@ maps.gstatic.com
 monorail-edge.shopifysvc.com
 fraiche.com.mx
 cdn.shopify.com
+openai.com
