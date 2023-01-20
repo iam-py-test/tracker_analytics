@@ -292,3 +292,4 @@ fraiche.com.mx
 cdn.shopify.com
 openai.com
 cdn.apple-cloudkit.com
+google.com.hk
