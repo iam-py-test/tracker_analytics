@@ -85,17 +85,6 @@ def hastrackers(html,d=""):
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-				elif domain != "" and domain not in excluded_scripts and domain != None:
-					maybetracker_contents = requests.get(srcurl).text
-					if len(maybetracker_contents) > 6:
-						for tracker_domain in trackerdomains:
-								if tracker_domain in maybetracker_contents and tracker_domain != "":
-									report["total"] += 1
-									report["has_trackers"] = True
-									if tracker_domain not in trackers_found_obj:
-										trackers_found_obj[tracker_domain] = 0
-									trackers_found_obj[tracker_domain] += 1
-									break
 			except Exception as err:
 				pass
 		return report
