@@ -294,3 +294,6 @@ openai.com
 cdn.apple-cloudkit.com
 google.com.hk
 r.bing.com
+roblox.com
+js.rbxcdn.com
+roblox-api.arkoselabs.com
