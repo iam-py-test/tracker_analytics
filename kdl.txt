@@ -297,3 +297,8 @@ r.bing.com
 roblox.com
 js.rbxcdn.com
 roblox-api.arkoselabs.com
+powerad.ai
+ic-ut-lm.xhcdn.com
+collector.xhamster.com
+static-lvlt.xhcdn.com
+xhamster.com
