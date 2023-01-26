@@ -302,3 +302,6 @@ ic-ut-lm.xhcdn.com
 collector.xhamster.com
 static-lvlt.xhcdn.com
 xhamster.com
+s.yimg.jp
+yads.c.yimg.jp
+yahoo.co.jp
