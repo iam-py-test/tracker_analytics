@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from tranco import Tranco
 from urllib.parse import urlparse
 
-DOMAINS_TO_SCAN = 120
+DOMAINS_TO_SCAN = 150
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
@@ -22,7 +22,7 @@ data = {"domains_tested":0,"domains_with_tracker":0,"domains_with_HTTPS":0,"per_
 abletoscan = 0
 failedtoscan = 0
 
-errlog = open("err.log",'w')
+errlog = open("/tmp/err.log",'w')
 
 try:
 	known_domains_list = open("kdl.txt",'r',encoding="UTF-8").read().split("\n")
@@ -43,7 +43,7 @@ def hastrackers(html,d=""):
 	global trackers_found_obj
 	global known_domains_list
 	report = {"total":0,"has_trackers":False}
-	try:				 
+	try:
 			if d in trackerdomains:
 				report["total"] += 1
 				report["has_trackers"] = True
