@@ -305,3 +305,6 @@ xhamster.com
 s.yimg.jp
 yads.c.yimg.jp
 yahoo.co.jp
+
+aliexpress.com
+assets.alicdn.com
