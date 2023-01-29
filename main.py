@@ -64,7 +64,7 @@ def hastrackers(html,d=""):
 						if domain not in trackers_found_obj:
 							trackers_found_obj[domain] = 0
 						trackers_found_obj[domain] += 1
-				if domain not in known_domains_list:
+				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
 			except Exception as err:
 				pass
@@ -77,7 +77,7 @@ def hastrackers(html,d=""):
 				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
 				domain = urlparse(srcurl).netloc
 				hassrc = True
-				if domain not in known_domains_list:
+				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
 				if domain in trackerdomains and domain != "":
 						report["total"] += 1
