@@ -399,3 +399,13 @@ stackoverflow.com
 cdn.sstatic.net
 quora.com
 qsc.cf2.quoracdn.net
+api.twitch.tv
+passport.twitch.tv
+static-cdn.jtvnw.net
+gql.twitch.tv
+cvp.twitch.tv
+irc-ws.chat.twitch.tv
+pubsub-edge.twitch.tv
+static.twitchcdn.net
+twitch.tv
+p.twitchcdn.net
