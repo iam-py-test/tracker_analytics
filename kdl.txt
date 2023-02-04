@@ -409,3 +409,4 @@ pubsub-edge.twitch.tv
 static.twitchcdn.net
 twitch.tv
 p.twitchcdn.net
+thumb-user.xhcdn.com

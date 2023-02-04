@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 150 domains<br>
-118 domains tested <br>
-Failed to test 32 domains <br>
+117 domains tested <br>
+Failed to test 33 domains <br>
 25 of the domains tested used known trackers <br>
 113 of the domains tested supported HTTPS <br>
 
@@ -58,13 +58,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### baidu.com
-End URL: `http://baidu.com/` <br>
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### cloudflare.com
 End URL: `https://www.cloudflare.com/` <br>
 HTTPS: True <br>
@@ -86,15 +79,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### netflix.com
-End URL: `https://www.netflix.com/` <br>
+#### wikipedia.org
+End URL: `https://www.wikipedia.org/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### wikipedia.org
-End URL: `https://www.wikipedia.org/` <br>
+#### netflix.com
+End URL: `https://www.netflix.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -262,7 +255,7 @@ Number of trackers detected: 0 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=8d99e16c-b96b-4f31-81e7-13c54f0df95c&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=583aa16e-5fa6-4dfe-ac6a-d44ef234d9e4&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -275,18 +268,18 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### sharepoint.com
-End URL: `https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### wordpress.com
 End URL: `https://wordpress.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### sharepoint.com
+End URL: `https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### goo.gl
@@ -303,18 +296,18 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### vk.com
-End URL: `https://m.vk.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### intuit.com
 End URL: `https://www.intuit.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### vk.com
+End URL: `https://m.vk.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### windows.net
@@ -352,6 +345,13 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### openai.com
+End URL: `https://openai.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### xvideos.com
 End URL: `https://www.xvideos.com/` <br>
 HTTPS: True <br>
@@ -364,13 +364,6 @@ End URL: `https://www.blogger.com/about/?bpli=1` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### openai.com
-End URL: `https://openai.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 
 
 #### mozilla.org
@@ -422,18 +415,18 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### tumblr.com
-End URL: `https://www.tumblr.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### taobao.com
 End URL: `https://world.taobao.com` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### tumblr.com
+End URL: `https://www.tumblr.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### paypal.com
@@ -451,7 +444,7 @@ Number of trackers detected: 0 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1675455584.52199&uuid=883f8b6a-9aa2-4074-a7a3-e108fad753b1` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1675541926.02336&uuid=9d8905a4-536f-4620-9a84-32d365427829` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -541,15 +534,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### flickr.com
-End URL: `https://flickr.com/` <br>
+#### dropbox.com
+End URL: `https://www.dropbox.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### dropbox.com
-End URL: `https://www.dropbox.com/` <br>
+#### flickr.com
+End URL: `https://flickr.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -562,13 +555,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### zemanta.com
-End URL: `https://www.zemanta.com:443/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### medium.com
 End URL: `https://medium.com/` <br>
 HTTPS: True <br>
@@ -576,8 +562,22 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### zemanta.com
+End URL: `https://www.zemanta.com:443/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### ebay.com
 End URL: `https://www.ebay.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### jd.com
+End URL: `https://corporate.jd.com/home` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -597,43 +597,8 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### jd.com
-End URL: `https://corporate.jd.com/home` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### gravatar.com
 End URL: `https://en.gravatar.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### hbo.com
-End URL: `https://www.hbo.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### salesforce.com
-End URL: `https://www.salesforce.com/?bc=HL` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### yahoo.co.jp
-End URL: `https://www.yahoo.co.jp:443/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### naver.com
-End URL: `https://www.naver.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -646,8 +611,8 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### sina.com.cn
-End URL: `https://www.sina.com.cn/` <br>
+#### naver.com
+End URL: `https://www.naver.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -660,11 +625,32 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### soundcloud.com
-End URL: `https://soundcloud.com/` <br>
+#### yahoo.co.jp
+End URL: `https://www.yahoo.co.jp:443/` <br>
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### salesforce.com
+End URL: `https://www.salesforce.com/?bc=HL` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### sina.com.cn
+End URL: `https://www.sina.com.cn/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### hbo.com
+End URL: `https://www.hbo.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### aliexpress.com
@@ -672,6 +658,13 @@ End URL: `https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+
+
+#### soundcloud.com
+End URL: `https://soundcloud.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### lencr.org
@@ -752,7 +745,7 @@ Number of trackers detected: 0 <br>
 
 
 #### dzen.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=2d9a58f7-d7e5-43d6-a206-bbd77b0f30b6&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=adfabc41-c017-4da5-9672-d39099717c2a&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -772,13 +765,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### meraki.com
-End URL: `https://meraki.cisco.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### theguardian.com
 End URL: `https://www.theguardian.com/us` <br>
 HTTPS: True <br>
@@ -786,11 +772,18 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### w3.org
-End URL: `https://www.w3.org/` <br>
+#### meraki.com
+End URL: `https://meraki.cisco.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+
+
+#### stackoverflow.com
+End URL: `https://stackoverflow.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### bbc.com
@@ -800,11 +793,11 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### stackoverflow.com
-End URL: `https://stackoverflow.com/` <br>
+#### w3.org
+End URL: `https://www.w3.org/` <br>
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### gstatic.com
