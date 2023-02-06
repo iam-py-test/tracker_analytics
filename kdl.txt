@@ -410,3 +410,8 @@ static.twitchcdn.net
 twitch.tv
 p.twitchcdn.net
 thumb-user.xhcdn.com
+v16.tiktokcdn.com
+p16-va.tiktokcdn.com
+s20.tiktokcdn.com
+tiktok.com
+lf16-tiktok-web.tiktokcdn-us.com
