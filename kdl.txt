@@ -415,3 +415,4 @@ p16-va.tiktokcdn.com
 s20.tiktokcdn.com
 tiktok.com
 lf16-tiktok-web.tiktokcdn-us.com
+myshopify.com
