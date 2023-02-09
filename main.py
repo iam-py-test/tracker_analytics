@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from tranco import Tranco
 from urllib.parse import urlparse
 
-DOMAINS_TO_SCAN = 150
+DOMAINS_TO_SCAN = 160
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
