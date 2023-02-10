@@ -1,9 +1,9 @@
 ## Tracker report
-Tried to test 150 domains<br>
-117 domains tested <br>
-Failed to test 33 domains <br>
+Tried to test 160 domains<br>
+126 domains tested <br>
+Failed to test 34 domains <br>
 24 of the domains tested used known trackers <br>
-113 of the domains tested supported HTTPS <br>
+122 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -262,7 +262,7 @@ Number of trackers detected: 0 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=04ce4a2a-02f9-40c3-9958-fabf30157b39&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=0ba80a8e-9f98-45c6-aa9d-c60b8db88061&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -360,7 +360,7 @@ Number of trackers detected: 0 <br>
 
 
 #### xvideos.com
-End URL: `http://xvideos.com/` <br>
+End URL: `https://www.xvideos.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -465,7 +465,7 @@ Number of trackers detected: 0 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1675973594.72125&uuid=3c91fd04-c6fb-462d-9366-f7135c4b281f` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1675987275.8702&uuid=37f0c839-d756-4c6a-ac50-3deb7aa94a4e` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -766,7 +766,7 @@ Number of trackers detected: 1 <br>
 
 
 #### dzen.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=87ba6652-e44e-40cd-be1f-1f6e939cafa1&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=653594ae-1bc2-48e6-b9f0-1836a22994d0&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -823,6 +823,69 @@ Number of trackers detected: 0 <br>
 
 #### forms.gle
 End URL: `https://forms.gle/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### twitch.tv
+End URL: `https://www.twitch.tv/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### indeed.com
+End URL: `http://indeed.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### douban.com
+End URL: `http://douban.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### bbc.co.uk
+End URL: `https://www.bbc.co.uk/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### booking.com
+End URL: `https://www.booking.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### googleapis.com
+End URL: `http://googleapis.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### etsy.com
+End URL: `https://www.etsy.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### sciencedirect.com
+End URL: `http://sciencedirect.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### fbcdn.net
+End URL: `https://www.facebook.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>

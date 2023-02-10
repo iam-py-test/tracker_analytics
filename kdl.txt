@@ -416,3 +416,11 @@ s20.tiktokcdn.com
 tiktok.com
 lf16-tiktok-web.tiktokcdn-us.com
 myshopify.com
+indeed.com
+bbc.co.uk
+cf.bstatic.com
+booking.com
+etsy.com
+www.etsy.com
+sciencedirect.com
+fbcdn.net
