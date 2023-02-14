@@ -427,3 +427,15 @@ images-eu.ssl-images-amazon.com
 m.media-amazon.com
 completion.amazon.com
 amazon.in
+c.s-microsoft.com
+analytics.tiktok.com
+bat.bing.com
+cdnssl.clicktale.net
+d.impactradius-event.com
+www.clarity.ms
+fpt.microsoft.com
+publisher.liveperson.net
+accdn.lpsnmedia.net
+lpcdn.lpsnmedia.net
+lptag.liveperson.net
+sf16-website-login.neutral.ttwstatic.com
