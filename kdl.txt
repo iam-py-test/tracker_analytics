@@ -439,3 +439,5 @@ accdn.lpsnmedia.net
 lpcdn.lpsnmedia.net
 lptag.liveperson.net
 sf16-website-login.neutral.ttwstatic.com
+sm.dell.com
+www.dell.com
