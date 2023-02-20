@@ -441,3 +441,11 @@ lptag.liveperson.net
 sf16-website-login.neutral.ttwstatic.com
 sm.dell.com
 www.dell.com
+cache.video.iqiyi.com
+pcw-api.iqiyi.com
+msg.qy.net
+datax.baidu.com
+static.iqiyi.com
+static-s.iqiyi.com
+iqiyi.com
+stc.iqiyipic.com
