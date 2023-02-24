@@ -449,3 +449,4 @@ static.iqiyi.com
 static-s.iqiyi.com
 iqiyi.com
 stc.iqiyipic.com
+amazon.co.uk
