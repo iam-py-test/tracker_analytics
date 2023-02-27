@@ -454,3 +454,6 @@ fjord.dropboxstatic.com
 aem.dropbox.com
 consent.dropbox.com
 snapengage.dropbox.com
+js-eu1.hs-scripts.com
+datadoghq.com
+www.datadoghq.com
