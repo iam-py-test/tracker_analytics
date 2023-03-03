@@ -457,3 +457,7 @@ snapengage.dropbox.com
 js-eu1.hs-scripts.com
 datadoghq.com
 www.datadoghq.com
+img.alicdn.com
+sg.mmstat.com
+gw.alicdn.com
+aliyun.com
