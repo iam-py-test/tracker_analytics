@@ -461,3 +461,5 @@ img.alicdn.com
 sg.mmstat.com
 gw.alicdn.com
 aliyun.com
+www.fastly.com
+lp.datadoghq.com
