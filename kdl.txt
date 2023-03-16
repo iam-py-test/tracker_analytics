@@ -463,3 +463,9 @@ gw.alicdn.com
 aliyun.com
 www.fastly.com
 lp.datadoghq.com
+res.wx.qq.com
+xiaoeknow.com
+sdk.xiaoeknow.com
+qiyukf.com
+wework-1252524126.file.myqcloud.com
+ssl.captcha.qq.com
