@@ -469,3 +469,5 @@ sdk.xiaoeknow.com
 qiyukf.com
 wework-1252524126.file.myqcloud.com
 ssl.captcha.qq.com
+atg.se
+platform.instagram.com
