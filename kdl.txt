@@ -472,3 +472,4 @@ ssl.captcha.qq.com
 atg.se
 platform.instagram.com
 static-cdn77.xvideos-cdn.com
+i.etsystatic.com
