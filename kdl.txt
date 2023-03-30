@@ -475,3 +475,4 @@ static-cdn77.xvideos-cdn.com
 i.etsystatic.com
 players.brightcove.net
 salesforceliveagent.com
+ownit.se
