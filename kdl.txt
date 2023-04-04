@@ -476,3 +476,4 @@ i.etsystatic.com
 players.brightcove.net
 salesforceliveagent.com
 ownit.se
+shopify.com
