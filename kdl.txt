@@ -477,3 +477,4 @@ players.brightcove.net
 salesforceliveagent.com
 ownit.se
 shopify.com
+static01.nyt.com
