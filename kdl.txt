@@ -478,3 +478,4 @@ salesforceliveagent.com
 ownit.se
 shopify.com
 static01.nyt.com
+staticview.msn.com
