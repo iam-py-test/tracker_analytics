@@ -479,3 +479,5 @@ ownit.se
 shopify.com
 static01.nyt.com
 staticview.msn.com
+pricegrabber.com
+s4.cnnx.io
