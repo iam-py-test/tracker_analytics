@@ -177,6 +177,13 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### doubleclick.net
+End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### googlevideo.com
 End URL: `http://www.google.com/videohp` <br>
 HTTPS: False <br>
@@ -191,15 +198,8 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### doubleclick.net
-End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=49983` <br>
+End URL: `https://www.reddit.com/?rdt=54929` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -261,15 +261,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=42801bf5-6e2d-4ac6-9a55-6ed00cfb3c1a&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+#### vimeo.com
+End URL: `https://vimeo.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### vimeo.com
-End URL: `https://vimeo.com/` <br>
+#### yandex.ru
+End URL: `https://sso.passport.yandex.ru/push?uuid=a044be7b-e25b-4ebe-ad6c-188afd627413&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -401,25 +401,18 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### mozilla.org
-End URL: `https://www.mozilla.org/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### atg.se
-End URL: `https://www.atg.se/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### google-analytics.com
 End URL: `https://marketingplatform.google.com/about/analytics/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### mozilla.org
+End URL: `https://www.mozilla.org/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### fbcdn.net
@@ -430,7 +423,14 @@ Number of trackers detected: 0 <br>
 
 
 #### weibo.com
-End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.28.2&_rand=1681416715912&sudaref=` <br>
+End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.28.2&_rand=1681503179103&sudaref=` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### atg.se
+End URL: `https://www.atg.se/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -513,15 +513,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### myfritz.net
-End URL: `https://www.myfritz.net/devices/` <br>
+#### ebay.com
+End URL: `https://www.ebay.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### ebay.com
-End URL: `https://www.ebay.com/` <br>
+#### myfritz.net
+End URL: `https://www.myfritz.net/devices/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -556,7 +556,14 @@ Number of trackers detected: 0 <br>
 
 
 #### sina.com.cn
-End URL: `https://www.sina.com.cn/?from=kandian` <br>
+End URL: `https://www.sina.com.cn/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### yandex.net
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1681503749.00000&uuid=43cc6a39-c3b5-4341-90ba-b7fa50f69718` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -564,13 +571,6 @@ Number of trackers detected: 0 <br>
 
 #### nic.ru
 End URL: `https://www.nic.ru/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1681417290.00000&uuid=9d9aea8d-213a-427b-bf57-5ba0bb2f330f` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -625,15 +625,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### naver.com
-End URL: `https://www.naver.com/` <br>
+#### t.me
+End URL: `https://telegram.org/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### t.me
-End URL: `https://telegram.org/` <br>
+#### naver.com
+End URL: `https://www.naver.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -713,7 +713,7 @@ Number of trackers detected: 2 <br>
 End URL: `https://www.cnn.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### archive.org
@@ -737,20 +737,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### comcast.net
-End URL: `https://www.xfinity.com/` <br>
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### zemanta.com
-End URL: `https://www.zemanta.com:443/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### sohu.com
 End URL: `https://www.sohu.com/` <br>
 HTTPS: True <br>
@@ -758,8 +744,8 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### dnsmadeeasy.com
-End URL: `https://dnsmadeeasy.com/` <br>
+#### zemanta.com
+End URL: `https://www.zemanta.com:443/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -772,6 +758,27 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### dnsmadeeasy.com
+End URL: `https://dnsmadeeasy.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
+#### comcast.net
+End URL: `https://www.xfinity.com/` <br>
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### health.mil
+End URL: `https://health.mil/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### iqiyi.com
 End URL: `https://www.iqiyi.com/` <br>
 HTTPS: True <br>
@@ -779,15 +786,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### quora.com
-End URL: `https://www.quora.com/` <br>
+#### forms.gle
+End URL: `https://forms.gle/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### forms.gle
-End URL: `https://forms.gle/` <br>
+#### quora.com
+End URL: `https://de.quora.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -802,13 +809,6 @@ Number of trackers detected: 0 <br>
 
 #### stackoverflow.com
 End URL: `https://stackoverflow.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
-#### health.mil
-End URL: `https://health.mil/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -870,13 +870,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### amazon.co.uk
-End URL: `https://www.amazon.co.uk/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### etsy.com
 End URL: `https://www.etsy.com/` <br>
 HTTPS: True <br>
@@ -884,8 +877,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### meraki.com
-End URL: `https://meraki.cisco.com/` <br>
+#### amazon.co.uk
+End URL: `https://www.amazon.co.uk/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### sciencedirect.com
+End URL: `http://sciencedirect.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -905,5 +905,6 @@ www.google-analytics.com: 4<br>
 ads2.contentabc.com: 1<br>
 www.googletagservices.com: 2<br>
 ssl.google-analytics.com: 1<br>
+securepubads.g.doubleclick.net: 1<br>
 zemanta.com: 1<br>
 mybbc-analytics.files.bbci.co.uk: 1<br>

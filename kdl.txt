@@ -482,3 +482,13 @@ staticview.msn.com
 pricegrabber.com
 s4.cnnx.io
 health.mil
+cdn.optimizely.com
+get.s-onetag.com
+ib.adnxs.com
+widgets.outbrain.com
+odb.outbrain.com
+cdn.adsafeprotected.com
+securepubads.g.doubleclick.net
+registry.api.cnn.io
+a.jsrdn.com
+static.chartbeat.com
