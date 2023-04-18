@@ -492,3 +492,4 @@ securepubads.g.doubleclick.net
 registry.api.cnn.io
 a.jsrdn.com
 static.chartbeat.com
+dc.services.visualstudio.com
