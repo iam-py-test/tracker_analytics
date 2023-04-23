@@ -3,7 +3,7 @@ Tried to test 160 domains<br>
 125 domains tested <br>
 Failed to test 35 domains <br>
 24 of the domains tested used known trackers <br>
-122 of the domains tested supported HTTPS <br>
+121 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -66,7 +66,7 @@ Number of trackers detected: 0 <br>
 
 
 #### instagram.com
-End URL: `https://www.instagram.com/` <br>
+End URL: `https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.instagram.com%252F%26__coig_login%3D1` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -192,17 +192,10 @@ Number of trackers detected: 0 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=52747` <br>
+End URL: `https://www.reddit.com/?rdt=35014` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### doubleclick.net
-End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 
 
 #### pinterest.com
@@ -226,6 +219,13 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### doubleclick.net
+End URL: `https://marketingplatform.google.com/about/enterprise/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### youtu.be
 End URL: `https://www.youtube.com/?feature=youtu.be` <br>
 HTTPS: True <br>
@@ -240,15 +240,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### zoom.us
-End URL: `https://zoom.us/` <br>
+#### fastly.net
+End URL: `https://www.fastly.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### fastly.net
-End URL: `https://www.fastly.com/` <br>
+#### zoom.us
+End URL: `https://zoom.us/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -269,14 +269,7 @@ Number of trackers detected: 0 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=455a6772-45c7-495b-951c-35bb022d47ab&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### algolia.net
-End URL: `http://algolia.net/` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=a6a7bf6c-6c71-4aa8-95e2-27f01c014502&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -284,6 +277,13 @@ Number of trackers detected: 0 <br>
 
 #### openai.com
 End URL: `https://openai.com/` <br>
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### algolia.net
+End URL: `http://algolia.net/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -423,7 +423,7 @@ Number of trackers detected: 1 <br>
 
 
 #### weibo.com
-End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.28.2&_rand=1682194659512&sudaref=` <br>
+End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.28.2&_rand=1682281048930&sudaref=` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -506,6 +506,13 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### health.mil
+End URL: `https://health.mil/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### nytimes.com
 End URL: `https://www.nytimes.com/` <br>
 HTTPS: True <br>
@@ -525,13 +532,6 @@ End URL: `https://www.fandom.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
-
-
-#### health.mil
-End URL: `https://health.mil/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 
 
 #### dropbox.com
@@ -555,15 +555,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### sina.com.cn
-End URL: `https://www.sina.com.cn/` <br>
+#### yandex.net
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1682281222.00000&uuid=fa268d5e-c47b-4876-bb70-1d04233bec7c` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1682194850.00000&uuid=285b365a-ce9e-45ce-a234-af2df7e93b73` <br>
+#### sina.com.cn
+End URL: `https://www.sina.com.cn/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -611,15 +611,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### opera.com
-End URL: `https://www.opera.com/` <br>
+#### medium.com
+End URL: `https://medium.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### medium.com
-End URL: `https://medium.com/` <br>
+#### opera.com
+End URL: `https://www.opera.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -674,15 +674,15 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### force.com
-End URL: `https://www.salesforce.com/products/platform/overview/?sfdc-redirect=300&bc=HL` <br>
+#### apache.org
+End URL: `https://apache.org/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### apache.org
-End URL: `https://apache.org/` <br>
+#### force.com
+End URL: `https://www.salesforce.com/products/platform/overview/?sfdc-redirect=300&bc=HL` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -730,9 +730,9 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### lencr.org
-End URL: `https://letsencrypt.org/docs/lencr.org/` <br>
-HTTPS: True <br>
+#### comcast.net
+End URL: `https://www.xfinity.com/` <br>
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -751,11 +751,11 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### dnsmadeeasy.com
-End URL: `https://dnsmadeeasy.com/` <br>
+#### lencr.org
+End URL: `https://letsencrypt.org/docs/lencr.org/` <br>
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### forms.gle
@@ -765,6 +765,13 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### dnsmadeeasy.com
+End URL: `https://dnsmadeeasy.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### iqiyi.com
 End URL: `https://www.iqiyi.com/` <br>
 HTTPS: True <br>
@@ -772,15 +779,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### atg.se
-End URL: `https://www.atg.se/` <br>
+#### quora.com
+End URL: `https://www.quora.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### quora.com
-End URL: `https://www.quora.com/` <br>
+#### atg.se
+End URL: `https://www.atg.se/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -821,15 +828,15 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### w3.org
-End URL: `https://www.w3.org/` <br>
+#### shopify.com
+End URL: `https://www.shopify.com/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### shopify.com
-End URL: `https://www.shopify.com/` <br>
+#### w3.org
+End URL: `https://www.w3.org/` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -844,13 +851,6 @@ Number of trackers detected: 1 <br>
 
 #### douban.com
 End URL: `http://douban.com/` <br>
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### aliyun.com
-End URL: `https://us.alibabacloud.com/en` <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -886,9 +886,9 @@ Number of trackers detected: 0 <br>
 t.co: 2<br>
 geo.yahoo.com: 1<br>
 googletagmanager.com: 1<br>
-doubleclick.net: 1<br>
 www.googletagmanager.com: 9<br>
 stats.wp.com: 2<br>
+doubleclick.net: 1<br>
 tags.tiqcdn.com: 1<br>
 google-analytics.com: 1<br>
 www.google-analytics.com: 4<br>
