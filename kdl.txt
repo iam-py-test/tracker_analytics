@@ -496,3 +496,4 @@ dc.services.visualstudio.com
 att.net
 ibm.com
 1.www.s81c.com
+cdn.intellimize.co
