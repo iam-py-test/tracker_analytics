@@ -499,3 +499,4 @@ ibm.com
 cdn.intellimize.co
 consent.cookiebot.com
 speechmatics.com
+picx.zhimg.com
