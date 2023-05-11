@@ -500,3 +500,5 @@ cdn.intellimize.co
 consent.cookiebot.com
 speechmatics.com
 picx.zhimg.com
+baomihua.com
+static01.pomoho.com
