@@ -502,3 +502,5 @@ speechmatics.com
 picx.zhimg.com
 baomihua.com
 static01.pomoho.com
+arc.msn.com
+us01st-cf.zoom.us
