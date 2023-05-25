@@ -1,0 +1,7 @@
+'//www.googletagmanager.com/gtm.js?id='
+"https:\/\/service.idsync.analytics.yahoo.com\/sp\/v0\/pixels?
+<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin
+<!-- Google Tag Manager -->
+<!-- Start Open Web Analytics Tracker -->
+owa_cmds.push(['trackPageView']);
+_owa.src = owa_baseUrl + 'modules/base/dist/owa.tracker.js';

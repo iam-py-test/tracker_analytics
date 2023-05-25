@@ -14,6 +14,8 @@ extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.go
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
+known_tracker_strings_filehandle = open('known_tracker_strings.txt',encoding="UTF-8")
+known_tracker_strings = known_tracker_strings_filehandle.read().split("\n")
 # don't visit ip loggers, adf.ly, etc
 disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly","lyksoomu.com","localhost"]
 # don't scan allowlisted scripts
@@ -53,6 +55,10 @@ def hastrackers(html,d=""):
 				return report
 	except:
 			pass
+	for kts in known_tracker_strings:
+		if kts in html:
+			report["total"] += 1
+			report["has_trackers"] = True
 	soup = BeautifulSoup(html,'html.parser')
 	pf = soup.select("link[rel=\"dns-prefetch\"]")
 	for prefetch in pf:
