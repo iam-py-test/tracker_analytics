@@ -5,3 +5,11 @@
 <!-- Start Open Web Analytics Tracker -->
 owa_cmds.push(['trackPageView']);
 _owa.src = owa_baseUrl + 'modules/base/dist/owa.tracker.js';
+ *.google-analytics.com 
+analytics.initialize(config, []);
+"googleAnalyticsEnabled":true
+/fingerprint.js
+/fingerprint.min.js
+/fingerprint2.js
+content="https://collector.github.com/github/collect"
+GSvars.addressTracking

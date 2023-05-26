@@ -10,7 +10,7 @@ DOMAINS_TO_SCAN = 160
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
 latest_top = t.list().top(DOMAINS_TO_SCAN)
-extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com"]
+extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com","colpirio.com"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
@@ -59,6 +59,7 @@ def hastrackers(html,d=""):
 		if kts in html:
 			report["total"] += 1
 			report["has_trackers"] = True
+			break
 	soup = BeautifulSoup(html,'html.parser')
 	pf = soup.select("link[rel=\"dns-prefetch\"]")
 	for prefetch in pf:
@@ -75,7 +76,6 @@ def hastrackers(html,d=""):
 			except Exception as err:
 				pass
 	try:
-		soup = BeautifulSoup(html,'html.parser')
 		scripts = soup.find_all("script")
 		for script in scripts:
 			hassrc = False
@@ -136,7 +136,7 @@ with open("report.md","w") as f:
 		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
 		f.write("\nNumber of trackers detected: {} <br>".format(data["per_domain_stats"][entry]["total"]))
 	
-	f.write("\n### Statistics for each tracker domain\n")
+	f.write("\n### Statistics for each tracker\n")
 	for trackerf in trackers_found_obj:
 		f.write("{}: {}<br>\n".format(trackerf,trackers_found_obj[trackerf]))
 	f.close()
