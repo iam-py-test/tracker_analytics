@@ -72,12 +72,15 @@ def hastrackers(html,d=""):
 			break
 	
 	# extract all sus strings for analysis by me
-	suspect_strings += re.find_all(script_with_tracker_in_url,html)
-	suspect_strings += re.find_all(script_with_analytics_in_url,html)
-	suspect_strings += re.find_all(script_with_datacollection_in_url,html)
-	suspect_strings += re.find_all(script_with_pageview_in_url,html)
-	suspect_strings += re.find_all(script_with_hitcounter_in_url,html)
-	suspect_strings += re.find_all(script_with_ad_targeting_in_url,html)
+	try:
+		suspect_strings += re.find_all(script_with_tracker_in_url,html)
+		suspect_strings += re.find_all(script_with_analytics_in_url,html)
+		suspect_strings += re.find_all(script_with_datacollection_in_url,html)
+		suspect_strings += re.find_all(script_with_pageview_in_url,html)
+		suspect_strings += re.find_all(script_with_hitcounter_in_url,html)
+		suspect_strings += re.find_all(script_with_ad_targeting_in_url,html)
+	except Exception as err:
+		print("regex error: ",err)
 	
 	soup = BeautifulSoup(html,'html.parser')
 	pf = soup.select("link[rel=\"dns-prefetch\"]")
