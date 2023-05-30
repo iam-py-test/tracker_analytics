@@ -73,12 +73,12 @@ def hastrackers(html,d=""):
 	
 	# extract all sus strings for analysis by me
 	try:
-		suspect_strings += re.find_all(script_with_tracker_in_url,html)
-		suspect_strings += re.find_all(script_with_analytics_in_url,html)
-		suspect_strings += re.find_all(script_with_datacollection_in_url,html)
-		suspect_strings += re.find_all(script_with_pageview_in_url,html)
-		suspect_strings += re.find_all(script_with_hitcounter_in_url,html)
-		suspect_strings += re.find_all(script_with_ad_targeting_in_url,html)
+		suspect_strings += re.findall(script_with_tracker_in_url,html)
+		suspect_strings += re.findall(script_with_analytics_in_url,html)
+		suspect_strings += re.findall(script_with_datacollection_in_url,html)
+		suspect_strings += re.findall(script_with_pageview_in_url,html)
+		suspect_strings += re.findall(script_with_hitcounter_in_url,html)
+		suspect_strings += re.findall(script_with_ad_targeting_in_url,html)
 	except Exception as err:
 		print("regex error: ",err)
 	
@@ -98,7 +98,7 @@ def hastrackers(html,d=""):
 			except Exception as err:
 				pass
 	try:
-		scripts = soup.find_all("script")
+		scripts = soup.findall("script")
 		for script in scripts:
 			hassrc = False
 			try:
