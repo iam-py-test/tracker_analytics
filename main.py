@@ -11,7 +11,7 @@ DOMAINS_TO_SCAN = 160
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
 latest_top = t.list().top(DOMAINS_TO_SCAN)
-extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com","colpirio.com"]
+extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com","colpirio.com","ad.360yield.com","analytics.archive.org"]
 trackerdomains = requests.get("https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext").text.split("\n")
 trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
@@ -70,15 +70,15 @@ def hastrackers(html,d=""):
 			report["total"] += 1
 			report["has_trackers"] = True
 			break
-	
-	# extract all sus strings for analysis by me
+		# extract all sus strings for analysis by me
 	try:
-		suspect_strings += re.findall(script_with_tracker_in_url,html)
-		suspect_strings += re.findall(script_with_analytics_in_url,html)
-		suspect_strings += re.findall(script_with_datacollection_in_url,html)
-		suspect_strings += re.findall(script_with_pageview_in_url,html)
-		suspect_strings += re.findall(script_with_hitcounter_in_url,html)
-		suspect_strings += re.findall(script_with_ad_targeting_in_url,html)
+		if report["has_trackers"] == False:
+			suspect_strings += re.findall(script_with_tracker_in_url,html)
+			suspect_strings += re.findall(script_with_analytics_in_url,html)
+			suspect_strings += re.findall(script_with_datacollection_in_url,html)
+			suspect_strings += re.findall(script_with_pageview_in_url,html)
+			suspect_strings += re.findall(script_with_hitcounter_in_url,html)
+			suspect_strings += re.findall(script_with_ad_targeting_in_url,html)
 	except Exception as err:
 		print("regex error: ",err)
 	

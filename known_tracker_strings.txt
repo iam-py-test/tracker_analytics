@@ -13,3 +13,7 @@ analytics.initialize(config, []);
 /fingerprint2.js
 content="https://collector.github.com/github/collect"
 GSvars.addressTracking
+gryphon_fps_tracking_enabled
+data-tracking-action="click"
+https://static.cloud.coveo.com/coveo.analytics.js/coveoua.js
+https://spade.twitch.tv/track
