@@ -98,7 +98,7 @@ def hastrackers(html,d=""):
 			except Exception as err:
 				pass
 	try:
-		scripts = soup.findall("script")
+		scripts = soup.find_all("script")
 		for script in scripts:
 			hassrc = False
 			try:
