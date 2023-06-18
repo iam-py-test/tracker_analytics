@@ -17,6 +17,7 @@ trackerdomains += extratrackerdomains
 malwaredomains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 known_tracker_strings_filehandle = open('known_tracker_strings.txt',encoding="UTF-8")
 known_tracker_strings = known_tracker_strings_filehandle.read().split("\n")
+known_tracker_urls = ["https://static.cloud.coveo.com/coveo.analytics.js/coveoua.js"]
 # don't visit ip loggers, adf.ly, etc
 disalloweddomains = ["iplogger.com","iplogger.org","grabify.link","adf.ly","lyksoomu.com","localhost"]
 # don't scan allowlisted scripts
@@ -32,6 +33,7 @@ script_with_datacollection_in_url = re.compile("https?://.*datacollection.*\.js"
 script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
 script_with_hitcounter_in_url = re.compile("https?://.*hitcounter.*\.js")
 script_with_ad_targeting_in_url = re.compile("https?://.*ad-targeting.*\.js")
+fetch_with_ping_in_url = re.compile("fetch\(\"https?://.*ping.*\"\)")
 
 errlog = open("/tmp/err.log",'w')
 
@@ -79,6 +81,7 @@ def hastrackers(html,d=""):
 			suspect_strings += re.findall(script_with_pageview_in_url,html)
 			suspect_strings += re.findall(script_with_hitcounter_in_url,html)
 			suspect_strings += re.findall(script_with_ad_targeting_in_url,html)
+			suspect_strings += re.findall(fetch_with_ping_in_url,html)
 	except Exception as err:
 		print("regex error: ",err)
 	
@@ -103,6 +106,9 @@ def hastrackers(html,d=""):
 			hassrc = False
 			try:
 				srcurl = urllib.parse.urljoin("http://{}".format(d),script.get("src"))
+				if srcurl in known_tracker_urls:
+					report["total"] += 1
+					report["has_trackers"] = True
 				domain = urlparse(srcurl).netloc
 				hassrc = True
 				if domain not in known_domains_list and domain != "":
