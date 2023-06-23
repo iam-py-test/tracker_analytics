@@ -509,3 +509,11 @@ cdn.polyfill.io
 warnerbros.com
 siemens.com
 w3.siemens.com
+github.com
+img-s-msn-com.akamaized.net
+th.bing.com
+api.msn.com
+assets.msn.com
+c.bing.com
+c.msn.com
+www.bing.com
