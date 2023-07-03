@@ -517,3 +517,9 @@ assets.msn.com
 c.bing.com
 c.msn.com
 www.bing.com
+ally.tt.omtrdc.net
+googleads.g.doubleclick.net
+static-assets.fs.liveperson.com
+cdn.lr-ingest.io
+ally.com
+secure.ally.com
