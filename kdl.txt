@@ -523,3 +523,4 @@ static-assets.fs.liveperson.com
 cdn.lr-ingest.io
 ally.com
 secure.ally.com
+www.ally.com
