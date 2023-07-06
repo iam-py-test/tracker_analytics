@@ -524,3 +524,6 @@ cdn.lr-ingest.io
 ally.com
 secure.ally.com
 www.ally.com
+interactive.guim.co.uk
+static.theguardian.com
+support.theguardian.com
