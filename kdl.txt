@@ -527,3 +527,11 @@ www.ally.com
 interactive.guim.co.uk
 static.theguardian.com
 support.theguardian.com
+tesseract.imds-cdn.com
+scs.imds-api.com
+vam-image.imds-cdn.com
+location.imds-api.com
+portal-static.imds-cdn.com
+weather.imds-api.com
+tds.net
+cdn.taboola.com
