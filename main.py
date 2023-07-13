@@ -6,7 +6,7 @@ from tranco import Tranco
 from urllib.parse import urlparse
 import re
 
-DOMAINS_TO_SCAN = 160
+DOMAINS_TO_SCAN = 200
 
 # setup
 t = Tranco(cache=True, cache_dir='.tranco')
@@ -27,15 +27,15 @@ abletoscan = 0
 failedtoscan = 0
 suspect_strings = []
 # regexs to extract possible trackers
-script_with_tracker_in_url = re.compile("https?://.*tracker.*\.js")
-script_with_analytics_in_url = re.compile("https?://.*analytics.*\.js")
-script_with_datacollection_in_url = re.compile("https?://.*datacollection.*\.js")
+script_with_tracker_in_url = re.compile("https?://.*track.*\.js")
+script_with_analytics_in_url = re.compile("https?://.*analytic.*\.js")
+script_with_datacollection_in_url = re.compile("https?://.*datacollect.*\.js")
 script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
-script_with_hitcounter_in_url = re.compile("https?://.*hitcounter.*\.js")
-script_with_ad_targeting_in_url = re.compile("https?://.*ad-targeting.*\.js")
+script_with_hitcounter_in_url = re.compile("https?://.*hitcount.*\.js")
+script_with_ad_targeting_in_url = re.compile("https?://.*ad-target.*\.js")
 fetch_with_ping_in_url = re.compile("fetch\(\"https?://.*ping.*\"\)")
 
-errlog = open("/tmp/err.log",'w')
+errlog = open("err.log",'w')
 
 try:
 	known_domains_list = open("kdl.txt",'r',encoding="UTF-8").read().split("\n")
@@ -166,7 +166,7 @@ with open("report.md","w") as f:
 	
 	f.write("\n### Statistics for each tracker\n")
 	for trackerf in trackers_found_obj:
-		f.write("{}: {}<br>\n".format(trackerf,trackers_found_obj[trackerf]))
+		f.write("`{}`: {}<br>\n".format(trackerf,trackers_found_obj[trackerf]))
 	f.close()
 kdl_out = open("kdl.txt",'w',encoding="UTF-8")
 kdl_out.write("\n".join(known_domains_list))
