@@ -579,3 +579,4 @@ who.int
 xnxx.com
 static-cdn77.xnxx-cdn.com
 duckduckgo.com
+images-fe.ssl-images-amazon.com
