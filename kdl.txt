@@ -580,3 +580,7 @@ xnxx.com
 static-cdn77.xnxx-cdn.com
 duckduckgo.com
 images-fe.ssl-images-amazon.com
+hp.com
+www8.hp.com
+issuu.com
+static.isu.pub
