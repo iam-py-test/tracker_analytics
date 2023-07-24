@@ -18,3 +18,7 @@ data-tracking-action="click"
 https://static.cloud.coveo.com/coveo.analytics.js/coveoua.js
 https://spade.twitch.tv/track
 https://static.cimcontent.net/data-layer/
+var uniqueTrackingID=
+'clicktrackUrl': '//' + location.host + '/track.php?'
+"&uid=" + encodeURIComponent(uniqueTrackingID)
+window.location.replace("//dp.g.doubleclick.net/
