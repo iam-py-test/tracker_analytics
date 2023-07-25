@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 151 domains tested <br>
 Failed to test 49 domains <br>
 151 of the domains tested used known trackers <br>
-145 of the domains tested supported HTTPS <br>
+147 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -100,6 +100,13 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### baidu.com
+End URL: `http://baidu.com/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### bbc.co.uk
 End URL: `https://www.bbc.co.uk/` <br>
 HTTPS: True <br>
@@ -116,7 +123,7 @@ Number of trackers detected: 2 <br>
 
 #### bilibili.com
 End URL: `https://www.bilibili.com/` <br>
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
@@ -177,13 +184,6 @@ Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
 
-#### comcast.net
-End URL: `https://www.xfinity.com/` <br>
-HTTPS: False <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### creativecommons.org
 End URL: `https://creativecommons.org/` <br>
 HTTPS: True <br>
@@ -213,7 +213,7 @@ Number of trackers detected: 2 <br>
 
 
 #### douban.com
-End URL: `http://douban.com/` <br>
+End URL: `https://www.douban.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -241,7 +241,7 @@ Number of trackers detected: 1 <br>
 
 
 #### dzen.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=5edde51a-e5bb-48dc-85a8-0a972fb1024c&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=609793f2-2c10-4587-95d0-0413c28f5461&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -696,7 +696,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=47931` <br>
+End URL: `https://www.reddit.com/?rdt=62244` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -927,7 +927,7 @@ Number of trackers detected: 2 <br>
 
 
 #### weibo.com
-End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.31.0&_rand=1690230888093&sudaref=` <br>
+End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.31.0&_rand=1690317206357&sudaref=` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -1011,14 +1011,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1690230907.00000&uuid=2628e16b-4edb-4a94-98b0-af0507d68a84` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1690317226.00000&uuid=838418a3-aaa3-47c0-8cd4-86d6f002fd4c` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=06ea253d-6384-496f-b195-ba7da853eb69&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://dzen.ru/showcaptcha?cc=1&mt=9B507BE65C879CD591068010931C9D7387945631059632D588DE3A6A51F6CA1D4D04E8C833559ACCF1C03E58BB86F470454CAEE4183A9BA4E2CF1D430579081F578DB68886B169FF6D551714ECD2074B979F65B969C052B0EC22B62D6099&retpath=aHR0cDovL2R6ZW4ucnUvP3lyZWRpcmVjdD10cnVl_048b356b69b3d33c9452888c99695709&t=2/1690317231/f6b564e2fd8ca0f9fa5ddf584e6ef74b&u=a1f5531a-32314d85-9e837cd7-d76c97ff&s=995487c168a3f12e547c7961b2c0fab7` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>

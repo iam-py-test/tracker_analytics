@@ -587,3 +587,6 @@ static.isu.pub
 rwww.bing.com
 deepl.com
 static.deepl.com
+d2c.aws.amazon.com
+img1.doubanio.com
+douban.com
