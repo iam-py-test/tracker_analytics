@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-150 domains tested <br>
-Failed to test 50 domains <br>
-150 of the domains tested used known trackers <br>
-145 of the domains tested supported HTTPS <br>
+151 domains tested <br>
+Failed to test 49 domains <br>
+151 of the domains tested used known trackers <br>
+146 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -199,7 +199,7 @@ Number of trackers detected: 3 <br>
 
 
 #### dell.com
-End URL: `https://www.dell.com/en-us` <br>
+End URL: `https://www.dell.com/en-us?gacd=9684992-30271431-5775970-370763780-194984446&dgc=&dclid=CNHPvo3WtIADFZPR9gIdnRsOEw` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -248,7 +248,7 @@ Number of trackers detected: 1 <br>
 
 
 #### dzen.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=05847643-85db-4695-be31-2537e33cc3cd&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=10bfe642-e179-4549-9002-c1a84a213f06&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -429,6 +429,13 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### hp.com
+End URL: `https://www.hp.com/us-en/home.html` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### ibm.com
 End URL: `https://www.ibm.com/us-en` <br>
 HTTPS: True <br>
@@ -465,7 +472,7 @@ Number of trackers detected: 1 <br>
 
 
 #### instagram.com
-End URL: `https://www.instagram.com/` <br>
+End URL: `https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2F` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -479,7 +486,7 @@ Number of trackers detected: 2 <br>
 
 
 #### iqiyi.com
-End URL: `https://www.iqiyi.com/?iqiyi=o` <br>
+End URL: `https://www.iqiyi.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -689,7 +696,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=51160` <br>
+End URL: `https://www.reddit.com/?rdt=33129` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -920,7 +927,7 @@ Number of trackers detected: 2 <br>
 
 
 #### weibo.com
-End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.31.0&_rand=1690576280179&sudaref=` <br>
+End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.31.0&_rand=1690662565704&sudaref=` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -958,7 +965,7 @@ Number of trackers detected: 1 <br>
 End URL: `https://wordpress.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -1004,14 +1011,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1690576301.00000&uuid=ad297b78-fb88-4499-831e-ff94b3a564e5` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1690662584.00000&uuid=c08c1195-7be8-4e52-ade4-0b1f03b12230` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://dzen.ru/showcaptcha?cc=1&mt=D824A5E7534696E2CE42A3738DAB648FD051218DD0C2D77007383083A18D83D8E1409B642AD66C96731C0F5A176EA31198F2851ADD6260661AA3B82F437360464445493CA61CBB257C2DDA3A83DC719391D14C7B7C7020DA24134E7DC01D784475C58828BCC39E6C44BAD7F4C4&retpath=aHR0cDovL2R6ZW4ucnUvP3lyZWRpcmVjdD10cnVl_41ca5daa7f245aea7d1e150674d62861&t=2/1690576305/f4eed1ada8654f4a0ea2a74496dd74db&u=87fbcb6f-cef6144e-e4750e08-2739fc7b&s=acd69f7b8a1911e9b1ab16eee95d9afc` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=2ccf552c-5fcf-4251-bd01-9f2cb16dc21e&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -1062,7 +1069,7 @@ Number of trackers detected: 1 <br>
 `www.googletagmanager.com`: 10<br>
 `www.googletagservices.com`: 2<br>
 `securepubads.g.doubleclick.net`: 1<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `doubleclick.net`: 1<br>
 `www.google-analytics.com`: 5<br>
 `google-analytics.com`: 1<br>
