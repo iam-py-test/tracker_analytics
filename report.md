@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-151 domains tested <br>
-Failed to test 49 domains <br>
-151 of the domains tested used known trackers <br>
-146 of the domains tested supported HTTPS <br>
+149 domains tested <br>
+Failed to test 51 domains <br>
+149 of the domains tested used known trackers <br>
+145 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -184,13 +184,6 @@ Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
 
-#### comcast.net
-End URL: `https://www.xfinity.com/` <br>
-HTTPS: False <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### creativecommons.org
 End URL: `https://creativecommons.org/` <br>
 HTTPS: True <br>
@@ -199,7 +192,7 @@ Number of trackers detected: 3 <br>
 
 
 #### dell.com
-End URL: `https://www.dell.com/en-us?gacd=9684992-30271431-5775970-370763780-194984446&dgc=&dclid=CNHPvo3WtIADFZPR9gIdnRsOEw` <br>
+End URL: `https://www.dell.com/en-us` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -248,7 +241,7 @@ Number of trackers detected: 1 <br>
 
 
 #### dzen.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=10bfe642-e179-4549-9002-c1a84a213f06&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=7bba9a9a-fcdd-4e4c-8959-572ce11b5e3f&retpath=https%3A%2F%2Fdzen.ru%2F` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -429,13 +422,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### hp.com
-End URL: `https://www.hp.com/us-en/home.html` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### ibm.com
 End URL: `https://www.ibm.com/us-en` <br>
 HTTPS: True <br>
@@ -472,7 +458,7 @@ Number of trackers detected: 1 <br>
 
 
 #### instagram.com
-End URL: `https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2F` <br>
+End URL: `https://www.instagram.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -696,7 +682,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=33129` <br>
+End URL: `https://www.reddit.com/?rdt=44184` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -927,7 +913,7 @@ Number of trackers detected: 2 <br>
 
 
 #### weibo.com
-End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.31.0&_rand=1690662565704&sudaref=` <br>
+End URL: `https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=python-requests%2F2.31.0&_rand=1690749106434&sudaref=` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -1011,14 +997,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1690662584.00000&uuid=c08c1195-7be8-4e52-ade4-0b1f03b12230` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1690749126.00000&uuid=6112f132-f080-4362-95a9-398974ac5109` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=2ccf552c-5fcf-4251-bd01-9f2cb16dc21e&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://dzen.ru/showcaptcha?cc=1&mt=0A7BF709B03A73EC7D09837FC2C9171C849E814277D2DE71415CC9897CE27739030FC5589C8ACE14182C138DB1FAB8945A39B3B785851ED9204C32DB3655BD40A96C74E4F13E5F0522A0BC4363A6B8EF43D771AB07B8121C44BC75BD5778B1BFFB77059D332EF3EF3995D31CF1&retpath=aHR0cDovL2R6ZW4ucnUvP3lyZWRpcmVjdD10cnVl_4636f716bd7b3938299f386c62929bfc&t=2/1690749130/805ea4b1fabf5c98aff440a95a3fc3c0&u=7ab9c098-e8f36cea-6c35872c-7cfc392a&s=1a538dad0d6615c3f5447a088a20d2ae` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
