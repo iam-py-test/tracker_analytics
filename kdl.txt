@@ -590,3 +590,5 @@ static.deepl.com
 d2c.aws.amazon.com
 img1.doubanio.com
 douban.com
+discord.com
+static-ss.xnxx-cdn.com
