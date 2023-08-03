@@ -618,3 +618,9 @@ ui.com
 unity3d.com
 userapi.com
 whatsapp.net
+static.doubleclick.net
+fonts.gstatic.com
+images.scanalert.com
+mcafee.com
+www.surveycarrot.com
+33fa1ur95-fi66x47po.sentry.dev
