@@ -332,7 +332,7 @@ Number of trackers detected: 1 <br>
 
 
 #### gmail.com
-End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7XfzB0CGszd1BwvCcs1AGoND57SeF5rOiJ2yZ5yENQfCBETqCZQrWSYoQBdA5VaEMEGnisDjg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1794589924%3A1691352571607238` <br>
+End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7U-nsZFs7QU5NVRO0ATfOCmrYdhY9PSKiEbp7Yoc6u4zn8UJL_7cEoDfbV88_7ic29Gl7_-GA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S403564108%3A1691439084776943` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -441,13 +441,6 @@ End URL: `https://www.intuit.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
-
-
-#### kaspersky.com
-End URL: `https://usa.kaspersky.com/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 
 
 #### lencr.org
@@ -640,7 +633,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=63110` <br>
+End URL: `https://www.reddit.com/?rdt=51580` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -702,11 +695,18 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### smartadserver.com
+End URL: `https://equativ.com:443/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### snapchat.com
 End URL: `https://www.snapchat.com:443/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 3 <br>
 
 
 #### soundcloud.com
@@ -899,14 +899,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691353477.00000&uuid=11ab8fe2-7173-4227-9aa3-99d382103115` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691440125.00000&uuid=9289adb9-94d3-428f-9476-243f727aa092` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=9aa45c73-b6ad-4a49-a056-cc0ab78113fd&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=f49ee40c-f50f-46fe-bb8a-5f553050ba24&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -942,7 +942,7 @@ Number of trackers detected: 1 <br>
 `adsrvr.org`: 1<br>
 `appsflyer.com`: 1<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 10<br>
+`www.googletagmanager.com`: 11<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
 `stats.wp.com`: 4<br>
@@ -954,8 +954,9 @@ Number of trackers detected: 1 <br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `tags.tiqcdn.com`: 2<br>
-`www.google-analytics.com`: 2<br>
+`www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
+`smartadserver.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
 `taboola.com`: 1<br>
