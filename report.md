@@ -177,6 +177,13 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### comfortel.pro
+End URL: `https://comfortel.pro/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### creativecommons.org
 End URL: `https://creativecommons.org/` <br>
 HTTPS: True <br>
@@ -332,7 +339,7 @@ Number of trackers detected: 1 <br>
 
 
 #### gmail.com
-End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7U-nsZFs7QU5NVRO0ATfOCmrYdhY9PSKiEbp7Yoc6u4zn8UJL_7cEoDfbV88_7ic29Gl7_-GA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S403564108%3A1691439084776943` <br>
+End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7VV51x_6jMNX3JYQIoBN98-pfWDZt0Qo2o9Er5poaMaPC2_lq2dF8fc_1jxUtdcINFqf67J&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-2013220837%3A1691525487106949` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -430,7 +437,7 @@ Number of trackers detected: 1 <br>
 
 
 #### instagram.com
-End URL: `https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2F` <br>
+End URL: `https://www.instagram.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -633,7 +640,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=51580` <br>
+End URL: `https://www.reddit.com/?rdt=45871` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -690,13 +697,6 @@ Number of trackers detected: 1 <br>
 
 #### skype.com
 End URL: `https://www.skype.com/en/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
-#### smartadserver.com
-End URL: `https://equativ.com:443/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -899,14 +899,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691440125.00000&uuid=9289adb9-94d3-428f-9476-243f727aa092` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691526402.00000&uuid=1009969c-3b2b-4486-b839-cd6569a19737` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=f49ee40c-f50f-46fe-bb8a-5f553050ba24&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=9dd6d179-9b12-44f5-a608-f3d32775dce2&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -956,7 +956,6 @@ Number of trackers detected: 1 <br>
 `tags.tiqcdn.com`: 2<br>
 `www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
-`smartadserver.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
 `taboola.com`: 1<br>
