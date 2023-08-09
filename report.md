@@ -339,7 +339,7 @@ Number of trackers detected: 1 <br>
 
 
 #### gmail.com
-End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7VV51x_6jMNX3JYQIoBN98-pfWDZt0Qo2o9Er5poaMaPC2_lq2dF8fc_1jxUtdcINFqf67J&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-2013220837%3A1691525487106949` <br>
+End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7UWHdrkeW8X530TxAm2dbWXHgiURdJ41n57De35vhovNG5CjQxiPfhUadtK4bzpNePzAwjPCg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1190626853%3A1691611899458032` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -437,7 +437,7 @@ Number of trackers detected: 1 <br>
 
 
 #### instagram.com
-End URL: `https://www.instagram.com/` <br>
+End URL: `https://instagram.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -640,7 +640,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=45871` <br>
+End URL: `https://www.reddit.com/?rdt=51090` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -899,14 +899,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691526402.00000&uuid=1009969c-3b2b-4486-b839-cd6569a19737` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691612813.00000&uuid=f348fe1b-328f-4de5-833e-d6e311db06b8` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=9dd6d179-9b12-44f5-a608-f3d32775dce2&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=d8f5b89a-f68f-4b4e-9b89-7155f8a621d6&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
