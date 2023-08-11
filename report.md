@@ -1,17 +1,17 @@
 ## Tracker report
 Tried to test 200 domains<br>
-132 domains tested <br>
-Failed to test 68 domains <br>
-132 of the domains tested used known trackers <br>
-125 of the domains tested supported HTTPS <br>
+131 domains tested <br>
+Failed to test 69 domains <br>
+131 of the domains tested used known trackers <br>
+123 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
 
 
-#### adobe.com
-End URL: `https://www.adobe.com/` <br>
-HTTPS: True <br>
+#### 510623.com
+End URL: `http://www.510623.com/` <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
@@ -95,13 +95,6 @@ Number of trackers detected: 1 <br>
 
 #### azure.com
 End URL: `https://azure.microsoft.com/en-us/` <br>
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
-#### baidu.com
-End URL: `http://baidu.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -339,7 +332,7 @@ Number of trackers detected: 1 <br>
 
 
 #### gmail.com
-End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7XoiRcENx4Glx8qu9FaDkcEq7l89E5g_1VueajUtAV46m9EKWzIi5CgT62FgvhlGEFrRCEVMA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-871950997%3A1691698248375571` <br>
+End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7XQwbehCoyK1hkfiJxq4sGY-hl2E-xTW08TSShxNXja2A9ucvYvHEr1KuXjLgnGtGp5ivEqrQ&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-418919489%3A1691784916656811` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -437,7 +430,7 @@ Number of trackers detected: 1 <br>
 
 
 #### instagram.com
-End URL: `https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2F` <br>
+End URL: `https://www.instagram.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -640,7 +633,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=54582` <br>
+End URL: `https://www.reddit.com/?rdt=62825` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -668,7 +661,7 @@ Number of trackers detected: 1 <br>
 
 
 #### samsung.com
-End URL: `https://www.samsung.com/us/smartphones/galaxy-z-fold5/?page=home` <br>
+End URL: `https://www.samsung.com/us/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -706,7 +699,7 @@ Number of trackers detected: 1 <br>
 End URL: `https://www.snapchat.com:443/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 1 <br>
 
 
 #### soundcloud.com
@@ -892,14 +885,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691699150.00000&uuid=68fe00d9-be84-4942-8705-0493743cd339` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691785824.00000&uuid=2eb8c5e8-4db2-4e74-a914-8b031597d579` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=d2f08fa9-1eca-403f-be9c-0c239af94e70&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=b0fbaac3-4e09-460a-9c66-ae251011514f&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -935,7 +928,7 @@ Number of trackers detected: 1 <br>
 `adsrvr.org`: 1<br>
 `appsflyer.com`: 1<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 11<br>
+`www.googletagmanager.com`: 10<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
 `stats.wp.com`: 4<br>
@@ -947,7 +940,7 @@ Number of trackers detected: 1 <br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `tags.tiqcdn.com`: 2<br>
-`www.google-analytics.com`: 3<br>
+`www.google-analytics.com`: 2<br>
 `pubmatic.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
