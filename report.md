@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-132 domains tested <br>
-Failed to test 68 domains <br>
-132 of the domains tested used known trackers <br>
+133 domains tested <br>
+Failed to test 67 domains <br>
+133 of the domains tested used known trackers <br>
 125 of the domains tested supported HTTPS <br>
 
 
@@ -346,7 +346,7 @@ Number of trackers detected: 1 <br>
 
 
 #### gmail.com
-End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7XvaUJQTItHCoIqaM9l801fsp7b1LdzQKl89JdkeLz7JYUFRTrR-6_fD58LgSGABXpDcP_I&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1945850101%3A1691957530206401` <br>
+End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7V-3BIAijXBoZI705X1_w9jcU5D6Gek7cYNHpJVkFbk_NkhYcUKemHBkJ5D2YfDb6ftor9C&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S772112450%3A1692044001158502` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -425,6 +425,13 @@ Number of trackers detected: 2 <br>
 #### gstatic.com
 End URL: `http://www.gstatic.com/` <br>
 HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
+#### hwcdn.net
+End URL: `http://hwcdn.net/` <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
@@ -640,7 +647,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=40954` <br>
+End URL: `https://www.reddit.com/?rdt=34444` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -682,7 +689,7 @@ Number of trackers detected: 1 <br>
 
 
 #### sentry.io
-End URL: `https://sentry.io/welcome/` <br>
+End URL: `https://sentry.io:443/welcome/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
@@ -892,14 +899,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1691958441.00000&uuid=a71d9631-0118-4219-b02f-8edf088705f2` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1692044907.00000&uuid=4d38ee84-079a-41eb-88e9-c4df19e367f5` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=f8f081b1-f0ab-434c-b39a-85542f2d098b&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=f6695b03-a946-4d29-8815-0a27fcc34127&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
