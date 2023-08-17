@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
-133 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+134 domains tested <br>
+Failed to test 66 domains <br>
+134 of the domains tested used known trackers <br>
+127 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -339,7 +339,7 @@ Number of trackers detected: 1 <br>
 
 
 #### gmail.com
-End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7VyHW_fuaB_7q2WOfKPP9ZKkE8qkdBHXPn3a1PESGA7uXvClzC1Jkxv0zY8aVSiG5OaVD2XqQ&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1710378826%3A1692216832884546` <br>
+End URL: `https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXo7B7WUAr8zRZcMIuV_Gbr0NwZqyxjhGSMnhJaY_VxRolHwqPFPRUDz4G2rz7boDg0QfUOP8CYj3Q&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1443031226%3A1692303205726056` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -633,7 +633,7 @@ Number of trackers detected: 1 <br>
 
 
 #### reddit.com
-End URL: `https://www.reddit.com/?rdt=43528` <br>
+End URL: `https://www.reddit.com/?rdt=61823` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -690,6 +690,13 @@ Number of trackers detected: 1 <br>
 
 #### skype.com
 End URL: `https://www.skype.com/en/` <br>
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
+#### smartadserver.com
+End URL: `https://equativ.com:443/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -874,7 +881,7 @@ Number of trackers detected: 1 <br>
 End URL: `https://wordpress.com/` <br>
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -899,14 +906,14 @@ Number of trackers detected: 2 <br>
 
 
 #### yandex.net
-End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1692217756.00000&uuid=e7d04a2c-16d3-4c57-9748-da2dfb4b260b` <br>
+End URL: `https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1692304125.00000&uuid=284104e9-2873-4f92-8de7-bd5d662b1a34` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
 #### yandex.ru
-End URL: `https://sso.passport.yandex.ru/push?uuid=1ce65fbf-6219-406f-ba09-1c09ec66abf6&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
+End URL: `https://sso.passport.yandex.ru/push?uuid=75603a76-acbe-4c3c-91aa-23f784d2c01c&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue` <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -945,7 +952,7 @@ Number of trackers detected: 1 <br>
 `www.googletagmanager.com`: 11<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -956,6 +963,7 @@ Number of trackers detected: 1 <br>
 `tags.tiqcdn.com`: 2<br>
 `www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
+`smartadserver.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
 `taboola.com`: 1<br>
