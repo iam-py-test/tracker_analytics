@@ -642,3 +642,4 @@ i02.appmifile.com
 xiaomi.com
 s05.appmifile.com
 33fa1ur95-8ki4ar8bg.sentry.dev
+33fa1ur95-eqz1yn8pg.sentry.dev
