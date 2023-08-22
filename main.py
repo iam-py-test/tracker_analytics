@@ -70,10 +70,11 @@ def hastrackers(html,d=""):
 			pass
 	for kts in known_tracker_strings:
 		if kts in html:
+			print(kts)
 			report["total"] += 1
 			report["has_trackers"] = True
 			break
-		# extract all sus strings for analysis by me
+	# extract all sus strings for analysis by me
 	try:
 		if report["has_trackers"] == False:
 			suspect_strings += re.findall(script_with_tracker_in_url, html)
@@ -161,7 +162,6 @@ with open("report.md","w") as f:
 	
 	for entry in data["per_domain_stats"]:
 		f.write("\n\n\n#### {}".format(entry))
-		f.write("\nEnd URL: `{}` <br>".format(data["per_domain_stats"][entry]["endurl"]))
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
 		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
 		f.write("\nNumber of trackers detected: {} <br>".format(data["per_domain_stats"][entry]["total"]))

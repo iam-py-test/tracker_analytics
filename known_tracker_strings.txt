@@ -22,3 +22,7 @@ var uniqueTrackingID=
 'clicktrackUrl': '//' + location.host + '/track.php?'
 "&uid=" + encodeURIComponent(uniqueTrackingID)
 window.location.replace("//dp.g.doubleclick.net/
+window.dexter.Analytics = window.dexter.Analytics || {};
+_paq.push(['setTrackerUrl', u+'matomo.php']);
+<link rel="dns-prefetch" href="https://static.doubleclick.net">
+window.CQ_Analytics = {};
