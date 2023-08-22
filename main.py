@@ -69,7 +69,7 @@ def hastrackers(html,d=""):
 	except:
 			pass
 	for kts in known_tracker_strings:
-		if kts in html:
+		if kts in html and kts != "" and kts != " " and kts != "\r":
 			print(kts)
 			report["total"] += 1
 			report["has_trackers"] = True
