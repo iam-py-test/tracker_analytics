@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
-44 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+134 domains tested <br>
+Failed to test 66 domains <br>
+45 of the domains tested used known trackers <br>
+127 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -471,6 +471,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### ntp.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -810,7 +816,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 10<br>
+`www.googletagmanager.com`: 11<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
 `stats.wp.com`: 4<br>
