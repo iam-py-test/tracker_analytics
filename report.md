@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
+134 domains tested <br>
+Failed to test 66 domains <br>
 45 of the domains tested used known trackers <br>
-125 of the domains tested supported HTTPS <br>
+126 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -11,6 +11,12 @@ Failed to test 67 domains <br>
 
 #### 510623.com
 HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### adobe.com
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
