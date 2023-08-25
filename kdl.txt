@@ -648,3 +648,8 @@ s05.appmifile.com
 33fa1ur95-7gzfhy14a.sentry.dev
 33fa1ur95-iyh335muq.sentry.dev
 33fa1ur95-bc08ol8ss.sentry.dev
+static3.avast.com
+avast.com
+resources.digital-cloud.medallia.eu
+static.avast.com
+33fa1ur95-oe4qo866j.sentry.dev

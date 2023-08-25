@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
+133 domains tested <br>
+Failed to test 67 domains <br>
 45 of the domains tested used known trackers <br>
-127 of the domains tested supported HTTPS <br>
+125 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -11,12 +11,6 @@ Failed to test 66 domains <br>
 
 #### 510623.com
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### adobe.com
-HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -82,6 +76,12 @@ Number of trackers detected: 1 <br>
 
 
 #### archive.org
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### avast.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -405,10 +405,10 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### mcafee.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+#### mediahils.ru
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### medium.com
@@ -615,12 +615,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### sourceforge.net
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### spotify.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -755,8 +749,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -819,7 +813,7 @@ Number of trackers detected: 1 <br>
 `www.googletagmanager.com`: 11<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -827,7 +821,7 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 1<br>
-`tags.tiqcdn.com`: 2<br>
+`tags.tiqcdn.com`: 1<br>
 `www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
 `smartadserver.com`: 1<br>
