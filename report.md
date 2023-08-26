@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 134 domains tested <br>
 Failed to test 66 domains <br>
-45 of the domains tested used known trackers <br>
+44 of the domains tested used known trackers <br>
 126 of the domains tested supported HTTPS <br>
 
 
@@ -11,6 +11,12 @@ Failed to test 66 domains <br>
 
 #### 510623.com
 HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### adityabirlacapital.com
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -603,12 +609,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### smartadserver.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### snapchat.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -830,7 +830,6 @@ Number of trackers detected: 1 <br>
 `tags.tiqcdn.com`: 1<br>
 `www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
-`smartadserver.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
 `taboola.com`: 1<br>
