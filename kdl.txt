@@ -653,3 +653,6 @@ avast.com
 resources.digital-cloud.medallia.eu
 static.avast.com
 33fa1ur95-oe4qo866j.sentry.dev
+xerox.com
+framework-assets.external.xerox.com
+www.xerox.com
