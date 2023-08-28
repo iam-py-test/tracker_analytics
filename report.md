@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 134 domains tested <br>
 Failed to test 66 domains <br>
-42 of the domains tested used known trackers <br>
+43 of the domains tested used known trackers <br>
 126 of the domains tested supported HTTPS <br>
 
 
@@ -605,8 +605,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 
 
 #### soundcloud.com
@@ -816,7 +816,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 10<br>
+`www.googletagmanager.com`: 11<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
 `stats.wp.com`: 4<br>
@@ -828,7 +828,7 @@ Number of trackers detected: 1 <br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `tags.tiqcdn.com`: 1<br>
-`www.google-analytics.com`: 2<br>
+`www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
