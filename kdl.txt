@@ -656,3 +656,4 @@ static.avast.com
 xerox.com
 framework-assets.external.xerox.com
 www.xerox.com
+33fa1ur95-grwh5yio7.sentry.dev

@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
-43 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+132 domains tested <br>
+Failed to test 68 domains <br>
+42 of the domains tested used known trackers <br>
+125 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -16,12 +16,6 @@ Number of trackers detected: 0 <br>
 
 
 #### adityabirlacapital.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### adobe.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -175,12 +169,6 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### creativecommons.org
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
 
 
 #### criteo.com
@@ -417,12 +405,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### mediahils.ru
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### medium.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -460,6 +442,12 @@ Number of trackers detected: 0 <br>
 
 
 #### myfritz.net
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### mzstatic.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -816,10 +804,9 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 11<br>
+`www.googletagmanager.com`: 10<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
-`stats.wp.com`: 4<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -827,6 +814,7 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 1<br>
+`stats.wp.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
