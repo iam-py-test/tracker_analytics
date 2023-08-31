@@ -108,6 +108,7 @@ def hastrackers(html,d=""):
 				pass
 	try:
 		scripts = soup.find_all("script")
+		scripts += soup.find_all("iframe")
 		for script in scripts:
 			hassrc = False
 			try:
