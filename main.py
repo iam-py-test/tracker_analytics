@@ -5,10 +5,12 @@ from bs4 import BeautifulSoup
 from tranco import Tranco
 from urllib.parse import urlparse
 import re
+import publicsuffixlist
 
 DOMAINS_TO_SCAN = 200
 
 # setup
+psl = publicsuffixlist.PublicSuffixList()
 t = Tranco(cache=True, cache_dir='.tranco')
 latest_top = sorted(t.list().top(DOMAINS_TO_SCAN))
 extratrackerdomains = ["google-analytics.com","ssl.google-analytics.com","www.google-analytics.com","www-google-analytics.l.google.com","googletagmanager.com","www.googletagmanager.com","static-doubleclick-net.l.google.com","www-googletagmanager.l.google.com","ssl-google-analytics.l.google.com","googlesyndication.com","wwwctp.googletagmanager.com","wp.googletagmanager.com","googletagservices.com","www.googletagservices.com","doubleclick.net","securepubads.g.doubleclick.net","geo.yahoo.com","go-mpulse.net","collector.githubapp.com","s3.buysellads.com","collector.github.com","taboola.com","slackb.com","colpirio.com","ad.360yield.com","analytics.archive.org"]
@@ -93,7 +95,8 @@ def hastrackers(html,d=""):
 	for prefetch in pf:
 			try:
 				domain = urlparse(prefetch.get("href")).netloc
-				if domain in trackerdomains and domain != "":
+				root = psl.privatesuffix(domain)
+				if (domain in trackerdomains or root in trackerdomains) and domain != "":
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
@@ -116,7 +119,7 @@ def hastrackers(html,d=""):
 				hassrc = True
 				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
-				if domain in trackerdomains and domain != "":
+				if (domain in trackerdomains or root in trackerdomains) and domain != "":
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
