@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 133 domains tested <br>
 Failed to test 67 domains <br>
-45 of the domains tested used known trackers <br>
+53 of the domains tested used known trackers <br>
 126 of the domains tested supported HTTPS <br>
 
 
@@ -95,8 +95,8 @@ Number of trackers detected: 0 <br>
 
 #### avast.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### azure.com
@@ -132,7 +132,7 @@ Number of trackers detected: 0 <br>
 #### bit.ly
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### blogspot.com
@@ -162,7 +162,7 @@ Number of trackers detected: 0 <br>
 #### cnn.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 27 <br>
+Number of trackers detected: 28 <br>
 
 
 #### comcast.net
@@ -180,7 +180,7 @@ Number of trackers detected: 0 <br>
 #### creativecommons.org
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### criteo.com
@@ -257,8 +257,8 @@ Number of trackers detected: 0 <br>
 
 #### fastly.net
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### fbcdn.net
@@ -312,7 +312,7 @@ Number of trackers detected: 0 <br>
 #### goo.gl
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### google-analytics.com
@@ -341,8 +341,8 @@ Number of trackers detected: 0 <br>
 
 #### googledomains.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 
 
 #### googlesyndication.com
@@ -480,7 +480,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -504,7 +504,7 @@ Number of trackers detected: 0 <br>
 #### opera.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### outlook.com
@@ -527,8 +527,8 @@ Number of trackers detected: 1 <br>
 
 #### pki.goog
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pubmatic.com
@@ -575,8 +575,8 @@ Number of trackers detected: 0 <br>
 
 #### sberdevices.ru
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### sentry.io
@@ -677,8 +677,8 @@ Number of trackers detected: 2 <br>
 
 #### unity3d.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### vimeo.com
@@ -743,14 +743,14 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 4 <br>
 
 
 #### xerox.com
@@ -761,8 +761,8 @@ Number of trackers detected: 0 <br>
 
 #### xiaomi.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### yahoo.com
@@ -810,8 +810,8 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
+`www.googletagmanager.com`: 25<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 11<br>
 `cdn.optimizely.com`: 2<br>
 `tpc.googlesyndication.com`: 1<br>
 `pagead2.googlesyndication.com`: 1<br>
@@ -829,7 +829,8 @@ Number of trackers detected: 1 <br>
 `cnn.com`: 10<br>
 `static.chartbeat.com`: 1<br>
 `cdnjs.cloudflare.com`: 1<br>
-`stats.wp.com`: 4<br>
+`healthguides.cnn.com`: 1<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
