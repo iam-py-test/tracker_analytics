@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-132 domains tested <br>
-Failed to test 68 domains <br>
-44 of the domains tested used known trackers <br>
-125 of the domains tested supported HTTPS <br>
+133 domains tested <br>
+Failed to test 67 domains <br>
+45 of the domains tested used known trackers <br>
+126 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -16,6 +16,12 @@ Number of trackers detected: 0 <br>
 
 
 #### adityabirlacapital.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### adobe.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -41,8 +47,8 @@ Number of trackers detected: 0 <br>
 
 #### amazonaws.com
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### amazontrust.com
@@ -156,7 +162,7 @@ Number of trackers detected: 0 <br>
 #### cnn.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 27 <br>
 
 
 #### comcast.net
@@ -443,8 +449,8 @@ Number of trackers detected: 1 <br>
 
 #### msn.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### myfritz.net
@@ -600,7 +606,7 @@ Number of trackers detected: 2 <br>
 #### soundcloud.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 23 <br>
 
 
 #### spotify.com
@@ -737,8 +743,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### wordpress.org
@@ -801,13 +807,29 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 ### Statistics for each tracker
 `adsrvr.org`: 1<br>
+`amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `www.googletagmanager.com`: 11<br>
+`cdn.optimizely.com`: 2<br>
+`tpc.googlesyndication.com`: 1<br>
+`pagead2.googlesyndication.com`: 1<br>
 `www.googletagservices.com`: 1<br>
+`c.amazon-adsystem.com`: 1<br>
+`ib.adnxs.com`: 1<br>
+`static.yieldmo.com`: 1<br>
+`widgets.outbrain.com`: 1<br>
+`odb.outbrain.com`: 1<br>
+`cdn.adsafeprotected.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
-`stats.wp.com`: 5<br>
+`segment-data-us-east.zqtk.net`: 1<br>
+`js-sec.indexww.com`: 1<br>
+`a.jsrdn.com`: 1<br>
+`cnn.com`: 10<br>
+`static.chartbeat.com`: 1<br>
+`cdnjs.cloudflare.com`: 1<br>
+`stats.wp.com`: 4<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -816,9 +838,16 @@ Number of trackers detected: 1 <br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `tags.tiqcdn.com`: 1<br>
+`sb.scorecardresearch.com`: 2<br>
 `www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
+`secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
+`pixel.quantserve.com`: 1<br>
+`soundcloud.com`: 8<br>
+`dwt.soundcloud.com`: 1<br>
+`a-v2.sndcdn.com`: 9<br>
+`cdn.cookielaw.org`: 1<br>
 `t.co`: 2<br>
 `taboola.com`: 1<br>
 `geo.yahoo.com`: 1<br>
