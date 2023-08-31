@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
-43 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+132 domains tested <br>
+Failed to test 68 domains <br>
+44 of the domains tested used known trackers <br>
+125 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -16,12 +16,6 @@ Number of trackers detected: 0 <br>
 
 
 #### adityabirlacapital.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### adobe.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -743,8 +737,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -813,7 +807,7 @@ Number of trackers detected: 1 <br>
 `www.googletagmanager.com`: 11<br>
 `www.googletagservices.com`: 1<br>
 `securepubads.g.doubleclick.net`: 1<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
