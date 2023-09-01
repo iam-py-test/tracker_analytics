@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
+134 domains tested <br>
+Failed to test 66 domains <br>
 53 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+127 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -454,6 +454,12 @@ Number of trackers detected: 1 <br>
 
 
 #### myfritz.net
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### mzstatic.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
