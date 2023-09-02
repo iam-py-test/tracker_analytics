@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-55 of the domains tested used known trackers <br>
+56 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -773,8 +773,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -861,7 +861,7 @@ Number of trackers detected: 1 <br>
 `static.chartbeat.com`: 1<br>
 `cdnjs.cloudflare.com`: 1<br>
 `healthguides.cnn.com`: 1<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
