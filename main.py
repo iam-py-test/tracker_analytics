@@ -31,7 +31,7 @@ suspect_strings = []
 # regexs to extract possible trackers
 script_with_tracker_in_url = re.compile("https?://.*track.*\.js")
 script_with_analytics_in_url = re.compile("https?://.*analytic.*\.js")
-script_with_datacollection_in_url = re.compile("https?://.*datacollect.{1,15}")
+script_with_datacollection_in_url = re.compile("https?://.*data(-)?collect.*\.js")
 script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
 script_with_hitcounter_in_url = re.compile("https?://.*hitcount.*\.js")
 script_with_ad_targeting_in_url = re.compile("https?://.*ad-target.*\.js")
@@ -142,7 +142,16 @@ for domain in latest_top:
 		failedtoscan += 1
 	else:
 		try:
-			req = requests.get("http://{}".format(domain))
+			try:
+				req = requests.get("http://{}".format(domain))
+			except Exception as err:
+				try:
+					req = requests.get("https://{}".format(domain))
+					print("Retried and got a response")
+				except Exception as err:
+					failedtoscan += 1
+					errlog.write("[{}] {}\n".format(domain,err))
+					continue
 			data["domains_tested"] += 1
 			domainreport = hastrackers(req.text,domain)
 			if domainreport["has_trackers"] == True:
@@ -154,6 +163,7 @@ for domain in latest_top:
 		except Exception as err:
 			failedtoscan += 1
 			errlog.write("[{}] {}\n".format(domain,err))
+			continue
 
 with open("report.md","w") as f:
 	f.write("## Tracker report\n")
