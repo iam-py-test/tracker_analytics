@@ -666,3 +666,6 @@ outreach.abetterinternet.org
 www.theguardian.com
 accounts.google.com
 33fa1ur95-n0owlkee0.sentry.dev
+dns.google
+www.dvidshub.net
+33fa1ur95-6x8m83mtx.sentry.dev

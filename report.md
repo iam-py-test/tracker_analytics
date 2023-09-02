@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
-53 of the domains tested used known trackers <br>
-127 of the domains tested supported HTTPS <br>
+138 domains tested <br>
+Failed to test 62 domains <br>
+55 of the domains tested used known trackers <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -141,6 +141,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### casalemedia.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### cloudflare-dns.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -190,6 +196,12 @@ Number of trackers detected: 1 <br>
 
 
 #### digicert.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### dns.google
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -375,6 +387,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### health.mil
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -475,6 +493,12 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+
+
+#### nih.gov
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### ntp.org
@@ -749,8 +773,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### wordpress.org
@@ -816,8 +840,9 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 28<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
+`casalemedia.com`: 1<br>
 `cdn.optimizely.com`: 2<br>
 `tpc.googlesyndication.com`: 1<br>
 `pagead2.googlesyndication.com`: 1<br>
@@ -836,7 +861,7 @@ Number of trackers detected: 1 <br>
 `static.chartbeat.com`: 1<br>
 `cdnjs.cloudflare.com`: 1<br>
 `healthguides.cnn.com`: 1<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
