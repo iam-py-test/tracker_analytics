@@ -669,3 +669,4 @@ accounts.google.com
 dns.google
 www.dvidshub.net
 33fa1ur95-6x8m83mtx.sentry.dev
+33fa1ur95-5zthfdstr.sentry.dev
