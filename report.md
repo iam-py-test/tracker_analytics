@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
-55 of the domains tested used known trackers <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+54 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -171,12 +171,6 @@ Known trackers: True <br>
 Number of trackers detected: 28 <br>
 
 
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### comfortel.pro
 HTTPS: True <br>
 Known trackers: False <br>
@@ -205,12 +199,6 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### dnsmadeeasy.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
 
 
 #### doubleclick.net
@@ -244,12 +232,6 @@ Number of trackers detected: 0 <br>
 
 
 #### europa.eu
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### example.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -621,6 +603,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### shipt.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### skype.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -709,6 +697,12 @@ Number of trackers detected: 2 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### userapi.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### vimeo.com
@@ -840,7 +834,7 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 27<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
 `cdn.optimizely.com`: 2<br>

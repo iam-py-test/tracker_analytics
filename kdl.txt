@@ -671,3 +671,9 @@ www.dvidshub.net
 33fa1ur95-6x8m83mtx.sentry.dev
 33fa1ur95-5zthfdstr.sentry.dev
 33fa1ur95-f46xv02sb.sentry.dev
+cdn.rollbar.com
+staging-images.shipt.com
+dsom-imager-prod.shipt.com
+shipt.com
+resources.digital-cloud-west.medallia.com
+gtm.shipt.com
