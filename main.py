@@ -107,8 +107,7 @@ def hastrackers(html,d=""):
 			except Exception as err:
 				pass
 	try:
-		scripts = soup.find_all("script")
-		scripts += soup.find_all("iframe")
+		scripts = soup.select("[src]")
 		for script in scripts:
 			hassrc = False
 			try:
