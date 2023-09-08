@@ -31,12 +31,11 @@ suspect_strings = []
 # regexs to extract possible trackers
 script_with_tracker_in_url = re.compile("https?://.*track.*\.js")
 script_with_analytics_in_url = re.compile("https?://.*analytic.*\.js")
-script_with_datacollection_in_url = re.compile("https?://.*data(-)?collect.*\.js")
+script_with_datacollection_in_url = re.compile("https?://.*datacollect.*\.js")
 script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
 script_with_hitcounter_in_url = re.compile("https?://.*hitcount.*\.js")
 script_with_ad_targeting_in_url = re.compile("https?://.*ad-target.*\.js")
-fetch_with_ping_in_url = re.compile("fetch\(\"https?://.*ping.*\"\)")
-trackingID = re.compile(".{0,20}TrackingID")
+trackingID = re.compile(".{0,10}TrackingID")
 
 errlog = open("err.log",'w')
 
@@ -85,7 +84,6 @@ def hastrackers(html,d=""):
 			suspect_strings += re.findall(script_with_pageview_in_url, html)
 			suspect_strings += re.findall(script_with_hitcounter_in_url, html)
 			suspect_strings += re.findall(script_with_ad_targeting_in_url, html)
-			suspect_strings += re.findall(fetch_with_ping_in_url, html)
 			suspect_strings += re.findall(trackingID, html)
 	except Exception as err:
 		print("regex error: ",err)
