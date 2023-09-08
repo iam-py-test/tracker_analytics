@@ -679,3 +679,5 @@ resources.digital-cloud-west.medallia.com
 gtm.shipt.com
 baidu.com
 33fa1ur95-ge6oehsg5.sentry.dev
+prod.pa.cdn.uis.awsstatic.com
+33fa1ur95-22k8x65p1.sentry.dev
