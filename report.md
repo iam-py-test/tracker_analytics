@@ -2,17 +2,11 @@
 Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 63 domains <br>
-54 of the domains tested used known trackers <br>
+53 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
-
-
-#### 510623.com
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### adityabirlacapital.com
@@ -169,6 +163,12 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 59 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -617,8 +617,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### soundcloud.com
@@ -834,7 +834,7 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 26<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
 `cdn.optimizely.com`: 2<br>
@@ -865,7 +865,7 @@ Number of trackers detected: 1 <br>
 `googletagmanager.com`: 1<br>
 `tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 2<br>
-`www.google-analytics.com`: 3<br>
+`www.google-analytics.com`: 2<br>
 `pubmatic.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>

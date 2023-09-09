@@ -741,3 +741,5 @@ images.ctfassets.net
 videos.ctfassets.net
 file-paa.zoom.us
 occ-0-2301-114.1.nflxso.net
+p16-sign.tiktokcdn-us.com
+p19-sign.tiktokcdn-us.com
