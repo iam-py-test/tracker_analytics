@@ -35,7 +35,6 @@ script_with_datacollection_in_url = re.compile("https?://.*datacollect.*\.js")
 script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
 script_with_hitcounter_in_url = re.compile("https?://.*hitcount.*\.js")
 script_with_ad_targeting_in_url = re.compile("https?://.*ad-target.*\.js")
-trackingID = re.compile(".{0,10}TrackingID")
 
 errlog = open("err.log",'w')
 
@@ -84,7 +83,6 @@ def hastrackers(html,d=""):
 			suspect_strings += re.findall(script_with_pageview_in_url, html)
 			suspect_strings += re.findall(script_with_hitcounter_in_url, html)
 			suspect_strings += re.findall(script_with_ad_targeting_in_url, html)
-			suspect_strings += re.findall(trackingID, html)
 	except Exception as err:
 		print("regex error: ",err)
 	
