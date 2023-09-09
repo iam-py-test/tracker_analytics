@@ -168,7 +168,7 @@ Number of trackers detected: 0 <br>
 #### cnn.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 28 <br>
+Number of trackers detected: 59 <br>
 
 
 #### comcast.net
@@ -630,7 +630,7 @@ Number of trackers detected: 2 <br>
 #### soundcloud.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 23 <br>
+Number of trackers detected: 15 <br>
 
 
 #### spotify.com
@@ -857,10 +857,10 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 1<br>
 `js-sec.indexww.com`: 1<br>
 `a.jsrdn.com`: 1<br>
-`cnn.com`: 10<br>
 `static.chartbeat.com`: 1<br>
-`cdnjs.cloudflare.com`: 1<br>
+`media.cnn.com`: 41<br>
 `healthguides.cnn.com`: 1<br>
+`cdnjs.cloudflare.com`: 1<br>
 `stats.wp.com`: 4<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
@@ -876,7 +876,6 @@ Number of trackers detected: 1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
 `pixel.quantserve.com`: 1<br>
-`soundcloud.com`: 8<br>
 `dwt.soundcloud.com`: 1<br>
 `a-v2.sndcdn.com`: 9<br>
 `cdn.cookielaw.org`: 1<br>
