@@ -30,7 +30,7 @@ failedtoscan = 0
 suspect_strings = []
 # regexs to extract possible trackers
 script_with_tracker_in_url = re.compile("https?://.*track.*\.js")
-script_with_analytics_in_url = re.compile("https?://.*analytic.*\.js")
+script_with_analytics_in_url = re.compile("https?://.*analytics.*\.js")
 script_with_datacollection_in_url = re.compile("https?://.*datacollect.*\.js")
 script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
 script_with_hitcounter_in_url = re.compile("https?://.*hitcount.*\.js")
