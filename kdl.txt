@@ -743,3 +743,6 @@ file-paa.zoom.us
 occ-0-2301-114.1.nflxso.net
 p16-sign.tiktokcdn-us.com
 p19-sign.tiktokcdn-us.com
+occ-0-3012-114.1.nflxso.net
+v.redd.it
+pixel.wp.com

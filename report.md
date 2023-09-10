@@ -1,12 +1,18 @@
 ## Tracker report
 Tried to test 200 domains<br>
-137 domains tested <br>
-Failed to test 63 domains <br>
-53 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+138 domains tested <br>
+Failed to test 62 domains <br>
+55 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
+
+
+#### 510623.com
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### adityabirlacapital.com
@@ -617,8 +623,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 
 
 #### soundcloud.com
@@ -754,7 +760,7 @@ Number of trackers detected: 0 <br>
 
 
 #### windows.com
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -767,8 +773,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -834,7 +840,7 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
-`www.googletagmanager.com`: 26<br>
+`www.googletagmanager.com`: 27<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
 `cdn.optimizely.com`: 2<br>
@@ -855,7 +861,7 @@ Number of trackers detected: 1 <br>
 `media.cnn.com`: 41<br>
 `healthguides.cnn.com`: 1<br>
 `cdnjs.cloudflare.com`: 1<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -865,7 +871,7 @@ Number of trackers detected: 1 <br>
 `googletagmanager.com`: 1<br>
 `tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 2<br>
-`www.google-analytics.com`: 2<br>
+`www.google-analytics.com`: 3<br>
 `pubmatic.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 1<br>
