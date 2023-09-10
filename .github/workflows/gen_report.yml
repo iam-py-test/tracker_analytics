@@ -23,10 +23,7 @@ jobs:
         pip3 install publicsuffixlist
         python3 main.py
         echo Cleaning up...
-        cd .tranco 
-        rm *
-        cd ..
-        rmdir .tranco 
+        rm -rf .tranco 
     - name: Commit & Push
       uses: actions-x/commit@v6
       with:
