@@ -746,3 +746,7 @@ p19-sign.tiktokcdn-us.com
 occ-0-3012-114.1.nflxso.net
 v.redd.it
 pixel.wp.com
+www.baidu.com
+occ-0-3012-116.1.nflxso.net
+vp.nyt.com
+33fa1ur95-ldkzusy20.sentry.dev

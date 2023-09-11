@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
 55 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -168,7 +168,7 @@ Number of trackers detected: 0 <br>
 #### cnn.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 59 <br>
+Number of trackers detected: 58 <br>
 
 
 #### comcast.net
@@ -760,7 +760,7 @@ Number of trackers detected: 0 <br>
 
 
 #### windows.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -858,7 +858,7 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 1<br>
 `a.jsrdn.com`: 1<br>
 `static.chartbeat.com`: 1<br>
-`media.cnn.com`: 41<br>
+`media.cnn.com`: 40<br>
 `healthguides.cnn.com`: 1<br>
 `cdnjs.cloudflare.com`: 1<br>
 `stats.wp.com`: 5<br>
