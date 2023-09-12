@@ -750,3 +750,8 @@ www.baidu.com
 occ-0-3012-116.1.nflxso.net
 vp.nyt.com
 33fa1ur95-ldkzusy20.sentry.dev
+occ-0-3111-114.1.nflxso.net
+datatracking.ru
+www.artfut.com
+reg.ru
+33fa1ur95-2a7clhs0k.sentry.dev
