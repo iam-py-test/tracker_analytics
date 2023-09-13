@@ -93,6 +93,7 @@ def hastrackers(html,d=""):
 				domain = urlparse(prefetch.get("href")).netloc
 				root = psl.privatesuffix(domain)
 				if (domain in trackerdomains or root in trackerdomains) and domain != "":
+						print(domain, root)
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
