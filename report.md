@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 139 domains tested <br>
 Failed to test 61 domains <br>
 55 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+132 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -796,7 +796,7 @@ Number of trackers detected: 0 <br>
 
 
 #### xiaomi.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
