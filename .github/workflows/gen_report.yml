@@ -17,10 +17,7 @@ jobs:
     - name: Build tracker data
       run: |
         pip3 --version
-        pip3 install requests
-        pip3 install beautifulsoup4
-        pip3 install tranco
-        pip3 install publicsuffixlist
+        pip3 install requests beautifulsoup4 tranco publicsuffixlist dnspython
         python3 main.py
         echo Cleaning up...
         rm -rf .tranco 
