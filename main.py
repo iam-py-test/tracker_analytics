@@ -30,12 +30,12 @@ abletoscan = 0
 failedtoscan = 0
 suspect_strings = []
 # regexs to extract possible trackers
-script_with_tracker_in_url = re.compile("https?://.*tracker[a-zA-Z./]*\.js")
-script_with_analytics_in_url = re.compile("https?://.*analytics.*\.js")
-script_with_datacollection_in_url = re.compile("https?://.*datacollect.*\.js")
-script_with_pageview_in_url = re.compile("https?://.*pageview.*\.js")
-script_with_hitcounter_in_url = re.compile("https?://.*hitcount.*\.js")
-script_with_ad_targeting_in_url = re.compile("https?://.*ad-target.*\.js")
+script_with_tracker_in_url = re.compile("https?://[a-zA-Z./]*tracker[a-zA-Z./]*\.js")
+script_with_analytics_in_url = re.compile("https?://[a-zA-Z./]*analytics[a-zA-Z./]*\.js")
+script_with_datacollection_in_url = re.compile("https?://[a-zA-Z./]*datacollect[a-zA-Z./]*\.js")
+script_with_pageview_in_url = re.compile("https?://[a-zA-Z./]*pageview[a-zA-Z./]*\.js")
+script_with_hitcounter_in_url = re.compile("https?://[a-zA-Z./]*hitcount[a-zA-Z./]*\.js")
+script_with_ad_targeting_in_url = re.compile("https?://[a-zA-Z./]*ad-target[a-zA-Z./]*\.js")
 dnsr = dns.resolver.Resolver()
 
 errlog = open("err.log",'w')
