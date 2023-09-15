@@ -934,3 +934,12 @@ cds.f2g6c8v8.hwcdn.net
 cosmic-centralus-ns-ce217200238f.trafficmanager.net
 onedscolprdwus11.westus.cloudapp.azure.com
 sun6-23.userapi.com
+part-0029.t-0009.t-msedge.net
+e9930.dscapi6.akamaiedge.net
+SAT-efz.ms-acdc.office.com
+iris-de-prod-azsc-v2-ncus.northcentralus.cloudapp.azure.com
+www-alv.google-analytics.com
+dualstack.pinterest.map.fastly.net
+33fa1ur95-gl37cm426.sentry.dev
+onedscolprdfrc02.francecentral.cloudapp.azure.com
+cs672.wac.edgecastcdn.net
