@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-140 domains tested <br>
-Failed to test 60 domains <br>
-64 of the domains tested used known trackers <br>
+139 domains tested <br>
+Failed to test 61 domains <br>
+65 of the domains tested used known trackers <br>
 133 of the domains tested supported HTTPS <br>
 
 
@@ -169,12 +169,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 16 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -785,8 +779,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -872,7 +866,7 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 1<br>
 `a.jsrdn.com`: 1<br>
 `static.chartbeat.com`: 1<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>

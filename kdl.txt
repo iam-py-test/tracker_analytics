@@ -943,3 +943,12 @@ dualstack.pinterest.map.fastly.net
 33fa1ur95-gl37cm426.sentry.dev
 onedscolprdfrc02.francecentral.cloudapp.azure.com
 cs672.wac.edgecastcdn.net
+part-0041.t-0009.t-msedge.net
+e11847.a.akamaiedge.net
+SJC-efz.ms-acdc.office.com
+iris-de-prod-azsc-v2-wus2-b.westus2.cloudapp.azure.com
+paypal.map.fastly.net
+33fa1ur95-k2yj7f3c4.sentry.dev
+cosmic-southcentralus-ns-b37f8910d6c7.trafficmanager.net
+onedscolprdwus03.westus.cloudapp.azure.com
+dualstack.twimg.twitter.map.fastly.net
