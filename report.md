@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-139 domains tested <br>
-Failed to test 61 domains <br>
-65 of the domains tested used known trackers <br>
+140 domains tested <br>
+Failed to test 60 domains <br>
+63 of the domains tested used known trackers <br>
 133 of the domains tested supported HTTPS <br>
 
 
@@ -93,12 +93,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### avast.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### azure.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -169,6 +163,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 16 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -717,6 +717,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### userapi.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### vimeo.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -779,8 +785,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### wordpress.org
@@ -846,9 +852,9 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
-`www.googletagmanager.com`: 32<br>
 `sb.scorecardresearch.com`: 6<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
+`www.googletagmanager.com`: 31<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 3<br>
@@ -866,7 +872,7 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 1<br>
 `a.jsrdn.com`: 1<br>
 `static.chartbeat.com`: 1<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>

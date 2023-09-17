@@ -952,3 +952,7 @@ paypal.map.fastly.net
 cosmic-southcentralus-ns-b37f8910d6c7.trafficmanager.net
 onedscolprdwus03.westus.cloudapp.azure.com
 dualstack.twimg.twitter.map.fastly.net
+e9428.dsca.akamaiedge.net
+ooc-g2.tm-4.office.com
+onedscolprdwus05.westus.cloudapp.azure.com
+dualstack.video.twitter.map.fastly.net
