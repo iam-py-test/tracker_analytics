@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 140 domains tested <br>
 Failed to test 60 domains <br>
-63 of the domains tested used known trackers <br>
+64 of the domains tested used known trackers <br>
 133 of the domains tested supported HTTPS <br>
 
 
@@ -498,7 +498,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### office.com
@@ -576,7 +576,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 6 <br>
+Number of trackers detected: 5 <br>
 
 
 #### roblox.com
@@ -785,8 +785,8 @@ Number of trackers detected: 0 <br>
 
 #### wordpress.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wordpress.org
@@ -854,7 +854,7 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 31<br>
+`www.googletagmanager.com`: 30<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 3<br>
@@ -871,8 +871,8 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 1<br>
 `js-sec.indexww.com`: 1<br>
 `a.jsrdn.com`: 1<br>
-`static.chartbeat.com`: 1<br>
-`stats.wp.com`: 4<br>
+`static.chartbeat.com`: 2<br>
+`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>

@@ -956,3 +956,10 @@ e9428.dsca.akamaiedge.net
 ooc-g2.tm-4.office.com
 onedscolprdwus05.westus.cloudapp.azure.com
 dualstack.video.twitter.map.fastly.net
+e9930.dscapi1.akamaiedge.net
+a.thumbs.redditmedia.com
+a1993.g.akamai.net
+33fa1ur95-7xmmzryg8.sentry.dev
+cosmic-centralus-ns-595fb58a178c.trafficmanager.net
+onedscolprdcus08.centralus.cloudapp.azure.com
+assets.tumblr.com
