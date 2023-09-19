@@ -1448,3 +1448,12 @@ tw.yahoo.com
 m.youtube.com
 com.google.android.youtube
 544007664
+e9930.dscapi9.akamaiedge.net
+asset-proxy-staging.mrk.cfdata.org
+cs1404.wpc.epsiloncdn.net
+i.redd.it
+cds.k8i5h9b4.hwcdn.net
+cds.z6y7b7p6.hwcdn.net
+33fa1ur95-36ivhynd5.sentry.dev
+www.tm.v4.a.prd.aadg.trafficmanager.net
+onedscolprdeus02.eastus.cloudapp.azure.com
