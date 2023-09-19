@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-140 domains tested <br>
-Failed to test 60 domains <br>
-64 of the domains tested used known trackers <br>
-133 of the domains tested supported HTTPS <br>
+139 domains tested <br>
+Failed to test 61 domains <br>
+66 of the domains tested used known trackers <br>
+132 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -89,8 +89,8 @@ Number of trackers detected: 1 <br>
 
 #### archive.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### azure.com
@@ -162,7 +162,7 @@ Number of trackers detected: 1 <br>
 #### cnn.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 16 <br>
+Number of trackers detected: 31 <br>
 
 
 #### comcast.net
@@ -348,7 +348,7 @@ Number of trackers detected: 0 <br>
 #### googledomains.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 4 <br>
 
 
 #### googlesyndication.com
@@ -462,7 +462,7 @@ Number of trackers detected: 1 <br>
 #### msn.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### myfritz.net
@@ -498,7 +498,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -552,7 +552,7 @@ Number of trackers detected: 1 <br>
 #### pki.goog
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 3 <br>
 
 
 #### pubmatic.com
@@ -576,7 +576,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 5 <br>
+Number of trackers detected: 12 <br>
 
 
 #### roblox.com
@@ -587,8 +587,8 @@ Number of trackers detected: 1 <br>
 
 #### salesforce.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 5 <br>
 
 
 #### salesforceliveagent.com
@@ -702,7 +702,7 @@ Number of trackers detected: 0 <br>
 #### twitter.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### ui.com
@@ -715,12 +715,6 @@ Number of trackers detected: 2 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-
-
-#### userapi.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### vimeo.com
@@ -786,7 +780,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -810,7 +804,7 @@ Number of trackers detected: 1 <br>
 #### yahoo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### yandex.net
@@ -852,46 +846,53 @@ Number of trackers detected: 1 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
-`sb.scorecardresearch.com`: 6<br>
+`analytics.archive.org`: 1<br>
+`sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 35<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
-`cdn.optimizely.com`: 3<br>
-`tpc.googlesyndication.com`: 1<br>
-`pagead2.googlesyndication.com`: 1<br>
-`www.googletagservices.com`: 1<br>
-`c.amazon-adsystem.com`: 1<br>
-`ib.adnxs.com`: 1<br>
-`static.yieldmo.com`: 1<br>
-`widgets.outbrain.com`: 1<br>
-`odb.outbrain.com`: 1<br>
-`cdn.adsafeprotected.com`: 1<br>
-`securepubads.g.doubleclick.net`: 1<br>
-`segment-data-us-east.zqtk.net`: 1<br>
-`js-sec.indexww.com`: 1<br>
-`a.jsrdn.com`: 1<br>
-`static.chartbeat.com`: 2<br>
+`cdn.optimizely.com`: 5<br>
+`tpc.googlesyndication.com`: 2<br>
+`pagead2.googlesyndication.com`: 2<br>
+`www.googletagservices.com`: 2<br>
+`c.amazon-adsystem.com`: 2<br>
+`ib.adnxs.com`: 2<br>
+`static.yieldmo.com`: 2<br>
+`widgets.outbrain.com`: 2<br>
+`odb.outbrain.com`: 2<br>
+`cdn.adsafeprotected.com`: 2<br>
+`securepubads.g.doubleclick.net`: 2<br>
+`segment-data-us-east.zqtk.net`: 2<br>
+`js-sec.indexww.com`: 2<br>
+`a.jsrdn.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
-`google-analytics.com`: 1<br>
+`google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
+`www.google-analytics.com`: 7<br>
 `googlesyndication.com`: 1<br>
-`googletagmanager.com`: 1<br>
+`googletagmanager.com`: 2<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
-`www.google-analytics.com`: 4<br>
 `pubmatic.com`: 1<br>
+`static.criteo.net`: 1<br>
+`dis.eu.criteo.com`: 1<br>
+`sslwidget.criteo.com`: 1<br>
+`cdn.krxd.net`: 1<br>
+`dpm.demdex.net`: 1<br>
+`salesforce.us-1.evergage.com`: 1<br>
 `secure.quantserve.com`: 1<br>
-`ssl.google-analytics.com`: 1<br>
+`ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 2<br>
+`t.co`: 3<br>
 `taboola.com`: 1<br>
 `cdn.taboola.com`: 1<br>
-`geo.yahoo.com`: 1<br>
+`geo.yahoo.com`: 2<br>
 `zemanta.com`: 1<br>
