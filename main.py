@@ -101,10 +101,10 @@ def hastrackers(html,d=""):
 		print("regex error: ",err)
 	
 	soup = BeautifulSoup(html,'html.parser')
-	pf = soup.select("link[rel=\"dns-prefetch\"]")
+	pf = soup.select("link")
 	for prefetch in pf:
 			try:
-				domain = urlparse(prefetch.get("href")).netloc
+				domain = urlparse(urllib.parse.urljoin("http://{}".format(d),prefetch.get("href"))).netloc
 				root = psl.privatesuffix(domain)
 				cname = get_cname(domain)
 				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
@@ -118,6 +118,31 @@ def hastrackers(html,d=""):
 					known_domains_list.append(domain)
 			except Exception as err:
 				pass
+	try:
+		links = soup.select("a")
+		for link in links:
+			hassrc = False
+			try:
+				srcurl = urllib.parse.urljoin("http://{}".format(d),link.get("ping"))
+				if srcurl in known_tracker_urls:
+					report["total"] += 1
+					report["has_trackers"] = True
+				domain = urlparse(srcurl).netloc
+				root = psl.privatesuffix(domain)
+				cname = get_cname(domain)
+				hassrc = True
+				if domain not in known_domains_list and domain != "":
+					known_domains_list.append(domain)
+				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
+						report["total"] += 1
+						report["has_trackers"] = True
+						if domain not in trackers_found_obj:
+							trackers_found_obj[domain] = 0
+						trackers_found_obj[domain] += 1
+			except Exception as err:
+				pass
+	except:
+		pass
 	try:
 		scripts = soup.select("[src]")
 		for script in scripts:
