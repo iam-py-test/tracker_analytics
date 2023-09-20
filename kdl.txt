@@ -1457,3 +1457,12 @@ cds.z6y7b7p6.hwcdn.net
 33fa1ur95-36ivhynd5.sentry.dev
 www.tm.v4.a.prd.aadg.trafficmanager.net
 onedscolprdeus02.eastus.cloudapp.azure.com
+aws-us-east-1.amazon.com
+e9930.dscapi5.akamaiedge.net
+occ-0-3011-114.1.nflxso.net
+widget.fr3.vip.prod.criteo.com
+a1992.w27.akamai.net
+33fa1ur95-nieeeplh2.sentry.dev
+onedscolprdeus13.eastus.cloudapp.azure.com
+a1817.dscd.akamai.net.0.1.cn.akamaitech.net
+d30r7cggsjvuek.cloudfront.net
