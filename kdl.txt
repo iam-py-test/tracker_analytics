@@ -1466,3 +1466,7 @@ a1992.w27.akamai.net
 onedscolprdeus13.eastus.cloudapp.azure.com
 a1817.dscd.akamai.net.0.1.cn.akamaitech.net
 d30r7cggsjvuek.cloudfront.net
+e9930.dscapi8.akamaiedge.net
+milanuncios.com
+33fa1ur95-f81fe0g7y.sentry.dev
+onedscolprdeus12.eastus.cloudapp.azure.com

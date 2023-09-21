@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 139 domains tested <br>
 Failed to test 61 domains <br>
-66 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+67 of the domains tested used known trackers <br>
+132 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -11,12 +11,6 @@ Failed to test 61 domains <br>
 
 #### 510623.com
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### adityabirlacapital.com
-HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -238,7 +232,7 @@ Number of trackers detected: 0 <br>
 
 
 #### europa.eu
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -447,6 +441,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### milanuncios.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### mozilla.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -576,7 +576,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 10 <br>
+Number of trackers detected: 11 <br>
 
 
 #### roblox.com
@@ -791,8 +791,8 @@ Number of trackers detected: 4 <br>
 
 #### xerox.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 
 
 #### xiaomi.com
@@ -849,7 +849,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 35<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 5<br>
