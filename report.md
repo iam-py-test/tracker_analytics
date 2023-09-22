@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 139 domains tested <br>
 Failed to test 61 domains <br>
-67 of the domains tested used known trackers <br>
+66 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -576,7 +576,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 11 <br>
+Number of trackers detected: 7 <br>
 
 
 #### roblox.com
@@ -791,8 +791,8 @@ Number of trackers detected: 4 <br>
 
 #### xerox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### xiaomi.com
@@ -849,7 +849,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 35<br>
+`www.googletagmanager.com`: 33<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 5<br>
@@ -882,9 +882,6 @@ Number of trackers detected: 1 <br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>

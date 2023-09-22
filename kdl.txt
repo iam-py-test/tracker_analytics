@@ -1470,3 +1470,10 @@ e9930.dscapi8.akamaiedge.net
 milanuncios.com
 33fa1ur95-f81fe0g7y.sentry.dev
 onedscolprdeus12.eastus.cloudapp.azure.com
+wwwstatic1.gshifen.com
+s1.bdstatic.com
+roblox-images.cachefly.net
+roblox-css.cachefly.net
+33fa1ur95-ojz18n5ds.sentry.dev
+azureloginprodne.cloudapp.net
+twimg.twitter.map.fastly.net
