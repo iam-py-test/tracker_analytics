@@ -1477,3 +1477,14 @@ roblox-css.cachefly.net
 33fa1ur95-ojz18n5ds.sentry.dev
 azureloginprodne.cloudapp.net
 twimg.twitter.map.fastly.net
+e9930.dscapi2.akamaiedge.net
+prod--dispatcher-1--digicert.cordtools.prod.blu.digicert.com
+static.da1.vip.prod.criteo.net
+widget.da1.vip.prod.criteo.com
+phx-canary.edge2.salesforce.com
+dcs-edge-usw2-620097651.us-west-2.elb.amazonaws.com
+onedscolprdwus13.westus.cloudapp.azure.com
+guc3-dealer-ssl.spotify.com
+guc3-dealer.spotify.com
+edge-web-guc3.dual-gslb.spotify.com
+guc3-spclient.spotify.com

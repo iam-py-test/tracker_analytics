@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-139 domains tested <br>
-Failed to test 61 domains <br>
-66 of the domains tested used known trackers <br>
-132 of the domains tested supported HTTPS <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+65 of the domains tested used known trackers <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -157,12 +157,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -576,7 +570,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 7 <br>
+Number of trackers detected: 11 <br>
 
 
 #### roblox.com
@@ -795,12 +789,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### xiaomi.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### yahoo.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -882,6 +870,9 @@ Number of trackers detected: 1 <br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
+`static.criteo.net`: 1<br>
+`dis.eu.criteo.com`: 1<br>
+`sslwidget.criteo.com`: 1<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
