@@ -1488,3 +1488,6 @@ guc3-dealer-ssl.spotify.com
 guc3-dealer.spotify.com
 edge-web-guc3.dual-gslb.spotify.com
 guc3-spclient.spotify.com
+ph2-canary.edge2.salesforce.com
+azureloginprodwu.cloudapp.net
+onedscolprdwus08.westus.cloudapp.azure.com
