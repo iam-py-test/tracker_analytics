@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
-65 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+139 domains tested <br>
+Failed to test 61 domains <br>
+66 of the domains tested used known trackers <br>
+132 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -159,6 +159,12 @@ Known trackers: True <br>
 Number of trackers detected: 31 <br>
 
 
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### comfortel.pro
 HTTPS: True <br>
 Known trackers: False <br>
@@ -267,6 +273,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### force.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 9 <br>
+
+
 #### forms.gle
 HTTPS: True <br>
 Known trackers: False <br>
@@ -373,12 +385,6 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
-
-
-#### hwcdn.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### icloud.com
@@ -576,7 +582,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 11 <br>
+Number of trackers detected: 8 <br>
 
 
 #### roblox.com
@@ -843,10 +849,10 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 35<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
-`cdn.optimizely.com`: 5<br>
+`cdn.optimizely.com`: 6<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -866,9 +872,13 @@ Number of trackers detected: 1 <br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
+`cdn.krxd.net`: 2<br>
+`www.google-analytics.com`: 8<br>
+`dpm.demdex.net`: 2<br>
+`salesforce.us-1.evergage.com`: 2<br>
+`a10681260716.cdn.optimizely.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 7<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `tags.tiqcdn.com`: 1<br>
@@ -876,12 +886,6 @@ Number of trackers detected: 1 <br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
-`cdn.krxd.net`: 1<br>
-`dpm.demdex.net`: 1<br>
-`salesforce.us-1.evergage.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>

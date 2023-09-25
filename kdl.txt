@@ -1491,3 +1491,11 @@ guc3-spclient.spotify.com
 ph2-canary.edge2.salesforce.com
 azureloginprodwu.cloudapp.net
 onedscolprdwus08.westus.cloudapp.azure.com
+a1994.dscr.akamai.net
+e9930.dscapi10.akamaiedge.net
+e4343.a.akamaiedge.net
+a10681260716.cdn.optimizely.com
+azureloginprodeu.cloudapp.net
+onedscolprdfrc01.francecentral.cloudapp.azure.com
+1562951790.rsc.cdn77.org
+p77-sign-sg.tiktokcdn.com
