@@ -477,6 +477,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### mzstatic.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### netflix.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -504,7 +510,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### office.com
@@ -641,8 +647,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### soundcloud.com
@@ -737,8 +743,8 @@ Number of trackers detected: 0 <br>
 
 #### w3.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### wa.me
@@ -795,12 +801,6 @@ Known trackers: True <br>
 Number of trackers detected: 4 <br>
 
 
-#### xerox.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### yahoo.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -849,9 +849,9 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 35<br>
+`www.googletagmanager.com`: 34<br>
 `casalemedia.com`: 1<br>
-`static.cloudflareinsights.com`: 3<br>
+`static.cloudflareinsights.com`: 4<br>
 `cdn.optimizely.com`: 6<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -866,14 +866,14 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `cdn.krxd.net`: 2<br>
-`www.google-analytics.com`: 8<br>
+`www.google-analytics.com`: 7<br>
 `dpm.demdex.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
 `a10681260716.cdn.optimizely.com`: 1<br>
