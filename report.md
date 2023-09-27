@@ -510,7 +510,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -588,7 +588,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 8 <br>
+Number of trackers detected: 12 <br>
 
 
 #### roblox.com
@@ -647,8 +647,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 
 
 #### soundcloud.com
@@ -743,8 +743,8 @@ Number of trackers detected: 0 <br>
 
 #### w3.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### wa.me
@@ -849,9 +849,9 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 34<br>
+`www.googletagmanager.com`: 36<br>
 `casalemedia.com`: 1<br>
-`static.cloudflareinsights.com`: 4<br>
+`static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 6<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -866,14 +866,14 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `cdn.krxd.net`: 2<br>
-`www.google-analytics.com`: 7<br>
+`www.google-analytics.com`: 8<br>
 `dpm.demdex.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
 `a10681260716.cdn.optimizely.com`: 1<br>
@@ -886,6 +886,9 @@ Number of trackers detected: 1 <br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
+`static.criteo.net`: 1<br>
+`dis.eu.criteo.com`: 1<br>
+`sslwidget.criteo.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>

@@ -1503,3 +1503,5 @@ endpoint.prod.us-east-1.forester.a2z.com
 fls-na.amazon.com
 33fa1ur95-gqz021n5a.sentry.dev
 onedscolprdeus00.eastus.cloudapp.azure.com
+33fa1ur95-6w1evnde5.sentry.dev
+onedscolprdwus06.westus.cloudapp.azure.com
