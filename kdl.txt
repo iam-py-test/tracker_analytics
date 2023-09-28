@@ -1505,3 +1505,6 @@ fls-na.amazon.com
 onedscolprdeus00.eastus.cloudapp.azure.com
 33fa1ur95-6w1evnde5.sentry.dev
 onedscolprdwus06.westus.cloudapp.azure.com
+dfw-canary.edge2.salesforce.com
+iris-de-prod-azsc-v2-ncus-b.northcentralus.cloudapp.azure.com
+33fa1ur95-rg6zodt6c.sentry.dev

@@ -174,7 +174,7 @@ Number of trackers detected: 0 <br>
 #### creativecommons.org
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 1 <br>
 
 
 #### criteo.com
@@ -588,7 +588,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 12 <br>
+Number of trackers detected: 2 <br>
 
 
 #### roblox.com
@@ -849,7 +849,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 36<br>
+`www.googletagmanager.com`: 29<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 6<br>
@@ -867,7 +867,6 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
-`stats.wp.com`: 5<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -881,14 +880,12 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
+`stats.wp.com`: 4<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
