@@ -1508,3 +1508,7 @@ onedscolprdwus06.westus.cloudapp.azure.com
 dfw-canary.edge2.salesforce.com
 iris-de-prod-azsc-v2-ncus-b.northcentralus.cloudapp.azure.com
 33fa1ur95-rg6zodt6c.sentry.dev
+aws-us-west-2.amazon.com
+draft.blogger.com
+33fa1ur95-ioztg83sd.sentry.dev
+onedscolprdwus09.westus.cloudapp.azure.com
