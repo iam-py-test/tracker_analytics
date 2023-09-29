@@ -118,6 +118,23 @@ def hastrackers(html,d=""):
 					known_domains_list.append(domain)
 			except Exception as err:
 				pass
+	forms = soup.select("form")
+	for form in forms:
+			try:
+				domain = urlparse(urllib.parse.urljoin("http://{}".format(d),form.get("action"))).netloc
+				root = psl.privatesuffix(domain)
+				cname = get_cname(domain)
+				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
+						print(domain, root)
+						report["total"] += 1
+						report["has_trackers"] = True
+						if domain not in trackers_found_obj:
+							trackers_found_obj[domain] = 0
+						trackers_found_obj[domain] += 1
+				if domain not in known_domains_list and domain != "":
+					known_domains_list.append(domain)
+			except Exception as err:
+				pass
 	try:
 		links = soup.select("a")
 		for link in links:
