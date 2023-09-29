@@ -582,7 +582,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 10 <br>
+Number of trackers detected: 11 <br>
 
 
 #### roblox.com
@@ -780,7 +780,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -837,7 +837,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 34<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 6<br>
@@ -868,7 +868,7 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
