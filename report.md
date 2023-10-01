@@ -510,7 +510,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### office.com
@@ -786,7 +786,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -860,7 +860,7 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
@@ -874,7 +874,7 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
