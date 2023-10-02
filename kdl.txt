@@ -1529,3 +1529,7 @@ cl-5672a77c.gcdn.co
 part-0012.t-0009.fb-t-msedge.net
 MNZ-efz.ms-acdc.office.com
 33fa1ur95-l7fq79grl.sentry.dev
+33fa1ur95-2sqewdouo.sentry.dev
+onedscolprdweu00.westeurope.cloudapp.azure.com
+1450622545.rsc.cdn77.org
+p77-sign-va.tiktokcdn.com
