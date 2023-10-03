@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
-66 of the domains tested used known trackers <br>
-132 of the domains tested supported HTTPS <br>
+140 domains tested <br>
+Failed to test 60 domains <br>
+67 of the domains tested used known trackers <br>
+133 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -93,6 +93,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### badoo.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+
+
 #### baidu.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -157,6 +163,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -582,7 +594,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 11 <br>
+Number of trackers detected: 9 <br>
 
 
 #### roblox.com
@@ -841,9 +853,9 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
+`www.googletagmanager.com`: 36<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 34<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 6<br>
@@ -880,9 +892,6 @@ Number of trackers detected: 1 <br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>

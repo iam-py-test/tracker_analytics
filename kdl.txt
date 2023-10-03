@@ -1533,3 +1533,7 @@ MNZ-efz.ms-acdc.office.com
 onedscolprdweu00.westeurope.cloudapp.azure.com
 1450622545.rsc.cdn77.org
 p77-sign-va.tiktokcdn.com
+badoo.com
+us1.badoocdn.com
+33fa1ur95-qxrm4hjk8.sentry.dev
+onedscolprdwus17.westus.cloudapp.azure.com
