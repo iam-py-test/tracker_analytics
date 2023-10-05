@@ -45,6 +45,11 @@ try:
 except:
 	known_domains_list = []
 
+try:
+	known_urls_list = open("kul.txt",'r',encoding="UTF-8").read().split("\n")
+except:
+	known_urls_list = []
+
 trackers_found_obj = {}
 
 # functions
@@ -91,7 +96,7 @@ def hastrackers(html,d=""):
 	# extract all sus strings for analysis by me
 	try:
 		if report["has_trackers"] == False:
-			suspect_strings += re.findall(script_with_tracker_in_url, html)
+			#suspect_strings += re.findall(script_with_tracker_in_url, html)
 			suspect_strings += re.findall(script_with_analytics_in_url, html)
 			suspect_strings += re.findall(script_with_datacollection_in_url, html)
 			suspect_strings += re.findall(script_with_pageview_in_url, html)
@@ -104,7 +109,10 @@ def hastrackers(html,d=""):
 	pf = soup.select("link")
 	for prefetch in pf:
 			try:
-				domain = urlparse(urllib.parse.urljoin("http://{}".format(d),prefetch.get("href"))).netloc
+				full_url = urllib.parse.urljoin("http://{}".format(d),prefetch.get("href"))
+				if full_url == "":
+					continue
+				domain = urlparse(full_url).netloc
 				root = psl.privatesuffix(domain)
 				cname = get_cname(domain)
 				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
@@ -116,6 +124,8 @@ def hastrackers(html,d=""):
 						trackers_found_obj[domain] += 1
 				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
+				if full_url not in known_urls_list:
+					known_urls_list.append(full_url)
 			except Exception as err:
 				pass
 	forms = soup.select("form")
@@ -150,6 +160,8 @@ def hastrackers(html,d=""):
 				hassrc = True
 				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
+				if srcurl not in known_urls_list:
+					known_urls_list.append(srcurl)
 				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
 						report["total"] += 1
 						report["has_trackers"] = True
@@ -241,6 +253,9 @@ with open("report.md","w") as f:
 	f.close()
 kdl_out = open("kdl.txt",'w',encoding="UTF-8")
 kdl_out.write("\n".join(known_domains_list))
+kdl_out.close()
+kdl_out = open("kul.txt",'w',encoding="UTF-8")
+kdl_out.write("\n".join(known_urls_list))
 kdl_out.close()
 sus_out = open("suspect_strings",'w',encoding="UTF-8")
 sus_out.write("\n".join(suspect_strings))
