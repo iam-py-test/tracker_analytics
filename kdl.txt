@@ -1542,3 +1542,6 @@ a1603.dscv.akamai.net
 onedscolprdneu00.northeurope.cloudapp.azure.com
 example.com
 33fa1ur95-nn2p5ojwt.sentry.dev
+33fa1ur95-6n2id3q1m.sentry.dev
+onedscolprdaus00.australiasoutheast.cloudapp.azure.com
+a2047.mm3.akamai.net.0.1.cn.akamaitech.net
