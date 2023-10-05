@@ -219,6 +219,8 @@ for domain in latest_top:
 					failedtoscan += 1
 					errlog.write("[{}] {}\n".format(domain,err))
 					continue
+			if req.url not in known_urls_list:
+				known_urls_list.append(req.url)
 			data["domains_tested"] += 1
 			domainreport = hastrackers(req.text,domain)
 			if domainreport["has_trackers"] == True:
