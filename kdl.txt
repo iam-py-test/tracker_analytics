@@ -1540,3 +1540,5 @@ onedscolprdwus17.westus.cloudapp.azure.com
 a1603.dscv.akamai.net
 33fa1ur95-nse3egew7.sentry.dev
 onedscolprdneu00.northeurope.cloudapp.azure.com
+example.com
+33fa1ur95-nn2p5ojwt.sentry.dev

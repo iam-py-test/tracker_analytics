@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 140 domains tested <br>
 Failed to test 60 domains <br>
-67 of the domains tested used known trackers <br>
+65 of the domains tested used known trackers <br>
 133 of the domains tested supported HTTPS <br>
 
 
@@ -238,6 +238,12 @@ Number of trackers detected: 0 <br>
 
 
 #### europa.eu
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### example.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -591,12 +597,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### reg.ru
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 10 <br>
-
-
 #### roblox.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -653,8 +653,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### soundcloud.com
@@ -853,7 +853,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
-`www.googletagmanager.com`: 34<br>
+`www.googletagmanager.com`: 29<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
@@ -878,7 +878,7 @@ Number of trackers detected: 1 <br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `cdn.krxd.net`: 2<br>
-`www.google-analytics.com`: 8<br>
+`www.google-analytics.com`: 5<br>
 `dpm.demdex.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
 `a10681260716.cdn.optimizely.com`: 1<br>
@@ -892,9 +892,6 @@ Number of trackers detected: 1 <br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
