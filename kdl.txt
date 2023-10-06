@@ -1545,3 +1545,8 @@ example.com
 33fa1ur95-6n2id3q1m.sentry.dev
 onedscolprdaus00.australiasoutheast.cloudapp.azure.com
 a2047.mm3.akamai.net.0.1.cn.akamaitech.net
+part-0010.t-0009.t-msedge.net
+ord-canary.edge2.salesforce.com
+DSM-efz.ms-acdc.office.com
+33fa1ur95-8p4qtnegq.sentry.dev
+onedscolprdcus10.centralus.cloudapp.azure.com

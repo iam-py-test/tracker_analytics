@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-140 domains tested <br>
-Failed to test 60 domains <br>
+139 domains tested <br>
+Failed to test 61 domains <br>
 66 of the domains tested used known trackers <br>
-133 of the domains tested supported HTTPS <br>
+132 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -522,7 +522,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -634,12 +634,6 @@ Number of trackers detected: 1 <br>
 
 
 #### sharepoint.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### shipt.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -872,7 +866,7 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `doubleverify.com`: 1<br>
