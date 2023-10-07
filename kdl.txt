@@ -1550,3 +1550,5 @@ ord-canary.edge2.salesforce.com
 DSM-efz.ms-acdc.office.com
 33fa1ur95-8p4qtnegq.sentry.dev
 onedscolprdcus10.centralus.cloudapp.azure.com
+33fa1ur95-h3zyj0izj.sentry.dev
+onedscolprdeus08.eastus.cloudapp.azure.com

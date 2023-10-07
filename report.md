@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
-139 domains tested <br>
-Failed to test 61 domains <br>
+138 domains tested <br>
+Failed to test 62 domains <br>
 66 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
@@ -163,12 +163,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -792,7 +786,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -880,7 +874,7 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
