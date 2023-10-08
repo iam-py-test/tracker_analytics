@@ -1552,3 +1552,4 @@ DSM-efz.ms-acdc.office.com
 onedscolprdcus10.centralus.cloudapp.azure.com
 33fa1ur95-h3zyj0izj.sentry.dev
 onedscolprdeus08.eastus.cloudapp.azure.com
+onedscolprdweu04.westeurope.cloudapp.azure.com
