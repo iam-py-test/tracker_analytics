@@ -1554,3 +1554,6 @@ onedscolprdcus10.centralus.cloudapp.azure.com
 onedscolprdeus08.eastus.cloudapp.azure.com
 onedscolprdweu04.westeurope.cloudapp.azure.com
 onedscolprdeus14.eastus.cloudapp.azure.com
+e13995.g.akamaiedge.net
+digitalasset.intuit.com
+onedscolprdeus04.eastus.cloudapp.azure.com
