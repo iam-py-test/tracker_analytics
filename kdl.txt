@@ -1557,3 +1557,5 @@ onedscolprdeus14.eastus.cloudapp.azure.com
 e13995.g.akamaiedge.net
 digitalasset.intuit.com
 onedscolprdeus04.eastus.cloudapp.azure.com
+33fa1ur95-nhgo5paqt.sentry.dev
+onedscolprdcus04.centralus.cloudapp.azure.com
