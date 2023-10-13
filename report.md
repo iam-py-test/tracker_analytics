@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 139 domains tested <br>
 Failed to test 61 domains <br>
-66 of the domains tested used known trackers <br>
+65 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -569,8 +569,8 @@ Number of trackers detected: 1 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
