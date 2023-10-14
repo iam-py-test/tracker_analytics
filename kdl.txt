@@ -1614,3 +1614,17 @@ zh-tw.gravatar.com
 33fa1ur95-6voyfweb2.sentry.dev
 Lb.gravatar.com
 33fa1ur95-fh90qc3ty.sentry.dev
+assets.homeimprovementpages.com.au
+use.fontawesome.com.cdn.cloudflare.net
+use.fontawesome.com
+www.googleadservices.com
+cdn.branch.io
+mediacache.homeimprovementpages.com.au
+thumbnail-cloud.homeimprovementpages.com.au
+www4.l.google.com
+feeds.feedburner.com
+hipages.com.au
+img.hipages.com.au
+polyfill.io
+33fa1ur95-8yamvvkz9.sentry.dev
+onedscolprdcus03.centralus.cloudapp.azure.com

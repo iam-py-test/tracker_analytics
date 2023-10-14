@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 139 domains tested <br>
 Failed to test 61 domains <br>
-65 of the domains tested used known trackers <br>
+67 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -201,12 +201,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### dns.google
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### doubleclick.net
 HTTPS: True <br>
 Known trackers: True <br>
@@ -399,6 +393,12 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 
 
+#### hipages.com.au
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -569,8 +569,8 @@ Number of trackers detected: 1 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -792,7 +792,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -847,7 +847,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 32<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
@@ -880,7 +880,9 @@ Number of trackers detected: 1 <br>
 `googleadservices.com`: 1<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
+`www.googleadservices.com`: 1<br>
+`cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
