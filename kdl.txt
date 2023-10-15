@@ -1628,3 +1628,5 @@ img.hipages.com.au
 polyfill.io
 33fa1ur95-8yamvvkz9.sentry.dev
 onedscolprdcus03.centralus.cloudapp.azure.com
+onedscolprdwus00.westus.cloudapp.azure.com
+onedscolprdjpe04.japaneast.cloudapp.azure.com
