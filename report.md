@@ -563,8 +563,8 @@ Number of trackers detected: 1 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -641,8 +641,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 
 
 #### soundcloud.com
@@ -841,7 +841,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 31<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
@@ -866,7 +866,7 @@ Number of trackers detected: 1 <br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `cdn.krxd.net`: 2<br>
-`www.google-analytics.com`: 5<br>
+`www.google-analytics.com`: 6<br>
 `dpm.demdex.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
 `a10681260716.cdn.optimizely.com`: 1<br>
