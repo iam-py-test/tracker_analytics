@@ -1631,3 +1631,6 @@ onedscolprdcus03.centralus.cloudapp.azure.com
 onedscolprdwus00.westus.cloudapp.azure.com
 onedscolprdjpe04.japaneast.cloudapp.azure.com
 33fa1ur95-efmq5scyt.sentry.dev
+loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
+33fa1ur95-ltplqtj4l.sentry.dev
+onedscolprdwus04.westus.cloudapp.azure.com
