@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-66 of the domains tested used known trackers <br>
+67 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -167,12 +167,6 @@ Number of trackers detected: 31 <br>
 
 #### comcast.net
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### comfortel.pro
-HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -585,6 +579,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### rambler.ru
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
+
+
 #### reddit.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -878,10 +878,11 @@ Number of trackers detected: 1 <br>
 `www.googleadservices.com`: 1<br>
 `cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 1<br>
-`www.tns-counter.ru`: 1<br>
+`www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
+`counter.rambler.ru`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
