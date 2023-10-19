@@ -750,7 +750,7 @@ Number of trackers detected: 0 <br>
 #### webex.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### whatsapp.com
@@ -889,5 +889,6 @@ Number of trackers detected: 1 <br>
 `t.co`: 3<br>
 `taboola.com`: 1<br>
 `cdn.taboola.com`: 1<br>
+`js.adsrvr.org`: 1<br>
 `geo.yahoo.com`: 2<br>
 `zemanta.com`: 1<br>

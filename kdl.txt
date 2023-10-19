@@ -1648,3 +1648,8 @@ relap.io
 code.directadvert.ru
 33fa1ur95-19yt0acj8.sentry.dev
 onedscolprdcus12.centralus.cloudapp.azure.com
+dmr096kci2yyx.cloudfront.net
+33fa1ur95-rfkjsxhfl.sentry.dev
+onedscolprdeus06.eastus.cloudapp.azure.com
+dg2iu7dxxehbo.cloudfront.net
+js.adsrvr.org
