@@ -1653,3 +1653,7 @@ dmr096kci2yyx.cloudfront.net
 onedscolprdeus06.eastus.cloudapp.azure.com
 dg2iu7dxxehbo.cloudfront.net
 js.adsrvr.org
+lB.gravatar.com
+33fa1ur95-5fkhgn1le.sentry.dev
+onedscolprdeus01.eastus.cloudapp.azure.com
+a1904.mm2.akamai.net.0.1.cn.akamaitech.net
