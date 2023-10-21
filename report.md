@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
-68 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+136 domains tested <br>
+Failed to test 64 domains <br>
+66 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -163,12 +163,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### criteo.com
@@ -557,8 +551,8 @@ Number of trackers detected: 1 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -589,12 +583,6 @@ Number of trackers detected: 3 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### reg.ru
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 10 <br>
 
 
 #### roblox.com
@@ -841,7 +829,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
-`www.googletagmanager.com`: 35<br>
+`www.googletagmanager.com`: 31<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
@@ -866,7 +854,7 @@ Number of trackers detected: 1 <br>
 `doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `cdn.krxd.net`: 2<br>
-`www.google-analytics.com`: 8<br>
+`www.google-analytics.com`: 6<br>
 `dpm.demdex.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
 `a10681260716.cdn.optimizely.com`: 1<br>
@@ -883,9 +871,6 @@ Number of trackers detected: 1 <br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
 `counter.rambler.ru`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
