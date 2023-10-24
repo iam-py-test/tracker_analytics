@@ -1661,3 +1661,6 @@ a1904.mm2.akamai.net.0.1.cn.akamaitech.net
 onedscolprdwus10.westus.cloudapp.azure.com
 33fa1ur95-7en8h3pd7.sentry.dev
 px.ads.linkedin.com
+33fa1ur95-kcxhptd71.sentry.dev
+onedscolprduks01.uksouth.cloudapp.azure.com
+fp-ycpi-wip.g03.yahoodns.net
