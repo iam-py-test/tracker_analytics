@@ -588,7 +588,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 12 <br>
+Number of trackers detected: 10 <br>
 
 
 #### roblox.com
@@ -835,7 +835,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
-`www.googletagmanager.com`: 37<br>
+`www.googletagmanager.com`: 35<br>
 `sb.scorecardresearch.com`: 7<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
 `casalemedia.com`: 1<br>
