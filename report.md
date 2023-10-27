@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 63 domains <br>
 68 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -568,7 +568,7 @@ Number of trackers detected: 1 <br>
 
 
 #### qq.com
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
