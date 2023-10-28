@@ -1669,3 +1669,8 @@ fp-ycpi-wip.g03.yahoodns.net
 ct.pinterest.com
 i.pinimg.com
 33fa1ur95-ktskkgbho.sentry.dev
+currently.att.yahoo.com
+ds-ats.member.g02.yahoodns.net
+api.login.yahoo.com
+part-0013.t-0009.t-msedge.net
+e28578.d.akamaiedge.net.0.1.cn.akamaiedge.net
