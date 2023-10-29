@@ -1674,3 +1674,4 @@ ds-ats.member.g02.yahoodns.net
 api.login.yahoo.com
 part-0013.t-0009.t-msedge.net
 e28578.d.akamaiedge.net.0.1.cn.akamaiedge.net
+onedscolprdneu08.northeurope.cloudapp.azure.com
