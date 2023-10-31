@@ -1677,3 +1677,5 @@ e28578.d.akamaiedge.net.0.1.cn.akamaiedge.net
 onedscolprdneu08.northeurope.cloudapp.azure.com
 33fa1ur95-g6jzjhkp8.sentry.dev
 onedscolprdcus01.centralus.cloudapp.azure.com
+33fa1ur95-1mrnowobv.sentry.dev
+onedscolprdcus13.centralus.cloudapp.azure.com
