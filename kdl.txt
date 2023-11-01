@@ -1679,3 +1679,6 @@ onedscolprdneu08.northeurope.cloudapp.azure.com
 onedscolprdcus01.centralus.cloudapp.azure.com
 33fa1ur95-1mrnowobv.sentry.dev
 onedscolprdcus13.centralus.cloudapp.azure.com
+part-0012.t-0009.t-msedge.net
+33fa1ur95-78tlqyyiv.sentry.dev
+onedscolprdwus01.westus.cloudapp.azure.com
