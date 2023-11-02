@@ -1682,3 +1682,8 @@ onedscolprdcus13.centralus.cloudapp.azure.com
 part-0012.t-0009.t-msedge.net
 33fa1ur95-78tlqyyiv.sentry.dev
 onedscolprdwus01.westus.cloudapp.azure.com
+part-0042.t-0009.t-msedge.net
+EAT-efz.ms-acdc.office.com
+reddit.map.fastly.net
+www.reddit.com
+33fa1ur95-dftz6sndm.sentry.dev
