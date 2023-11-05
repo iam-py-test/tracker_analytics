@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 63 domains <br>
 67 of the domains tested used known trackers <br>
-129 of the domains tested supported HTTPS <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -88,7 +88,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -582,7 +582,7 @@ Number of trackers detected: 0 <br>
 #### reg.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 7 <br>
 
 
 #### roblox.com
@@ -702,7 +702,7 @@ Number of trackers detected: 0 <br>
 #### twitter.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### ui.com
@@ -838,7 +838,7 @@ Number of trackers detected: 1 <br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 8<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 32<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 5<br>
