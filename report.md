@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 64 domains <br>
-65 of the domains tested used known trackers <br>
-129 of the domains tested supported HTTPS <br>
+64 of the domains tested used known trackers <br>
+128 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -111,12 +111,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### bbc.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-
-
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -163,6 +157,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -220,6 +220,12 @@ Number of trackers detected: 0 <br>
 
 
 #### europa.eu
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### example.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -533,8 +539,8 @@ Number of trackers detected: 1 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -565,12 +571,6 @@ Number of trackers detected: 3 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### reg.ru
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 10 <br>
 
 
 #### roblox.com
@@ -696,7 +696,7 @@ Number of trackers detected: 0 <br>
 #### twitter.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### ui.com
@@ -830,9 +830,8 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
-`sb.scorecardresearch.com`: 8<br>
-`mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 30<br>
+`sb.scorecardresearch.com`: 7<br>
+`www.googletagmanager.com`: 26<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 5<br>
@@ -856,7 +855,7 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 7<br>
+`www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `stats.wp.com`: 5<br>
@@ -866,9 +865,6 @@ Number of trackers detected: 1 <br>
 `openx.net`: 1<br>
 `pubmatic.com`: 1<br>
 `counter.rambler.ru`: 1<br>
-`static.criteo.net`: 1<br>
-`dis.eu.criteo.com`: 1<br>
-`sslwidget.criteo.com`: 1<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
