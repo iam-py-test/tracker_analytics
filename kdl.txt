@@ -1747,3 +1747,7 @@ onedscolprdcus06.centralus.cloudapp.azure.com
 LB.gravatar.com
 33fa1ur95-1t5crnr4e.sentry.dev
 onedscolprdeus05.eastus.cloudapp.azure.com
+int.nyt.com
+public.tableau.com
+33fa1ur95-qs12i4di6.sentry.dev
+onedscolprdneu02.northeurope.cloudapp.azure.com
