@@ -1751,3 +1751,5 @@ int.nyt.com
 public.tableau.com
 33fa1ur95-qs12i4di6.sentry.dev
 onedscolprdneu02.northeurope.cloudapp.azure.com
+33fa1ur95-r2e6gxjsd.sentry.dev
+onedscolprdweu11.westeurope.cloudapp.azure.com
