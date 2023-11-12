@@ -1753,3 +1753,5 @@ public.tableau.com
 onedscolprdneu02.northeurope.cloudapp.azure.com
 33fa1ur95-r2e6gxjsd.sentry.dev
 onedscolprdweu11.westeurope.cloudapp.azure.com
+33fa1ur95-laclagjm2.sentry.dev
+onedscolprdwus14.westus.cloudapp.azure.com
