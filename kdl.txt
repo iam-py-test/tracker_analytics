@@ -1755,3 +1755,7 @@ onedscolprdneu02.northeurope.cloudapp.azure.com
 onedscolprdweu11.westeurope.cloudapp.azure.com
 33fa1ur95-laclagjm2.sentry.dev
 onedscolprdwus14.westus.cloudapp.azure.com
+iris-de-ppe-azsc-v2-eus2.eastus2.cloudapp.azure.com
+dcs-public-edge-va6-158015560.us-east-1.elb.amazonaws.com
+33fa1ur95-bk6uy5l0e.sentry.dev
+onedscolprdeus11.eastus.cloudapp.azure.com
