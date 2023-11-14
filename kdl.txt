@@ -1759,3 +1759,9 @@ iris-de-ppe-azsc-v2-eus2.eastus2.cloudapp.azure.com
 dcs-public-edge-va6-158015560.us-east-1.elb.amazonaws.com
 33fa1ur95-bk6uy5l0e.sentry.dev
 onedscolprdeus11.eastus.cloudapp.azure.com
+dual-a-0001.dc-msedge.net
+b-0004.b-dc-msedge.net
+33fa1ur95-7fg4oep35.sentry.dev
+s-0001.s-dc-msedge.net
+s-0006.s-dc-msedge.net
+l-0005.l-dc-msedge.net
