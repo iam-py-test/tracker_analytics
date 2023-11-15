@@ -1765,3 +1765,6 @@ b-0004.b-dc-msedge.net
 s-0001.s-dc-msedge.net
 s-0006.s-dc-msedge.net
 l-0005.l-dc-msedge.net
+roblox-static.cachefly.net
+dcs-public-edge-usw2-219535174.us-west-2.elb.amazonaws.com
+33fa1ur95-aho52jjqm.sentry.dev
