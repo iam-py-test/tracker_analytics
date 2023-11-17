@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-137 domains tested <br>
-Failed to test 63 domains <br>
-65 of the domains tested used known trackers <br>
-129 of the domains tested supported HTTPS <br>
+136 domains tested <br>
+Failed to test 64 domains <br>
+63 of the domains tested used known trackers <br>
+128 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -375,12 +375,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### health.mil
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-
-
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -635,8 +629,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### soundcloud.com
@@ -838,7 +832,7 @@ Number of trackers detected: 1 <br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 8<br>
 `mybbc-analytics.files.bbci.co.uk`: 1<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 24<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
 `cdn.optimizely.com`: 4<br>
@@ -864,7 +858,7 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 5<br>
+`www.google-analytics.com`: 4<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `stats.wp.com`: 5<br>

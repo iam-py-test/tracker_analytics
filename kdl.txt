@@ -1783,3 +1783,6 @@ e6156.dscf.akamaiedge.net.0.1.cn.akamaiedge.net
 33fa1ur95-pfomwlb11.sentry.dev
 onedscolprdweu02.westeurope.cloudapp.azure.com
 e9573.g.akamaiedge.net.0.1.cn.akamaiedge.net
+part-0023.t-0009.t-msedge.net
+MDW-efz.ms-acdc.office.com
+33fa1ur95-2jjcwgum5.sentry.dev
