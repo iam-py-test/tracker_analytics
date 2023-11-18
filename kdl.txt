@@ -1786,3 +1786,5 @@ e9573.g.akamaiedge.net.0.1.cn.akamaiedge.net
 part-0023.t-0009.t-msedge.net
 MDW-efz.ms-acdc.office.com
 33fa1ur95-2jjcwgum5.sentry.dev
+33fa1ur95-fdes15xh1.sentry.dev
+onedscolprdcus07.centralus.cloudapp.azure.com
