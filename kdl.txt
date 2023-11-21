@@ -1789,3 +1789,8 @@ MDW-efz.ms-acdc.office.com
 33fa1ur95-fdes15xh1.sentry.dev
 onedscolprdcus07.centralus.cloudapp.azure.com
 33fa1ur95-oq4iok6kf.sentry.dev
+static.bbci.co.uk
+emp.bbci.co.uk
+a-0003.dc-msedge.net
+33fa1ur95-98f6pby4w.sentry.dev
+onedscolprdeus09.eastus.cloudapp.azure.com
