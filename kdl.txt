@@ -1794,3 +1794,6 @@ emp.bbci.co.uk
 a-0003.dc-msedge.net
 33fa1ur95-98f6pby4w.sentry.dev
 onedscolprdeus09.eastus.cloudapp.azure.com
+33fa1ur95-o5hnkzs1h.sentry.dev
+onedscolprduks02.uksouth.cloudapp.azure.com
+lf16-cdn-tos.tiktokcdn-us.com
