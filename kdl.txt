@@ -1797,3 +1797,7 @@ onedscolprdeus09.eastus.cloudapp.azure.com
 33fa1ur95-o5hnkzs1h.sentry.dev
 onedscolprduks02.uksouth.cloudapp.azure.com
 lf16-cdn-tos.tiktokcdn-us.com
+g5ywxw78.ovslegodl.sched.ovscdns.com
+cia.sec.miui.com
+miui.com
+33fa1ur95-2rlmrz80f.sentry.dev
