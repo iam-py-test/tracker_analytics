@@ -1801,3 +1801,5 @@ g5ywxw78.ovslegodl.sched.ovscdns.com
 cia.sec.miui.com
 miui.com
 33fa1ur95-2rlmrz80f.sentry.dev
+a1520.dscc.akamai.net.0.1.cn.akamaitech.net
+a1015.mm2.akamai.net.0.1.cn.akamaitech.net
