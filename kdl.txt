@@ -1804,3 +1804,7 @@ miui.com
 a1520.dscc.akamai.net.0.1.cn.akamaitech.net
 a1015.mm2.akamai.net.0.1.cn.akamaitech.net
 onedscolprdcus14.centralus.cloudapp.azure.com
+33fa1ur95-7780joiyd.sentry.dev
+onedscolprdeus15.eastus.cloudapp.azure.com
+s.sni.global.fastly.net
+clienttoken.spotify.com
