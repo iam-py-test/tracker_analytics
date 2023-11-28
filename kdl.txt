@@ -1808,3 +1808,6 @@ onedscolprdcus14.centralus.cloudapp.azure.com
 onedscolprdeus15.eastus.cloudapp.azure.com
 s.sni.global.fastly.net
 clienttoken.spotify.com
+occ-0-4141-116.1.nflxso.net
+STatiC.cdn-one.com
+33fa1ur95-n8pwed1z3.sentry.dev
