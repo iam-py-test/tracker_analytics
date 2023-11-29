@@ -1811,3 +1811,5 @@ clienttoken.spotify.com
 occ-0-4141-116.1.nflxso.net
 STatiC.cdn-one.com
 33fa1ur95-n8pwed1z3.sentry.dev
+33fa1ur95-7hrah4v9a.sentry.dev
+onedscolprdwus07.westus.cloudapp.azure.com
