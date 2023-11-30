@@ -1813,3 +1813,10 @@ STatiC.cdn-one.com
 33fa1ur95-n8pwed1z3.sentry.dev
 33fa1ur95-7hrah4v9a.sentry.dev
 onedscolprdwus07.westus.cloudapp.azure.com
+pubmatic.com
+pubmatic.co.jp
+s.twitter.com
+analytics.twitter.com
+go.pubmatic.com
+33fa1ur95-6zcusfv8f.sentry.dev
+onedscolprdfrc07.francecentral.cloudapp.azure.com

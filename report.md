@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 63 domains <br>
-63 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+64 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -151,6 +151,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -369,12 +375,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### health.mil
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-
-
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -539,14 +539,14 @@ Number of trackers detected: 0 <br>
 
 #### paypal.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -558,7 +558,7 @@ Number of trackers detected: 3 <br>
 #### pubmatic.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 4 <br>
 
 
 #### qq.com
@@ -780,7 +780,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -863,15 +863,15 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 4<br>
+`www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
 `openx.net`: 1<br>
-`pubmatic.com`: 1<br>
+`t.co`: 4<br>
 `counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
@@ -879,7 +879,6 @@ Number of trackers detected: 1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 3<br>
 `taboola.com`: 1<br>
 `cdn.taboola.com`: 1<br>
 `js.adsrvr.org`: 1<br>
