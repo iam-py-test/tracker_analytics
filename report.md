@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 63 domains <br>
-64 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+63 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -82,7 +82,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -103,6 +103,12 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### bbc.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### bing.com
@@ -175,12 +181,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
-
-
-#### deviantart.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### digicert.com
@@ -539,8 +539,8 @@ Number of trackers detected: 0 <br>
 
 #### paypal.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pinterest.com
@@ -780,7 +780,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -863,10 +863,10 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 6<br>
+`www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>

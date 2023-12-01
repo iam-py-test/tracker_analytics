@@ -1820,3 +1820,5 @@ analytics.twitter.com
 go.pubmatic.com
 33fa1ur95-6zcusfv8f.sentry.dev
 onedscolprdfrc07.francecentral.cloudapp.azure.com
+a1993.g.akamai.net.0.1.cn.akamaitech.net
+33fa1ur95-2mqfrq32u.sentry.dev
