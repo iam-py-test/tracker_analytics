@@ -1822,3 +1822,10 @@ go.pubmatic.com
 onedscolprdfrc07.francecentral.cloudapp.azure.com
 a1993.g.akamai.net.0.1.cn.akamaitech.net
 33fa1ur95-2mqfrq32u.sentry.dev
+e17307.dscb.akamaiedge.net.0.1.cn.akamaiedge.net
+googleblog.com
+blog.google
+storage.googleapis.com
+i.ytimg.com
+e87351.dscb.akamaiedge.net.0.1.cn.akamaiedge.net
+33fa1ur95-n3wr1a6dl.sentry.dev
