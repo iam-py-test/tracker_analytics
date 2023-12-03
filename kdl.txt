@@ -1829,3 +1829,4 @@ storage.googleapis.com
 i.ytimg.com
 e87351.dscb.akamaiedge.net.0.1.cn.akamaiedge.net
 33fa1ur95-n3wr1a6dl.sentry.dev
+e126505.dsca.akamaiedge.net
