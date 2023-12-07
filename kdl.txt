@@ -1836,3 +1836,5 @@ store.rambler.ru
 a1815.dscr.akamai.net.0.1.cn.akamaitech.net
 osiprod-wus-flax-azsc-000.westus.cloudapp.azure.com
 33fa1ur95-giesrot6p.sentry.dev
+osiprod-scus-flax-azsc-000.southcentralus.cloudapp.azure.com
+33fa1ur95-2wmwhhkxq.sentry.dev

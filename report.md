@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-137 domains tested <br>
-Failed to test 63 domains <br>
-67 of the domains tested used known trackers <br>
+136 domains tested <br>
+Failed to test 64 domains <br>
+65 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -151,12 +151,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -375,12 +369,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### health.mil
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-
-
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -539,14 +527,14 @@ Number of trackers detected: 0 <br>
 
 #### paypal.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -628,6 +616,12 @@ Number of trackers detected: 0 <br>
 
 
 #### skype.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
+#### smartadserver.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -837,10 +831,10 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 30<br>
+`cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
-`cdn.optimizely.com`: 5<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -863,7 +857,7 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 6<br>
+`www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `stats.wp.com`: 5<br>
@@ -876,6 +870,7 @@ Number of trackers detected: 1 <br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
+`smartadserver.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
