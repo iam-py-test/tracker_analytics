@@ -1838,3 +1838,7 @@ osiprod-wus-flax-azsc-000.westus.cloudapp.azure.com
 33fa1ur95-giesrot6p.sentry.dev
 osiprod-scus-flax-azsc-000.southcentralus.cloudapp.azure.com
 33fa1ur95-2wmwhhkxq.sentry.dev
+osiprod-eus2-flax-azsc-000.eastus2.cloudapp.azure.com
+33fa1ur95-a5w4xfd1e.sentry.dev
+onedscolprdneu03.northeurope.cloudapp.azure.com
+api.x.com

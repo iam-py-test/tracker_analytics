@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-136 domains tested <br>
-Failed to test 64 domains <br>
-65 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+66 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -76,7 +76,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -151,6 +151,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -336,7 +342,7 @@ Number of trackers detected: 1 <br>
 #### googledomains.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 4 <br>
+Number of trackers detected: 2 <br>
 
 
 #### googlesyndication.com
@@ -533,8 +539,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -831,7 +837,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 28<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
