@@ -1843,3 +1843,5 @@ osiprod-eus2-flax-azsc-000.eastus2.cloudapp.azure.com
 onedscolprdneu03.northeurope.cloudapp.azure.com
 api.x.com
 33fa1ur95-jnf651bm3.sentry.dev
+33fa1ur95-j8j5bcsh7.sentry.dev
+browser.sentry-cdn.com
