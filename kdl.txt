@@ -1848,3 +1848,8 @@ browser.sentry-cdn.com
 nwtime.org
 one.com
 33fa1ur95-d4ltyitm9.sentry.dev
+33fa1ur95-2qhnbf21b.sentry.dev
+e6155.a.akamaiedge.net
+www.staples.com
+staples.com
+assets.staples-static.com

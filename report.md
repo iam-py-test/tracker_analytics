@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 64 domains <br>
-66 of the domains tested used known trackers <br>
-128 of the domains tested supported HTTPS <br>
+65 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -256,7 +256,7 @@ Number of trackers detected: 0 <br>
 
 
 #### flickr.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -639,6 +639,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### staples.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
@@ -777,12 +783,6 @@ Known trackers: True <br>
 Number of trackers detected: 4 <br>
 
 
-#### xiaomi.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### yahoo.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -831,7 +831,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
-`www.googletagmanager.com`: 29<br>
+`www.googletagmanager.com`: 28<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
