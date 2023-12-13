@@ -1853,3 +1853,7 @@ e6155.a.akamaiedge.net
 www.staples.com
 staples.com
 assets.staples-static.com
+googleusercontent.com
+d27f3qgc9anoq2.cloudfront.net
+33fa1ur95-8woje0905.sentry.dev
+cdn.transcend.io
