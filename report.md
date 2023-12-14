@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-65 of the domains tested used known trackers <br>
+66 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -101,8 +101,8 @@ Number of trackers detected: 1 <br>
 
 #### bbc.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### bing.com
@@ -539,14 +539,14 @@ Number of trackers detected: 0 <br>
 
 #### paypal.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -843,6 +843,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
+`static.chartbeat.com`: 2<br>
 `www.googletagmanager.com`: 30<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 1<br>
@@ -860,7 +861,6 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `app-sj16.marketo.com`: 1<br>
 `munchkin.marketo.net`: 1<br>
@@ -869,7 +869,7 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 5<br>
+`www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `stats.wp.com`: 5<br>

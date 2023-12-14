@@ -1857,3 +1857,5 @@ googleusercontent.com
 d27f3qgc9anoq2.cloudfront.net
 33fa1ur95-8woje0905.sentry.dev
 cdn.transcend.io
+33fa1ur95-6jdenkg1n.sentry.dev
+onedscolprdfrc06.francecentral.cloudapp.azure.com
