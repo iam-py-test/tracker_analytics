@@ -1859,3 +1859,5 @@ d27f3qgc9anoq2.cloudfront.net
 cdn.transcend.io
 33fa1ur95-6jdenkg1n.sentry.dev
 onedscolprdfrc06.francecentral.cloudapp.azure.com
+part-0023.t-0009.fb-t-msedge.net
+33fa1ur95-hlxswizhs.sentry.dev

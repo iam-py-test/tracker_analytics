@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
 66 of the domains tested used known trackers <br>
-132 of the domains tested supported HTTPS <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -76,7 +76,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -545,8 +545,8 @@ Number of trackers detected: 1 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -635,8 +635,8 @@ Number of trackers detected: 1 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### soundcloud.com
@@ -844,7 +844,7 @@ Number of trackers detected: 1 <br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
 `static.chartbeat.com`: 2<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 29<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
@@ -869,7 +869,7 @@ Number of trackers detected: 1 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
-`www.google-analytics.com`: 6<br>
+`www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `stats.wp.com`: 5<br>
