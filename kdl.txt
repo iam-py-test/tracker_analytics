@@ -1865,3 +1865,5 @@ part-0023.t-0009.fb-t-msedge.net
 onedscolprdwus02.westus.cloudapp.azure.com
 s2.wp.com
 33fa1ur95-f6m73hq9x.sentry.dev
+33fa1ur95-qddd74sgx.sentry.dev
+atc.spotify.map.fastly.net
