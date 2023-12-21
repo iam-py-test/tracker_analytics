@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
-66 of the domains tested used known trackers <br>
-132 of the domains tested supported HTTPS <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+64 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -63,12 +63,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### appsflyer.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### archive.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -76,7 +70,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -539,8 +533,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -839,7 +833,6 @@ Number of trackers detected: 1 <br>
 `adsrvr.org`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
-`appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
