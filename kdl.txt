@@ -1868,3 +1868,5 @@ s2.wp.com
 33fa1ur95-qddd74sgx.sentry.dev
 atc.spotify.map.fastly.net
 33fa1ur95-j24c10znq.sentry.dev
+33fa1ur95-he3ycaytr.sentry.dev
+www.tm.a.prd.aadg.trafficmanager.net
