@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-136 domains tested <br>
-Failed to test 64 domains <br>
-64 of the domains tested used known trackers <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+63 of the domains tested used known trackers <br>
 129 of the domains tested supported HTTPS <br>
 
 
@@ -145,12 +145,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -527,8 +521,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
