@@ -6913,3 +6913,12 @@ http://samsung.com/etc.clientlibs/samsung/components/content/consumer/global/hom
 https://assets.tumblr.com/pop/8233-17ead62b.css
 https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1703796159.00000&uuid=84217f43-aa50-4c94-8e48-1dd9dd6d1ba2
 https://sso.passport.yandex.ru/push?uuid=e9f3d1b0-8b21-45ea-9ff5-cb48e038973b&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue%26experiment%3D931376
+http://bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_1920x1080.webp&qlt=50
+https://ir.ebaystatic.com/rs/c/vertlandweb/r.999a9946.css
+https://imageio.forbes.com/specials-images/imageserve/658ed8862e2e04fa22d80bbc/0x0.jpg?format=jpg&crop=2009,1129,x0,y0,safe&width=1100
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp3TwAdXDPZpjnTPkcutQU9KD2JbvJ1GKec7gfzHH8scKq6kChxUvE4k1mD2tPxAPj2P3Wu_ww&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S218258865%3A1703880715271372
+https://www.blogger.com/dyn-css/authorization.css?targetBlogID=596098824972435195&zx=4e927ced-f8bb-460b-bb4c-f537872f6ef5
+https://cdn-app.sberdevices.ru/dynamic2/sberdevices/0ca6925f/_next/static/css/585b247f1bc91e4f.css
+https://wordpress.org/wp-includes/css/dashicons.min.css?ver=6.5-alpha-57231
+https://sso.passport.yandex.ru/push?retpath=https%3A%2F%2Fya.ru%2F%3Fnr%3D1%26redirect_ts%3D1703882599.00000&uuid=4821ad42-690b-4a92-b76d-f7727c29da23
+https://sso.passport.yandex.ru/push?uuid=d1d9d4ca-af7c-4ae3-987c-eb639e21722a&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue%26experiment%3D931375
