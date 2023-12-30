@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-137 domains tested <br>
-Failed to test 63 domains <br>
-65 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+136 domains tested <br>
+Failed to test 64 domains <br>
+64 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -507,12 +507,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### openx.net
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### opera.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -868,7 +862,6 @@ Number of trackers detected: 1 <br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
-`openx.net`: 1<br>
 `t.co`: 2<br>
 `counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 1<br>
