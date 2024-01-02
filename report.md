@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-136 domains tested <br>
-Failed to test 64 domains <br>
-64 of the domains tested used known trackers <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+65 of the domains tested used known trackers <br>
 130 of the domains tested supported HTTPS <br>
 
 
@@ -76,7 +76,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -507,6 +507,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### openx.net
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### opera.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -768,7 +774,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -858,10 +864,11 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
+`openx.net`: 1<br>
 `t.co`: 2<br>
 `counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 1<br>
