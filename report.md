@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-137 domains tested <br>
-Failed to test 63 domains <br>
-65 of the domains tested used known trackers <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+62 of the domains tested used known trackers <br>
 130 of the domains tested supported HTTPS <br>
 
 
@@ -39,6 +39,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### amazonvideo.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### apache.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -73,12 +79,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-
-
-#### att.net
-HTTPS: False <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
 
 
 #### azure.com
@@ -151,12 +151,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -507,12 +501,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### openx.net
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### opera.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -533,8 +521,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -774,7 +762,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -835,8 +823,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
-`geo.yahoo.com`: 4<br>
-`sb.scorecardresearch.com`: 7<br>
+`sb.scorecardresearch.com`: 6<br>
 `static.chartbeat.com`: 2<br>
 `www.googletagmanager.com`: 26<br>
 `cdn.optimizely.com`: 6<br>
@@ -864,11 +851,10 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
-`openx.net`: 1<br>
 `t.co`: 2<br>
 `counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 1<br>
@@ -880,4 +866,5 @@ Number of trackers detected: 1 <br>
 `taboola.com`: 1<br>
 `cdn.taboola.com`: 1<br>
 `js.adsrvr.org`: 1<br>
+`geo.yahoo.com`: 2<br>
 `zemanta.com`: 1<br>

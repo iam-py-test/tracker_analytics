@@ -1890,3 +1890,7 @@ onedscolprdweu05.westeurope.cloudapp.azure.com
 onedscolprduks03.uksouth.cloudapp.azure.com
 33fa1ur95-pr4fm8bcv.sentry.dev
 www.tm.a.prd.aadg.akadns.net
+e15316.dsca.akamaiedge.net
+www.amazon.com
+amazonvideo.com
+33fa1ur95-2rnh414f8.sentry.dev
