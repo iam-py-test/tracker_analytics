@@ -1894,3 +1894,5 @@ e15316.dsca.akamaiedge.net
 www.amazon.com
 amazonvideo.com
 33fa1ur95-2rnh414f8.sentry.dev
+d3ag4hukkh62yn.cloudfront.net
+33fa1ur95-17qo1bhzr.sentry.dev
