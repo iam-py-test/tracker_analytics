@@ -1896,3 +1896,5 @@ amazonvideo.com
 33fa1ur95-2rnh414f8.sentry.dev
 d3ag4hukkh62yn.cloudfront.net
 33fa1ur95-17qo1bhzr.sentry.dev
+33fa1ur95-a6vujo0jw.sentry.dev
+adfstat.yandex.ru
