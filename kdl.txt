@@ -1899,3 +1899,5 @@ d3ag4hukkh62yn.cloudfront.net
 33fa1ur95-a6vujo0jw.sentry.dev
 adfstat.yandex.ru
 33fa1ur95-1510wdq1u.sentry.dev
+e6858.dscx.akamaiedge.net.0.1.cn.akamaiedge.net
+33fa1ur95-la9jkquc2.sentry.dev
