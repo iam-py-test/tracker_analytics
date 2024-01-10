@@ -1905,3 +1905,6 @@ e6858.dscx.akamaiedge.net.0.1.cn.akamaiedge.net
 registrar-servers.com
 33fa1ur95-e40zkuukn.sentry.dev
 onedscolprdcus17.centralus.cloudapp.azure.com
+33fa1ur95-3tw4w3lrg.sentry.dev
+onedscolprdfrc00.francecentral.cloudapp.azure.com
+bna30r3a.msedge.net
