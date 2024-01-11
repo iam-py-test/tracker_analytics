@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
-61 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+136 domains tested <br>
+Failed to test 64 domains <br>
+63 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -363,6 +363,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### health.mil
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -441,6 +447,12 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 
 
+#### myfritz.net
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### netflix.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -453,6 +465,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### nih.gov
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+
+
 #### ntp.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -462,7 +480,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -812,8 +830,8 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`static.chartbeat.com`: 3<br>
-`www.googletagmanager.com`: 25<br>
+`static.chartbeat.com`: 2<br>
+`www.googletagmanager.com`: 28<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
@@ -842,6 +860,7 @@ Number of trackers detected: 1 <br>
 `stats.wp.com`: 4<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
+`script.crazyegg.com`: 1<br>
 `t.co`: 2<br>
 `counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 1<br>
