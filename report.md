@@ -21,12 +21,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### adsrvr.org
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### amazon.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -363,6 +357,12 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 
 
+#### hipages.com.au
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -441,7 +441,7 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 
 
-#### myfritz.net
+#### mzstatic.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -474,7 +474,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### office.com
@@ -818,14 +818,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 ### Statistics for each tracker
-`adsrvr.org`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 1<br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`static.chartbeat.com`: 2<br>
-`www.googletagmanager.com`: 27<br>
+`static.chartbeat.com`: 3<br>
+`www.googletagmanager.com`: 29<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
@@ -852,6 +851,8 @@ Number of trackers detected: 1 <br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
 `stats.wp.com`: 5<br>
+`www.googleadservices.com`: 1<br>
+`cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
