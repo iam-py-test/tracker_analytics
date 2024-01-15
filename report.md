@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 65 domains <br>
-62 of the domains tested used known trackers <br>
+61 of the domains tested used known trackers <br>
 128 of the domains tested supported HTTPS <br>
 
 
@@ -172,12 +172,6 @@ Number of trackers detected: 0 <br>
 
 
 #### doubleclick.net
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
-#### doubleverify.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
@@ -441,6 +435,12 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 
 
+#### myfritz.net
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### mzstatic.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -474,7 +474,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -762,7 +762,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -823,7 +823,7 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`static.chartbeat.com`: 3<br>
+`static.chartbeat.com`: 2<br>
 `www.googletagmanager.com`: 29<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
@@ -843,14 +843,13 @@ Number of trackers detected: 1 <br>
 `a.jsrdn.com`: 2<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
-`doubleverify.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `www.googleadservices.com`: 1<br>
 `cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 1<br>
