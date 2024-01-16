@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-135 domains tested <br>
-Failed to test 65 domains <br>
-61 of the domains tested used known trackers <br>
+134 domains tested <br>
+Failed to test 66 domains <br>
+59 of the domains tested used known trackers <br>
 128 of the domains tested supported HTTPS <br>
 
 
@@ -95,8 +95,8 @@ Number of trackers detected: 1 <br>
 
 #### bbc.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### bing.com
@@ -145,12 +145,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### criteo.com
@@ -515,8 +509,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -823,7 +817,6 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`static.chartbeat.com`: 2<br>
 `www.googletagmanager.com`: 29<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
@@ -841,6 +834,7 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
 `sdk.sharethrough.com`: 1<br>

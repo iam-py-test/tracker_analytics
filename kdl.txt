@@ -1913,3 +1913,8 @@ e9951.g.akamaiedge.net.0.1.cn.akamaiedge.net
 33fa1ur95-izi1ahqiq.sentry.dev
 any-na-lx.www.linkedin.com
 33fa1ur95-id6q9jrs9.sentry.dev
+dapx4swc8lj69.cloudfront.net
+d1kpbbfl4rco16.cloudfront.net
+d143j4fdqe1jki.cloudfront.net
+dw04ej0wrfjel.cloudfront.net
+33fa1ur95-pdxaar2xu.sentry.dev
