@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
-59 of the domains tested used known trackers <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+61 of the domains tested used known trackers <br>
 128 of the domains tested supported HTTPS <br>
 
 
@@ -145,6 +145,18 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### creativecommons.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### criteo.com
@@ -509,8 +521,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -717,12 +729,6 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 
 
-#### wellsfargo.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### whatsapp.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -817,7 +823,7 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`www.googletagmanager.com`: 29<br>
+`www.googletagmanager.com`: 30<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>

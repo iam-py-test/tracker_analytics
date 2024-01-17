@@ -1918,3 +1918,7 @@ d1kpbbfl4rco16.cloudfront.net
 d143j4fdqe1jki.cloudfront.net
 dw04ej0wrfjel.cloudfront.net
 33fa1ur95-pdxaar2xu.sentry.dev
+e6576.b.akamaiedge.net
+image-us.samsung.com
+33fa1ur95-oepsvzvqn.sentry.dev
+a1676.dscb.akamai.net
