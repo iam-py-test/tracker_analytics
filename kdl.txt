@@ -1924,3 +1924,5 @@ image-us.samsung.com
 a1676.dscb.akamai.net
 33fa1ur95-a1u32uvb0.sentry.dev
 onedscolprdcus05.centralus.cloudapp.azure.com
+33fa1ur95-pe8557v0t.sentry.dev
+onedscolprdneu07.northeurope.cloudapp.azure.com
