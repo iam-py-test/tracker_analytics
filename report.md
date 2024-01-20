@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
-60 of the domains tested used known trackers <br>
-128 of the domains tested supported HTTPS <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+61 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -621,6 +621,12 @@ Known trackers: True <br>
 Number of trackers detected: 4 <br>
 
 
+#### sourceforge.net
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### spotify.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -756,7 +762,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -820,7 +826,7 @@ Number of trackers detected: 1 <br>
 `www.googletagmanager.com`: 30<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
-`static.cloudflareinsights.com`: 3<br>
+`static.cloudflareinsights.com`: 4<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -843,7 +849,7 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `www.googleadservices.com`: 1<br>
 `cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 1<br>
