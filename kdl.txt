@@ -1928,3 +1928,10 @@ onedscolprdcus05.centralus.cloudapp.azure.com
 onedscolprdneu07.northeurope.cloudapp.azure.com
 33fa1ur95-qdyzzxbg1.sentry.dev
 onedscolprdgwc05.germanywestcentral.cloudapp.azure.com
+at.pinterest.com
+ca.pinterest.com
+ch.pinterest.com
+ie.pinterest.com
+mx.pinterest.com
+ph.pinterest.com
+33fa1ur95-ejjc29f33.sentry.dev
