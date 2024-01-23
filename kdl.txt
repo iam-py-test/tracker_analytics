@@ -1935,3 +1935,5 @@ ie.pinterest.com
 mx.pinterest.com
 ph.pinterest.com
 33fa1ur95-ejjc29f33.sentry.dev
+e11070.dscb.akamaiedge.net
+33fa1ur95-otgml1vzq.sentry.dev
