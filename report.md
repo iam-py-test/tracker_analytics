@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
-61 of the domains tested used known trackers <br>
-127 of the domains tested supported HTTPS <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+62 of the domains tested used known trackers <br>
+128 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -603,6 +603,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### smartadserver.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+
+
 #### snapchat.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -756,7 +762,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -843,7 +849,7 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
@@ -852,6 +858,7 @@ Number of trackers detected: 1 <br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
+`smartadserver.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
