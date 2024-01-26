@@ -1940,3 +1940,6 @@ e11070.dscb.akamaiedge.net
 33fa1ur95-e06594jza.sentry.dev
 onedscolprdeus17.eastus.cloudapp.azure.com
 33fa1ur95-2cw5qqjt8.sentry.dev
+33fa1ur95-7qiva6a4p.sentry.dev
+plausible.io
+onedscolprdcus16.centralus.cloudapp.azure.com
