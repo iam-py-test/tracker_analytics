@@ -1943,3 +1943,5 @@ onedscolprdeus17.eastus.cloudapp.azure.com
 33fa1ur95-7qiva6a4p.sentry.dev
 plausible.io
 onedscolprdcus16.centralus.cloudapp.azure.com
+www-amazon-com.customer.fastly.net
+no.kaspersky.com
