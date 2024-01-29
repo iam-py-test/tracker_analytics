@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-136 domains tested <br>
-Failed to test 64 domains <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
 62 of the domains tested used known trackers <br>
-129 of the domains tested supported HTTPS <br>
+128 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -373,12 +373,6 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-
-
-#### kaspersky.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### lencr.org
