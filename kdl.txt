@@ -1946,3 +1946,5 @@ onedscolprdcus16.centralus.cloudapp.azure.com
 www-amazon-com.customer.fastly.net
 no.kaspersky.com
 33fa1ur95-fkmfa6va6.sentry.dev
+part-0041.t-0009.fb-t-msedge.net
+33fa1ur95-8qp1m887s.sentry.dev
