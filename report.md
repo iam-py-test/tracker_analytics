@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
 62 of the domains tested used known trackers <br>
 127 of the domains tested supported HTTPS <br>
 
@@ -151,6 +151,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### creativecommons.org
@@ -375,6 +381,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### kaspersky.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### lencr.org
 HTTPS: True <br>
 Known trackers: False <br>
@@ -509,8 +521,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -613,12 +625,6 @@ Number of trackers detected: 2 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
-
-
-#### sourceforge.net
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 
 
 #### spotify.com
@@ -756,7 +762,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -821,7 +827,7 @@ Number of trackers detected: 1 <br>
 `www.googletagmanager.com`: 28<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
-`static.cloudflareinsights.com`: 4<br>
+`static.cloudflareinsights.com`: 3<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -844,7 +850,7 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 3<br>
 `script.crazyegg.com`: 1<br>
