@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 65 domains <br>
-61 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+60 of the domains tested used known trackers <br>
+127 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -159,6 +159,12 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
+#### comfortel.pro
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
 #### creativecommons.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -246,7 +252,7 @@ Number of trackers detected: 0 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 
 
 #### forms.gle
@@ -609,12 +615,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### smartadserver.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-
-
 #### snapchat.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -748,7 +748,7 @@ Number of trackers detected: 0 <br>
 
 
 #### windows.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -844,6 +844,7 @@ Number of trackers detected: 1 <br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
+`dev.visualwebsiteoptimizer.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
@@ -859,7 +860,6 @@ Number of trackers detected: 1 <br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
-`smartadserver.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>

@@ -1959,3 +1959,5 @@ api.intellimize.co
 117151225.intellimizeio.com
 log.intellimize.co
 33fa1ur95-88garckog.sentry.dev
+dev.visualwebsiteoptimizer.com
+onedscolprdfrc05.francecentral.cloudapp.azure.com
