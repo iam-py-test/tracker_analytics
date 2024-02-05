@@ -1961,3 +1961,5 @@ log.intellimize.co
 33fa1ur95-88garckog.sentry.dev
 dev.visualwebsiteoptimizer.com
 onedscolprdfrc05.francecentral.cloudapp.azure.com
+iris-de-ppe-azsc-v2-wus2.westus2.cloudapp.azure.com
+33fa1ur95-3qmvlas31.sentry.dev
