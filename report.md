@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
 60 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+127 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -155,6 +155,12 @@ Number of trackers detected: 31 <br>
 
 #### comcast.net
 HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### comfortel.pro
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -360,7 +366,7 @@ Number of trackers detected: 0 <br>
 #### health.mil
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 
 
 #### icloud.com
@@ -818,7 +824,7 @@ Number of trackers detected: 1 <br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 26<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 1<br>
 `static.cloudflareinsights.com`: 3<br>
