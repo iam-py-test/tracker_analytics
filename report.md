@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 65 domains <br>
 60 of the domains tested used known trackers <br>
-127 of the domains tested supported HTTPS <br>
+126 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -159,12 +159,6 @@ Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
 
-#### comfortel.pro
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### creativecommons.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -252,7 +246,7 @@ Number of trackers detected: 0 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 
 
 #### forms.gle
@@ -552,7 +546,7 @@ Number of trackers detected: 0 <br>
 #### rambler.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 4 <br>
+Number of trackers detected: 9 <br>
 
 
 #### reddit.com
@@ -629,6 +623,12 @@ Number of trackers detected: 4 <br>
 
 #### spotify.com
 HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+
+
+#### stbid.ru
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -762,7 +762,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -844,19 +844,18 @@ Number of trackers detected: 1 <br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 1<br>
-`dev.visualwebsiteoptimizer.com`: 1<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 2<br>
 `googleadservices.com`: 1<br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 1<br>
 `googletagmanager.com`: 2<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
-`www.tns-counter.ru`: 3<br>
+`www.tns-counter.ru`: 2<br>
 `script.crazyegg.com`: 1<br>
 `t.co`: 2<br>
-`counter.rambler.ru`: 2<br>
+`counter.rambler.ru`: 8<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>

@@ -1964,3 +1964,6 @@ onedscolprdfrc05.francecentral.cloudapp.azure.com
 iris-de-ppe-azsc-v2-wus2.westus2.cloudapp.azure.com
 33fa1ur95-3qmvlas31.sentry.dev
 33fa1ur95-i2zsgd1i9.sentry.dev
+datawrapper.dwcdn.net
+33fa1ur95-1jy7jub7x.sentry.dev
+stbid.ru
