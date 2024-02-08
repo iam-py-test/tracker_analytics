@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 65 domains <br>
 60 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+127 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -76,7 +76,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 

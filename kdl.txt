@@ -1967,3 +1967,4 @@ iris-de-ppe-azsc-v2-wus2.westus2.cloudapp.azure.com
 datawrapper.dwcdn.net
 33fa1ur95-1jy7jub7x.sentry.dev
 stbid.ru
+33fa1ur95-el8gix1zh.sentry.dev
