@@ -1970,3 +1970,4 @@ stbid.ru
 33fa1ur95-el8gix1zh.sentry.dev
 cdn.botframework.com
 33fa1ur95-fx87zpdqu.sentry.dev
+33fa1ur95-2pwiix5ug.sentry.dev
