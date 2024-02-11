@@ -84,12 +84,11 @@ def hastrackers(html,d=""):
 				if d not in trackers_found_obj:
 					trackers_found_obj[d] = 0
 				trackers_found_obj[d] += 1
-				return report
 	except:
 			pass
 	for kts in known_tracker_strings:
 		if kts in html and kts != "" and kts != " " and kts != "\r":
-			print(kts)
+			#print(kts)
 			report["total"] += 1
 			report["has_trackers"] = True
 			break
