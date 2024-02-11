@@ -93,17 +93,6 @@ def hastrackers(html,d=""):
 			report["total"] += 1
 			report["has_trackers"] = True
 			break
-	# extract all sus strings for analysis by me
-	try:
-		if report["has_trackers"] == False:
-			#suspect_strings += re.findall(script_with_tracker_in_url, html)
-			suspect_strings += re.findall(script_with_analytics_in_url, html)
-			suspect_strings += re.findall(script_with_datacollection_in_url, html)
-			suspect_strings += re.findall(script_with_pageview_in_url, html)
-			suspect_strings += re.findall(script_with_hitcounter_in_url, html)
-			suspect_strings += re.findall(script_with_ad_targeting_in_url, html)
-	except Exception as err:
-		print("regex error: ",err)
 	
 	soup = BeautifulSoup(html,'html.parser')
 	pf = soup.select("link")
