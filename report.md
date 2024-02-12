@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 64 domains <br>
-59 of the domains tested used known trackers <br>
-126 of the domains tested supported HTTPS <br>
+60 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -76,7 +76,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -151,12 +151,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### comfortel.pro
@@ -367,6 +361,12 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### hipages.com.au
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
 
 
 #### icloud.com
@@ -778,7 +778,7 @@ Number of trackers detected: 4 <br>
 
 
 #### xiaomi.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
@@ -816,7 +816,7 @@ Number of trackers detected: 0 <br>
 #### zemanta.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 160 <br>
+Number of trackers detected: 165 <br>
 
 
 #### zoom.us
@@ -828,7 +828,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 2<br>
 `appsflyer.com`: 156<br>
 `www.appsflyer.com`: 77<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 35<br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
@@ -859,6 +859,8 @@ Number of trackers detected: 1 <br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 4<br>
+`www.googleadservices.com`: 1<br>
+`cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 2<br>
 `script.crazyegg.com`: 1<br>
@@ -876,4 +878,4 @@ Number of trackers detected: 1 <br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
 `zemanta.com`: 81<br>
-`www.zemanta.com`: 76<br>
+`www.zemanta.com`: 81<br>
