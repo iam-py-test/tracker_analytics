@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-135 domains tested <br>
-Failed to test 65 domains <br>
-60 of the domains tested used known trackers <br>
+136 domains tested <br>
+Failed to test 64 domains <br>
+61 of the domains tested used known trackers <br>
 128 of the domains tested supported HTTPS <br>
 
 
@@ -19,6 +19,12 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+
+
+#### amazon-adsystem.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### amazon.com
@@ -76,7 +82,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -240,7 +246,7 @@ Number of trackers detected: 0 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 
 
 #### forms.gle
@@ -474,7 +480,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -810,7 +816,7 @@ Number of trackers detected: 0 <br>
 #### zemanta.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 160 <br>
+Number of trackers detected: 1 <br>
 
 
 #### zoom.us
@@ -818,11 +824,12 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 ### Statistics for each tracker
+`amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `appsflyer.com`: 156<br>
 `www.appsflyer.com`: 77<br>
-`www.googletagmanager.com`: 35<br>
+`www.googletagmanager.com`: 33<br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
@@ -842,11 +849,10 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 197<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
-`dev.visualwebsiteoptimizer.com`: 2<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
@@ -869,7 +875,7 @@ Number of trackers detected: 1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `taboola.com`: 103<br>
+`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
-`zemanta.com`: 81<br>
-`www.zemanta.com`: 76<br>
+`zemanta.com`: 1<br>
