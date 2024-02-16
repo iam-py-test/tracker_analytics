@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 64 domains <br>
-61 of the domains tested used known trackers <br>
-128 of the domains tested supported HTTPS <br>
+60 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -82,7 +82,7 @@ Number of trackers detected: 1 <br>
 
 
 #### att.net
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
 
@@ -103,6 +103,12 @@ Number of trackers detected: 0 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+
+
+#### bbc.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### bing.com
@@ -324,7 +330,7 @@ Number of trackers detected: 2 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 20 <br>
 
 
 #### googletagmanager.com
@@ -355,12 +361,6 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-
-
-#### health.mil
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 
 
 #### hipages.com.au
@@ -829,7 +829,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 2<br>
 `appsflyer.com`: 156<br>
 `www.appsflyer.com`: 77<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 32<br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
@@ -857,7 +857,7 @@ Number of trackers detected: 1 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 4<br>
 `www.googleadservices.com`: 1<br>

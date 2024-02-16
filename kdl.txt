@@ -2004,3 +2004,5 @@ onedscolprdcus15.centralus.cloudapp.azure.com
 ph2.edge2.salesforce.com
 33fa1ur95-e2fvvctij.sentry.dev
 33fa1ur95-263r7m4hm.sentry.dev
+linode-api.us-west.proximic.com
+33fa1ur95-r3anlirmi.sentry.dev
