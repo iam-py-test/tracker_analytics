@@ -2006,3 +2006,8 @@ ph2.edge2.salesforce.com
 33fa1ur95-263r7m4hm.sentry.dev
 linode-api.us-west.proximic.com
 33fa1ur95-r3anlirmi.sentry.dev
+e81481.dsca.akamaiedge.net.0.1.cn.akamaiedge.net
+e3891.dscf.akamaiedge.net.0.1.cn.akamaiedge.net
+e13678.dscb.akamaiedge.net.0.1.cn.akamaiedge.net
+33fa1ur95-6hcd99thb.sentry.dev
+onedscolprdgwc01.germanywestcentral.cloudapp.azure.com
