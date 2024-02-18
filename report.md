@@ -105,12 +105,6 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
-#### bbc.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -429,6 +423,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 
 
+#### mcafee.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 9 <br>
+
+
 #### medium.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -533,8 +533,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -780,7 +780,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### wordpress.org
@@ -828,7 +828,7 @@ Number of trackers detected: 0 <br>
 #### zemanta.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 160 <br>
 
 
 #### zoom.us
@@ -841,7 +841,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 2<br>
 `appsflyer.com`: 156<br>
 `www.appsflyer.com`: 77<br>
-`www.googletagmanager.com`: 33<br>
+`www.googletagmanager.com`: 35<br>
 `analytics.archive.org`: 1<br>
 `geo.yahoo.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
@@ -871,16 +871,21 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 4<br>
+`stats.wp.com`: 5<br>
 `www.googleadservices.com`: 1<br>
 `cdn.branch.io`: 1<br>
-`tags.tiqcdn.com`: 1<br>
+`tags.tiqcdn.com`: 3<br>
 `www.tns-counter.ru`: 2<br>
+`cm.everesttech.net`: 1<br>
+`s.go-mpulse.net`: 1<br>
+`dpm.demdex.net`: 2<br>
+`mcafeeinc.demdex.net`: 1<br>
+`mcafee12.tt.omtrdc.net`: 1<br>
+`static.doubleclick.net`: 1<br>
 `script.crazyegg.com`: 1<br>
 `t.co`: 16<br>
 `counter.rambler.ru`: 8<br>
 `cdn.krxd.net`: 1<br>
-`dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
 `reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
@@ -890,4 +895,5 @@ Number of trackers detected: 1 <br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
-`zemanta.com`: 1<br>
+`zemanta.com`: 81<br>
+`www.zemanta.com`: 76<br>

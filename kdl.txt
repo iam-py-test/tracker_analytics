@@ -2011,3 +2011,13 @@ e3891.dscf.akamaiedge.net.0.1.cn.akamaiedge.net
 e13678.dscb.akamaiedge.net.0.1.cn.akamaiedge.net
 33fa1ur95-6hcd99thb.sentry.dev
 onedscolprdgwc01.germanywestcentral.cloudapp.azure.com
+e19211.dscd.akamaiedge.net
+media.mcafeeassets.com
+cm.everesttech.net.akadns.net
+cm.everesttech.net
+e4518.dscx.akamaiedge.net
+mcafeeinc.demdex.net
+mcafee12.tt.omtrdc.net
+d1cklgu5sscvp0.cloudfront.net
+e19211.a.akamaiedge.net
+www.mcafee.com
