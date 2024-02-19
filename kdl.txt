@@ -2021,3 +2021,12 @@ mcafee12.tt.omtrdc.net
 d1cklgu5sscvp0.cloudfront.net
 e19211.a.akamaiedge.net
 www.mcafee.com
+cs550162656.adn.psicdn.net
+consent.cmp.oath.com
+linode-api.us-east.proximic.com
+e100.x.akamaiedge.net
+ssl.www8.hp.com
+hpww.tt.omtrdc.net
+e100.a.akamaiedge.net
+e40715.dsca.akamaiedge.net
+www.hp.com
