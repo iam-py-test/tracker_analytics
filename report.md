@@ -174,7 +174,7 @@ Number of trackers detected: 1 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 277 <br>
+Number of trackers detected: 279 <br>
 
 
 #### digicert.com
@@ -252,7 +252,7 @@ Number of trackers detected: 0 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 
 
 #### forms.gle
@@ -330,7 +330,7 @@ Number of trackers detected: 2 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 20 <br>
+Number of trackers detected: 21 <br>
 
 
 #### googletagmanager.com
@@ -868,15 +868,14 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
-`criteo.com`: 197<br>
+`criteo.com`: 199<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
-`dev.visualwebsiteoptimizer.com`: 2<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 20<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 4<br>
 `www.googleadservices.com`: 1<br>
@@ -900,6 +899,7 @@ Number of trackers detected: 1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `taboola.com`: 103<br>
+`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
 `zemanta.com`: 81<br>
