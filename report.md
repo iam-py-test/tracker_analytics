@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-139 domains tested <br>
-Failed to test 61 domains <br>
-64 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+138 domains tested <br>
+Failed to test 62 domains <br>
+63 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -79,12 +79,6 @@ Number of trackers detected: 237 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-
-
-#### att.net
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
 
 
 #### azure.com
@@ -174,7 +168,7 @@ Number of trackers detected: 1 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 279 <br>
+Number of trackers detected: 283 <br>
 
 
 #### digicert.com
@@ -330,7 +324,7 @@ Number of trackers detected: 2 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 21 <br>
+Number of trackers detected: 20 <br>
 
 
 #### googletagmanager.com
@@ -564,7 +558,7 @@ Number of trackers detected: 0 <br>
 #### rambler.ru
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 9 <br>
+Number of trackers detected: 6 <br>
 
 
 #### reddit.com
@@ -849,8 +843,7 @@ Number of trackers detected: 1 <br>
 `www.appsflyer.com`: 77<br>
 `www.googletagmanager.com`: 36<br>
 `analytics.archive.org`: 1<br>
-`geo.yahoo.com`: 4<br>
-`sb.scorecardresearch.com`: 7<br>
+`sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 7<br>
 `static.cloudflareinsights.com`: 3<br>
@@ -868,21 +861,21 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
-`criteo.com`: 199<br>
+`criteo.com`: 203<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 21<br>
+`googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 4<br>
 `www.googleadservices.com`: 1<br>
 `cdn.branch.io`: 1<br>
 `hpww.tt.omtrdc.net`: 1<br>
 `tags.tiqcdn.com`: 3<br>
-`www.tns-counter.ru`: 2<br>
+`www.tns-counter.ru`: 5<br>
 `cm.everesttech.net`: 1<br>
 `s.go-mpulse.net`: 1<br>
 `dpm.demdex.net`: 2<br>
@@ -891,7 +884,7 @@ Number of trackers detected: 1 <br>
 `static.doubleclick.net`: 1<br>
 `script.crazyegg.com`: 1<br>
 `t.co`: 16<br>
-`counter.rambler.ru`: 8<br>
+`counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
 `reveal.clearbit.com`: 1<br>
@@ -902,5 +895,6 @@ Number of trackers detected: 1 <br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
+`geo.yahoo.com`: 2<br>
 `zemanta.com`: 81<br>
 `www.zemanta.com`: 76<br>
