@@ -2032,3 +2032,5 @@ e40715.dsca.akamaiedge.net
 www.hp.com
 33fa1ur95-m38jlv4t3.sentry.dev
 33fa1ur95-m9x3w4izl.sentry.dev
+st1.edge.sfdc-yfeipo.edge2.salesforce.com
+33fa1ur95-ls8icc8gm.sentry.dev

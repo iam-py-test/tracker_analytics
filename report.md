@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-63 of the domains tested used known trackers <br>
+64 of the domains tested used known trackers <br>
 130 of the domains tested supported HTTPS <br>
 
 
@@ -168,7 +168,7 @@ Number of trackers detected: 1 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 283 <br>
+Number of trackers detected: 284 <br>
 
 
 #### digicert.com
@@ -492,7 +492,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 
 
 #### office.com
@@ -587,8 +587,8 @@ Number of trackers detected: 5 <br>
 
 #### salesforceliveagent.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 5 <br>
 
 
 #### samsung.com
@@ -841,7 +841,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 2<br>
 `appsflyer.com`: 158<br>
 `www.appsflyer.com`: 77<br>
-`www.googletagmanager.com`: 36<br>
+`www.googletagmanager.com`: 37<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
@@ -860,14 +860,14 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
-`criteo.com`: 203<br>
+`static.chartbeat.com`: 2<br>
+`criteo.com`: 204<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 5<br>
+`www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 4<br>
@@ -878,15 +878,15 @@ Number of trackers detected: 1 <br>
 `www.tns-counter.ru`: 5<br>
 `cm.everesttech.net`: 1<br>
 `s.go-mpulse.net`: 1<br>
-`dpm.demdex.net`: 2<br>
+`dpm.demdex.net`: 3<br>
 `mcafeeinc.demdex.net`: 1<br>
 `mcafee12.tt.omtrdc.net`: 1<br>
 `static.doubleclick.net`: 1<br>
 `script.crazyegg.com`: 1<br>
 `t.co`: 16<br>
 `counter.rambler.ru`: 2<br>
-`cdn.krxd.net`: 1<br>
-`salesforce.us-1.evergage.com`: 1<br>
+`cdn.krxd.net`: 2<br>
+`salesforce.us-1.evergage.com`: 2<br>
 `reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
