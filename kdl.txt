@@ -2034,3 +2034,7 @@ www.hp.com
 33fa1ur95-m9x3w4izl.sentry.dev
 st1.edge.sfdc-yfeipo.edge2.salesforce.com
 33fa1ur95-ls8icc8gm.sentry.dev
+p.shared.global.fastly.net
+play.vidyard.com
+33fa1ur95-an97q5993.sentry.dev
+design-cdn.shipt.com
