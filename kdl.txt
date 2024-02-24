@@ -2038,3 +2038,6 @@ p.shared.global.fastly.net
 play.vidyard.com
 33fa1ur95-an97q5993.sentry.dev
 design-cdn.shipt.com
+u855.v.bsclink.cn
+33fa1ur95-gf95i5lvz.sentry.dev
+onedscolprduks05.uksouth.cloudapp.azure.com
