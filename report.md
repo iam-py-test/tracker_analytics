@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-63 of the domains tested used known trackers <br>
+64 of the domains tested used known trackers <br>
 130 of the domains tested supported HTTPS <br>
 
 
@@ -149,12 +149,6 @@ Number of trackers detected: 31 <br>
 
 #### comcast.net
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-
-
-#### comfortel.pro
-HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 
@@ -367,6 +361,12 @@ Number of trackers detected: 1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
+
+
+#### hp.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
 
 
 #### icloud.com
@@ -780,7 +780,7 @@ Number of trackers detected: 0 <br>
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### wordpress.org
@@ -828,7 +828,7 @@ Number of trackers detected: 0 <br>
 #### zemanta.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 160 <br>
 
 
 #### zoom.us
@@ -841,7 +841,7 @@ Number of trackers detected: 1 <br>
 `app-measurement.com`: 2<br>
 `appsflyer.com`: 158<br>
 `www.appsflyer.com`: 77<br>
-`www.googletagmanager.com`: 34<br>
+`www.googletagmanager.com`: 37<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
@@ -870,9 +870,10 @@ Number of trackers detected: 1 <br>
 `www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `www.googleadservices.com`: 1<br>
 `cdn.branch.io`: 1<br>
+`hpww.tt.omtrdc.net`: 1<br>
 `tags.tiqcdn.com`: 3<br>
 `www.tns-counter.ru`: 5<br>
 `cm.everesttech.net`: 1<br>
@@ -895,4 +896,5 @@ Number of trackers detected: 1 <br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
 `geo.yahoo.com`: 2<br>
-`zemanta.com`: 1<br>
+`zemanta.com`: 81<br>
+`www.zemanta.com`: 76<br>
