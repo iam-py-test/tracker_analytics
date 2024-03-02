@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-139 domains tested <br>
-Failed to test 61 domains <br>
-63 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+138 domains tested <br>
+Failed to test 62 domains <br>
+64 of the domains tested used known trackers <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -486,7 +486,7 @@ Number of trackers detected: 1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 
 
 #### office.com
@@ -527,8 +527,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 
 
 #### pki.goog
@@ -673,12 +673,6 @@ Number of trackers detected: 145 <br>
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-
-
-#### telefonica.de
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 
 
 #### theguardian.com
@@ -866,7 +860,7 @@ Number of trackers detected: 1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 203<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
