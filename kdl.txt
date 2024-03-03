@@ -2060,3 +2060,5 @@ onedscolprdgwc06.germanywestcentral.cloudapp.azure.com
 onedscolprdneu01.northeurope.cloudapp.azure.com
 33fa1ur95-de6g6edbw.sentry.dev
 33fa1ur95-7dxo3x495.sentry.dev
+polyfill.io.cdn.cloudflare.net
+cdn.polyfill.io.cdn.cloudflare.net
