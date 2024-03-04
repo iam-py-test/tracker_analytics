@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-65 of the domains tested used known trackers <br>
+63 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -162,7 +162,7 @@ Number of trackers detected: 1 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 283 <br>
+Number of trackers detected: 285 <br>
 
 
 #### digicert.com
@@ -533,8 +533,8 @@ Number of trackers detected: 0 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### pki.goog
@@ -713,8 +713,8 @@ Number of trackers detected: 2 <br>
 
 #### unity3d.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 
 
 #### vimeo.com
@@ -842,7 +842,7 @@ Number of trackers detected: 1 <br>
 `appsflyer.com`: 158<br>
 `www.appsflyer.com`: 76<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
-`www.googletagmanager.com`: 35<br>
+`www.googletagmanager.com`: 34<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
@@ -862,7 +862,7 @@ Number of trackers detected: 1 <br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
-`criteo.com`: 203<br>
+`criteo.com`: 205<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
 `sdk.sharethrough.com`: 1<br>
