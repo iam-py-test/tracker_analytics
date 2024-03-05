@@ -2063,3 +2063,5 @@ onedscolprdneu01.northeurope.cloudapp.azure.com
 polyfill.io.cdn.cloudflare.net
 cdn.polyfill.io.cdn.cloudflare.net
 onedscolprdjpw03.japanwest.cloudapp.azure.com
+33fa1ur95-qwvtmawew.sentry.dev
+onedscolprdaue02.australiaeast.cloudapp.azure.com

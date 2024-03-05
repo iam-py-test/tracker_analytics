@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
 63 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
@@ -13,836 +13,967 @@ Failed to test 62 domains <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### adobe.io
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### amazon-adsystem.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: None <br>
 
 
 #### amazon.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### amazonaws.com
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### amazonvideo.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### apache.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### app-measurement.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: UTF-8 <br>
 
 
 #### apple.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### applovin.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### appsflyer.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 237 <br>
+Number of trackers detected: 238 <br>
+Response encoding: UTF-8 <br>
 
 
 #### archive.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### azure.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### baidu.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### bbc.co.uk
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### bit.ly
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### blogspot.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### casalemedia.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 7 <br>
+Response encoding: UTF-8 <br>
 
 
 #### cloudflare-dns.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### cloudflare.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### cloudflare.net
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### cnn.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### creativecommons.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 285 <br>
+Response encoding: UTF-8 <br>
 
 
 #### digicert.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### dns.google
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### doubleclick.net
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 93 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### dropbox.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### ebay.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### epicgames.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### europa.eu
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### facebook-hardware.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### facebook.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### fastly.net
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### fbcdn.net
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### flickr.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### forms.gle
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### gandi.net
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### github.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### github.io
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### gmail.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### goo.gl
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: UTF-8 <br>
 
 
 #### google-analytics.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 78 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### google.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### googleadservices.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: UTF-8 <br>
 
 
 #### googleapis.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### googleblog.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### googledomains.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 20 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### googletagmanager.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: UTF-8 <br>
 
 
 #### googleusercontent.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### googlevideo.com
 HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### gravatar.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### gstatic.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### health.mil
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### hipages.com.au
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
+Response encoding: utf-8 <br>
 
 
 #### hp.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### instagram.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### intuit.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### kaspersky.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### lencr.org
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### linkedin.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### live.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### mail.ru
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### mcafee.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 9 <br>
+Response encoding: utf-8 <br>
 
 
 #### medium.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### meraki.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### microsoft.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### mozilla.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### msn.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### myfritz.net
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### mzstatic.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### netflix.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### nic.ru
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### nih.gov
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### ntp.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### office.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### office365.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### one.one
 HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### opera.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### outlook.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### paypal.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### pki.goog
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### pubmatic.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 5 <br>
+Response encoding: utf-8 <br>
 
 
 #### qq.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: None <br>
 
 
 #### rambler.ru
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 6 <br>
+Response encoding: utf-8 <br>
 
 
 #### reddit.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### registrar-servers.com
 HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### roblox.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### salesforce.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 5 <br>
+Response encoding: utf-8 <br>
 
 
 #### salesforceliveagent.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 5 <br>
+Response encoding: utf-8 <br>
 
 
 #### samsung.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sberdevices.ru
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### sharepoint.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### shipt.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### skype.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### slack.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### snapchat.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### spotify.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 15 <br>
+Response encoding: utf-8 <br>
 
 
 #### t.me
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 145 <br>
+Response encoding: UTF-8 <br>
 
 
 #### tds.net
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### theguardian.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### tiktok.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### tiktokv.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### tumblr.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### twitter.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### ui.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### unity3d.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### vimeo.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### vk.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### w3.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### wa.me
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### webex.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### whatsapp.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### whatsapp.net
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### wikipedia.org
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### windows.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### windows.net
 HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### wordpress.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### wordpress.org
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
 
 
 #### xiaomi.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### yahoo.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### yandex.net
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yandex.ru
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtu.be
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtube.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### zemanta.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 160 <br>
+Response encoding: UTF-8 <br>
 
 
 #### zoom.us
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 ### Statistics for each tracker
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
-`appsflyer.com`: 158<br>
+`appsflyer.com`: 159<br>
 `www.appsflyer.com`: 76<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
-`www.googletagmanager.com`: 34<br>
+`www.googletagmanager.com`: 36<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
@@ -896,4 +1027,5 @@ Number of trackers detected: 1 <br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
 `geo.yahoo.com`: 2<br>
-`zemanta.com`: 1<br>
+`zemanta.com`: 81<br>
+`www.zemanta.com`: 76<br>
