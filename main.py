@@ -216,7 +216,7 @@ for domain in latest_top:
 			hassec = hasHTTPS(domain)
 			if hassec:
 				data["domains_with_HTTPS"] += 1
-			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"total":domainreport["total"],"endurl":req.url}
+			data["per_domain_stats"][domain] = {"hasHTTPS":hassec,"has_trackers":domainreport["has_trackers"],"total":domainreport["total"],"endurl":req.url, "encoding": req.encoding}
 		except Exception as err:
 			failedtoscan += 1
 			errlog.write("[{}] {}\n".format(domain,err))
@@ -236,6 +236,7 @@ with open("report.md","w") as f:
 		f.write("\nHTTPS: {} <br>".format(data["per_domain_stats"][entry]["hasHTTPS"]))
 		f.write("\nKnown trackers: {} <br>".format(data["per_domain_stats"][entry]["has_trackers"]))
 		f.write("\nNumber of trackers detected: {} <br>".format(data["per_domain_stats"][entry]["total"]))
+		f.write("\nResponse encoding: {} <br>".format(data["per_domain_stats"][entry]["encoding"]))
 	
 	f.write("\n### Statistics for each tracker\n")
 	for trackerf in trackers_found_obj:
