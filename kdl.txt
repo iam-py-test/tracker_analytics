@@ -2066,3 +2066,5 @@ onedscolprdjpw03.japanwest.cloudapp.azure.com
 33fa1ur95-qwvtmawew.sentry.dev
 onedscolprdaue02.australiaeast.cloudapp.azure.com
 33fa1ur95-dqrv0wowi.sentry.dev
+cs1889.wpc.systemcdn.net
+33fa1ur95-ddf15660f.sentry.dev

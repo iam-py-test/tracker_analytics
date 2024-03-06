@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 62 domains <br>
-64 of the domains tested used known trackers <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+63 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -168,13 +168,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
 Response encoding: utf-8 <br>
-
-
-#### comcast.net
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### creativecommons.org
@@ -572,7 +565,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -620,8 +613,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -636,7 +629,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 5 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### qq.com
@@ -761,7 +754,7 @@ Response encoding: utf-8 <br>
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 10 <br>
+Number of trackers detected: 15 <br>
 Response encoding: utf-8 <br>
 
 
@@ -937,7 +930,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### yandex.ru
@@ -999,7 +992,7 @@ Response encoding: utf-8 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 205<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
@@ -1022,7 +1015,7 @@ Response encoding: utf-8 <br>
 `mcafee12.tt.omtrdc.net`: 1<br>
 `static.doubleclick.net`: 1<br>
 `script.crazyegg.com`: 1<br>
-`t.co`: 11<br>
+`t.co`: 16<br>
 `counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
