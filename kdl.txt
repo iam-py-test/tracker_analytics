@@ -2069,3 +2069,5 @@ onedscolprdaue02.australiaeast.cloudapp.azure.com
 cs1889.wpc.systemcdn.net
 33fa1ur95-ddf15660f.sentry.dev
 33fa1ur95-mryw0w031.sentry.dev
+33fa1ur95-gidbui5q1.sentry.dev
+onedscolprdneu05.northeurope.cloudapp.azure.com
