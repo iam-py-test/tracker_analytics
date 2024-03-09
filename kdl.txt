@@ -2071,3 +2071,5 @@ cs1889.wpc.systemcdn.net
 33fa1ur95-mryw0w031.sentry.dev
 33fa1ur95-gidbui5q1.sentry.dev
 onedscolprdneu05.northeurope.cloudapp.azure.com
+33fa1ur95-1hdr98jz8.sentry.dev
+onedscolprdgwc00.germanywestcentral.cloudapp.azure.com

@@ -247,6 +247,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### example.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### facebook-hardware.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -376,7 +383,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 20 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -419,13 +426,6 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
-
-
-#### hipages.com.au
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
 Response encoding: utf-8 <br>
 
 
@@ -620,8 +620,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -964,8 +964,8 @@ Response encoding: utf-8 <br>
 #### zemanta.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: ISO-8859-1 <br>
+Number of trackers detected: 160 <br>
+Response encoding: UTF-8 <br>
 
 
 #### zoom.us
@@ -1007,11 +1007,9 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 6<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
-`www.googleadservices.com`: 1<br>
-`cdn.branch.io`: 1<br>
 `tags.tiqcdn.com`: 3<br>
 `www.tns-counter.ru`: 5<br>
 `cm.everesttech.net`: 1<br>
@@ -1033,4 +1031,5 @@ Response encoding: utf-8 <br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
 `geo.yahoo.com`: 2<br>
-`zemanta.com`: 1<br>
+`zemanta.com`: 81<br>
+`www.zemanta.com`: 76<br>
