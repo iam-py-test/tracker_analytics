@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-62 of the domains tested used known trackers <br>
+61 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -90,6 +90,13 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
+
+
+#### att.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -383,7 +390,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 21 <br>
+Number of trackers detected: 20 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -644,13 +651,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: None <br>
-
-
-#### rambler.ru
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 6 <br>
-Response encoding: utf-8 <br>
 
 
 #### reddit.com
@@ -1007,11 +1007,11 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 6<br>
-`googlesyndication.com`: 21<br>
+`googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 3<br>
-`www.tns-counter.ru`: 5<br>
+`www.tns-counter.ru`: 1<br>
 `cm.everesttech.net`: 1<br>
 `s.go-mpulse.net`: 1<br>
 `dpm.demdex.net`: 3<br>
@@ -1020,7 +1020,6 @@ Response encoding: utf-8 <br>
 `static.doubleclick.net`: 1<br>
 `script.crazyegg.com`: 1<br>
 `t.co`: 16<br>
-`counter.rambler.ru`: 2<br>
 `cdn.krxd.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
 `reveal.clearbit.com`: 1<br>
