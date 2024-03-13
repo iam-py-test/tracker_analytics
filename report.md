@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-61 of the domains tested used known trackers <br>
+62 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -82,7 +82,7 @@ Response encoding: ISO-8859-1 <br>
 #### appsflyer.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 239 <br>
+Number of trackers detected: 234 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -839,7 +839,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### vk.com
@@ -851,8 +851,8 @@ Response encoding: utf-8 <br>
 
 #### w3.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -977,15 +977,15 @@ Response encoding: utf-8 <br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
-`appsflyer.com`: 160<br>
-`www.appsflyer.com`: 76<br>
+`appsflyer.com`: 161<br>
+`www.appsflyer.com`: 70<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
 `www.googletagmanager.com`: 33<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 7<br>
 `casalemedia.com`: 7<br>
-`static.cloudflareinsights.com`: 3<br>
+`static.cloudflareinsights.com`: 4<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
