@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
-137 domains tested <br>
-Failed to test 63 domains <br>
+138 domains tested <br>
+Failed to test 62 domains <br>
 61 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
@@ -182,6 +182,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
 Response encoding: utf-8 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### creativecommons.org
@@ -572,7 +579,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -620,8 +627,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -844,8 +851,8 @@ Response encoding: utf-8 <br>
 
 #### w3.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -978,7 +985,7 @@ Response encoding: utf-8 <br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 7<br>
 `casalemedia.com`: 7<br>
-`static.cloudflareinsights.com`: 4<br>
+`static.cloudflareinsights.com`: 3<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -992,7 +999,7 @@ Response encoding: utf-8 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 205<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>

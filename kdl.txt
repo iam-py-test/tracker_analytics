@@ -2081,3 +2081,8 @@ www.att.com
 33fa1ur95-20gb7ie9j.sentry.dev
 33fa1ur95-fnhtbmxt8.sentry.dev
 onedscolprdcus02.centralus.cloudapp.azure.com
+apiproxy-logging-s1-4a8c8a852b854f84.elb.us-east-2.amazonaws.com
+logs.netflix.com
+dk.pinterest.com
+33fa1ur95-hn8g7tkr4.sentry.dev
+e14482.dscd.akamaiedge.net.0.1.cn.akamaiedge.net
