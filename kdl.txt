@@ -2086,3 +2086,4 @@ logs.netflix.com
 dk.pinterest.com
 33fa1ur95-hn8g7tkr4.sentry.dev
 e14482.dscd.akamaiedge.net.0.1.cn.akamaiedge.net
+apiproxy-logging-s4-164762ccd0989fc7.elb.us-east-2.amazonaws.com
