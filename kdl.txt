@@ -2087,3 +2087,14 @@ dk.pinterest.com
 33fa1ur95-hn8g7tkr4.sentry.dev
 e14482.dscd.akamaiedge.net.0.1.cn.akamaiedge.net
 apiproxy-logging-s4-164762ccd0989fc7.elb.us-east-2.amazonaws.com
+apiproxy-logging-s2-06119af85fbce900.elb.us-east-2.amazonaws.com
+33fa1ur95-2bv6czhzk.sentry.dev
+a1967.dscr.akamai.net
+t-mobile.scene7.com
+t-mobile.com.ssl.d1.sc.omtrdc.net
+smetrics.t-mobile.com
+t-mobile.com
+e71824.a.akamaiedge.net
+www.t-mobile.com
+e94409.a.akamaiedge.net
+es.t-mobile.com
