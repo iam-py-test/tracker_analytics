@@ -2103,3 +2103,5 @@ apiproxy-logging-s3-9b3ecee3f3b65520.elb.us-east-2.amazonaws.com
 onedscolprdwus16.westus.cloudapp.azure.com
 a1676.dscb.akamai.net.0.1.cn.akamaitech.net
 cdn-tmp.i-p-s4y.com
+thirdpartyfallback-bn1r6b.trafficmanager.net
+33fa1ur95-d10x84zgl.sentry.dev
