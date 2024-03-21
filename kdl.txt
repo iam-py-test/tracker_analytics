@@ -2105,3 +2105,6 @@ a1676.dscb.akamai.net.0.1.cn.akamaitech.net
 cdn-tmp.i-p-s4y.com
 thirdpartyfallback-bn1r6b.trafficmanager.net
 33fa1ur95-d10x84zgl.sentry.dev
+d3vmvmej3wjbxn.cloudfront.net
+global.localizecdn.com
+33fa1ur95-9q35f5m7a.sentry.dev
