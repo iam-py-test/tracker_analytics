@@ -2108,3 +2108,5 @@ thirdpartyfallback-bn1r6b.trafficmanager.net
 d3vmvmej3wjbxn.cloudfront.net
 global.localizecdn.com
 33fa1ur95-9q35f5m7a.sentry.dev
+33fa1ur95-6awpeuivj.sentry.dev
+onedscolprdeus16.eastus.cloudapp.azure.com
