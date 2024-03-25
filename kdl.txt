@@ -2112,3 +2112,9 @@ global.localizecdn.com
 onedscolprdeus16.eastus.cloudapp.azure.com
 e10883.g.akamaiedge.net.0.1.cn.akamaiedge.net
 33fa1ur95-1z5oja85j.sentry.dev
+doubleverify.com
+thirdpartyfallback-bn1r6a.trafficmanager.net
+thirdpartyfallback-mnz22r6b.trafficmanager.net
+thirdpartyfallback-edge-prod-mnz22r6a.trafficmanager.net
+33fa1ur95-ns61mhyrl.sentry.dev
+file-paa.zoomdev.us
