@@ -1,400 +1,400 @@
 [2mdn.net
-] HTTPSConnectionPool(host='2mdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1940>: Failed to resolve '2mdn.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='2mdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f59a0>: Failed to resolve '2mdn.net%0a' ([Errno -2] Name or service not known)"))
 [a-msedge.net
-] HTTPSConnectionPool(host='a-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1460>: Failed to resolve 'a-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='a-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5490>: Failed to resolve 'a-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [a2z.com
-] HTTPSConnectionPool(host='a2z.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2a50>: Failed to resolve 'a2z.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='a2z.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6ab0>: Failed to resolve 'a2z.com%0a' ([Errno -2] Name or service not known)"))
 [aaplimg.com
-] HTTPSConnectionPool(host='aaplimg.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3d40>: Failed to resolve 'aaplimg.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='aaplimg.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7dd0>: Failed to resolve 'aaplimg.com%0a' ([Errno -2] Name or service not known)"))
 [adnxs.com
-] HTTPSConnectionPool(host='adnxs.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2c90>: Failed to resolve 'adnxs.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='adnxs.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6ed0>: Failed to resolve 'adnxs.com%0a' ([Errno -2] Name or service not known)"))
 [adobe.com
-] HTTPSConnectionPool(host='adobe.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1670>: Failed to resolve 'adobe.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='adobe.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f56d0>: Failed to resolve 'adobe.com%0a' ([Errno -2] Name or service not known)"))
 [adobe.io
-] HTTPSConnectionPool(host='adobe.io%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b4440>: Failed to resolve 'adobe.io%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='adobe.io%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b84d0>: Failed to resolve 'adobe.io%0a' ([Errno -2] Name or service not known)"))
 [aiv-cdn.net
-] HTTPSConnectionPool(host='aiv-cdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2c60>: Failed to resolve 'aiv-cdn.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='aiv-cdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6c90>: Failed to resolve 'aiv-cdn.net%0a' ([Errno -2] Name or service not known)"))
 [akadns.net
-] HTTPSConnectionPool(host='akadns.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b45f0>: Failed to resolve 'akadns.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='akadns.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8680>: Failed to resolve 'akadns.net%0a' ([Errno -2] Name or service not known)"))
 [akamai.net
-] HTTPSConnectionPool(host='akamai.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3cb0>: Failed to resolve 'akamai.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='akamai.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7a10>: Failed to resolve 'akamai.net%0a' ([Errno -2] Name or service not known)"))
 [akamaiedge.net
-] HTTPSConnectionPool(host='akamaiedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2360>: Failed to resolve 'akamaiedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='akamaiedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6900>: Failed to resolve 'akamaiedge.net%0a' ([Errno -2] Name or service not known)"))
 [akamaihd.net
-] HTTPSConnectionPool(host='akamaihd.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b5af0>: Failed to resolve 'akamaihd.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='akamaihd.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9b20>: Failed to resolve 'akamaihd.net%0a' ([Errno -2] Name or service not known)"))
 [akamaized.net
-] HTTPSConnectionPool(host='akamaized.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f21e0>: Failed to resolve 'akamaized.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='akamaized.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f62a0>: Failed to resolve 'akamaized.net%0a' ([Errno -2] Name or service not known)"))
 [amazon-adsystem.com
-] HTTPSConnectionPool(host='amazon-adsystem.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f37d0>: Failed to resolve 'amazon-adsystem.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='amazon-adsystem.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6e10>: Failed to resolve 'amazon-adsystem.com%0a' ([Errno -2] Name or service not known)"))
 [amazon.com
-] HTTPSConnectionPool(host='amazon.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b5070>: Failed to resolve 'amazon.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='amazon.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9100>: Failed to resolve 'amazon.com%0a' ([Errno -2] Name or service not known)"))
 [amazonaws.com
-] HTTPSConnectionPool(host='amazonaws.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3b30>: Failed to resolve 'amazonaws.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='amazonaws.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7980>: Failed to resolve 'amazonaws.com%0a' ([Errno -2] Name or service not known)"))
 [amazonvideo.com
-] HTTPSConnectionPool(host='amazonvideo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f09e0>: Failed to resolve 'amazonvideo.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='amazonvideo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6150>: Failed to resolve 'amazonvideo.com%0a' ([Errno -2] Name or service not known)"))
 [apache.org
-] HTTPSConnectionPool(host='apache.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b65d0>: Failed to resolve 'apache.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='apache.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7ba960>: Failed to resolve 'apache.org%0a' ([Errno -2] Name or service not known)"))
 [app-measurement.com
-] HTTPSConnectionPool(host='app-measurement.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1070>: Failed to resolve 'app-measurement.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='app-measurement.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4a40>: Failed to resolve 'app-measurement.com%0a' ([Errno -2] Name or service not known)"))
 [apple-dns.net
-] HTTPSConnectionPool(host='apple-dns.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3fe0>: Failed to resolve 'apple-dns.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='apple-dns.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7c20>: Failed to resolve 'apple-dns.net%0a' ([Errno -2] Name or service not known)"))
 [apple.com
-] HTTPSConnectionPool(host='apple.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7d40>: Failed to resolve 'apple.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='apple.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bbda0>: Failed to resolve 'apple.com%0a' ([Errno -2] Name or service not known)"))
 [applovin.com
-] HTTPSConnectionPool(host='applovin.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3320>: Failed to resolve 'applovin.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='applovin.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6720>: Failed to resolve 'applovin.com%0a' ([Errno -2] Name or service not known)"))
 [appsflyersdk.com
-] HTTPSConnectionPool(host='appsflyersdk.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f0d70>: Failed to resolve 'appsflyersdk.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='appsflyersdk.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4f50>: Failed to resolve 'appsflyersdk.com%0a' ([Errno -2] Name or service not known)"))
 [archive.org
-] HTTPSConnectionPool(host='archive.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dc8c0>: Failed to resolve 'archive.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='archive.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e0920>: Failed to resolve 'archive.org%0a' ([Errno -2] Name or service not known)"))
 [att.com
-] HTTPSConnectionPool(host='att.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2ab0>: Failed to resolve 'att.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='att.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7710>: Failed to resolve 'att.com%0a' ([Errno -2] Name or service not known)"))
 [azure.com
-] HTTPSConnectionPool(host='azure.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b67e0>: Failed to resolve 'azure.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='azure.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9b50>: Failed to resolve 'azure.com%0a' ([Errno -2] Name or service not known)"))
 [azureedge.net
-] HTTPSConnectionPool(host='azureedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dc470>: Failed to resolve 'azureedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='azureedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e0440>: Failed to resolve 'azureedge.net%0a' ([Errno -2] Name or service not known)"))
 [azurewebsites.net
-] HTTPSConnectionPool(host='azurewebsites.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b4560>: Failed to resolve 'azurewebsites.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='azurewebsites.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7ba9f0>: Failed to resolve 'azurewebsites.net%0a' ([Errno -2] Name or service not known)"))
 [b-msedge.net
-] HTTPSConnectionPool(host='b-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2c90>: Failed to resolve 'b-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='b-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6ab0>: Failed to resolve 'b-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [baidu.com
-] HTTPSConnectionPool(host='baidu.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dca10>: Failed to resolve 'baidu.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='baidu.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e0aa0>: Failed to resolve 'baidu.com%0a' ([Errno -2] Name or service not known)"))
 [bbc.co.uk
-] HTTPSConnectionPool(host='bbc.co.uk%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7650>: Failed to resolve 'bbc.co.uk%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='bbc.co.uk%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb6b0>: Failed to resolve 'bbc.co.uk%0a' ([Errno -2] Name or service not known)"))
 [bbc.com
-] HTTPSConnectionPool(host='bbc.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b5d60>: Failed to resolve 'bbc.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='bbc.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9e20>: Failed to resolve 'bbc.com%0a' ([Errno -2] Name or service not known)"))
 [bing.com
-] HTTPSConnectionPool(host='bing.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b42c0>: Failed to resolve 'bing.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='bing.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b81d0>: Failed to resolve 'bing.com%0a' ([Errno -2] Name or service not known)"))
 [bit.ly
-] HTTPSConnectionPool(host='bit.ly%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b77d0>: Failed to resolve 'bit.ly%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='bit.ly%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb830>: Failed to resolve 'bit.ly%0a' ([Errno -2] Name or service not known)"))
 [blogspot.com
-] HTTPSConnectionPool(host='blogspot.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a87c9e0>: Failed to resolve 'blogspot.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='blogspot.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a9bf020>: Failed to resolve 'blogspot.com%0a' ([Errno -2] Name or service not known)"))
 [bytefcdn-oversea.com
-] HTTPSConnectionPool(host='bytefcdn-oversea.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a90f830>: Failed to resolve 'bytefcdn-oversea.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='bytefcdn-oversea.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a9bfb60>: Failed to resolve 'bytefcdn-oversea.com%0a' ([Errno -2] Name or service not known)"))
 [bytefcdn-ttpeu.com
-] HTTPSConnectionPool(host='bytefcdn-ttpeu.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b77d0>: Failed to resolve 'bytefcdn-ttpeu.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='bytefcdn-ttpeu.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb920>: Failed to resolve 'bytefcdn-ttpeu.com%0a' ([Errno -2] Name or service not known)"))
 [casalemedia.com
-] HTTPSConnectionPool(host='casalemedia.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2cc0>: Failed to resolve 'casalemedia.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='casalemedia.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7aa0>: Failed to resolve 'casalemedia.com%0a' ([Errno -2] Name or service not known)"))
 [cdn-apple.com
-] HTTPSConnectionPool(host='cdn-apple.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3680>: Failed to resolve 'cdn-apple.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cdn-apple.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8470>: Failed to resolve 'cdn-apple.com%0a' ([Errno -2] Name or service not known)"))
 [cdn77.org
-] HTTPSConnectionPool(host='cdn77.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7a10>: Failed to resolve 'cdn77.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cdn77.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb7a0>: Failed to resolve 'cdn77.org%0a' ([Errno -2] Name or service not known)"))
 [cdninstagram.com
-] HTTPSConnectionPool(host='cdninstagram.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7f80>: Failed to resolve 'cdninstagram.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cdninstagram.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6570>: Failed to resolve 'cdninstagram.com%0a' ([Errno -2] Name or service not known)"))
 [cloudapp.net
-] HTTPSConnectionPool(host='cloudapp.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7e90>: Failed to resolve 'cloudapp.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cloudapp.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6ed0>: Failed to resolve 'cloudapp.net%0a' ([Errno -2] Name or service not known)"))
 [cloudflare-dns.com
-] HTTPSConnectionPool(host='cloudflare-dns.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b6e40>: Failed to resolve 'cloudflare-dns.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cloudflare-dns.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8680>: Failed to resolve 'cloudflare-dns.com%0a' ([Errno -2] Name or service not known)"))
 [cloudflare.com
-] HTTPSConnectionPool(host='cloudflare.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1940>: Failed to resolve 'cloudflare.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cloudflare.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9d90>: Failed to resolve 'cloudflare.com%0a' ([Errno -2] Name or service not known)"))
 [cloudflare.net
-] HTTPSConnectionPool(host='cloudflare.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3440>: Failed to resolve 'cloudflare.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cloudflare.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb590>: Failed to resolve 'cloudflare.net%0a' ([Errno -2] Name or service not known)"))
 [cloudfront.net
-] HTTPSConnectionPool(host='cloudfront.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b5670>: Failed to resolve 'cloudfront.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cloudfront.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b99a0>: Failed to resolve 'cloudfront.net%0a' ([Errno -2] Name or service not known)"))
 [cnn.com
-] HTTPSConnectionPool(host='cnn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd160>: Failed to resolve 'cnn.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='cnn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1250>: Failed to resolve 'cnn.com%0a' ([Errno -2] Name or service not known)"))
 [comcast.net
-] HTTPSConnectionPool(host='comcast.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b4650>: Failed to resolve 'comcast.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='comcast.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7aa0>: Failed to resolve 'comcast.net%0a' ([Errno -2] Name or service not known)"))
 [creativecommons.org
-] HTTPSConnectionPool(host='creativecommons.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9aaeeba0>: Failed to resolve 'creativecommons.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='creativecommons.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bab10>: Failed to resolve 'creativecommons.org%0a' ([Errno -2] Name or service not known)"))
 [criteo.com
-] HTTPSConnectionPool(host='criteo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dda60>: Failed to resolve 'criteo.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='criteo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1b50>: Failed to resolve 'criteo.com%0a' ([Errno -2] Name or service not known)"))
 [demdex.net
-] HTTPSConnectionPool(host='demdex.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1040>: Failed to resolve 'demdex.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='demdex.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b91c0>: Failed to resolve 'demdex.net%0a' ([Errno -2] Name or service not known)"))
 [digicert.com
-] HTTPSConnectionPool(host='digicert.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7350>: Failed to resolve 'digicert.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='digicert.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7ba900>: Failed to resolve 'digicert.com%0a' ([Errno -2] Name or service not known)"))
 [dns.cn
-] HTTPSConnectionPool(host='dns.cn%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de1e0>: Failed to resolve 'dns.cn%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='dns.cn%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2240>: Failed to resolve 'dns.cn%0a' ([Errno -2] Name or service not known)"))
 [dns.google
-] HTTPSConnectionPool(host='dns.google%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7aa0>: Failed to resolve 'dns.google%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='dns.google%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7290>: Failed to resolve 'dns.google%0a' ([Errno -2] Name or service not known)"))
 [dnsowl.com
-] HTTPSConnectionPool(host='dnsowl.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3f20>: Failed to resolve 'dnsowl.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='dnsowl.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9910>: Failed to resolve 'dnsowl.com%0a' ([Errno -2] Name or service not known)"))
 [domaincontrol.com
-] HTTPSConnectionPool(host='domaincontrol.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dea20>: Failed to resolve 'domaincontrol.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='domaincontrol.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2b10>: Failed to resolve 'domaincontrol.com%0a' ([Errno -2] Name or service not known)"))
 [doubleclick.net
-] HTTPSConnectionPool(host='doubleclick.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3110>: Failed to resolve 'doubleclick.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='doubleclick.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb8c0>: Failed to resolve 'doubleclick.net%0a' ([Errno -2] Name or service not known)"))
+[doubleverify.com
+] HTTPSConnectionPool(host='doubleverify.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5940>: Failed to resolve 'doubleverify.com%0a' ([Errno -2] Name or service not known)"))
 [dropbox.com
-] HTTPSConnectionPool(host='dropbox.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b6c00>: Failed to resolve 'dropbox.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='dropbox.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1ca0>: Failed to resolve 'dropbox.com%0a' ([Errno -2] Name or service not known)"))
 [dual-s-msedge.net
-] HTTPSConnectionPool(host='dual-s-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd9d0>: Failed to resolve 'dual-s-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='dual-s-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5ee0>: Failed to resolve 'dual-s-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [e2ro.com
-] HTTPSConnectionPool(host='e2ro.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7da0>: Failed to resolve 'e2ro.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='e2ro.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bbd40>: Failed to resolve 'e2ro.com%0a' ([Errno -2] Name or service not known)"))
 [ebay.com
-] HTTPSConnectionPool(host='ebay.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b6720>: Failed to resolve 'ebay.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='ebay.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bba70>: Failed to resolve 'ebay.com%0a' ([Errno -2] Name or service not known)"))
 [edgekey.net
-] HTTPSConnectionPool(host='edgekey.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9b557a10>: Failed to resolve 'edgekey.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='edgekey.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b80b0>: Failed to resolve 'edgekey.net%0a' ([Errno -2] Name or service not known)"))
 [edgesuite.net
-] HTTPSConnectionPool(host='edgesuite.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f25a0>: Failed to resolve 'edgesuite.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='edgesuite.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6db0>: Failed to resolve 'edgesuite.net%0a' ([Errno -2] Name or service not known)"))
 [epicgames.com
-] HTTPSConnectionPool(host='epicgames.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7320>: Failed to resolve 'epicgames.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='epicgames.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e33b0>: Failed to resolve 'epicgames.com%0a' ([Errno -2] Name or service not known)"))
 [europa.eu
-] HTTPSConnectionPool(host='europa.eu%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd9d0>: Failed to resolve 'europa.eu%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='europa.eu%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3530>: Failed to resolve 'europa.eu%0a' ([Errno -2] Name or service not known)"))
 [example.com
-] HTTPSConnectionPool(host='example.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df5c0>: Failed to resolve 'example.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='example.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1940>: Failed to resolve 'example.com%0a' ([Errno -2] Name or service not known)"))
 [facebook-hardware.com
-] HTTPSConnectionPool(host='facebook-hardware.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd880>: Failed to resolve 'facebook-hardware.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='facebook-hardware.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e0200>: Failed to resolve 'facebook-hardware.com%0a' ([Errno -2] Name or service not known)"))
 [facebook.com
-] HTTPSConnectionPool(host='facebook.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd5b0>: Failed to resolve 'facebook.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='facebook.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1d30>: Failed to resolve 'facebook.com%0a' ([Errno -2] Name or service not known)"))
 [fastly.net
-] HTTPSConnectionPool(host='fastly.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd040>: Failed to resolve 'fastly.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='fastly.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2db0>: Failed to resolve 'fastly.net%0a' ([Errno -2] Name or service not known)"))
 [fbcdn.net
-] HTTPSConnectionPool(host='fbcdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dee40>: Failed to resolve 'fbcdn.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='fbcdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4b90>: Failed to resolve 'fbcdn.net%0a' ([Errno -2] Name or service not known)"))
 [flickr.com
-] HTTPSConnectionPool(host='flickr.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a6c1280>: Failed to resolve 'flickr.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='flickr.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1070>: Failed to resolve 'flickr.com%0a' ([Errno -2] Name or service not known)"))
 [forbes.com
-] HTTPSConnectionPool(host='forbes.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de990>: Failed to resolve 'forbes.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='forbes.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1850>: Failed to resolve 'forbes.com%0a' ([Errno -2] Name or service not known)"))
 [forms.gle
-] HTTPSConnectionPool(host='forms.gle%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de330>: Failed to resolve 'forms.gle%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='forms.gle%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1760>: Failed to resolve 'forms.gle%0a' ([Errno -2] Name or service not known)"))
 [gandi.net
-] HTTPSConnectionPool(host='gandi.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4ddcd0>: Failed to resolve 'gandi.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gandi.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1100>: Failed to resolve 'gandi.net%0a' ([Errno -2] Name or service not known)"))
 [ggpht.com
-] HTTPSConnectionPool(host='ggpht.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd580>: Failed to resolve 'ggpht.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='ggpht.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3530>: Failed to resolve 'ggpht.com%0a' ([Errno -2] Name or service not known)"))
 [github.com
-] HTTPSConnectionPool(host='github.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df950>: Failed to resolve 'github.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='github.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4f20>: Failed to resolve 'github.com%0a' ([Errno -2] Name or service not known)"))
 [github.io
-] HTTPSConnectionPool(host='github.io%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3b60>: Failed to resolve 'github.io%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='github.io%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3b00>: Failed to resolve 'github.io%0a' ([Errno -2] Name or service not known)"))
 [gmail.com
-] HTTPSConnectionPool(host='gmail.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dcec0>: Failed to resolve 'gmail.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gmail.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2570>: Failed to resolve 'gmail.com%0a' ([Errno -2] Name or service not known)"))
 [goo.gl
-] HTTPSConnectionPool(host='goo.gl%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de870>: Failed to resolve 'goo.gl%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='goo.gl%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7050>: Failed to resolve 'goo.gl%0a' ([Errno -2] Name or service not known)"))
 [google-analytics.com
-] HTTPSConnectionPool(host='google-analytics.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f0d10>: Failed to resolve 'google-analytics.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='google-analytics.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e28a0>: Failed to resolve 'google-analytics.com%0a' ([Errno -2] Name or service not known)"))
 [google.com
-] HTTPSConnectionPool(host='google.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dcd40>: Failed to resolve 'google.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='google.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3f50>: Failed to resolve 'google.com%0a' ([Errno -2] Name or service not known)"))
 [googleadservices.com
-] HTTPSConnectionPool(host='googleadservices.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dfc80>: Failed to resolve 'googleadservices.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googleadservices.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6c90>: Failed to resolve 'googleadservices.com%0a' ([Errno -2] Name or service not known)"))
 [googleapis.com
-] HTTPSConnectionPool(host='googleapis.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3650>: Failed to resolve 'googleapis.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googleapis.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e31a0>: Failed to resolve 'googleapis.com%0a' ([Errno -2] Name or service not known)"))
 [googleblog.com
-] HTTPSConnectionPool(host='googleblog.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4decc0>: Failed to resolve 'googleblog.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googleblog.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f70b0>: Failed to resolve 'googleblog.com%0a' ([Errno -2] Name or service not known)"))
 [googledomains.com
-] HTTPSConnectionPool(host='googledomains.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2990>: Failed to resolve 'googledomains.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googledomains.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f53d0>: Failed to resolve 'googledomains.com%0a' ([Errno -2] Name or service not known)"))
 [googlesyndication.com
-] HTTPSConnectionPool(host='googlesyndication.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3710>: Failed to resolve 'googlesyndication.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googlesyndication.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2870>: Failed to resolve 'googlesyndication.com%0a' ([Errno -2] Name or service not known)"))
 [googletagmanager.com
-] HTTPSConnectionPool(host='googletagmanager.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de180>: Failed to resolve 'googletagmanager.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googletagmanager.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5cd0>: Failed to resolve 'googletagmanager.com%0a' ([Errno -2] Name or service not known)"))
 [googleusercontent.com
-] HTTPSConnectionPool(host='googleusercontent.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1430>: Failed to resolve 'googleusercontent.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googleusercontent.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4ef0>: Failed to resolve 'googleusercontent.com%0a' ([Errno -2] Name or service not known)"))
 [googlevideo.com
-] HTTPSConnectionPool(host='googlevideo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1430>: Failed to resolve 'googlevideo.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='googlevideo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1e80>: Failed to resolve 'googlevideo.com%0a' ([Errno -2] Name or service not known)"))
 [gravatar.com
-] HTTPSConnectionPool(host='gravatar.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4ddeb0>: Failed to resolve 'gravatar.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gravatar.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb7d0>: Failed to resolve 'gravatar.com%0a' ([Errno -2] Name or service not known)"))
 [gstatic.com
-] HTTPSConnectionPool(host='gstatic.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7230>: Failed to resolve 'gstatic.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gstatic.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2240>: Failed to resolve 'gstatic.com%0a' ([Errno -2] Name or service not known)"))
 [gtld-servers.net
-] HTTPSConnectionPool(host='gtld-servers.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dcc80>: Failed to resolve 'gtld-servers.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gtld-servers.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1a00>: Failed to resolve 'gtld-servers.net%0a' ([Errno -2] Name or service not known)"))
 [gvt1.com
-] HTTPSConnectionPool(host='gvt1.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de420>: Failed to resolve 'gvt1.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gvt1.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb740>: Failed to resolve 'gvt1.com%0a' ([Errno -2] Name or service not known)"))
 [gvt2.com
-] HTTPSConnectionPool(host='gvt2.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b67e0>: Failed to resolve 'gvt2.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='gvt2.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f59d0>: Failed to resolve 'gvt2.com%0a' ([Errno -2] Name or service not known)"))
 [health.mil
-] HTTPSConnectionPool(host='health.mil%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f0fb0>: Failed to resolve 'health.mil%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='health.mil%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1f10>: Failed to resolve 'health.mil%0a' ([Errno -2] Name or service not known)"))
 [icloud.com
-] HTTPSConnectionPool(host='icloud.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd1f0>: Failed to resolve 'icloud.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='icloud.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b98b0>: Failed to resolve 'icloud.com%0a' ([Errno -2] Name or service not known)"))
 [instagram.com
-] HTTPSConnectionPool(host='instagram.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b6c00>: Failed to resolve 'instagram.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='instagram.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e09b0>: Failed to resolve 'instagram.com%0a' ([Errno -2] Name or service not known)"))
 [intuit.com
-] HTTPSConnectionPool(host='intuit.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df1a0>: Failed to resolve 'intuit.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='intuit.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e0230>: Failed to resolve 'intuit.com%0a' ([Errno -2] Name or service not known)"))
 [kaspersky.com
-] HTTPSConnectionPool(host='kaspersky.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4deb40>: Failed to resolve 'kaspersky.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='kaspersky.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bae70>: Failed to resolve 'kaspersky.com%0a' ([Errno -2] Name or service not known)"))
 [l-msedge.net
-] HTTPSConnectionPool(host='l-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b68a0>: Failed to resolve 'l-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='l-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3470>: Failed to resolve 'l-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [lencr.org
-] HTTPSConnectionPool(host='lencr.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd0a0>: Failed to resolve 'lencr.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='lencr.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1eb0>: Failed to resolve 'lencr.org%0a' ([Errno -2] Name or service not known)"))
 [linkedin.com
-] HTTPSConnectionPool(host='linkedin.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dddf0>: Failed to resolve 'linkedin.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='linkedin.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6960>: Failed to resolve 'linkedin.com%0a' ([Errno -2] Name or service not known)"))
 [live.com
-] HTTPSConnectionPool(host='live.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1160>: Failed to resolve 'live.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='live.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2b70>: Failed to resolve 'live.com%0a' ([Errno -2] Name or service not known)"))
 [macromedia.com
-] HTTPSConnectionPool(host='macromedia.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dea50>: Failed to resolve 'macromedia.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='macromedia.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3530>: Failed to resolve 'macromedia.com%0a' ([Errno -2] Name or service not known)"))
 [mail.ru
-] HTTPSConnectionPool(host='mail.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd100>: Failed to resolve 'mail.ru%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='mail.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6e70>: Failed to resolve 'mail.ru%0a' ([Errno -2] Name or service not known)"))
 [mangosip.ru
-] HTTPSConnectionPool(host='mangosip.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3410>: Failed to resolve 'mangosip.ru%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='mangosip.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2900>: Failed to resolve 'mangosip.ru%0a' ([Errno -2] Name or service not known)"))
 [mcafee.com
-] HTTPSConnectionPool(host='mcafee.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de4b0>: Failed to resolve 'mcafee.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='mcafee.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e19a0>: Failed to resolve 'mcafee.com%0a' ([Errno -2] Name or service not known)"))
 [medium.com
-] HTTPSConnectionPool(host='medium.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dcf20>: Failed to resolve 'medium.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='medium.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4ad0>: Failed to resolve 'medium.com%0a' ([Errno -2] Name or service not known)"))
 [meraki.com
-] HTTPSConnectionPool(host='meraki.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f25d0>: Failed to resolve 'meraki.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='meraki.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3680>: Failed to resolve 'meraki.com%0a' ([Errno -2] Name or service not known)"))
 [microsoft.com
-] HTTPSConnectionPool(host='microsoft.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df3b0>: Failed to resolve 'microsoft.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='microsoft.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e24e0>: Failed to resolve 'microsoft.com%0a' ([Errno -2] Name or service not known)"))
 [microsoftonline.com
-] HTTPSConnectionPool(host='microsoftonline.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dee10>: Failed to resolve 'microsoftonline.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='microsoftonline.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5d60>: Failed to resolve 'microsoftonline.com%0a' ([Errno -2] Name or service not known)"))
 [miit.gov.cn
-] HTTPSConnectionPool(host='miit.gov.cn%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f1790>: Failed to resolve 'miit.gov.cn%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='miit.gov.cn%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e22d0>: Failed to resolve 'miit.gov.cn%0a' ([Errno -2] Name or service not known)"))
 [mozilla.org
-] HTTPSConnectionPool(host='mozilla.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dec90>: Failed to resolve 'mozilla.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='mozilla.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3410>: Failed to resolve 'mozilla.org%0a' ([Errno -2] Name or service not known)"))
 [msedge.net
-] HTTPSConnectionPool(host='msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de570>: Failed to resolve 'msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03aaa89e0>: Failed to resolve 'msedge.net%0a' ([Errno -2] Name or service not known)"))
 [msftncsi.com
-] HTTPSConnectionPool(host='msftncsi.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a76c7d0>: Failed to resolve 'msftncsi.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='msftncsi.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3e30>: Failed to resolve 'msftncsi.com%0a' ([Errno -2] Name or service not known)"))
 [msn.com
-] HTTPSConnectionPool(host='msn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df470>: Failed to resolve 'msn.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='msn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e23f0>: Failed to resolve 'msn.com%0a' ([Errno -2] Name or service not known)"))
 [mzstatic.com
-] HTTPSConnectionPool(host='mzstatic.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df3e0>: Failed to resolve 'mzstatic.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='mzstatic.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03adf3590>: Failed to resolve 'mzstatic.com%0a' ([Errno -2] Name or service not known)"))
 [netflix.com
-] HTTPSConnectionPool(host='netflix.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a90f830>: Failed to resolve 'netflix.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='netflix.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2900>: Failed to resolve 'netflix.com%0a' ([Errno -2] Name or service not known)"))
 [netflix.net
-] HTTPSConnectionPool(host='netflix.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de1e0>: Failed to resolve 'netflix.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='netflix.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1f40>: Failed to resolve 'netflix.net%0a' ([Errno -2] Name or service not known)"))
 [nflxso.net
-] HTTPSConnectionPool(host='nflxso.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4def90>: Failed to resolve 'nflxso.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='nflxso.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b93a0>: Failed to resolve 'nflxso.net%0a' ([Errno -2] Name or service not known)"))
 [nic.ru
-] HTTPSConnectionPool(host='nic.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b59d0>: Failed to resolve 'nic.ru%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='nic.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3d10>: Failed to resolve 'nic.ru%0a' ([Errno -2] Name or service not known)"))
 [nih.gov
-] HTTPSConnectionPool(host='nih.gov%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dc4a0>: Failed to resolve 'nih.gov%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='nih.gov%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3260>: Failed to resolve 'nih.gov%0a' ([Errno -2] Name or service not known)"))
 [nr-data.net
-] HTTPSConnectionPool(host='nr-data.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de300>: Failed to resolve 'nr-data.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='nr-data.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b98e0>: Failed to resolve 'nr-data.net%0a' ([Errno -2] Name or service not known)"))
 [ntp.org
-] HTTPSConnectionPool(host='ntp.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7500>: Failed to resolve 'ntp.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='ntp.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e15e0>: Failed to resolve 'ntp.org%0a' ([Errno -2] Name or service not known)"))
 [nytimes.com
-] HTTPSConnectionPool(host='nytimes.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dedb0>: Failed to resolve 'nytimes.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='nytimes.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e12b0>: Failed to resolve 'nytimes.com%0a' ([Errno -2] Name or service not known)"))
 [o365filtering.com
-] HTTPSConnectionPool(host='o365filtering.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de810>: Failed to resolve 'o365filtering.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='o365filtering.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb710>: Failed to resolve 'o365filtering.com%0a' ([Errno -2] Name or service not known)"))
 [office.com
-] HTTPSConnectionPool(host='office.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b69f0>: Failed to resolve 'office.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='office.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e0f50>: Failed to resolve 'office.com%0a' ([Errno -2] Name or service not known)"))
 [office.net
-] HTTPSConnectionPool(host='office.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd340>: Failed to resolve 'office.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='office.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1a30>: Failed to resolve 'office.net%0a' ([Errno -2] Name or service not known)"))
 [office365.com
-] HTTPSConnectionPool(host='office365.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de300>: Failed to resolve 'office365.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='office365.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb650>: Failed to resolve 'office365.com%0a' ([Errno -2] Name or service not known)"))
 [omtrdc.net
-] HTTPSConnectionPool(host='omtrdc.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b79e0>: Failed to resolve 'omtrdc.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='omtrdc.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5f10>: Failed to resolve 'omtrdc.net%0a' ([Errno -2] Name or service not known)"))
 [one.one
-] HTTPSConnectionPool(host='one.one%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9aca75f0>: Failed to resolve 'one.one%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='one.one%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2090>: Failed to resolve 'one.one%0a' ([Errno -2] Name or service not known)"))
 [opera.com
-] HTTPSConnectionPool(host='opera.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd490>: Failed to resolve 'opera.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='opera.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03ab3e600>: Failed to resolve 'opera.com%0a' ([Errno -2] Name or service not known)"))
 [outlook.com
-] HTTPSConnectionPool(host='outlook.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a78f6b0>: Failed to resolve 'outlook.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='outlook.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e06e0>: Failed to resolve 'outlook.com%0a' ([Errno -2] Name or service not known)"))
 [paypal.com
-] HTTPSConnectionPool(host='paypal.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dfd70>: Failed to resolve 'paypal.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='paypal.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e33b0>: Failed to resolve 'paypal.com%0a' ([Errno -2] Name or service not known)"))
 [pinterest.com
-] HTTPSConnectionPool(host='pinterest.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df950>: Failed to resolve 'pinterest.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='pinterest.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03baf1c40>: Failed to resolve 'pinterest.com%0a' ([Errno -2] Name or service not known)"))
 [pki.goog
-] HTTPSConnectionPool(host='pki.goog%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a7a9dc0>: Failed to resolve 'pki.goog%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='pki.goog%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8e00>: Failed to resolve 'pki.goog%0a' ([Errno -2] Name or service not known)"))
 [qq.com
-] HTTPSConnectionPool(host='qq.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b46b0>: Failed to resolve 'qq.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='qq.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9700>: Failed to resolve 'qq.com%0a' ([Errno -2] Name or service not known)"))
 [rbxcdn.com
-] HTTPSConnectionPool(host='rbxcdn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7470>: Failed to resolve 'rbxcdn.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='rbxcdn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8560>: Failed to resolve 'rbxcdn.com%0a' ([Errno -2] Name or service not known)"))
 [reddit.com
-] HTTPSConnectionPool(host='reddit.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b53d0>: Failed to resolve 'reddit.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='reddit.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9250>: Failed to resolve 'reddit.com%0a' ([Errno -2] Name or service not known)"))
 [registrar-servers.com
-] HTTPSConnectionPool(host='registrar-servers.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b55e0>: Failed to resolve 'registrar-servers.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='registrar-servers.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8fb0>: Failed to resolve 'registrar-servers.com%0a' ([Errno -2] Name or service not known)"))
 [roblox.com
-] HTTPSConnectionPool(host='roblox.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7260>: Failed to resolve 'roblox.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='roblox.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a9be1b0>: Failed to resolve 'roblox.com%0a' ([Errno -2] Name or service not known)"))
 [root-servers.net
-] HTTPSConnectionPool(host='root-servers.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a6c2ff0>: Failed to resolve 'root-servers.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='root-servers.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b88f0>: Failed to resolve 'root-servers.net%0a' ([Errno -2] Name or service not known)"))
 [rubiconproject.com
-] HTTPSConnectionPool(host='rubiconproject.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b40e0>: Failed to resolve 'rubiconproject.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='rubiconproject.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9910>: Failed to resolve 'rubiconproject.com%0a' ([Errno -2] Name or service not known)"))
 [s-msedge.net
-] HTTPSConnectionPool(host='s-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7cb0>: Failed to resolve 's-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='s-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2900>: Failed to resolve 's-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [salesforce.com
-] HTTPSConnectionPool(host='salesforce.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4de450>: Failed to resolve 'salesforce.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='salesforce.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b99d0>: Failed to resolve 'salesforce.com%0a' ([Errno -2] Name or service not known)"))
 [salesforceliveagent.com
-] HTTPSConnectionPool(host='salesforceliveagent.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7590>: Failed to resolve 'salesforceliveagent.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='salesforceliveagent.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8bc0>: Failed to resolve 'salesforceliveagent.com%0a' ([Errno -2] Name or service not known)"))
 [samsung.com
-] HTTPSConnectionPool(host='samsung.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b53a0>: Failed to resolve 'samsung.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='samsung.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e15e0>: Failed to resolve 'samsung.com%0a' ([Errno -2] Name or service not known)"))
 [sberdevices.ru
-] HTTPSConnectionPool(host='sberdevices.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd7f0>: Failed to resolve 'sberdevices.ru%0a' ([Errno -2] Name or service not known)"))
-[sciencedirect.com
-] HTTPSConnectionPool(host='sciencedirect.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b4b90>: Failed to resolve 'sciencedirect.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='sberdevices.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8440>: Failed to resolve 'sberdevices.ru%0a' ([Errno -2] Name or service not known)"))
 [sentry.io
-] HTTPSConnectionPool(host='sentry.io%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b6db0>: Failed to resolve 'sentry.io%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='sentry.io%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b80e0>: Failed to resolve 'sentry.io%0a' ([Errno -2] Name or service not known)"))
 [sharepoint.com
-] HTTPSConnectionPool(host='sharepoint.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dfa40>: Failed to resolve 'sharepoint.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='sharepoint.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1580>: Failed to resolve 'sharepoint.com%0a' ([Errno -2] Name or service not known)"))
 [shipt.com
-] HTTPSConnectionPool(host='shipt.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b41a0>: Failed to resolve 'shipt.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='shipt.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9820>: Failed to resolve 'shipt.com%0a' ([Errno -2] Name or service not known)"))
 [skype.com
-] HTTPSConnectionPool(host='skype.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7b60>: Failed to resolve 'skype.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='skype.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bbd10>: Failed to resolve 'skype.com%0a' ([Errno -2] Name or service not known)"))
 [slack.com
-] HTTPSConnectionPool(host='slack.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dff20>: Failed to resolve 'slack.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='slack.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2960>: Failed to resolve 'slack.com%0a' ([Errno -2] Name or service not known)"))
 [snapchat.com
-] HTTPSConnectionPool(host='snapchat.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a87c9e0>: Failed to resolve 'snapchat.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='snapchat.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9b50>: Failed to resolve 'snapchat.com%0a' ([Errno -2] Name or service not known)"))
 [soundcloud.com
-] HTTPSConnectionPool(host='soundcloud.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7560>: Failed to resolve 'soundcloud.com%0a' ([Errno -2] Name or service not known)"))
-[sourceforge.net
-] HTTPSConnectionPool(host='sourceforge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f16d0>: Failed to resolve 'sourceforge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='soundcloud.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7ba7e0>: Failed to resolve 'soundcloud.com%0a' ([Errno -2] Name or service not known)"))
 [spo-msedge.net
-] HTTPSConnectionPool(host='spo-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b4ec0>: Failed to resolve 'spo-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='spo-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03aaa89e0>: Failed to resolve 'spo-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [spotify.com
-] HTTPSConnectionPool(host='spotify.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b78f0>: Failed to resolve 'spotify.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='spotify.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bacc0>: Failed to resolve 'spotify.com%0a' ([Errno -2] Name or service not known)"))
+[t-mobile.com
+] HTTPSConnectionPool(host='t-mobile.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bbd40>: Failed to resolve 't-mobile.com%0a' ([Errno -2] Name or service not known)"))
 [t-msedge.net
-] HTTPSConnectionPool(host='t-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f16d0>: Failed to resolve 't-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='t-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03b1330b0>: Failed to resolve 't-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [t.co
-] HTTPSConnectionPool(host='t.co%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a90f830>: Failed to resolve 't.co%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='t.co%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03bfe0e00>: Failed to resolve 't.co%0a' ([Errno -2] Name or service not known)"))
 [t.me
-] HTTPSConnectionPool(host='t.me%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b4ad0>: Failed to resolve 't.me%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='t.me%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9b20>: Failed to resolve 't.me%0a' ([Errno -2] Name or service not known)"))
 [taboola.com
-] HTTPSConnectionPool(host='taboola.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2210>: Failed to resolve 'taboola.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='taboola.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f53d0>: Failed to resolve 'taboola.com%0a' ([Errno -2] Name or service not known)"))
 [tds.net
-] HTTPSConnectionPool(host='tds.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7530>: Failed to resolve 'tds.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='tds.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7ba750>: Failed to resolve 'tds.net%0a' ([Errno -2] Name or service not known)"))
 [theguardian.com
-] HTTPSConnectionPool(host='theguardian.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b5430>: Failed to resolve 'theguardian.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='theguardian.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b9640>: Failed to resolve 'theguardian.com%0a' ([Errno -2] Name or service not known)"))
 [tiktok.com
-] HTTPSConnectionPool(host='tiktok.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3800>: Failed to resolve 'tiktok.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='tiktok.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5370>: Failed to resolve 'tiktok.com%0a' ([Errno -2] Name or service not known)"))
 [tiktokcdn-us.com
-] HTTPSConnectionPool(host='tiktokcdn-us.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4ddc40>: Failed to resolve 'tiktokcdn-us.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='tiktokcdn-us.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2000>: Failed to resolve 'tiktokcdn-us.com%0a' ([Errno -2] Name or service not known)"))
 [tiktokcdn.com
-] HTTPSConnectionPool(host='tiktokcdn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b7c80>: Failed to resolve 'tiktokcdn.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='tiktokcdn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7b8ce0>: Failed to resolve 'tiktokcdn.com%0a' ([Errno -2] Name or service not known)"))
 [tiktokv.com
-] HTTPSConnectionPool(host='tiktokv.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9b531400>: Failed to resolve 'tiktokv.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='tiktokv.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03b979b50>: Failed to resolve 'tiktokv.com%0a' ([Errno -2] Name or service not known)"))
 [trafficmanager.net
-] HTTPSConnectionPool(host='trafficmanager.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b6690>: Failed to resolve 'trafficmanager.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='trafficmanager.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bb4a0>: Failed to resolve 'trafficmanager.net%0a' ([Errno -2] Name or service not known)"))
 [trbcdn.net
-] HTTPSConnectionPool(host='trbcdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4b49b0>: Failed to resolve 'trbcdn.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='trbcdn.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7bbc20>: Failed to resolve 'trbcdn.net%0a' ([Errno -2] Name or service not known)"))
 [ttlivecdn.com
-] HTTPSConnectionPool(host='ttlivecdn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a2f9010>: Failed to resolve 'ttlivecdn.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='ttlivecdn.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5370>: Failed to resolve 'ttlivecdn.com%0a' ([Errno -2] Name or service not known)"))
 [tumblr.com
-] HTTPSConnectionPool(host='tumblr.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f18e0>: Failed to resolve 'tumblr.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='tumblr.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5670>: Failed to resolve 'tumblr.com%0a' ([Errno -2] Name or service not known)"))
 [twitter.com
-] HTTPSConnectionPool(host='twitter.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3aa0>: Failed to resolve 'twitter.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='twitter.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4b00>: Failed to resolve 'twitter.com%0a' ([Errno -2] Name or service not known)"))
 [ui.com
-] HTTPSConnectionPool(host='ui.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dd370>: Failed to resolve 'ui.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='ui.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3d40>: Failed to resolve 'ui.com%0a' ([Errno -2] Name or service not known)"))
 [unity3d.com
-] HTTPSConnectionPool(host='unity3d.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3920>: Failed to resolve 'unity3d.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='unity3d.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f69f0>: Failed to resolve 'unity3d.com%0a' ([Errno -2] Name or service not known)"))
 [vimeo.com
-] HTTPSConnectionPool(host='vimeo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2450>: Failed to resolve 'vimeo.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='vimeo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7470>: Failed to resolve 'vimeo.com%0a' ([Errno -2] Name or service not known)"))
 [vk.com
-] HTTPSConnectionPool(host='vk.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3fe0>: Failed to resolve 'vk.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='vk.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5730>: Failed to resolve 'vk.com%0a' ([Errno -2] Name or service not known)"))
 [w3.org
-] HTTPSConnectionPool(host='w3.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f0e00>: Failed to resolve 'w3.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='w3.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6c00>: Failed to resolve 'w3.org%0a' ([Errno -2] Name or service not known)"))
 [wa.me
-] HTTPSConnectionPool(host='wa.me%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dcf20>: Failed to resolve 'wa.me%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='wa.me%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e10a0>: Failed to resolve 'wa.me%0a' ([Errno -2] Name or service not known)"))
 [wac-msedge.net
-] HTTPSConnectionPool(host='wac-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2840>: Failed to resolve 'wac-msedge.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='wac-msedge.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6780>: Failed to resolve 'wac-msedge.net%0a' ([Errno -2] Name or service not known)"))
 [webex.com
-] HTTPSConnectionPool(host='webex.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f38c0>: Failed to resolve 'webex.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='webex.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7650>: Failed to resolve 'webex.com%0a' ([Errno -2] Name or service not known)"))
 [whatsapp.com
-] HTTPSConnectionPool(host='whatsapp.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df800>: Failed to resolve 'whatsapp.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='whatsapp.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2390>: Failed to resolve 'whatsapp.com%0a' ([Errno -2] Name or service not known)"))
 [whatsapp.net
-] HTTPSConnectionPool(host='whatsapp.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2420>: Failed to resolve 'whatsapp.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='whatsapp.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6e70>: Failed to resolve 'whatsapp.net%0a' ([Errno -2] Name or service not known)"))
 [wikipedia.org
-] HTTPSConnectionPool(host='wikipedia.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f3590>: Failed to resolve 'wikipedia.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='wikipedia.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f4e60>: Failed to resolve 'wikipedia.org%0a' ([Errno -2] Name or service not known)"))
 [windows.com
-] HTTPSConnectionPool(host='windows.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dde50>: Failed to resolve 'windows.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='windows.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2c00>: Failed to resolve 'windows.com%0a' ([Errno -2] Name or service not known)"))
 [windows.net
-] HTTPSConnectionPool(host='windows.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f14f0>: Failed to resolve 'windows.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='windows.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5af0>: Failed to resolve 'windows.net%0a' ([Errno -2] Name or service not known)"))
 [windowsupdate.com
-] HTTPSConnectionPool(host='windowsupdate.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2c30>: Failed to resolve 'windowsupdate.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='windowsupdate.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7ad0>: Failed to resolve 'windowsupdate.com%0a' ([Errno -2] Name or service not known)"))
 [wordpress.com
-] HTTPSConnectionPool(host='wordpress.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df6e0>: Failed to resolve 'wordpress.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='wordpress.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e2b40>: Failed to resolve 'wordpress.com%0a' ([Errno -2] Name or service not known)"))
 [wordpress.org
-] HTTPSConnectionPool(host='wordpress.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2780>: Failed to resolve 'wordpress.org%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='wordpress.org%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6a20>: Failed to resolve 'wordpress.org%0a' ([Errno -2] Name or service not known)"))
 [worldfcdn2.com
-] HTTPSConnectionPool(host='worldfcdn2.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a87e750>: Failed to resolve 'worldfcdn2.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='worldfcdn2.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03b1cb860>: Failed to resolve 'worldfcdn2.com%0a' ([Errno -2] Name or service not known)"))
 [wsdvs.com
-] HTTPSConnectionPool(host='wsdvs.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dc080>: Failed to resolve 'wsdvs.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='wsdvs.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e07a0>: Failed to resolve 'wsdvs.com%0a' ([Errno -2] Name or service not known)"))
 [xiaomi.com
-] HTTPSConnectionPool(host='xiaomi.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f0e30>: Failed to resolve 'xiaomi.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='xiaomi.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f6b10>: Failed to resolve 'xiaomi.com%0a' ([Errno -2] Name or service not known)"))
 [yahoo.com
-] HTTPSConnectionPool(host='yahoo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dfda0>: Failed to resolve 'yahoo.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='yahoo.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e19d0>: Failed to resolve 'yahoo.com%0a' ([Errno -2] Name or service not known)"))
 [yandex.net
-] HTTPSConnectionPool(host='yandex.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dcc20>: Failed to resolve 'yandex.net%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='yandex.net%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e36b0>: Failed to resolve 'yandex.net%0a' ([Errno -2] Name or service not known)"))
 [yandex.ru
-] HTTPSConnectionPool(host='yandex.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2390>: Failed to resolve 'yandex.ru%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='yandex.ru%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f5880>: Failed to resolve 'yandex.ru%0a' ([Errno -2] Name or service not known)"))
 [youtu.be
-] HTTPSConnectionPool(host='youtu.be%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4dc770>: Failed to resolve 'youtu.be%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='youtu.be%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e1b20>: Failed to resolve 'youtu.be%0a' ([Errno -2] Name or service not known)"))
 [youtube.com
-] HTTPSConnectionPool(host='youtube.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a7a8fe0>: Failed to resolve 'youtube.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='youtube.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f62a0>: Failed to resolve 'youtube.com%0a' ([Errno -2] Name or service not known)"))
 [ytimg.com
-] HTTPSConnectionPool(host='ytimg.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e962f2b10>: Failed to resolve 'ytimg.com%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='ytimg.com%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0365f7c80>: Failed to resolve 'ytimg.com%0a' ([Errno -2] Name or service not known)"))
 [zoom.us
-] HTTPSConnectionPool(host='zoom.us%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e9a4df9e0>: Failed to resolve 'zoom.us%0a' ([Errno -2] Name or service not known)"))
+] HTTPSConnectionPool(host='zoom.us%0a', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc03a7e3290>: Failed to resolve 'zoom.us%0a' ([Errno -2] Name or service not known)"))
