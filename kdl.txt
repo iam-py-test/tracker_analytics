@@ -2118,3 +2118,11 @@ thirdpartyfallback-mnz22r6b.trafficmanager.net
 thirdpartyfallback-edge-prod-mnz22r6a.trafficmanager.net
 33fa1ur95-ns61mhyrl.sentry.dev
 file-paa.zoomdev.us
+e10583.dspg.akamaiedge.net
+assets.onestore.ms
+a1778.g2.akamai.net
+statics-marketingsites-wcus-ms-com.akamaized.net
+ajax.aspnetcdn.com
+e13678.dscg.akamaiedge.net
+33fa1ur95-msdn07ak0.sentry.dev
+onedscolprdaue01.australiaeast.cloudapp.azure.com
