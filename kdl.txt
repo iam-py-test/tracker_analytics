@@ -2126,3 +2126,5 @@ ajax.aspnetcdn.com
 e13678.dscg.akamaiedge.net
 33fa1ur95-msdn07ak0.sentry.dev
 onedscolprdaue01.australiaeast.cloudapp.azure.com
+dual-a-0034.a-msedge.net
+33fa1ur95-nk867wc2i.sentry.dev
