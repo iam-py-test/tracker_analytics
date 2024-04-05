@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-133 domains tested <br>
-Failed to test 67 domains <br>
-54 of the domains tested used known trackers <br>
+134 domains tested <br>
+Failed to test 66 domains <br>
+55 of the domains tested used known trackers <br>
 128 of the domains tested supported HTTPS <br>
 
 
@@ -175,6 +175,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
 Response encoding: utf-8 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### creativecommons.org
@@ -376,7 +383,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -592,8 +599,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -968,7 +975,7 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
