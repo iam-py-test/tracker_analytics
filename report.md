@@ -114,13 +114,6 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### bbc.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
-
-
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -551,7 +544,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -632,6 +625,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### ring.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 7 <br>
+Response encoding: utf-8 <br>
+
+
 #### roblox.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -657,7 +657,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sberdevices.ru
@@ -754,7 +754,7 @@ Response encoding: utf-8 <br>
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 146 <br>
+Number of trackers detected: 147 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -951,7 +951,7 @@ Response encoding: utf-8 <br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`cdn.optimizely.com`: 7<br>
+`cdn.optimizely.com`: 9<br>
 `www.googletagmanager.com`: 27<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -967,7 +967,7 @@ Response encoding: utf-8 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 205<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
@@ -981,6 +981,10 @@ Response encoding: utf-8 <br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
+`services.xg4ken.com`: 1<br>
+`events.xg4ken.com`: 1<br>
+`s.amazon-adsystem.com`: 1<br>
+`bs.serving-sys.com`: 1<br>
 `cdn.krxd.net`: 2<br>
 `dpm.demdex.net`: 2<br>
 `salesforce.us-1.evergage.com`: 2<br>
@@ -989,7 +993,7 @@ Response encoding: utf-8 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 15<br>
-`taboola.com`: 104<br>
+`taboola.com`: 105<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
