@@ -2146,3 +2146,5 @@ s.amazon-adsystem.com
 adserver-prod-alb-447056987.us-east-2.elb.amazonaws.com
 bs.serving-sys.com
 onedscolprdcus18.centralus.cloudapp.azure.com
+external-usw1-kproxy-1-1404359753.us-west-1.elb.amazonaws.com
+33fa1ur95-c8yy51ceg.sentry.dev
