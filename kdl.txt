@@ -2148,3 +2148,6 @@ bs.serving-sys.com
 onedscolprdcus18.centralus.cloudapp.azure.com
 external-usw1-kproxy-1-1404359753.us-west-1.elb.amazonaws.com
 33fa1ur95-c8yy51ceg.sentry.dev
+33fa1ur95-dkrcyhbey.sentry.dev
+js-cdn.dynatrace.com
+onedscolprdwus22.westus.cloudapp.azure.com

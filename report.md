@@ -114,6 +114,13 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### bbc.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
+
+
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -285,7 +292,7 @@ Response encoding: utf-8 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -664,7 +671,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sberdevices.ru
@@ -763,13 +770,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 147 <br>
 Response encoding: UTF-8 <br>
-
-
-#### tds.net
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
 
 
 #### theguardian.com
@@ -958,7 +958,7 @@ Response encoding: utf-8 <br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`cdn.optimizely.com`: 9<br>
+`cdn.optimizely.com`: 10<br>
 `www.googletagmanager.com`: 27<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -978,7 +978,6 @@ Response encoding: utf-8 <br>
 `criteo.com`: 205<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
-`dev.visualwebsiteoptimizer.com`: 2<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
@@ -1002,6 +1001,6 @@ Response encoding: utf-8 <br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 15<br>
 `taboola.com`: 105<br>
+`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
-`cdn.taboola.com`: 1<br>
 `geo.yahoo.com`: 2<br>
