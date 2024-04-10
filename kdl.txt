@@ -2151,3 +2151,5 @@ external-usw1-kproxy-1-1404359753.us-west-1.elb.amazonaws.com
 33fa1ur95-dkrcyhbey.sentry.dev
 js-cdn.dynatrace.com
 onedscolprdwus22.westus.cloudapp.azure.com
+dual-a-0034.dc-msedge.net
+33fa1ur95-l93hxfiw1.sentry.dev
