@@ -2161,3 +2161,8 @@ nginx.org
 onedscolprdgwc03.germanywestcentral.cloudapp.azure.com
 33fa1ur95-i8aegaqbj.sentry.dev
 33fa1ur95-dn2z07yfg.sentry.dev
+nz.pinterest.com
+pt.pinterest.com
+se.pinterest.com
+33fa1ur95-g0scdtv7b.sentry.dev
+onedscolprdjpe00.japaneast.cloudapp.azure.com

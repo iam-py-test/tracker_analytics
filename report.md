@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 65 domains <br>
-56 of the domains tested used known trackers <br>
+57 of the domains tested used known trackers <br>
 129 of the domains tested supported HTTPS <br>
 
 
@@ -613,8 +613,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -678,7 +678,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sberdevices.ru
@@ -762,13 +762,13 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 147 <br>
+Number of trackers detected: 146 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -1001,7 +1001,7 @@ Response encoding: utf-8 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 15<br>
-`taboola.com`: 105<br>
+`taboola.com`: 104<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `geo.yahoo.com`: 2<br>
