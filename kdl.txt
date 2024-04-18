@@ -2166,3 +2166,6 @@ pt.pinterest.com
 se.pinterest.com
 33fa1ur95-g0scdtv7b.sentry.dev
 onedscolprdjpe00.japaneast.cloudapp.azure.com
+www.sentry.dev
+e116668.a.akamaiedge.net
+cdn.tmobile.com
