@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 65 domains <br>
-56 of the domains tested used known trackers <br>
+54 of the domains tested used known trackers <br>
 129 of the domains tested supported HTTPS <br>
 
 
@@ -198,6 +198,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### discord.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### dns.google
 HTTPS: True <br>
 Known trackers: False <br>
@@ -376,7 +383,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 23 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -613,8 +620,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -661,13 +668,6 @@ Response encoding: utf-8 <br>
 
 
 #### salesforce.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 5 <br>
-Response encoding: utf-8 <br>
-
-
-#### salesforceliveagent.com
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 5 <br>
@@ -959,7 +959,7 @@ Response encoding: utf-8 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 9<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 27<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -981,8 +981,8 @@ Response encoding: utf-8 <br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 6<br>
-`googlesyndication.com`: 22<br>
+`www.google-analytics.com`: 5<br>
+`googlesyndication.com`: 23<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
 `hpww.tt.omtrdc.net`: 1<br>
@@ -993,9 +993,9 @@ Response encoding: utf-8 <br>
 `events.xg4ken.com`: 1<br>
 `s.amazon-adsystem.com`: 1<br>
 `bs.serving-sys.com`: 1<br>
-`cdn.krxd.net`: 2<br>
-`dpm.demdex.net`: 2<br>
-`salesforce.us-1.evergage.com`: 2<br>
+`cdn.krxd.net`: 1<br>
+`dpm.demdex.net`: 1<br>
+`salesforce.us-1.evergage.com`: 1<br>
 `reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
