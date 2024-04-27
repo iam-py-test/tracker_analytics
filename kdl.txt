@@ -2169,3 +2169,4 @@ onedscolprdjpe00.japaneast.cloudapp.azure.com
 www.sentry.dev
 e116668.a.akamaiedge.net
 cdn.tmobile.com
+onedscolprdwus20.westus.cloudapp.azure.com
