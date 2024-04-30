@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
-53 of the domains tested used known trackers <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+54 of the domains tested used known trackers <br>
 129 of the domains tested supported HTTPS <br>
 
 
@@ -168,6 +168,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 31 <br>
 Response encoding: utf-8 <br>
+
+
+#### comcast.net
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### creativecommons.org
@@ -613,15 +620,15 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
 #### pki.goog
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 4 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -952,7 +959,7 @@ Response encoding: utf-8 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 9<br>
-`www.googletagmanager.com`: 26<br>
+`www.googletagmanager.com`: 27<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>

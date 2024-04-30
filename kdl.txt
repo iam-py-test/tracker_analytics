@@ -2171,3 +2171,4 @@ e116668.a.akamaiedge.net
 cdn.tmobile.com
 onedscolprdwus20.westus.cloudapp.azure.com
 onedscolprdcus22.centralus.cloudapp.azure.com
+StATIC.cdn-one.com
