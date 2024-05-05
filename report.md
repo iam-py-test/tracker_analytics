@@ -1,12 +1,19 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 66 domains <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
 55 of the domains tested used known trackers <br>
-128 of the domains tested supported HTTPS <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
+
+
+#### adobe.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### adobe.io
