@@ -2182,3 +2182,8 @@ onedscolprdeus23.eastus.cloudapp.azure.com
 cdn.jsdelivr.net.cdn.cloudflare.net
 d2xqr2nqz3178h.cloudfront.net
 webtools.europa.eu
+elisa.fi
+static.elisa.fi
+gtm.elisa.fi
+static.elisa.com
+onedscolprdwus23.westus.cloudapp.azure.com
