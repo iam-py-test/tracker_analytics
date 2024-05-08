@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-136 domains tested <br>
-Failed to test 64 domains <br>
-55 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+135 domains tested <br>
+Failed to test 65 domains <br>
+54 of the domains tested used known trackers <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -187,7 +187,7 @@ Response encoding: UTF-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 283 <br>
+Number of trackers detected: 285 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -383,7 +383,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -426,13 +426,6 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
-
-
-#### hp.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -966,7 +959,7 @@ Response encoding: utf-8 <br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 9<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 27<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -983,16 +976,15 @@ Response encoding: utf-8 <br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 205<br>
-`www.criteo.com`: 77<br>
+`www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
-`hpww.tt.omtrdc.net`: 1<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
