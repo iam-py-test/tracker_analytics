@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-135 domains tested <br>
-Failed to test 65 domains <br>
-54 of the domains tested used known trackers <br>
-129 of the domains tested supported HTTPS <br>
+137 domains tested <br>
+Failed to test 63 domains <br>
+55 of the domains tested used known trackers <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -112,6 +112,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### bbc.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### bing.com
@@ -373,6 +380,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### googleblog.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
+
+
 #### googledomains.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -620,8 +634,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -754,7 +768,7 @@ Response encoding: utf-8 <br>
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 15 <br>
+Number of trackers detected: 10 <br>
 Response encoding: utf-8 <br>
 
 
@@ -958,8 +972,8 @@ Response encoding: utf-8 <br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`cdn.optimizely.com`: 9<br>
-`www.googletagmanager.com`: 27<br>
+`cdn.optimizely.com`: 10<br>
+`www.googletagmanager.com`: 28<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -1000,7 +1014,7 @@ Response encoding: utf-8 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 15<br>
+`t.co`: 10<br>
 `taboola.com`: 105<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
