@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 63 domains <br>
-55 of the domains tested used known trackers <br>
+56 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -226,6 +226,13 @@ Number of trackers detected: 93 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### doubleverify.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 197 <br>
+Response encoding: UTF-8 <br>
+
+
 #### dropbox.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -378,13 +385,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
-
-
-#### googleblog.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
 
 
 #### googledomains.com
@@ -634,8 +634,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -768,7 +768,7 @@ Response encoding: utf-8 <br>
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 10 <br>
+Number of trackers detected: 15 <br>
 Response encoding: utf-8 <br>
 
 
@@ -992,13 +992,14 @@ Response encoding: utf-8 <br>
 `criteo.com`: 205<br>
 `www.criteo.com`: 79<br>
 `doubleclick.net`: 91<br>
+`doubleverify.com`: 193<br>
+`stats.wp.com`: 7<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `script.crazyegg.com`: 1<br>
@@ -1014,7 +1015,7 @@ Response encoding: utf-8 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 10<br>
+`t.co`: 15<br>
 `taboola.com`: 105<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
