@@ -2189,3 +2189,7 @@ static.elisa.com
 onedscolprdwus23.westus.cloudapp.azure.com
 prod--dispatcher-0--digicert.cordtools.prod.blu.digicert.com
 app-analytics-services.com
+ftp.creativecommons.org
+onedscolprdneu15.northeurope.cloudapp.azure.com
+cdn.t.sanity.io
+us01ccistatic.zoom.us
