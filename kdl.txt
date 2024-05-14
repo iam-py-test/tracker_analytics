@@ -2193,3 +2193,5 @@ ftp.creativecommons.org
 onedscolprdneu15.northeurope.cloudapp.azure.com
 cdn.t.sanity.io
 us01ccistatic.zoom.us
+edge-term4-ord2.roblox.com
+onedscolprdcus23.centralus.cloudapp.azure.com
