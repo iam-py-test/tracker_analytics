@@ -2195,3 +2195,5 @@ cdn.t.sanity.io
 us01ccistatic.zoom.us
 edge-term4-ord2.roblox.com
 onedscolprdcus23.centralus.cloudapp.azure.com
+edge-term4-atl1.roblox.com
+onedscolprdneu06.northeurope.cloudapp.azure.com
