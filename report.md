@@ -135,13 +135,6 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### bbc.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
-
-
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -397,7 +390,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -641,8 +634,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -842,6 +835,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### userapi.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### vimeo.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -980,7 +980,7 @@ Response encoding: utf-8 <br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`cdn.optimizely.com`: 10<br>
+`cdn.optimizely.com`: 9<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -1004,7 +1004,7 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>

@@ -2208,3 +2208,4 @@ kstatic.googleusercontent.com
 tpop-api.x.com
 edge-term4-sea1.roblox.com
 www2.criteo.com
+media.guim.co.uk
