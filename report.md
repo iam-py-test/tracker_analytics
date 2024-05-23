@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 138 domains tested <br>
 Failed to test 62 domains <br>
-57 of the domains tested used known trackers <br>
+56 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -390,7 +390,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 21 <br>
+Number of trackers detected: 22 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -586,7 +586,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -634,8 +634,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -995,7 +995,7 @@ Response encoding: utf-8 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 206<br>
 `www.criteo.com`: 83<br>
 `www2.criteo.com`: 1<br>
@@ -1004,7 +1004,7 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 21<br>
+`googlesyndication.com`: 22<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
