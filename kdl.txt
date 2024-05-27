@@ -2216,3 +2216,6 @@ onedscolprdeus18.eastus.cloudapp.azure.com
 s-part-0013.t-0009.t-msedge.net
 s-part-0012.t-0009.t-msedge.net
 edge-term4-mia4.roblox.com
+s-part-0012.t-0009.fb-t-msedge.net
+STATIC.cdn-one.com
+edge-term4-iad4.roblox.com
