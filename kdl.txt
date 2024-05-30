@@ -2219,3 +2219,14 @@ edge-term4-mia4.roblox.com
 s-part-0012.t-0009.fb-t-msedge.net
 STATIC.cdn-one.com
 edge-term4-iad4.roblox.com
+d1ge0kk1l5kms0.cloudfront.net
+g-ecx.images-amazon.com
+e212895.x.akamaiedge.net
+d.oracleinfinity.io
+www.pinterest.ca
+cl.pinterest.com
+kr.pinterest.com
+www.pinterest.com.mx
+onedscolprdeus21.eastus.cloudapp.azure.com
+seeded-session-images.scdn.co
+charts-images.scdn.co
