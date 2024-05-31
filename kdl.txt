@@ -2230,3 +2230,11 @@ www.pinterest.com.mx
 onedscolprdeus21.eastus.cloudapp.azure.com
 seeded-session-images.scdn.co
 charts-images.scdn.co
+s-part-0043.t-0009.t-msedge.net
+twitch.map.fastly.net
+www.twitch.tv
+m.twitch.tv
+assets.twitch.tv
+h2.twitch.map.fastly.net
+d186rixkn5ruba.cloudfront.net
+d1v8493p60f7at.cloudfront.net
