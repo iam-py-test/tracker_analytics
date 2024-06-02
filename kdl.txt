@@ -2238,3 +2238,4 @@ assets.twitch.tv
 h2.twitch.map.fastly.net
 d186rixkn5ruba.cloudfront.net
 d1v8493p60f7at.cloudfront.net
+s-part-0023.t-0009.t-msedge.net
