@@ -2257,3 +2257,4 @@ www.kaspersky.com.hk
 multisite3.geo.kaspersky.COM
 www.kaspersky.com.tw
 id.kaspersky.com
+onedscolprdneu12.northeurope.cloudapp.azure.com

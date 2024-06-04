@@ -236,7 +236,7 @@ Response encoding: ISO-8859-1 <br>
 #### doubleverify.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 197 <br>
+Number of trackers detected: 198 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -1014,7 +1014,7 @@ Response encoding: utf-8 <br>
 `www.criteo.com`: 83<br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
-`doubleverify.com`: 193<br>
+`doubleverify.com`: 194<br>
 `stats.wp.com`: 7<br>
 `sdk.sharethrough.com`: 1<br>
 `google-analytics.com`: 77<br>
