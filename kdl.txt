@@ -2261,3 +2261,4 @@ onedscolprdneu12.northeurope.cloudapp.azure.com
 s-part-0013.t-0009.fb-t-msedge.net
 downloads.ctfassets.net
 StaTic.cdn-one.com
+onedscolprdjpe02.japaneast.cloudapp.azure.com
