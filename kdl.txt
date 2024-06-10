@@ -2262,3 +2262,5 @@ s-part-0013.t-0009.fb-t-msedge.net
 downloads.ctfassets.net
 StaTic.cdn-one.com
 onedscolprdjpe02.japaneast.cloudapp.azure.com
+onedscolprdeus22.eastus.cloudapp.azure.com
+cdn.i.sanity.io
