@@ -2264,3 +2264,5 @@ StaTic.cdn-one.com
 onedscolprdjpe02.japaneast.cloudapp.azure.com
 onedscolprdeus22.eastus.cloudapp.azure.com
 cdn.i.sanity.io
+d2w650xp5tniea.cloudfront.net
+onedscolprdweu09.westeurope.cloudapp.azure.com
