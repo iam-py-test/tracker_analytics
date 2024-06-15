@@ -39,6 +39,8 @@ script_with_hitcounter_in_url = re.compile("https?://[a-zA-Z./]*hitcount[a-zA-Z.
 script_with_ad_targeting_in_url = re.compile("https?://[a-zA-Z./]*ad-target[a-zA-Z./]*\.js")
 dnsr = dns.resolver.Resolver()
 
+cname_cache = {}
+
 errlog = open("err.log",'w')
 
 try:
@@ -61,8 +63,11 @@ def hasHTTPS(domain):
 		return False
 	else:
 		return True
-def get_cname(domain):
+def get_cname(domain, onfail=0): # 0=return domain, 1=return None
 	global known_domains_list
+	global cname_cache
+	if domain in cname_cache:
+		return cname_cache[domain]
 	try:
 		response = dnsr.resolve(domain)
 		cname = response.canonical_name.to_text()
@@ -70,9 +75,14 @@ def get_cname(domain):
 			cname = cname[:-1]
 		if cname not in known_domains_list:
 			known_domains_list.append(cname)
+		cname_cache[domain] = cname
 		return cname
 	except:
-		return domain
+		if onfail == 0:
+			return domain
+		else:
+			return None
+
 def hastrackers(html,d=""):
 	global trackers_found_obj
 	global known_domains_list
@@ -198,6 +208,12 @@ for domain in latest_top:
 		failedtoscan += 1
 	else:
 		try:
+			try:
+				if get_cname(domain, 1) == None:
+					print(f"Domain {domain} does not exist")
+					continue
+			except:
+				continue
 			try:
 				req = requests.get("http://{}".format(domain))
 			except Exception as err:
