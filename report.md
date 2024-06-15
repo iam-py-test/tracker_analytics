@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
 140 domains tested <br>
-Failed to test 60 domains <br>
-59 of the domains tested used known trackers <br>
-133 of the domains tested supported HTTPS <br>
+Failed to test 6 domains <br>
+60 of the domains tested used known trackers <br>
+134 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -318,7 +318,7 @@ Response encoding: utf-8 <br>
 
 
 #### gandi.net
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
@@ -627,8 +627,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -705,7 +705,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 42 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1032,6 +1032,8 @@ Response encoding: utf-8 <br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
+`www.sentry.dev`: 40<br>
+`plausible.io`: 1<br>
 `reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
