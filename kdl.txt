@@ -2283,3 +2283,5 @@ trbcdn.net
 www.youtube-nocookie.com
 www.a.ak.prd.aadg.akadns.net
 StATic.cdn-one.com
+onedscolprdcus19.centralus.cloudapp.azure.com
+d2mb634i1sflda.cloudfront.net
