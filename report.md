@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 139 domains tested <br>
 Failed to test 6 domains <br>
-59 of the domains tested used known trackers <br>
+60 of the domains tested used known trackers <br>
 133 of the domains tested supported HTTPS <br>
 
 
@@ -305,8 +305,8 @@ Response encoding: utf-8 <br>
 
 #### forbes.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1009,6 +1009,7 @@ Response encoding: utf-8 <br>
 `doubleclick.net`: 91<br>
 `doubleverify.com`: 196<br>
 `stats.wp.com`: 7<br>
+`dev.visualwebsiteoptimizer.com`: 2<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
@@ -1032,7 +1033,6 @@ Response encoding: utf-8 <br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 19<br>
 `taboola.com`: 106<br>
-`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 39<br>
 `cdn.taboola.com`: 1<br>
 `geo.yahoo.com`: 2<br>
