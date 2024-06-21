@@ -2291,3 +2291,4 @@ global.tls130rtt.spotifycdn.map.fastly.net
 global.scdnco.spotify.map.fastly.net
 edge-term4-lga2.roblox.com
 onedscolprdweu12.westeurope.cloudapp.azure.com
+onedscolprdneu09.northeurope.cloudapp.azure.com
