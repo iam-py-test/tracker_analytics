@@ -2294,3 +2294,4 @@ onedscolprdweu12.westeurope.cloudapp.azure.com
 onedscolprdneu09.northeurope.cloudapp.azure.com
 onedscolprdwus21.westus.cloudapp.azure.com
 a1916.dscg2.akamai.net
+wildberries.ru
