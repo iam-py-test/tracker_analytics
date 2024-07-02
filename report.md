@@ -1,19 +1,12 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
-Failed to test 6 domains <br>
-55 of the domains tested used known trackers <br>
-132 of the domains tested supported HTTPS <br>
+137 domains tested <br>
+Failed to test 7 domains <br>
+54 of the domains tested used known trackers <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
-
-
-#### adobe.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### adobe.io
@@ -194,7 +187,7 @@ Response encoding: UTF-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 289 <br>
+Number of trackers detected: 291 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -489,7 +482,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### meraki.com
@@ -525,6 +518,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
+
+
+#### myfritz.net
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### netflix.com
@@ -620,8 +620,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -776,7 +776,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### tiktokv.com
@@ -791,13 +791,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
-
-
-#### twitch.tv
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### twitter.com
@@ -914,9 +907,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
 
 
 #### x.com
@@ -976,7 +969,7 @@ Response encoding: utf-8 <br>
 ### Statistics for each tracker
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 29<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
@@ -997,11 +990,11 @@ Response encoding: utf-8 <br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 206<br>
-`www.criteo.com`: 81<br>
+`www.criteo.com`: 83<br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
 `doubleverify.com`: 196<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 7<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
