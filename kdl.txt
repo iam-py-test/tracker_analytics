@@ -2298,3 +2298,8 @@ wildberries.ru
 shifen.com
 edge-term4-lax4.roblox.com
 STaTiC.cdn-one.com
+mts.ru
+static.mts.ru
+static.ssl.mts.ru
+cl-8478e77d.edgecdn.ru
+identitystatic.mts.ru
