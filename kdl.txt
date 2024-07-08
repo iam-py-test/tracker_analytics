@@ -2303,3 +2303,9 @@ static.mts.ru
 static.ssl.mts.ru
 cl-8478e77d.edgecdn.ru
 identitystatic.mts.ru
+ca1.edge.sfdc-yfeipo.edge2.salesforce.com
+onedscolprdweu07.westeurope.cloudapp.azure.com
+static-basket-01.wbbasket.ru
+splitter.wb.ru
+photos.wbstatic.net
+wb.ru
