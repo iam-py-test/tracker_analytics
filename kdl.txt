@@ -2309,3 +2309,5 @@ static-basket-01.wbbasket.ru
 splitter.wb.ru
 photos.wbstatic.net
 wb.ru
+es.pinterest.com
+onedscolprdneu04.northeurope.cloudapp.azure.com
