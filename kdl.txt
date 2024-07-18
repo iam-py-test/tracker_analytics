@@ -2313,3 +2313,4 @@ es.pinterest.com
 onedscolprdneu04.northeurope.cloudapp.azure.com
 onedscolprdaue00.australiaeast.cloudapp.azure.com
 polyfill-fastly.io
+paypal-dynamic-cdn.map.fastly.net

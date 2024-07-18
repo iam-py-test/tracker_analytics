@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
 135 domains tested <br>
-Failed to test 7 domains <br>
-56 of the domains tested used known trackers <br>
+Failed to test 6 domains <br>
+57 of the domains tested used known trackers <br>
 130 of the domains tested supported HTTPS <br>
 
 
@@ -376,7 +376,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -413,6 +413,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### health.mil
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### icloud.com
@@ -606,8 +613,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -651,13 +658,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
-
-
-#### sberdevices.ru
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
 
 
 #### sciencedirect.com
@@ -984,7 +984,7 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 4<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
