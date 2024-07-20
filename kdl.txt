@@ -2315,3 +2315,4 @@ onedscolprdaue00.australiaeast.cloudapp.azure.com
 polyfill-fastly.io
 paypal-dynamic-cdn.map.fastly.net
 e11604.dscf.akamaiedge.net.0.1.cn.akamaiedge.net
+onedscolprdeus20.eastus.cloudapp.azure.com
