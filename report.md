@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 6 domains <br>
-56 of the domains tested used known trackers <br>
+58 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -627,8 +627,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -700,6 +700,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### slack.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### snapchat.com
@@ -870,13 +877,6 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### wildberries.ru
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
-
-
 #### windows.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -1002,6 +1002,7 @@ Response encoding: utf-8 <br>
 `salesforce.us-1.evergage.com`: 1<br>
 `www.sentry.dev`: 39<br>
 `plausible.io`: 1<br>
+`reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
