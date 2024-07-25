@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-136 domains tested <br>
-Failed to test 6 domains <br>
+135 domains tested <br>
+Failed to test 7 domains <br>
 58 of the domains tested used known trackers <br>
-131 of the domains tested supported HTTPS <br>
+130 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -499,13 +499,6 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### miui.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### mozilla.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -930,7 +923,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### yandex.ru
