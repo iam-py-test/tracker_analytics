@@ -2322,3 +2322,7 @@ rubiconproject.com
 cmp.uniconsent.com
 autofaq-prod.int.nic.ru
 onedscolprdcus20.centralus.cloudapp.azure.com
+t0.awsstatic.com
+com.plus
+moskva.mts.ru
+amr.portal.office.akadns.net
