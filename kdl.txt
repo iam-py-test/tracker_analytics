@@ -2326,3 +2326,4 @@ t0.awsstatic.com
 com.plus
 moskva.mts.ru
 amr.portal.office.akadns.net
+onedscolprdwus19.westus.cloudapp.azure.com
