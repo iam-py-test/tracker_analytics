@@ -208,7 +208,7 @@ Response encoding: UTF-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 285 <br>
+Number of trackers detected: 287 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -691,7 +691,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 46 <br>
+Number of trackers detected: 180 <br>
 Response encoding: utf-8 <br>
 
 
@@ -983,7 +983,7 @@ Response encoding: utf-8 <br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 206<br>
-`www.criteo.com`: 77<br>
+`www.criteo.com`: 79<br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
 `doubleverify.com`: 196<br>
@@ -1000,6 +1000,7 @@ Response encoding: utf-8 <br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
+`sentry.io`: 134<br>
 `www.sentry.dev`: 44<br>
 `plausible.io`: 1<br>
 `reveal.clearbit.com`: 1<br>
