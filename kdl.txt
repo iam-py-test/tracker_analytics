@@ -2335,3 +2335,5 @@ dwbfwz8xncgmg.cloudfront.net
 www.f5.com
 d9uqc191xsuna.cloudfront.net
 mktg.tags.f5.com
+onedscolprdwus18.westus.cloudapp.azure.com
+ln-0002.ln-msedge.net
