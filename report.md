@@ -390,7 +390,7 @@ Response encoding: UTF-8 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -648,8 +648,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -900,9 +900,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
 
 
 #### x.com
@@ -962,7 +962,7 @@ Response encoding: utf-8 <br>
 ### Statistics for each tracker
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 29<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
@@ -987,10 +987,10 @@ Response encoding: utf-8 <br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
 `doubleverify.com`: 196<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 7<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
