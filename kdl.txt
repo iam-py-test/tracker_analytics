@@ -2346,3 +2346,5 @@ ot.www.cloudflare.com
 ytimg.l.google.com
 img.youtube.com
 sTATIc.cdn-one.com
+logx.optimizely.com
+support.google.com
