@@ -2348,3 +2348,11 @@ img.youtube.com
 sTATIc.cdn-one.com
 logx.optimizely.com
 support.google.com
+roku.com
+d113wm69jy31k7.cloudfront.net
+cigars.roku.com
+d1ohvx6nln6ht.cloudfront.net
+image.roku.com
+images.sr.roku.com
+www.roku.com.cdn.cloudflare.net
+www.roku.com
