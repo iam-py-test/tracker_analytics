@@ -2356,3 +2356,6 @@ image.roku.com
 images.sr.roku.com
 www.roku.com.cdn.cloudflare.net
 www.roku.com
+token.us-west-2.prod.site.p.awsstatic.com
+uk.pinterest.com
+jp.pinterest.com
