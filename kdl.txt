@@ -2359,3 +2359,6 @@ www.roku.com
 token.us-west-2.prod.site.p.awsstatic.com
 uk.pinterest.com
 jp.pinterest.com
+ozon.ru
+edge-mmedia-lb.ozone.ru
+cdn1.ozone.ru
