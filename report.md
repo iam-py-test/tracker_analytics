@@ -586,7 +586,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -982,7 +982,7 @@ Response encoding: utf-8 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
 `doubleverify.com`: 196<br>

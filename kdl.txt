@@ -2362,3 +2362,4 @@ jp.pinterest.com
 ozon.ru
 edge-mmedia-lb.ozone.ru
 cdn1.ozone.ru
+www.zoom.com
