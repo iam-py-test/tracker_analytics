@@ -2364,3 +2364,7 @@ edge-mmedia-lb.ozone.ru
 cdn1.ozone.ru
 www.zoom.com
 s-part-0023.t-0009.fb-t-msedge.net
+adriver.ru
+www.adriver.ru
+ad.adriver.ru
+onedscolprdweu10.westeurope.cloudapp.azure.com
