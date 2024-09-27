@@ -128,13 +128,6 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### bbc.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
-
-
 #### bing.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -681,6 +674,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### roku.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
+
+
 #### samsung.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -963,14 +963,13 @@ Response encoding: utf-8 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 29<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`cdn.optimizely.com`: 7<br>
-`securepubads.g.doubleclick.net`: 3<br>
+`cdn.optimizely.com`: 6<br>
 `logx.optimizely.com`: 1<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -982,6 +981,7 @@ Response encoding: utf-8 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `cdn.adsafeprotected.com`: 2<br>
+`securepubads.g.doubleclick.net`: 2<br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
@@ -992,7 +992,7 @@ Response encoding: utf-8 <br>
 `stats.wp.com`: 5<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 4<br>
+`www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 22<br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
