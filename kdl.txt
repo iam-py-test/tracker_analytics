@@ -2368,3 +2368,4 @@ adriver.ru
 www.adriver.ru
 ad.adriver.ru
 onedscolprdweu10.westeurope.cloudapp.azure.com
+consent-cmp-prod.dcs-core-dmp-prd.aws.oath.cloud
