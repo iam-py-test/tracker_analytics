@@ -2369,3 +2369,5 @@ www.adriver.ru
 ad.adriver.ru
 onedscolprdweu10.westeurope.cloudapp.azure.com
 consent-cmp-prod.dcs-core-dmp-prd.aws.oath.cloud
+challenges.cloudflare.com
+117419923.intellimizeio.com
