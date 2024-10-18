@@ -2378,3 +2378,5 @@ onedscolprdcus21.centralus.cloudapp.azure.com
 onedscolprdjpe03.japaneast.cloudapp.azure.com
 transcend-cdn.com
 cdn.27dfe926-d160-4f9b-8ca1-ccfd761ab93b.cdn.ves.volterra.io
+de.pinterest.com
+fr.pinterest.com
