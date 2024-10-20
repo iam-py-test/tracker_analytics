@@ -390,7 +390,7 @@ Response encoding: UTF-8 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 22 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -977,7 +977,7 @@ Response encoding: utf-8 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
-`googlesyndication.com`: 22<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
