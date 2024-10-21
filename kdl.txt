@@ -2380,3 +2380,4 @@ transcend-cdn.com
 cdn.27dfe926-d160-4f9b-8ca1-ccfd761ab93b.cdn.ves.volterra.io
 de.pinterest.com
 fr.pinterest.com
+staTiC.cdn-one.com
