@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-135 domains tested <br>
+134 domains tested <br>
 Failed to test 8 domains <br>
 51 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+129 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -21,13 +21,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### adriver.ru
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 76 <br>
-Response encoding: UTF-8 <br>
 
 
 #### aliyuncs.com
@@ -109,9 +102,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### archive.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### azure.com
@@ -245,13 +238,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 200 <br>
 Response encoding: UTF-8 <br>
-
-
-#### dropbox.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
 
 
 #### ebay.com
@@ -468,7 +454,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### live.com
@@ -619,6 +605,13 @@ Response encoding: utf-8 <br>
 
 
 #### outlook.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
+#### ozon.ru
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -953,13 +946,11 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 ### Statistics for each tracker
-`adriver.ru`: 32<br>
-`www.adriver.ru`: 41<br>
-`ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 26<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
+`www.googletagmanager.com`: 25<br>
 `app-measurement.com`: 2<br>
+`analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 7<br>
 `securepubads.g.doubleclick.net`: 3<br>
