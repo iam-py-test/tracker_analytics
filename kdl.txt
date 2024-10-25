@@ -2382,3 +2382,13 @@ de.pinterest.com
 fr.pinterest.com
 staTiC.cdn-one.com
 pbs.twimg.com.cdn.cloudflare.net
+ivi.ru
+thumbs.dfs.ivi.ru
+gambit-parent.dfs.ivi.ru
+ds-parent.dfs.ivi.ru
+solea-parent.dfs.ivi.ru
+events.ivi.ru
+rocket.ivi.ru
+api2.ivi.ru
+www.ivi.ru
+www.ivi.tv
