@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 7 domains <br>
-50 of the domains tested used known trackers <br>
+49 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -21,6 +21,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### adriver.ru
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 76 <br>
+Response encoding: UTF-8 <br>
 
 
 #### aliyuncs.com
@@ -196,13 +203,6 @@ HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### creativecommons.org
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
 
 
 #### criteo.com
@@ -641,8 +641,8 @@ Response encoding: utf-8 <br>
 
 #### pinterest.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -937,7 +937,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtu.be
@@ -960,9 +960,12 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 ### Statistics for each tracker
+`adriver.ru`: 32<br>
+`www.adriver.ru`: 41<br>
+`ad.adriver.ru`: 2<br>
+`www.googletagmanager.com`: 23<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 23<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
