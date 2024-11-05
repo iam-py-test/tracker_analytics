@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 7 domains <br>
-51 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -133,13 +133,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### bbc.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
 
 
 #### bing.com
@@ -436,6 +429,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### health.mil
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -475,7 +475,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### live.com
@@ -705,7 +705,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 180 <br>
+Number of trackers detected: 181 <br>
 Response encoding: utf-8 <br>
 
 
@@ -944,7 +944,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtu.be
@@ -976,8 +976,7 @@ Response encoding: utf-8 <br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
-`cdn.optimizely.com`: 7<br>
-`securepubads.g.doubleclick.net`: 3<br>
+`cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -988,6 +987,7 @@ Response encoding: utf-8 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `cdn.adsafeprotected.com`: 2<br>
+`securepubads.g.doubleclick.net`: 2<br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
@@ -1004,7 +1004,7 @@ Response encoding: utf-8 <br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `siteimproveanalytics.com`: 1<br>
-`sentry.io`: 134<br>
+`sentry.io`: 135<br>
 `www.sentry.dev`: 44<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>

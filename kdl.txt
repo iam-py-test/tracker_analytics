@@ -2397,3 +2397,4 @@ lib.intuitcdn.net
 okcdn.ru
 gofile-paa.zoom.us
 www.apachecon.com
+www-mozilla.fastly-edge.com
