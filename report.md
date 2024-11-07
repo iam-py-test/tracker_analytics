@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 137 domains tested <br>
 Failed to test 7 domains <br>
-49 of the domains tested used known trackers <br>
-132 of the domains tested supported HTTPS <br>
+50 of the domains tested used known trackers <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -122,7 +122,7 @@ Response encoding: utf-8 <br>
 
 
 #### baidu.com
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -236,7 +236,7 @@ Response encoding: ISO-8859-1 <br>
 #### doubleverify.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 200 <br>
+Number of trackers detected: 194 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -475,7 +475,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### live.com
@@ -705,7 +705,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 181 <br>
+Number of trackers detected: 197 <br>
 Response encoding: utf-8 <br>
 
 
@@ -928,9 +928,9 @@ Response encoding: utf-8 <br>
 
 #### yahoo.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: None <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### yandex.net
@@ -975,7 +975,7 @@ Response encoding: utf-8 <br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
-`sb.scorecardresearch.com`: 5<br>
+`sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -994,7 +994,7 @@ Response encoding: utf-8 <br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
-`doubleverify.com`: 196<br>
+`doubleverify.com`: 190<br>
 `stats.wp.com`: 5<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
@@ -1004,8 +1004,8 @@ Response encoding: utf-8 <br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `siteimproveanalytics.com`: 1<br>
-`sentry.io`: 135<br>
-`www.sentry.dev`: 44<br>
+`sentry.io`: 143<br>
+`www.sentry.dev`: 52<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
@@ -1014,3 +1014,4 @@ Response encoding: utf-8 <br>
 `taboola.com`: 145<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
 `www.taboola.com`: 68<br>
+`geo.yahoo.com`: 2<br>
