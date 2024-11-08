@@ -2398,3 +2398,5 @@ okcdn.ru
 gofile-paa.zoom.us
 www.apachecon.com
 www-mozilla.fastly-edge.com
+workers.dev
+workers.cloudflare.com
