@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-135 domains tested <br>
-Failed to test 9 domains <br>
+136 domains tested <br>
+Failed to test 8 domains <br>
 49 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+131 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -376,7 +376,7 @@ Response encoding: UTF-8 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 20 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -413,6 +413,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### health.mil
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### icloud.com
@@ -984,7 +991,7 @@ Response encoding: ISO-8859-1 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
-`googlesyndication.com`: 20<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
