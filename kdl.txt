@@ -2411,3 +2411,5 @@ widgets.engagement-prod.stroeerws.de
 sdc-next-statics-prod.dcp.stroeerws.de
 fin-statics-prod.dcp.stroeerws.de
 suche.t-online.de
+d2cufvw2yt7a29.cloudfront.net
+prod.weather.stroeerws.de
