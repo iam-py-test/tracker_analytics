@@ -2415,3 +2415,9 @@ d2cufvw2yt7a29.cloudfront.net
 prod.weather.stroeerws.de
 STatIC.cdn-one.com
 donorbox.org
+telekom.de
+www.telekom.de
+d8ycftj0e2pjg.cloudfront.net
+www2.telekom.de
+ebs02.telekom.de
+ebs01.telekom.de
