@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 136 domains tested <br>
 Failed to test 7 domains <br>
-52 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 132 of the domains tested supported HTTPS <br>
 
 
@@ -125,13 +125,6 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
-#### bbc.co.uk
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -529,8 +522,8 @@ Response encoding: utf-8 <br>
 
 #### nginx.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -542,7 +535,7 @@ Response encoding: utf-8 <br>
 
 
 #### nic.ru
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
@@ -648,6 +641,13 @@ Response encoding: None <br>
 
 #### reddit.com
 HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
+#### registrar-servers.com
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -937,7 +937,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtu.be
@@ -963,12 +963,11 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 26<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
-`sb.scorecardresearch.com`: 6<br>
 `cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -996,6 +995,7 @@ Response encoding: ISO-8859-1 <br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
+`sb.scorecardresearch.com`: 5<br>
 `script.crazyegg.com`: 1<br>
 `siteimproveanalytics.com`: 1<br>
 `sentry.io`: 143<br>
