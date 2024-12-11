@@ -2426,3 +2426,5 @@ cdn.web.f5.com
 7foxepcf7f.kameleoon.io
 sdfestaticassets-eu-west-1.sciencedirectassets.com
 static-exp2.licdn.com
+e13252.dscg.akamaiedge.net
+help.nflxext.com
