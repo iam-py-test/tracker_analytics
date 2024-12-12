@@ -2428,3 +2428,12 @@ sdfestaticassets-eu-west-1.sciencedirectassets.com
 static-exp2.licdn.com
 e13252.dscg.akamaiedge.net
 help.nflxext.com
+1667503734.rsc.cdn77.org
+cdn.userway.org
+telekom.net
+telekomcom-alb-1873396827.eu-central-1.elb.amazonaws.com
+www.telekom.com
+e8091.e3.akamaiedge.net
+tags-eu.tiqcdn.com
+1630983047.rsc.cdn77.org
+f1-eu.readspeaker.com
