@@ -2437,3 +2437,5 @@ e8091.e3.akamaiedge.net
 tags-eu.tiqcdn.com
 1630983047.rsc.cdn77.org
 f1-eu.readspeaker.com
+f5.com
+c.aps.amazon-adsystem.com
