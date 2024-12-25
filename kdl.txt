@@ -2442,3 +2442,4 @@ c.aps.amazon-adsystem.com
 static-exp1.licdn.com
 us01ccistatic-c.zoom.us
 est.a.ak.prd.aadg.akadns.net
+swissknife.taboola.com
