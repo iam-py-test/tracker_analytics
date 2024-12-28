@@ -9,6 +9,13 @@ Failed to test 8 domains <br>
 ### Individual domain statistics: 
 
 
+#### 3ona.co
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### adobe.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -254,13 +261,6 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
-#### f5.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
-
-
 #### facebook.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -318,6 +318,13 @@ Response encoding: utf-8 <br>
 
 
 #### github.io
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
+#### gmail.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -572,7 +579,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -842,13 +849,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### webex.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
-
-
 #### whatsapp.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -990,7 +990,7 @@ Response encoding: ISO-8859-1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
 `doubleverify.com`: 190<br>
