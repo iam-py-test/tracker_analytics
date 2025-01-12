@@ -2447,3 +2447,4 @@ cdn.weglot.com.cdn.cloudflare.net
 cdn.weglot.com
 3ona.co
 arubanetworks.com
+a2025.dscr.akamai.net
