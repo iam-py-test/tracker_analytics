@@ -2449,3 +2449,5 @@ cdn.weglot.com
 arubanetworks.com
 a2025.dscr.akamai.net
 a46.dscr.akamai.net
+c-msn-pme.trafficmanager.net
+api.statsigcdn.com
