@@ -2451,3 +2451,7 @@ a2025.dscr.akamai.net
 a46.dscr.akamai.net
 c-msn-pme.trafficmanager.net
 api.statsigcdn.com
+discord.gg
+cdn.prod.website-files.com
+cdn.discordapp.com
+cdn.localizeapi.com
