@@ -2455,3 +2455,4 @@ discord.gg
 cdn.prod.website-files.com
 cdn.discordapp.com
 cdn.localizeapi.com
+ax-0001.ax-msedge.net
