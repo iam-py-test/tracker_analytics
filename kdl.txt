@@ -2457,3 +2457,4 @@ cdn.discordapp.com
 cdn.localizeapi.com
 ax-0001.ax-msedge.net
 static-cflr.licdn.com.cdn.cloudflare.net
+sni1gl.wpc.zetacdn.net
