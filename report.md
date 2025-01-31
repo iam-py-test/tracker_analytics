@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 135 domains tested <br>
 Failed to test 7 domains <br>
-51 of the domains tested used known trackers <br>
+52 of the domains tested used known trackers <br>
 131 of the domains tested supported HTTPS <br>
 
 
@@ -433,7 +433,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### lencr.org
@@ -713,7 +713,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### t-online.de
@@ -860,7 +860,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### windows.com
@@ -886,9 +886,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
 
 
 #### workers.dev
@@ -956,7 +956,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 27<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -983,7 +983,7 @@ Response encoding: ISO-8859-1 <br>
 `www.google-analytics.com`: 3<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 3<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `sb.scorecardresearch.com`: 7<br>
