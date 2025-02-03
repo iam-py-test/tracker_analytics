@@ -2460,3 +2460,5 @@ static-cflr.licdn.com.cdn.cloudflare.net
 sni1gl.wpc.zetacdn.net
 ax-0001.ax-dc-msedge.net
 a726.dscd.akamai.net
+soundcloud.extole.io
+invite.soundcloud.com
