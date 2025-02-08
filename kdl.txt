@@ -2464,3 +2464,4 @@ soundcloud.extole.io
 invite.soundcloud.com
 adnxs.com
 a233.dscd.akamai.net
+sTatic.cdn-one.com

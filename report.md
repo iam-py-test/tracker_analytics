@@ -628,7 +628,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -671,7 +671,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### sentry.io
