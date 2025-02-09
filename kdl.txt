@@ -2465,3 +2465,4 @@ invite.soundcloud.com
 adnxs.com
 a233.dscd.akamai.net
 sTatic.cdn-one.com
+thisis-images.spotifycdn.com
