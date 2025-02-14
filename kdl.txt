@@ -2468,3 +2468,4 @@ sTatic.cdn-one.com
 thisis-images.spotifycdn.com
 privacy-cdn.a.intuit.com
 laxr9a.msedge.net
+www.paypalobjects.com.cdn.cloudflare.net
