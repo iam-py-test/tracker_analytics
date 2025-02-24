@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-134 domains tested <br>
-Failed to test 9 domains <br>
-54 of the domains tested used known trackers <br>
-130 of the domains tested supported HTTPS <br>
+136 domains tested <br>
+Failed to test 8 domains <br>
+52 of the domains tested used known trackers <br>
+132 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -311,6 +311,13 @@ Response encoding: utf-8 <br>
 
 
 #### github.io
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
+#### gmail.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -628,7 +635,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -658,6 +665,13 @@ HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### roblox.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### samsung.com
@@ -774,8 +788,8 @@ Response encoding: utf-8 <br>
 
 #### twitter.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -893,8 +907,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### x.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -990,6 +1004,6 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 19<br>
+`t.co`: 15<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `geo.yahoo.com`: 2<br>

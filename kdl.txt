@@ -2470,3 +2470,5 @@ privacy-cdn.a.intuit.com
 laxr9a.msedge.net
 www.paypalobjects.com.cdn.cloudflare.net
 rum.hlx.page
+d3ab64ctlpux0l.cloudfront.net
+cdnap.telekom.net
