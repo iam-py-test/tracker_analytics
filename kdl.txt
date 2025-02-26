@@ -2472,3 +2472,4 @@ www.paypalobjects.com.cdn.cloudflare.net
 rum.hlx.page
 d3ab64ctlpux0l.cloudfront.net
 cdnap.telekom.net
+StAtic.cdn-one.com
