@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-138 domains tested <br>
+137 domains tested <br>
 Failed to test 7 domains <br>
 52 of the domains tested used known trackers <br>
-134 of the domains tested supported HTTPS <br>
+133 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -62,13 +62,6 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: False <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
-
-
-#### amazonvideo.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -291,8 +284,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### forbes.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -586,7 +579,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -907,9 +900,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
 
 
 #### workers.dev
@@ -978,7 +971,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 26<br>
+`www.googletagmanager.com`: 28<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -997,16 +990,15 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 91<br>
-`dev.visualwebsiteoptimizer.com`: 2<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 3<br>
+`stats.wp.com`: 5<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
@@ -1021,3 +1013,4 @@ Response encoding: ISO-8859-1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 15<br>
+`dev.visualwebsiteoptimizer.com`: 1<br>
