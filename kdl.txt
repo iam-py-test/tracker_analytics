@@ -2479,3 +2479,4 @@ ln-0002.ln-dc-msedge.net
 static.licdn.com.cdn.cloudflare.net
 linkos.bg
 mail.linkos.bg
+c.paypal.com.cdn.cloudflare.net
