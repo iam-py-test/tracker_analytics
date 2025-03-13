@@ -2482,3 +2482,4 @@ mail.linkos.bg
 c.paypal.com.cdn.cloudflare.net
 rum.hlx.page.cdn.cloudflare.net
 linkedin.map.fastly.net
+ax-0003.ax-msedge.net
