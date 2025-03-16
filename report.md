@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-140 domains tested <br>
+141 domains tested <br>
 Failed to test 7 domains <br>
 51 of the domains tested used known trackers <br>
-136 of the domains tested supported HTTPS <br>
+137 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -259,6 +259,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### f5.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### facebook.com
@@ -649,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -699,7 +706,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sciencedirect.com
@@ -748,7 +755,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### t-online.de
@@ -965,7 +972,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtu.be
