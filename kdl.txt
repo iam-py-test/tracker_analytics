@@ -2485,3 +2485,4 @@ linkedin.map.fastly.net
 ax-0003.ax-msedge.net
 onedscolprdweu15.westeurope.cloudapp.azure.com
 onedscolprdneu13.northeurope.cloudapp.azure.com
+staTIc.cdn-one.com
