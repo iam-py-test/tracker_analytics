@@ -2486,3 +2486,4 @@ ax-0003.ax-msedge.net
 onedscolprdweu15.westeurope.cloudapp.azure.com
 onedscolprdneu13.northeurope.cloudapp.azure.com
 staTIc.cdn-one.com
+iris-de-prod-azsc-v2-weu-b.westeurope.cloudapp.azure.com
