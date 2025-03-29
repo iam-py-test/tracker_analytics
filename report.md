@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-141 domains tested <br>
+140 domains tested <br>
 Failed to test 7 domains <br>
 50 of the domains tested used known trackers <br>
-137 of the domains tested supported HTTPS <br>
+136 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -471,13 +471,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### linkos.bg
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
 #### live.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -706,7 +699,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### sciencedirect.com
