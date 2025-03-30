@@ -34106,3 +34106,15 @@ http://unity3d.com/_next/static/chunks/webpack-1bf649eb6296dd1f.js?dpl=dpl_y9Xbs
 https://static.whatsapp.net/rsrc.php/v4/yr/r/5X8pzmP1PXR.js
 https://ya.ru/?nr=1&redirect_ts=1743281216.00000
 https://sso.passport.yandex.ru/push?uuid=8c1b005a-dbed-4b15-8770-86d1e1cee366&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue%26is_autologin_ya%3Dtrue
+http://bing.com/rp/LEzNRxGBoh39tfN86KmsjpBYEMU.gz.css
+https://doubleverify.com/wp-includes/css/dist/block-library/style.min.css?m=1742994400g
+https://doubleverify.com/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGpqbGFlampgYGAIAROAu5A==
+https://doubleverify.com/_static/??-eJydj80KwkAMhF/INbSK4kHEi4/gfbtNber+sUmtfXu3YKHgRXqaZJhvYGCIygQv6AWi7R/kGTqUqM1TNSE5pTv9np1bNq753xrmDSxIadEhQx36yuIdEzUjaGYUhhf6OiTggSLOsnXk13RYcowWjSzOv7tYRos/yXnzNFMx6mRaZUkQcvCLVJrJrAAVk4tZEtYTfXHn4rjfFadDUZYfdmCNQA==
+https://doubleverify.com/wp-content/mu-plugins/jetpack-14.4/jetpack_vendor/automattic/jetpack-forms/dist/contact-form/css/grunion.css?m=1742932698g
+https://sso.passport.yandex.ru/push?uuid=d51f13b3-9f2b-4cca-b038-beed9a4ea0e7&retpath=https%3A%2F%2Fdzen.ru%2F%3Fis_autologin_ya%3Dtrue
+https://imageio.forbes.com/specials-images/imageserve/67e939631052e7b9b77ec798/0x0.jpg?format=jpg&width=1100
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AXH0vVsRUnKtCx3NmaAPdm6gbINNrZ-gAebLos94IWtoo9bCsVJBb_0kDUnV0vh7ZSBdCWbni6CqKA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1878661948%3A1743366194583969
+https://images.t-online.de/2025/03/ip7GTewO9fO5/20x0:3961x2228/fit-in/150x0/filters:blur(25)/tatort-abstellgleis-nach-vielen-jahren-ist-kommissar-daniel-kossik-stefan-konarske-wieder-zurueck-in-dortmund.jpg
+https://static.whatsapp.net/rsrc.php/v4/yk/r/nVSYC2mk44y.js
+https://ya.ru/?nr=1&redirect_ts=1743367467.00000
+https://dzen.ru/showcaptcha?cc=1&fb-hint=1.28&mt=E1F0C11BC2ADB503EFAE366C433A4CB047067798BA03BA150A4376650412C0D088478C1D4A9618BAE4156280F088E636F76F5EDE9445A235CAA58102DC918005C89419ECF115567D0A90476F9BBB724BBA3D81447F16B51FE677731C4EA428E3CDE9219263971F2B5EB9E7EABAB31DBE615E217F7F10ACCB8F5E0FF435CDE894370521385416F4F1B30491FB7B102B71FFCD5711C8B93ED5EACD0551C74C67F522751441BAC31BC839206522ADD9547F6B773934C9D4BE6B047A23BC03E2A26B39F3525A634826FB4D6C3119D79229EE0454C137F3E4C470C768184EEB&retpath=aHR0cDovL2R6ZW4ucnUvP3lyZWRpcmVjdD10cnVl_98d80646c79a67b0e3e37a54841425f8&t=2/1743367473/2eb6c693c2ca5a4b8d707d2905b0c340&u=6314946205862217676&s=6f9cce10a0e967f8ef0784faf8fe642d
