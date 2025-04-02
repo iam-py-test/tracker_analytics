@@ -713,7 +713,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sciencedirect.com
@@ -726,7 +726,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 194 <br>
+Number of trackers detected: 192 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1042,7 +1042,7 @@ Response encoding: ISO-8859-1 <br>
 `siteimproveanalytics.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
-`sentry.io`: 140<br>
+`sentry.io`: 138<br>
 `www.sentry.dev`: 52<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
