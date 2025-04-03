@@ -2489,3 +2489,5 @@ staTIc.cdn-one.com
 iris-de-prod-azsc-v2-weu-b.westeurope.cloudapp.azure.com
 2qwt2i8z8x.kameleoon.io
 s-part-0029.t-0009.t-msedge.net
+cdn2.ozone.ru
+onedscolprduks00.uksouth.cloudapp.azure.com
