@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 7 domains <br>
-51 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
 
@@ -151,8 +151,8 @@ Response encoding: utf-8 <br>
 
 #### bit.ly
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1013,12 +1013,11 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 26<br>
+`www.googletagmanager.com`: 25<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
-`cdn.optimizely.com`: 6<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -1031,6 +1030,7 @@ Response encoding: ISO-8859-1 <br>
 `js-sec.indexww.com`: 2<br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
+`cdn.optimizely.com`: 4<br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>

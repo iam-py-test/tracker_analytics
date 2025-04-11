@@ -2492,3 +2492,5 @@ s-part-0029.t-0009.t-msedge.net
 cdn2.ozone.ru
 onedscolprduks00.uksouth.cloudapp.azure.com
 vimeo.bynder.com
+static.group-cdn.one
+webapps.group-cdn.one
