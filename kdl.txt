@@ -2494,3 +2494,15 @@ onedscolprduks00.uksouth.cloudapp.azure.com
 vimeo.bynder.com
 static.group-cdn.one
 webapps.group-cdn.one
+www.mts.ru
+g.alicdn.com.danuoyi.alicdn.com
+o.alicdn.com.w.cdngslb.com
+gw.alicdn.com.danuoyi.tbcache.com
+img.alicdn.com.danuoyi.alicdn.com
+gm-v6.mmstat.com.gds.alibabadns.com
+log-v6.mmstat.com.gds.alibabadns.com
+res.mmstat.com.gds.alibabadns.com
+res.mmstat.com
+adsz.wagbridge.tanx.alimama.com.gds.alibabadns.com
+dfhs.tanx.com
+ecpm.tanx.com
