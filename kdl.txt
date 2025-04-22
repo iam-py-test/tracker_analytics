@@ -2507,3 +2507,6 @@ adsz.wagbridge.tanx.alimama.com.gds.alibabadns.com
 dfhs.tanx.com
 ecpm.tanx.com
 top1992754034.mwscdn.ru
+la3-c1-ia4.ia4.r.salesforceliveagent.com
+c.la3-c1-ia4.salesforceliveagent.com
+iris-de-ppe-azsc-v2-ncus.northcentralus.cloudapp.azure.com
