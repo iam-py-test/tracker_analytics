@@ -2510,3 +2510,7 @@ top1992754034.mwscdn.ru
 la3-c1-ia4.ia4.r.salesforceliveagent.com
 c.la3-c1-ia4.salesforceliveagent.com
 iris-de-ppe-azsc-v2-ncus.northcentralus.cloudapp.azure.com
+cxstatic.marketing.aws.dev
+sslbdstatic.gshifen.com
+ss1.bdstatic.com
+raka.bing.com
