@@ -2514,3 +2514,4 @@ cxstatic.marketing.aws.dev
 sslbdstatic.gshifen.com
 ss1.bdstatic.com
 raka.bing.com
+rafd.bing.com
