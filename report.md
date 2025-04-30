@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 144 domains tested <br>
 Failed to test 7 domains <br>
-52 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -163,13 +163,6 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### casalemedia.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 7 <br>
-Response encoding: UTF-8 <br>
-
-
 #### cloudflare-dns.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -252,6 +245,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
+
+
+#### easycruit.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### epicgames.com
@@ -607,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -670,7 +670,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -720,7 +720,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### sciencedirect.com
@@ -949,9 +949,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1020,12 +1020,11 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 25<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
-`casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -1039,11 +1038,11 @@ Response encoding: ISO-8859-1 <br>
 `odb.outbrain.com`: 2<br>
 `cdn.optimizely.com`: 4<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 195<br>
-`stats.wp.com`: 8<br>
+`stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
