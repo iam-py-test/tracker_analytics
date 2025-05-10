@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
+144 domains tested <br>
 Failed to test 7 domains <br>
 51 of the domains tested used known trackers <br>
-139 of the domains tested supported HTTPS <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -280,6 +280,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### example.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### f5.com
@@ -663,7 +670,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -775,7 +782,7 @@ Response encoding: utf-8 <br>
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 10 <br>
+Number of trackers detected: 15 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1055,7 +1062,7 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 10<br>
+`t.co`: 15<br>
 `taboola.com`: 134<br>
 `swissknife.taboola.com`: 1<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
