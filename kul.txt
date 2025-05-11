@@ -36298,3 +36298,15 @@ https://static.whatsapp.net/rsrc.php/v4/y0/r/BCDw0r0nWOr.js
 https://static.whatsapp.net/rsrc.php/v4i7M54/ya/l/en_US/r47U-k7KmV5.js
 https://ya.ru/?nr=1&redirect_ts=1746910808.00000
 https://sso.passport.yandex.ru/push?uuid=be22dc6c-843c-4311-92e0-4c4967bf52a2&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue%26is_autologin_ya%3Dtrue
+https://sso.passport.yandex.ru/push?uuid=fdf4bc35-5c63-47c5-bbd7-cff38f71453b&retpath=https%3A%2F%2Fdzen.ru%2F%3Fis_autologin_ya%3Dtrue
+https://static.xx.fbcdn.net/rsrc.php/v5/yT/l/0,cross/KxbSwzKplCZ.css
+https://static.xx.fbcdn.net/rsrc.php/v5/y1/l/0,cross/EGtQWfw_nwH.css
+https://static.xx.fbcdn.net/rsrc.php/v5/yE/l/0,cross/DJ5Wh4dCmjn.css
+https://imageio.forbes.com/specials-images/imageserve/6820aabc8418a95629b6c45c/0x0.jpg?format=jpg&width=1100
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKV5Mhc85mQmqNAVuas_4ZTrt8skVZ3UPPwxOWWQcYhaQk9rrbKzOBqvccM0X_0vyzJDm69YXVBKg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1660600567%3A1746994883326850
+https://static.cdninstagram.com/rsrc.php/v4/yN/r/YSpi5u3qNmv.js
+https://static.cdninstagram.com/rsrc.php/v4i_1c4/yh/l/en_US/ejCvbiPhe-Nm6B3Wu5R8Re5TZ8uC3ekbvKHQXRDTfs7CrmpBymPPNmfiEKE4oaZPvQ.js
+https://static.cdninstagram.com/rsrc.php/v4iVwu4/y-/l/en_US/NCsvzC1XYRIvlz9hbWd36F0gMzf8FG1avxNEkM44K5ZUcpwM45cwhpDdgG7WOloufESVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFwvHbIbrAdZMRelarVCVNeSdPSmioG0KhdSJLt2C_0clqEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js
+https://images.t-online.de/2025/04/3tnq4Od1vT-V/683x92:1591x895/fit-in/150x0/filters:blur(25)/28-042025-friedrich-merz-cdu-der-parteivorsitzende-bei-der-vorstellung-der-zukuenftigen-ministerinnen-und-minister-der-cdu-berlin-deutschland-28-04-2025-friedrich-merz-cdu-the-party-chairman-at-the-presentation-of-the-future-ministers-of-the-cdu-berlin-germany.jpg
+https://ya.ru/?nr=1&redirect_ts=1746996104.00000
+https://sso.passport.yandex.ru/push?uuid=06e47fdd-5351-4c8b-8ea6-b24fa2ef56e8&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue%26is_autologin_ya%3Dtrue
