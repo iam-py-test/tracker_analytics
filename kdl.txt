@@ -2519,3 +2519,4 @@ easycruit.com
 s-part-0041.t-0009.fb-t-msedge.net
 s-part-0010.t-0009.t-msedge.net
 s-part-0010.t-0009.fb-t-msedge.net
+d0.m.awsstatic.com
