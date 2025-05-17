@@ -404,7 +404,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 21 <br>
+Number of trackers detected: 20 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -614,7 +614,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -670,7 +670,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -720,7 +720,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sciencedirect.com
@@ -733,7 +733,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 192 <br>
+Number of trackers detected: 193 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1039,7 +1039,7 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 193<br>
@@ -1047,7 +1047,7 @@ Response encoding: ISO-8859-1 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
-`googlesyndication.com`: 21<br>
+`googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
 `www.tns-counter.ru`: 1<br>
@@ -1055,7 +1055,7 @@ Response encoding: ISO-8859-1 <br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
-`sentry.io`: 138<br>
+`sentry.io`: 139<br>
 `www.sentry.dev`: 52<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>

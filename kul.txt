@@ -36661,3 +36661,15 @@ https://www.youtube.com/s/desktop/a21ec0bb/cssbin/www-main-desktop-home-page-ske
 https://www.youtube.com/s/desktop/a21ec0bb/cssbin/www-onepick.css
 https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.zxtQ1eTO0qE.L.X.O/am=AAAAAEIB/d=0/rs=AGKMywGNLwX16mleDdZxal48SYgeO8ajYA
 https://www.youtube.com/s/desktop/a21ec0bb/cssbin/www-main-desktop-watch-page-skeleton.css
+http://bing.com/rp/2DZZavu9ilg65pAnf6tUcZJUXLo.gz.css
+https://sso.passport.yandex.ru/push?uuid=e5a8059a-8dea-41fa-8ce7-f6d03be1d2bc&retpath=https%3A%2F%2Fdzen.ru%2F%3Fis_autologin_ya%3Dtrue
+https://imageio.forbes.com/specials-images/imageserve/68288a98b04cce790d81cac4/0x0.jpg?format=jpg&width=1100
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKV5MhMDZmP22MSYdfl92dLGk_RgXHw0XAfVC6IAMMEfy0iqGWdltYTPi7tG85Mzbjotau60Sbt&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1964596880%3A1747513291224405
+https://static.cdninstagram.com/rsrc.php/v5/y9/l/0,cross/3rWdvohSNXbBJbOiMTSwIMcyf8QhNEWE-MbVu6J6TSgCAgbkPiBd1GmWBYwNb1US7iAB3V1AnLrqk.css
+https://static.cdninstagram.com/rsrc.php/v4ioCC4/yE/l/en_US/LTzfL1MsLDzQN4gxcay40P8gIcJcOJDOP9JxqKKHSjoxPBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0.js
+https://static.cdninstagram.com/rsrc.php/v4i5474/yG/l/en_US/vlz9hbWd36FxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94Q-tZOQhFEm6weHyJyOwz41SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFwvHbIbrAdZMRelarVCVNeSHsXVEAx5xHnkoYCWOIubOSEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js
+https://static.cdninstagram.com/rsrc.php/v4icWE4/yd/l/en_US/fCuST4DXoZo.js
+http://nytimes.com/vi-assets/static-assets/cssModulesStyles-f85ba3389753d4105112.css
+https://f.vimeocdn.com/cms/_next/static/css/427084ccabc72c8c.css
+https://ya.ru/?nr=1&redirect_ts=1747514532.00000
+https://sso.passport.yandex.ru/push?uuid=a3fea075-35dd-474f-a802-4c35441640c6&retpath=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue%26is_autologin_ya%3Dtrue
