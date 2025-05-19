@@ -614,7 +614,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -748,7 +748,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### snapchat.com
@@ -1039,7 +1039,7 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 1<br>
+`static.chartbeat.com`: 2<br>
 `criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 193<br>
