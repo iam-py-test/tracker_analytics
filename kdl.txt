@@ -2523,3 +2523,6 @@ d0.m.awsstatic.com
 d2mc1cwdtsr2xi.cloudfront.net
 imgs2.imgsmail.ru
 imgsmail.ru
+www.vk.com
+sun9-5.userapi.com
+sun9-25.userapi.com
