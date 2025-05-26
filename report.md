@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
+142 domains tested <br>
 Failed to test 7 domains <br>
 50 of the domains tested used known trackers <br>
-139 of the domains tested supported HTTPS <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -404,7 +404,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 20 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -828,13 +828,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### twitch.tv
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### twitter.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -1040,7 +1033,7 @@ Response encoding: ISO-8859-1 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
-`googlesyndication.com`: 20<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
 `www.tns-counter.ru`: 2<br>
 `tags.tiqcdn.com`: 1<br>
