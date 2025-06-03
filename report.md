@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
+142 domains tested <br>
 Failed to test 7 domains <br>
-51 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -66,6 +66,13 @@ Response encoding: UTF-8 <br>
 
 
 #### amazonvideo.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
+#### ampproject.org
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -478,15 +485,8 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### linkos.bg
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
 #### live.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -663,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -746,9 +746,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### skype.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### snapchat.com
@@ -775,7 +775,7 @@ Response encoding: utf-8 <br>
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 10 <br>
+Number of trackers detected: 15 <br>
 Response encoding: utf-8 <br>
 
 
@@ -826,13 +826,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
-
-
-#### twitch.tv
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### twitter.com
@@ -1054,7 +1047,7 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 10<br>
+`t.co`: 15<br>
 `taboola.com`: 136<br>
 `swissknife.taboola.com`: 1<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>

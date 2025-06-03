@@ -2529,3 +2529,13 @@ sun9-25.userapi.com
 e11697.cd.akamaiedge.net
 onedscolprdaus03.australiasoutheast.cloudapp.azure.com
 oag.ca.gov
+ampproject.org
+amp.dev
+cdn-content.ampproject.org
+cdn.ampproject.org
+hubspotonwebflow.com
+customer-ltx6ylk10sje63q6.cloudflarestream.com
+a1996.dscd.akamai.net
+statics.teams.cdn.live.net
+s-0005.s-msedge.net
+teams.live.com
