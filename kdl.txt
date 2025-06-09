@@ -2539,3 +2539,6 @@ a1996.dscd.akamai.net
 statics.teams.cdn.live.net
 s-0005.s-msedge.net
 teams.live.com
+a1666.dscr.akamai.net
+search.usa.gov
+assets.pinterest.com
