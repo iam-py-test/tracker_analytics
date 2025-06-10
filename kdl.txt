@@ -2542,3 +2542,4 @@ teams.live.com
 a1666.dscr.akamai.net
 search.usa.gov
 assets.pinterest.com
+outlook-g.trafficmanager.net
