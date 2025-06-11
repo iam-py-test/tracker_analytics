@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-142 domains tested <br>
-Failed to test 7 domains <br>
-49 of the domains tested used known trackers <br>
-137 of the domains tested supported HTTPS <br>
+143 domains tested <br>
+Failed to test 6 domains <br>
+48 of the domains tested used known trackers <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -208,7 +208,7 @@ Response encoding: ISO-8859-1 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 322 <br>
+Number of trackers detected: 328 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -243,7 +243,7 @@ Response encoding: ISO-8859-1 <br>
 #### doubleverify.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 198 <br>
+Number of trackers detected: 202 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -287,6 +287,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### f5.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### facebook.com
@@ -733,7 +740,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 192 <br>
+Number of trackers detected: 193 <br>
 Response encoding: utf-8 <br>
 
 
@@ -935,9 +942,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1006,7 +1013,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 24<br>
+`www.googletagmanager.com`: 22<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -1026,12 +1033,12 @@ Response encoding: ISO-8859-1 <br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
 `static.chartbeat.com`: 1<br>
-`criteo.com`: 230<br>
+`criteo.com`: 236<br>
 `www.criteo.com`: 90<br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
-`doubleverify.com`: 193<br>
-`stats.wp.com`: 8<br>
+`doubleverify.com`: 197<br>
+`stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 3<br>
@@ -1042,7 +1049,7 @@ Response encoding: ISO-8859-1 <br>
 `sb.scorecardresearch.com`: 6<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
-`sentry.io`: 138<br>
+`sentry.io`: 139<br>
 `www.sentry.dev`: 52<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
