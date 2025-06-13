@@ -2543,3 +2543,5 @@ a1666.dscr.akamai.net
 search.usa.gov
 assets.pinterest.com
 outlook-g.trafficmanager.net
+legacy-hostedseal-prod2-2000933319.us-east-1.elb.amazonaws.com
+hostedseal.trustarc.com
