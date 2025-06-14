@@ -2545,3 +2545,5 @@ assets.pinterest.com
 outlook-g.trafficmanager.net
 legacy-hostedseal-prod2-2000933319.us-east-1.elb.amazonaws.com
 hostedseal.trustarc.com
+www.shopify.com
+gtm.shopify.com
