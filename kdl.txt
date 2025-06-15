@@ -2547,3 +2547,4 @@ legacy-hostedseal-prod2-2000933319.us-east-1.elb.amazonaws.com
 hostedseal.trustarc.com
 www.shopify.com
 gtm.shopify.com
+d3m889aznlr23d.cloudfront.net
