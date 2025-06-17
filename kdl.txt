@@ -2548,3 +2548,4 @@ hostedseal.trustarc.com
 www.shopify.com
 gtm.shopify.com
 d3m889aznlr23d.cloudfront.net
+vungle.com
