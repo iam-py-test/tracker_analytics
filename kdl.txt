@@ -2549,3 +2549,5 @@ www.shopify.com
 gtm.shopify.com
 d3m889aznlr23d.cloudfront.net
 vungle.com
+standards.digital.gov.external-domains-production.cloud.gov
+standards.digital.gov
