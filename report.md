@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
 142 domains tested <br>
-Failed to test 7 domains <br>
+Failed to test 6 domains <br>
 50 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
@@ -202,7 +202,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### discord.gg
@@ -979,7 +979,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### youtu.be
