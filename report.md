@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
 142 domains tested <br>
-Failed to test 6 domains <br>
+Failed to test 7 domains <br>
 50 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
