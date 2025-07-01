@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 142 domains tested <br>
 Failed to test 7 domains <br>
-49 of the domains tested used known trackers <br>
+51 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -60,8 +60,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### amazonaws.com
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -390,7 +390,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 20 <br>
+Number of trackers detected: 21 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -438,9 +438,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### imgsmail.ru
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### instagram.com
@@ -487,9 +487,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### mail.ru
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### medium.com
@@ -507,6 +507,13 @@ Response encoding: ISO-8859-1 <br>
 
 
 #### microsoft.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
+#### miui.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -649,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -658,13 +665,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### pubmatic.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: UTF-8 <br>
 
 
 #### qq.com
@@ -712,7 +712,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 212 <br>
+Number of trackers detected: 210 <br>
 Response encoding: utf-8 <br>
 
 
@@ -746,9 +746,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### soundcloud.com
@@ -821,13 +821,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### twitch.tv
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### twitter.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -868,6 +861,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
+
+
+#### vungle.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### w3.org
@@ -1008,6 +1008,7 @@ Response encoding: ISO-8859-1 <br>
 `ad.adriver.ru`: 2<br>
 `www.googletagmanager.com`: 25<br>
 `amazon-adsystem.com`: 1<br>
+`amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1033,15 +1034,16 @@ Response encoding: ISO-8859-1 <br>
 `stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 20<br>
+`www.google-analytics.com`: 3<br>
+`googlesyndication.com`: 21<br>
 `googletagmanager.com`: 3<br>
+`www.tns-counter.ru`: 2<br>
 `tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `sentry.io`: 156<br>
-`www.sentry.dev`: 54<br>
+`www.sentry.dev`: 52<br>
 `plausible.io`: 1<br>
 `reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
@@ -1052,3 +1054,4 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 1<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
 `www.taboola.com`: 80<br>
+`vungle.com`: 1<br>
