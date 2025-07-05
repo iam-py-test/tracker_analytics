@@ -2553,3 +2553,4 @@ standards.digital.gov.external-domains-production.cloud.gov
 standards.digital.gov
 mira-ooc.tm-4.office.com
 cdn.tinypass.com
+www.paypal.com.cdn.cloudflare.net

@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-142 domains tested <br>
-Failed to test 8 domains <br>
-51 of the domains tested used known trackers <br>
-138 of the domains tested supported HTTPS <br>
+143 domains tested <br>
+Failed to test 7 domains <br>
+52 of the domains tested used known trackers <br>
+139 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -60,9 +60,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### amazonaws.com
 HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### amazonvideo.com
@@ -590,6 +590,13 @@ Number of trackers detected: 1 <br>
 Response encoding: UTF-8 <br>
 
 
+#### ntp.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -656,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -697,8 +704,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1008,6 +1015,7 @@ Response encoding: ISO-8859-1 <br>
 `ad.adriver.ru`: 2<br>
 `www.googletagmanager.com`: 26<br>
 `amazon-adsystem.com`: 1<br>
+`amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 6<br>
