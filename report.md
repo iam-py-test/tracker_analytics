@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 7 domains <br>
-51 of the domains tested used known trackers <br>
+52 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
 
@@ -72,6 +72,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### android.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### apache.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -133,13 +140,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### bbc.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
 
 
 #### bing.com
@@ -674,13 +674,6 @@ Number of trackers detected: 4 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### pubmatic.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: UTF-8 <br>
-
-
 #### qq.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -720,7 +713,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sentry.io
@@ -760,9 +753,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -796,7 +789,7 @@ Response encoding: utf-8 <br>
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 221 <br>
+Number of trackers detected: 222 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -875,6 +868,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
+
+
+#### vungle.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### w3.org
@@ -979,7 +979,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yandex.ru
@@ -1013,11 +1013,11 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 26<br>
+`www.googletagmanager.com`: 28<br>
 `amazon-adsystem.com`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
-`cdn.optimizely.com`: 6<br>
+`cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
@@ -1056,7 +1056,8 @@ Response encoding: ISO-8859-1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 15<br>
-`taboola.com`: 137<br>
+`taboola.com`: 138<br>
 `swissknife.taboola.com`: 1<br>
 `dev.visualwebsiteoptimizer.com`: 2<br>
 `www.taboola.com`: 80<br>
+`vungle.com`: 1<br>
