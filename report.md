@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 7 domains <br>
-51 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
 
@@ -60,8 +60,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### amazonaws.com
 HTTPS: False <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -607,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -796,8 +796,8 @@ Response encoding: utf-8 <br>
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 222 <br>
-Response encoding: UTF-8 <br>
+Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### telekom.de
@@ -1013,9 +1013,8 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 27<br>
 `amazon-adsystem.com`: 1<br>
-`amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1032,7 +1031,7 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 237<br>
 `www.criteo.com`: 90<br>
 `www2.criteo.com`: 1<br>
@@ -1056,7 +1055,4 @@ Response encoding: ISO-8859-1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 15<br>
-`taboola.com`: 138<br>
-`swissknife.taboola.com`: 1<br>
-`dev.visualwebsiteoptimizer.com`: 1<br>
-`www.taboola.com`: 80<br>
+`taboola.com`: 1<br>
