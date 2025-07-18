@@ -2558,3 +2558,5 @@ cia.sec.miui.com.conflict.volcfake.com.bplslb.com
 www.office.com
 ps71jnim0s.kameleoon.io
 harvesthq.github.io
+cx0.m.awsstatic.com
+STAtIC.group-cdn.one
