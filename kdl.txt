@@ -2560,3 +2560,8 @@ ps71jnim0s.kameleoon.io
 harvesthq.github.io
 cx0.m.awsstatic.com
 STAtIC.group-cdn.one
+inmobi.com
+www.eastus.appgw.inmobi.com
+www.inmobi.com
+web-inmobicdnnet-gcp-cdn.umc.inmobi.com
+web.inmobicdn.net
