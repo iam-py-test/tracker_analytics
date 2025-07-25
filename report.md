@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 146 domains tested <br>
 Failed to test 6 domains <br>
-50 of the domains tested used known trackers <br>
+48 of the domains tested used known trackers <br>
 141 of the domains tested supported HTTPS <br>
 
 
@@ -60,9 +60,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### amazonaws.com
 HTTPS: False <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### amazonvideo.com
@@ -480,9 +480,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -621,7 +621,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -684,7 +684,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1036,7 +1036,6 @@ Response encoding: ISO-8859-1 <br>
 `ad.adriver.ru`: 2<br>
 `www.googletagmanager.com`: 26<br>
 `amazon-adsystem.com`: 1<br>
-`amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1053,7 +1052,7 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`static.chartbeat.com`: 2<br>
+`static.chartbeat.com`: 1<br>
 `criteo.com`: 241<br>
 `www.criteo.com`: 90<br>
 `www2.criteo.com`: 1<br>
@@ -1067,7 +1066,6 @@ Response encoding: ISO-8859-1 <br>
 `googletagmanager.com`: 3<br>
 `inmobi.com`: 41<br>
 `www.inmobi.com`: 1<br>
-`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
