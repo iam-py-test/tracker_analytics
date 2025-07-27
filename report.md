@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-146 domains tested <br>
+147 domains tested <br>
 Failed to test 6 domains <br>
-48 of the domains tested used known trackers <br>
-141 of the domains tested supported HTTPS <br>
+49 of the domains tested used known trackers <br>
+142 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -133,6 +133,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
+
+
+#### b-cdn.net
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### baidu.com

@@ -2566,3 +2566,10 @@ www.inmobi.com
 web-inmobicdnnet-gcp-cdn.umc.inmobi.com
 web.inmobicdn.net
 la3-c1-ia6.ia6.r.salesforceliveagent.com
+b-cdn.net
+bunnyfonts.b-cdn.net
+fonts.bunny.net
+Bunny-Reddit.b-cdn.net
+matomo.bunny.net
+chat.bunny.net
+bunny.net
