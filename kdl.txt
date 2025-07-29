@@ -2573,3 +2573,4 @@ Bunny-Reddit.b-cdn.net
 matomo.bunny.net
 chat.bunny.net
 bunny.net
+e-mail-ru.cdn-vk.ru
