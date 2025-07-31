@@ -2574,3 +2574,4 @@ matomo.bunny.net
 chat.bunny.net
 bunny.net
 e-mail-ru.cdn-vk.ru
+ax-0003.ax-dc-msedge.net
