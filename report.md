@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
 146 domains tested <br>
-Failed to test 4 domains <br>
-52 of the domains tested used known trackers <br>
+Failed to test 3 domains <br>
+51 of the domains tested used known trackers <br>
 141 of the domains tested supported HTTPS <br>
 
 
@@ -167,6 +167,13 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 7 <br>
+Response encoding: UTF-8 <br>
+
+
+#### chatgpt.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -457,13 +464,6 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### inmobi.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 43 <br>
-Response encoding: utf-8 <br>
-
-
 #### instagram.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -663,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1033,7 +1033,7 @@ Response encoding: ISO-8859-1 <br>
 `adnxs.com`: 1<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 27<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1061,8 +1061,6 @@ Response encoding: ISO-8859-1 <br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`inmobi.com`: 41<br>
-`www.inmobi.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
