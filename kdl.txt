@@ -2576,3 +2576,6 @@ bunny.net
 e-mail-ru.cdn-vk.ru
 ax-0003.ax-dc-msedge.net
 chatgpt.com
+c-msn-afd.trafficmanager.net
+e63987.dsca.akamaiedge.net
+wp.sfdcdigital.com
