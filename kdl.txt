@@ -2583,3 +2583,8 @@ bna30r9a.msedge.net
 nycr9.msedge.net
 teb31r9a.msedge.net
 forter.com
+api.twitter.com.cdn.cloudflare.net
+api.x.com.cdn.cloudflare.net
+video.twimg.com.cdn.cloudflare.net
+abs-zero.twimg.com
+abs-0.twimg.com
