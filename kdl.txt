@@ -2588,3 +2588,4 @@ api.x.com.cdn.cloudflare.net
 video.twimg.com.cdn.cloudflare.net
 abs-zero.twimg.com
 abs-0.twimg.com
+video.xx.fbcdn.net
