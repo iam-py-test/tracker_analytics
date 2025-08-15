@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-141 domains tested <br>
+143 domains tested <br>
 Failed to test 3 domains <br>
 54 of the domains tested used known trackers <br>
-137 of the domains tested supported HTTPS <br>
+139 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -226,6 +226,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### discord.gg
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### dns.google
 HTTPS: True <br>
 Known trackers: False <br>
@@ -329,13 +336,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
-
-
-#### forter.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### gandi.net
@@ -520,6 +520,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### miui.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### mozilla.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -593,7 +600,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -653,13 +660,6 @@ Number of trackers detected: 4 <br>
 Response encoding: UTF-8 <br>
 
 
-#### pubmatic.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: UTF-8 <br>
-
-
 #### qq.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -712,7 +712,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 207 <br>
+Number of trackers detected: 210 <br>
 Response encoding: utf-8 <br>
 
 
@@ -746,9 +746,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -849,6 +849,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### userapi.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
+
+
 #### vimeo.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -935,9 +942,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -975,6 +982,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### yandex.ru
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### youtu.be
 HTTPS: True <br>
 Known trackers: False <br>
@@ -998,7 +1012,7 @@ Response encoding: ISO-8859-1 <br>
 `adnxs.com`: 1<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 28<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1020,22 +1034,21 @@ Response encoding: ISO-8859-1 <br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 205<br>
-`stats.wp.com`: 8<br>
+`stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`sb.scorecardresearch.com`: 5<br>
+`sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
-`sentry.io`: 154<br>
-`www.sentry.dev`: 51<br>
+`sentry.io`: 155<br>
+`www.sentry.dev`: 53<br>
 `plausible.io`: 1<br>
 `reveal.clearbit.com`: 1<br>
 `secure.quantserve.com`: 1<br>
