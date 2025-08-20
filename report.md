@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 144 domains tested <br>
 Failed to test 3 domains <br>
-54 of the domains tested used known trackers <br>
-139 of the domains tested supported HTTPS <br>
+57 of the domains tested used known trackers <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -170,6 +170,13 @@ Number of trackers detected: 7 <br>
 Response encoding: UTF-8 <br>
 
 
+#### chatgpt.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### cloudflare-dns.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -250,7 +257,7 @@ Response encoding: ISO-8859-1 <br>
 #### doubleverify.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 210 <br>
+Number of trackers detected: 217 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -466,9 +473,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### lencr.org
@@ -600,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -636,7 +643,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### paypal.com
@@ -649,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -681,17 +688,10 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### registrar-servers.com
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### roblox.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -760,9 +760,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -1019,7 +1019,7 @@ Response encoding: ISO-8859-1 <br>
 `adnxs.com`: 1<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 29<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1040,16 +1040,16 @@ Response encoding: ISO-8859-1 <br>
 `www.criteo.com`: 90<br>
 `www2.criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
-`doubleverify.com`: 205<br>
+`doubleverify.com`: 212<br>
 `stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 6<br>
+`www.google-analytics.com`: 7<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
+`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `cdn.krxd.net`: 1<br>
