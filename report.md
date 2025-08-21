@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 144 domains tested <br>
 Failed to test 3 domains <br>
-57 of the domains tested used known trackers <br>
+55 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -215,7 +215,7 @@ Response encoding: ISO-8859-1 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 333 <br>
+Number of trackers detected: 327 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -473,9 +473,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### lencr.org
@@ -643,7 +643,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### paypal.com
@@ -690,8 +690,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -796,7 +796,7 @@ Response encoding: utf-8 <br>
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 221 <br>
+Number of trackers detected: 222 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -1019,7 +1019,7 @@ Response encoding: ISO-8859-1 <br>
 `adnxs.com`: 1<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 29<br>
+`www.googletagmanager.com`: 27<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1036,9 +1036,8 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`criteo.com`: 241<br>
-`www.criteo.com`: 90<br>
-`www2.criteo.com`: 1<br>
+`criteo.com`: 240<br>
+`www.criteo.com`: 86<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 212<br>
 `stats.wp.com`: 6<br>
@@ -1047,7 +1046,6 @@ Response encoding: ISO-8859-1 <br>
 `www.google-analytics.com`: 7<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
@@ -1063,8 +1061,9 @@ Response encoding: ISO-8859-1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 19<br>
-`taboola.com`: 137<br>
+`taboola.com`: 138<br>
 `swissknife.taboola.com`: 1<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 80<br>
 `vungle.com`: 1<br>
+`cdn3.optimizely.com`: 1<br>

@@ -2589,3 +2589,6 @@ video.twimg.com.cdn.cloudflare.net
 abs-zero.twimg.com
 abs-0.twimg.com
 video.xx.fbcdn.net
+a434.dscd.akamai.net
+res.public.onecdn.static.microsoft
+cdn3.optimizely.com
