@@ -473,9 +473,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### lencr.org
@@ -643,7 +643,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### paypal.com
@@ -760,9 +760,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### soundcloud.com
@@ -1019,7 +1019,7 @@ Response encoding: ISO-8859-1 <br>
 `adnxs.com`: 1<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 26<br>
 `app-measurement.com`: 2<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1043,9 +1043,10 @@ Response encoding: ISO-8859-1 <br>
 `stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 7<br>
+`www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
+`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
