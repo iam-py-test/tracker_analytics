@@ -2596,3 +2596,5 @@ paypal-h3-dynamic-cdn.map.fastly.net
 occ.a.nflxso.net
 bunnynetassets.b-cdn.net
 cdn.statuspage.io
+okra.pinterest.com
+api.sardine.ai
