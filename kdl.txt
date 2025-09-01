@@ -2598,3 +2598,4 @@ bunnynetassets.b-cdn.net
 cdn.statuspage.io
 okra.pinterest.com
 api.sardine.ai
+dualstack.brightcove.map.fastly.net
