@@ -2599,3 +2599,6 @@ cdn.statuspage.io
 okra.pinterest.com
 api.sardine.ai
 dualstack.brightcove.map.fastly.net
+rcf.bing.com.cdn.cloudflare.net
+rcf.bing.com
+ewr31r9a.msedge.net
