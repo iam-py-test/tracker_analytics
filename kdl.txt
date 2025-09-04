@@ -2602,3 +2602,4 @@ dualstack.brightcove.map.fastly.net
 rcf.bing.com.cdn.cloudflare.net
 rcf.bing.com
 ewr31r9a.msedge.net
+bx-0004.bx-msedge.net
