@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
 144 domains tested <br>
-Failed to test 5 domains <br>
+Failed to test 6 domains <br>
 52 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
@@ -607,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1051,6 +1051,7 @@ Response encoding: ISO-8859-1 <br>
 `googletagmanager.com`: 3<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `sentry.io`: 155<br>
