@@ -2605,3 +2605,5 @@ ewr31r9a.msedge.net
 bx-0004.bx-msedge.net
 ripn.net
 www.apache.org
+s-part-0038.t-0009.t-msedge.net
+CYS-efz.ms-acdc.office.com

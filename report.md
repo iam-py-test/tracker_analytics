@@ -643,7 +643,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### ozon.ru
@@ -663,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -789,7 +789,7 @@ Response encoding: utf-8 <br>
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 224 <br>
+Number of trackers detected: 226 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -1054,9 +1054,9 @@ Response encoding: ISO-8859-1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `t.co`: 19<br>
-`taboola.com`: 139<br>
+`taboola.com`: 140<br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
-`www.taboola.com`: 80<br>
+`www.taboola.com`: 81<br>
 `vungle.com`: 1<br>
 `cdn3.optimizely.com`: 1<br>
