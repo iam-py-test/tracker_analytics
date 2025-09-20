@@ -2609,3 +2609,5 @@ s-part-0038.t-0009.t-msedge.net
 CYS-efz.ms-acdc.office.com
 godaddy.com
 mkt-static.bitly.com
+d3q6pqi4oejqd4.cloudfront.net
+media.zoom.com
