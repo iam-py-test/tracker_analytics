@@ -289,13 +289,6 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
-#### f5.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
-
-
 #### facebook.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -503,7 +496,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### meraki.com
@@ -600,7 +593,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -671,6 +664,13 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
+
+
+#### pubmatic.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -753,9 +753,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### soundcloud.com
@@ -979,7 +979,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yandex.ru
@@ -1044,7 +1044,6 @@ Response encoding: ISO-8859-1 <br>
 `googletagmanager.com`: 3<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `sentry.io`: 155<br>
