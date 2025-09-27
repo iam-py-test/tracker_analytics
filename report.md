@@ -317,6 +317,13 @@ Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### forbes.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### forms.gle
 HTTPS: True <br>
 Known trackers: False <br>
@@ -482,7 +489,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### mail.ru
@@ -636,7 +643,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### ozon.ru
@@ -656,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -664,13 +671,6 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
-
-
-#### pubmatic.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -753,9 +753,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
