@@ -2611,3 +2611,5 @@ godaddy.com
 mkt-static.bitly.com
 d3q6pqi4oejqd4.cloudfront.net
 media.zoom.com
+edgecdn.ru
+119.p.giex.ru
