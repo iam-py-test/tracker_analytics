@@ -2613,3 +2613,5 @@ d3q6pqi4oejqd4.cloudfront.net
 media.zoom.com
 edgecdn.ru
 119.p.giex.ru
+cloud.microsoft
+m365.cloud.microsoft
