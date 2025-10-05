@@ -2615,3 +2615,4 @@ edgecdn.ru
 119.p.giex.ru
 cloud.microsoft
 m365.cloud.microsoft
+part-0010.t-0009.fb-t-msedge.net
