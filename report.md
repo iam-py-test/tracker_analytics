@@ -222,7 +222,7 @@ Response encoding: utf-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 327 <br>
+Number of trackers detected: 328 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -466,9 +466,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -600,7 +600,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -663,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -767,9 +767,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -811,7 +811,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### theguardian.com
@@ -1027,7 +1027,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 41<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 26<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -1047,18 +1047,18 @@ Response encoding: ISO-8859-1 <br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
 `criteo.com`: 240<br>
-`www.criteo.com`: 86<br>
+`www.criteo.com`: 87<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 212<br>
 `stats.wp.com`: 6<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 5<br>
+`www.google-analytics.com`: 6<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `cdn.krxd.net`: 1<br>

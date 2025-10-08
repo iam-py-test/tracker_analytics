@@ -2620,3 +2620,6 @@ widget.trustpilot.com
 c.sfdcstatic.com
 e63490.a.akamaiedge.net
 c.salesforce.com
+pdx31r9a.msedge.net
+api.i.sanity.io
+fuvbjjlp.api.sanity.io
