@@ -2623,3 +2623,5 @@ c.salesforce.com
 pdx31r9a.msedge.net
 api.i.sanity.io
 fuvbjjlp.api.sanity.io
+e84128.dsca.akamaiedge.net
+assets.intuit.com
