@@ -2625,3 +2625,4 @@ api.i.sanity.io
 fuvbjjlp.api.sanity.io
 e84128.dsca.akamaiedge.net
 assets.intuit.com
+imagedelivery.net
