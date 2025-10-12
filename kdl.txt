@@ -2626,3 +2626,4 @@ fuvbjjlp.api.sanity.io
 e84128.dsca.akamaiedge.net
 assets.intuit.com
 imagedelivery.net
+part-0038.t-0009.t-msedge.net
