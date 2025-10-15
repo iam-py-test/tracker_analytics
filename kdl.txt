@@ -2628,3 +2628,4 @@ assets.intuit.com
 imagedelivery.net
 part-0038.t-0009.t-msedge.net
 images.forbes.com
+js.hubspot.com
