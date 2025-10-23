@@ -2631,3 +2631,4 @@ images.forbes.com
 js.hubspot.com
 STaTic.group-cdn.one
 part-0043.t-0009.fb-t-msedge.net
+adtrafficquality.google
