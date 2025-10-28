@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-146 domains tested <br>
+145 domains tested <br>
 Failed to test 6 domains <br>
-54 of the domains tested used known trackers <br>
-141 of the domains tested supported HTTPS <br>
+52 of the domains tested used known trackers <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -83,7 +83,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### android.com
@@ -275,13 +275,6 @@ Number of trackers detected: 92 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### doubleverify.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 201 <br>
-Response encoding: UTF-8 <br>
-
-
 #### dropbox.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -341,7 +334,7 @@ Response encoding: utf-8 <br>
 #### flickr.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -517,7 +510,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### microsoft.com
@@ -767,9 +760,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### soundcloud.com
@@ -1034,7 +1027,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 40<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 24<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -1056,10 +1049,9 @@ Response encoding: ISO-8859-1 <br>
 `criteo.com`: 240<br>
 `www.criteo.com`: 85<br>
 `doubleclick.net`: 90<br>
-`doubleverify.com`: 199<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 6<br>
+`www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 3<br>
