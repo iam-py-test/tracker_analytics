@@ -2639,3 +2639,5 @@ transunion.com
 officemru.x01-006.oxo-oasisice-mru.01-centralus-prod.cosmic.office.net
 no-cache.hubspot.com
 officemru.x01-012.oxo-oasisice-mru.01-westus-prod.cosmic.office.net
+bn1r9a.msedge.net
+yto22r9a.msedge.net
