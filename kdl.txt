@@ -2642,3 +2642,7 @@ officemru.x01-012.oxo-oasisice-mru.01-westus-prod.cosmic.office.net
 bn1r9a.msedge.net
 yto22r9a.msedge.net
 services.google.com
+adsrvr.org
+www.thetradedesk.com.cdn.cloudflare.net
+www.thetradedesk.com
+mira-ofc.tm-4.office.com
