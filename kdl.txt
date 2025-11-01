@@ -2646,3 +2646,5 @@ adsrvr.org
 www.thetradedesk.com.cdn.cloudflare.net
 www.thetradedesk.com
 mira-ofc.tm-4.office.com
+login.production.p5x.telekom.net
+accounts.login.idm.telekom.com
