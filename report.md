@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-144 domains tested <br>
-Failed to test 8 domains <br>
-53 of the domains tested used known trackers <br>
-140 of the domains tested supported HTTPS <br>
+145 domains tested <br>
+Failed to test 7 domains <br>
+54 of the domains tested used known trackers <br>
+141 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -782,8 +782,8 @@ Response encoding: utf-8 <br>
 #### t.co
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 15 <br>
-Response encoding: utf-8 <br>
+Number of trackers detected: 7 <br>
+Response encoding: UTF-8 <br>
 
 
 #### t.me
@@ -882,6 +882,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
+
+
+#### vungle.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### w3.org
@@ -1064,9 +1071,10 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`t.co`: 19<br>
+`t.co`: 11<br>
 `taboola.com`: 140<br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 81<br>
+`vungle.com`: 1<br>
 `cdn3.optimizely.com`: 1<br>
