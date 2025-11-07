@@ -236,7 +236,7 @@ Response encoding: utf-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 326 <br>
+Number of trackers detected: 328 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -600,7 +600,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -663,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1047,7 +1047,7 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`criteo.com`: 240<br>
+`criteo.com`: 242<br>
 `www.criteo.com`: 85<br>
 `doubleclick.net`: 90<br>
 `doubleverify.com`: 199<br>
@@ -1060,6 +1060,7 @@ Response encoding: ISO-8859-1 <br>
 `tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `cdn.krxd.net`: 1<br>
