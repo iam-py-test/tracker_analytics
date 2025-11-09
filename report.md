@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
 145 domains tested <br>
-Failed to test 7 domains <br>
+Failed to test 8 domains <br>
 52 of the domains tested used known trackers <br>
 141 of the domains tested supported HTTPS <br>
 
@@ -418,7 +418,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 20 <br>
+Number of trackers detected: 13 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -593,7 +593,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -656,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -860,7 +860,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: None <br>
 
 
 #### userapi.com
@@ -1053,12 +1053,11 @@ Response encoding: ISO-8859-1 <br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
-`googlesyndication.com`: 20<br>
+`googlesyndication.com`: 13<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 3<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `cdn.krxd.net`: 1<br>
