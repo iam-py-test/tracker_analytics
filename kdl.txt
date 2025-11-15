@@ -2655,3 +2655,5 @@ cdn.sanity-host.com
 cdn.studio.f5.com
 dns.cn
 app-ue1-public.fe.pardot.com
+img.connatix.com.cdn.cloudflare.net
+img.connatix.com
