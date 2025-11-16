@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 146 domains tested <br>
 Failed to test 8 domains <br>
-55 of the domains tested used known trackers <br>
+54 of the domains tested used known trackers <br>
 142 of the domains tested supported HTTPS <br>
 
 
@@ -341,7 +341,7 @@ Response encoding: ISO-8859-1 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 5 <br>
 Response encoding: utf-8 <br>
 
 
@@ -524,7 +524,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### microsoft.com
@@ -963,9 +963,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1000,14 +1000,14 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yandex.ru
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### youtu.be
@@ -1034,7 +1034,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 40<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 28<br>
+`www.googletagmanager.com`: 26<br>
 `adsrvr.org`: 20<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
@@ -1057,13 +1057,14 @@ Response encoding: ISO-8859-1 <br>
 `criteo.com`: 242<br>
 `www.criteo.com`: 85<br>
 `doubleclick.net`: 90<br>
+`dev.visualwebsiteoptimizer.com`: 3<br>
 `img.connatix.com`: 3<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 5<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 3<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
@@ -1080,7 +1081,6 @@ Response encoding: ISO-8859-1 <br>
 `t.co`: 9<br>
 `taboola.com`: 137<br>
 `swissknife.taboola.com`: 2<br>
-`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 81<br>
 `vungle.com`: 1<br>
 `cdn3.optimizely.com`: 1<br>
