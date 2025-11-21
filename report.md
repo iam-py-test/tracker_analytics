@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-146 domains tested <br>
-Failed to test 9 domains <br>
-55 of the domains tested used known trackers <br>
-142 of the domains tested supported HTTPS <br>
+144 domains tested <br>
+Failed to test 10 domains <br>
+52 of the domains tested used known trackers <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -83,7 +83,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### android.com
@@ -226,13 +226,6 @@ Number of trackers detected: 28 <br>
 Response encoding: utf-8 <br>
 
 
-#### creativecommons.org
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
-
-
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -341,7 +334,7 @@ Response encoding: ISO-8859-1 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 4 <br>
 Response encoding: utf-8 <br>
 
 
@@ -480,9 +473,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -663,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -721,13 +714,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### salesforce.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 5 <br>
-Response encoding: utf-8 <br>
 
 
 #### samsung.com
@@ -1034,7 +1020,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 40<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 27<br>
+`www.googletagmanager.com`: 25<br>
 `adsrvr.org`: 20<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
@@ -1056,21 +1042,17 @@ Response encoding: ISO-8859-1 <br>
 `criteo.com`: 242<br>
 `www.criteo.com`: 85<br>
 `doubleclick.net`: 90<br>
-`img.connatix.com`: 3<br>
+`img.connatix.com`: 4<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`www.google-analytics.com`: 5<br>
+`www.google-analytics.com`: 4<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
-`cdn.krxd.net`: 1<br>
-`dpm.demdex.net`: 1<br>
-`salesforce.us-1.evergage.com`: 1<br>
 `sentry.io`: 156<br>
 `www.sentry.dev`: 53<br>
 `plausible.io`: 1<br>
