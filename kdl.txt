@@ -2657,3 +2657,5 @@ dns.cn
 app-ue1-public.fe.pardot.com
 img.connatix.com.cdn.cloudflare.net
 img.connatix.com
+ua.linkedin.com
+vn.linkedin.com
