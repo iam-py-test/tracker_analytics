@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 10 domains <br>
-52 of the domains tested used known trackers <br>
+53 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
 
@@ -83,7 +83,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### android.com
@@ -226,6 +226,13 @@ Number of trackers detected: 28 <br>
 Response encoding: utf-8 <br>
 
 
+#### creativecommons.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
+
+
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -294,13 +301,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
-
-
-#### f5.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
 
 
 #### facebook.com
@@ -979,7 +979,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yandex.ru
@@ -1013,7 +1013,7 @@ Response encoding: ISO-8859-1 <br>
 `adriver.ru`: 32<br>
 `www.adriver.ru`: 40<br>
 `ad.adriver.ru`: 2<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 26<br>
 `adsrvr.org`: 20<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
