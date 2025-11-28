@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-144 domains tested <br>
+143 domains tested <br>
 Failed to test 10 domains <br>
 54 of the domains tested used known trackers <br>
-140 of the domains tested supported HTTPS <br>
+139 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -83,7 +83,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### android.com
@@ -341,7 +341,7 @@ Response encoding: ISO-8859-1 <br>
 #### forbes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -647,13 +647,6 @@ Response encoding: utf-8 <br>
 
 
 #### outlook.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
-#### ozon.ru
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -1042,7 +1035,7 @@ Response encoding: ISO-8859-1 <br>
 `criteo.com`: 242<br>
 `www.criteo.com`: 85<br>
 `doubleclick.net`: 90<br>
-`img.connatix.com`: 3<br>
+`img.connatix.com`: 2<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
 `www.google-analytics.com`: 4<br>
