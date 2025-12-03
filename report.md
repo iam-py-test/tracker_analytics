@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-141 domains tested <br>
-Failed to test 10 domains <br>
-51 of the domains tested used known trackers <br>
-137 of the domains tested supported HTTPS <br>
+142 domains tested <br>
+Failed to test 9 domains <br>
+53 of the domains tested used known trackers <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -76,7 +76,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### android.com
@@ -266,6 +266,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 92 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### doubleverify.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 201 <br>
+Response encoding: UTF-8 <br>
 
 
 #### dropbox.com
@@ -473,9 +480,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### kaspersky.com
@@ -552,7 +559,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### nginx.com
@@ -600,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -656,7 +663,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -997,7 +1004,7 @@ Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `adnxs.com`: 1<br>
 `adsrvr.org`: 20<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 27<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -1018,6 +1025,7 @@ Response encoding: ISO-8859-1 <br>
 `criteo.com`: 242<br>
 `www.criteo.com`: 85<br>
 `doubleclick.net`: 90<br>
+`doubleverify.com`: 199<br>
 `img.connatix.com`: 2<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
@@ -1025,8 +1033,10 @@ Response encoding: ISO-8859-1 <br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 3<br>
+`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `sentry.io`: 156<br>
