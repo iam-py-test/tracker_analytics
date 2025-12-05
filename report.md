@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-142 domains tested <br>
-Failed to test 9 domains <br>
-52 of the domains tested used known trackers <br>
-138 of the domains tested supported HTTPS <br>
+144 domains tested <br>
+Failed to test 7 domains <br>
+53 of the domains tested used known trackers <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -464,6 +464,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### health.mil
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -556,6 +563,13 @@ Response encoding: utf-8 <br>
 
 
 #### mts.ru
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
+#### netflix.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -1004,7 +1018,7 @@ Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `adnxs.com`: 1<br>
 `adsrvr.org`: 20<br>
-`www.googletagmanager.com`: 29<br>
+`www.googletagmanager.com`: 30<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>

@@ -2661,3 +2661,5 @@ ua.linkedin.com
 vn.linkedin.com
 abs.twimg.com.cdn.cloudflare.net
 d345jp3dysmbgh.cloudfront.net
+StatIC.group-cdn.one
+dynamic.x.com.cdn.cloudflare.net
