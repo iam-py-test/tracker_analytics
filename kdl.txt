@@ -2663,3 +2663,5 @@ abs.twimg.com.cdn.cloudflare.net
 d345jp3dysmbgh.cloudfront.net
 StatIC.group-cdn.one
 dynamic.x.com.cdn.cloudflare.net
+h3.apis.apple.map.fastly.net
+is1-ssl.mzstatic.com
