@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 141 domains tested <br>
 Failed to test 9 domains <br>
-49 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 137 of the domains tested supported HTTPS <br>
 
 
@@ -656,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -760,9 +760,9 @@ Response encoding: UTF-8 <br>
 
 #### soundcloud.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### spotify.com
@@ -1026,18 +1026,20 @@ Response encoding: ISO-8859-1 <br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 3<br>
-`sb.scorecardresearch.com`: 5<br>
+`sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `sentry.io`: 156<br>
 `www.sentry.dev`: 54<br>
 `plausible.io`: 1<br>
+`secure.quantserve.com`: 1<br>
+`ssl.google-analytics.com`: 2<br>
+`pixel.quantserve.com`: 1<br>
 `taboola.com`: 132<br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
 `vungle.com`: 1<br>
-`ssl.google-analytics.com`: 1<br>
 `t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
