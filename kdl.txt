@@ -2666,3 +2666,4 @@ dynamic.x.com.cdn.cloudflare.net
 h3.apis.apple.map.fastly.net
 is1-ssl.mzstatic.com
 cys01r9a.msedge.net
+d3tfcdf9l04pqp.cloudfront.net

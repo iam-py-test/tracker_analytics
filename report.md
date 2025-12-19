@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 142 domains tested <br>
 Failed to test 8 domains <br>
-53 of the domains tested used known trackers <br>
+54 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -600,7 +600,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -733,7 +733,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 212 <br>
+Number of trackers detected: 225 <br>
 Response encoding: utf-8 <br>
 
 
@@ -830,9 +830,9 @@ Response encoding: utf-8 <br>
 
 #### twitter.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### ui.com
@@ -1035,13 +1035,14 @@ Response encoding: ISO-8859-1 <br>
 `tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `cdn.krxd.net`: 1<br>
 `dpm.demdex.net`: 1<br>
 `salesforce.us-1.evergage.com`: 1<br>
-`sentry.io`: 157<br>
-`www.sentry.dev`: 54<br>
+`sentry.io`: 222<br>
+`www.sentry.dev`: 2<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
@@ -1050,6 +1051,6 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
+`t.co`: 4<br>
 `vungle.com`: 1<br>
-`t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
