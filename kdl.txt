@@ -2667,3 +2667,17 @@ h3.apis.apple.map.fastly.net
 is1-ssl.mzstatic.com
 cys01r9a.msedge.net
 d3tfcdf9l04pqp.cloudfront.net
+e8647.dsca.akamaiedge.net
+www.avast.com
+e4518.dscapi7.akamaiedge.net
+e4117.dsca.akamaiedge.net
+www.nortonlifelock.com
+symantec.demdex.net
+cchridx27a.data.adobedc.net
+oms.avast.com
+symantec.tt.omtrdc.net
+d2pz9khpjpljz2.cloudfront.net
+nexus.ensighten.com
+mr-azurefd.tm-azurefd.net
+mr-b01.tm-azurefd.net
+mr-z01.tm-azurefd.net
