@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 144 domains tested <br>
 Failed to test 7 domains <br>
-53 of the domains tested used known trackers <br>
+51 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -158,9 +158,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### behindmlm.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 12 <br>
+Response encoding: UTF-8 <br>
 
 
 #### bing.com
@@ -865,8 +865,8 @@ Response encoding: utf-8 <br>
 
 #### userapi.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -879,8 +879,8 @@ Response encoding: UTF-8 <br>
 
 #### vk.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -949,9 +949,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1018,7 +1018,7 @@ Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `adnxs.com`: 1<br>
 `adsrvr.org`: 20<br>
-`www.googletagmanager.com`: 31<br>
+`www.googletagmanager.com`: 30<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
@@ -1031,10 +1031,11 @@ Response encoding: ISO-8859-1 <br>
 `symantec.tt.omtrdc.net`: 2<br>
 `www.google-analytics.com`: 6<br>
 `nexus.ensighten.com`: 1<br>
+`stats.wp.com`: 5<br>
+`pagead2.googlesyndication.com`: 11<br>
 `cdn.optimizely.com`: 5<br>
 `casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
-`pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
 `c.amazon-adsystem.com`: 2<br>
 `ib.adnxs.com`: 2<br>
@@ -1053,8 +1054,7 @@ Response encoding: ISO-8859-1 <br>
 `googleadservices.com`: 2<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
-`stats.wp.com`: 5<br>
-`sb.scorecardresearch.com`: 6<br>
+`sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
