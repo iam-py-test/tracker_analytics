@@ -2684,3 +2684,4 @@ mr-z01.tm-azurefd.net
 dynamic.x.map.fastly.net
 behindmlm.com
 news.google.com
+STAtIc.group-cdn.one
