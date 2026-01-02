@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 145 domains tested <br>
 Failed to test 7 domains <br>
-49 of the domains tested used known trackers <br>
+48 of the domains tested used known trackers <br>
 141 of the domains tested supported HTTPS <br>
 
 
@@ -182,13 +182,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### casalemedia.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 7 <br>
-Response encoding: UTF-8 <br>
 
 
 #### chatgpt.com
@@ -425,7 +418,7 @@ Response encoding: ISO-8859-1 <br>
 #### googlesyndication.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 13 <br>
+Number of trackers detected: 20 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -525,6 +518,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### mailinabox.email
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### medium.com
@@ -685,7 +685,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 4 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### pubmatic.com
@@ -1039,7 +1039,6 @@ Response encoding: ISO-8859-1 <br>
 `www.google-analytics.com`: 7<br>
 `nexus.ensighten.com`: 1<br>
 `cdn.optimizely.com`: 5<br>
-`casalemedia.com`: 7<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -1057,7 +1056,7 @@ Response encoding: ISO-8859-1 <br>
 `doubleclick.net`: 90<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
-`googlesyndication.com`: 13<br>
+`googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
 `stats.wp.com`: 3<br>
 `sb.scorecardresearch.com`: 4<br>
