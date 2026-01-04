@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-144 domains tested <br>
-Failed to test 8 domains <br>
+145 domains tested <br>
+Failed to test 7 domains <br>
 50 of the domains tested used known trackers <br>
-140 of the domains tested supported HTTPS <br>
+141 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -226,6 +226,13 @@ Number of trackers detected: 28 <br>
 Response encoding: utf-8 <br>
 
 
+#### creativecommons.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
+
+
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -366,6 +373,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### godaddy.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### goo.gl
 HTTPS: True <br>
 Known trackers: False <br>
@@ -473,9 +487,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### kaspersky.com
@@ -614,7 +628,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -730,13 +744,6 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### salesforce.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 5 <br>
-Response encoding: utf-8 <br>
-
-
 #### samsung.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -844,9 +851,9 @@ Response encoding: utf-8 <br>
 
 #### twitter.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### ui.com
@@ -1025,11 +1032,11 @@ Response encoding: ISO-8859-1 <br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
 `c.go-mpulse.net`: 2<br>
-`dpm.demdex.net`: 3<br>
+`dpm.demdex.net`: 2<br>
 `symantec.demdex.net`: 2<br>
 `cm.everesttech.net`: 2<br>
 `symantec.tt.omtrdc.net`: 2<br>
-`www.google-analytics.com`: 7<br>
+`www.google-analytics.com`: 6<br>
 `nexus.ensighten.com`: 1<br>
 `stats.wp.com`: 5<br>
 `pagead2.googlesyndication.com`: 11<br>
@@ -1054,12 +1061,12 @@ Response encoding: ISO-8859-1 <br>
 `googletagmanager.com`: 3<br>
 `inmobi.com`: 42<br>
 `www.inmobi.com`: 1<br>
+`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
-`cdn.krxd.net`: 1<br>
-`salesforce.us-1.evergage.com`: 1<br>
 `sentry.io`: 222<br>
 `www.sentry.dev`: 2<br>
 `plausible.io`: 1<br>
@@ -1070,6 +1077,6 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
-`t.co`: 4<br>
 `vungle.com`: 1<br>
+`t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
