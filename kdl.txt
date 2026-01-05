@@ -2688,3 +2688,6 @@ STAtIc.group-cdn.one
 svcb.www.samsung.com.edgekey.net
 www.nwtime.org
 mailinabox.email
+e673.dsce9.akamaiedge.net
+connect.facebook.net
+vmss-clarity-tag-eus2.eastus2.cloudapp.azure.com
