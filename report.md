@@ -236,8 +236,8 @@ Response encoding: UTF-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 328 <br>
-Response encoding: UTF-8 <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### digicert.com
@@ -732,8 +732,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -858,9 +858,9 @@ Response encoding: utf-8 <br>
 
 #### twitter.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### ui.com
@@ -1059,8 +1059,7 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `a.jsrdn.com`: 2<br>
-`criteo.com`: 242<br>
-`www.criteo.com`: 85<br>
+`criteo.com`: 1<br>
 `doubleclick.net`: 90<br>
 `google-analytics.com`: 77<br>
 `googleadservices.com`: 2<br>
@@ -1083,6 +1082,6 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
-`t.co`: 4<br>
 `vungle.com`: 1<br>
+`t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
