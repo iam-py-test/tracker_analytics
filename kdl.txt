@@ -2694,3 +2694,5 @@ vmss-clarity-tag-eus2.eastus2.cloudapp.azure.com
 mbz100.ketch.map.fastly.net
 cdn.ketchjs.com
 vkuserphoto.ru
+d2ilbhweuquda.cloudfront.net
+static.claydar.com
