@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 144 domains tested <br>
 Failed to test 6 domains <br>
-48 of the domains tested used known trackers <br>
+50 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -473,9 +473,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### kaspersky.com
@@ -555,11 +555,11 @@ Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
-#### mts.ru
+#### mulesoft.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### netflix.com
@@ -837,9 +837,9 @@ Response encoding: utf-8 <br>
 
 #### twitter.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
+Response encoding: utf-8 <br>
 
 
 #### ui.com
@@ -1051,6 +1051,7 @@ Response encoding: ISO-8859-1 <br>
 `googleadservices.com`: 2<br>
 `googlesyndication.com`: 20<br>
 `googletagmanager.com`: 3<br>
+`tags.tiqcdn.com`: 1<br>
 `sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
 `bat.bing.com`: 2<br>
@@ -1066,6 +1067,6 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
+`t.co`: 4<br>
 `vungle.com`: 1<br>
-`t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
