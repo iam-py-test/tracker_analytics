@@ -2697,3 +2697,4 @@ vkuserphoto.ru
 d2ilbhweuquda.cloudfront.net
 static.claydar.com
 mulesoft.com
+STaTIc.group-cdn.one
