@@ -2698,3 +2698,9 @@ d2ilbhweuquda.cloudfront.net
 static.claydar.com
 mulesoft.com
 STaTIc.group-cdn.one
+d1xbuscas8tetl.cloudfront.net
+pme-greenid-prod.trafficmanager.net
+z1.accdn.liveperson.net
+z1.lptag.liveperson.net
+dotnet.social
+dotnet.microsoft.com
