@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
+142 domains tested <br>
 Failed to test 6 domains <br>
-50 of the domains tested used known trackers <br>
-139 of the domains tested supported HTTPS <br>
+49 of the domains tested used known trackers <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -27,13 +27,6 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
-#### adsrvr.org
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 20 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -979,7 +972,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### yandex.ru
@@ -1010,7 +1003,6 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `adnxs.com`: 1<br>
-`adsrvr.org`: 20<br>
 `www.googletagmanager.com`: 25<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>

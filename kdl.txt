@@ -2704,3 +2704,5 @@ z1.accdn.liveperson.net
 z1.lptag.liveperson.net
 dotnet.social
 dotnet.microsoft.com
+showcase-static.reg.ru
+img.reg.ru
