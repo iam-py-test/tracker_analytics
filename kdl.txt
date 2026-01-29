@@ -2706,3 +2706,5 @@ dotnet.social
 dotnet.microsoft.com
 showcase-static.reg.ru
 img.reg.ru
+www.wy.cn
+s3.reg.ru
