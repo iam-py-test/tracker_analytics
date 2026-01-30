@@ -2708,3 +2708,4 @@ showcase-static.reg.ru
 img.reg.ru
 www.wy.cn
 s3.reg.ru
+StATic.group-cdn.one
