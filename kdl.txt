@@ -2709,3 +2709,4 @@ img.reg.ru
 www.wy.cn
 s3.reg.ru
 StATic.group-cdn.one
+mira-cmn.tm-4.office.com
