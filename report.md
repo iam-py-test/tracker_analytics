@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 6 domains <br>
-49 of the domains tested used known trackers <br>
+48 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -27,13 +27,6 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
-#### adtrafficquality.google
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -548,6 +541,13 @@ Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
+#### mts.ru
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### mulesoft.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -607,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1010,10 +1010,10 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `adnxs.com`: 1<br>
-`www.googletagmanager.com`: 25<br>
 `amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `app-measurement.com`: 2<br>
+`www.googletagmanager.com`: 24<br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
 `c.go-mpulse.net`: 2<br>
@@ -1046,6 +1046,7 @@ Response encoding: ISO-8859-1 <br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `rubiconproject.com`: 1<br>
 `sentry.io`: 224<br>
