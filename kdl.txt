@@ -2710,3 +2710,6 @@ www.wy.cn
 s3.reg.ru
 StATic.group-cdn.one
 mira-cmn.tm-4.office.com
+0xrpc.io
+d162h6x3rxav67.cloudfront.net
+static.adsafeprotected.com
