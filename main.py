@@ -88,15 +88,7 @@ def hastrackers(html,d=""):
 	global known_domains_list
 	global suspect_strings
 	report = {"total":0,"has_trackers":False}
-	try:
-			if d in trackerdomains:
-				report["total"] += 1
-				report["has_trackers"] = True
-				if d not in trackers_found_obj:
-					trackers_found_obj[d] = 0
-				trackers_found_obj[d] += 1
-	except:
-			pass
+
 	for kts in known_tracker_strings:
 		if kts in html and kts != "" and kts != " " and kts != "\r":
 			#print(kts)
@@ -114,7 +106,7 @@ def hastrackers(html,d=""):
 				domain = urlparse(full_url).netloc
 				root = psl.privatesuffix(domain)
 				cname = get_cname(domain)
-				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
+				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "" and domain != d:
 						print(domain, root)
 						report["total"] += 1
 						report["has_trackers"] = True
@@ -133,7 +125,7 @@ def hastrackers(html,d=""):
 				domain = urlparse(urllib.parse.urljoin("http://{}".format(d),form.get("action"))).netloc
 				root = psl.privatesuffix(domain)
 				cname = get_cname(domain)
-				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
+				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "" and domain != d:
 						print(domain, root)
 						report["total"] += 1
 						report["has_trackers"] = True
@@ -161,7 +153,7 @@ def hastrackers(html,d=""):
 					known_domains_list.append(domain)
 				if srcurl not in known_urls_list:
 					known_urls_list.append(srcurl)
-				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
+				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "" and domain != d:
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
@@ -186,7 +178,7 @@ def hastrackers(html,d=""):
 				hassrc = True
 				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
-				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "":
+				if (domain in trackerdomains or root in trackerdomains or cname in trackerdomains) and domain != "" and domain != d:
 						report["total"] += 1
 						report["has_trackers"] = True
 						if domain not in trackers_found_obj:
