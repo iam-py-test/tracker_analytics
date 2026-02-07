@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 146 domains tested <br>
 Failed to test 6 domains <br>
-49 of the domains tested used known trackers <br>
+39 of the domains tested used known trackers <br>
 141 of the domains tested supported HTTPS <br>
 
 
@@ -18,8 +18,8 @@ Response encoding: utf-8 <br>
 
 #### adnxs.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -46,8 +46,8 @@ Response encoding: utf-8 <br>
 
 #### amazon-adsystem.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: None <br>
 
 
@@ -88,8 +88,8 @@ Response encoding: UTF-8 <br>
 
 #### app-measurement.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -103,7 +103,7 @@ Response encoding: utf-8 <br>
 #### applovin.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 40 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -228,8 +228,8 @@ Response encoding: UTF-8 <br>
 
 #### criteo.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -264,7 +264,7 @@ Response encoding: UTF-8 <br>
 #### doubleclick.net
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 92 <br>
+Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -340,8 +340,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### forbes.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -390,7 +390,7 @@ Response encoding: utf-8 <br>
 #### google-analytics.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 78 <br>
+Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -403,8 +403,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### googleadservices.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -424,15 +424,15 @@ Response encoding: ISO-8859-1 <br>
 
 #### googlesyndication.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 20 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
 #### googletagmanager.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -480,9 +480,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -628,7 +628,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -684,7 +684,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -732,8 +732,8 @@ Response encoding: utf-8 <br>
 
 #### rubiconproject.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -747,7 +747,7 @@ Response encoding: UTF-8 <br>
 #### sentry.io
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 230 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -803,7 +803,7 @@ Response encoding: utf-8 <br>
 #### taboola.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 216 <br>
+Number of trackers detected: 84 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -893,8 +893,8 @@ Response encoding: None <br>
 
 #### vungle.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -977,9 +977,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### x.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: None <br>
 
 
 #### xiaomi.com
@@ -1030,11 +1030,7 @@ Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`adnxs.com`: 1<br>
-`amazon-adsystem.com`: 1<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`app-measurement.com`: 2<br>
-`applovin.com`: 39<br>
 `www.googletagmanager.com`: 24<br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
@@ -1058,32 +1054,23 @@ Response encoding: ISO-8859-1 <br>
 `static.adsafeprotected.com`: 2<br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
-`criteo.com`: 1<br>
-`doubleclick.net`: 90<br>
-`google-analytics.com`: 77<br>
-`googleadservices.com`: 2<br>
-`googlesyndication.com`: 20<br>
-`googletagmanager.com`: 3<br>
+`dev.visualwebsiteoptimizer.com`: 3<br>
 `stats.wp.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
-`rubiconproject.com`: 1<br>
-`sentry.io`: 227<br>
+`googletagmanager.com`: 1<br>
+`google-analytics.com`: 1<br>
 `www.sentry.dev`: 2<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`taboola.com`: 132<br>
 `swissknife.taboola.com`: 2<br>
-`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
-`vungle.com`: 1<br>
 `js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
-`t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
