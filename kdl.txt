@@ -2714,3 +2714,6 @@ mira-cmn.tm-4.office.com
 d162h6x3rxav67.cloudfront.net
 static.adsafeprotected.com
 global.ketchcdn.com
+view.ceros.com.cdn.cloudflare.net
+view.ceros.com
+venmo.com
