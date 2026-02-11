@@ -338,6 +338,13 @@ Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### forbes.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### forms.gle
 HTTPS: True <br>
 Known trackers: False <br>
@@ -534,13 +541,6 @@ Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
-#### miui.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### mozilla.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -734,7 +734,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### sentry.io

@@ -2717,3 +2717,4 @@ global.ketchcdn.com
 view.ceros.com.cdn.cloudflare.net
 view.ceros.com
 venmo.com
+tarteaucitron.io
