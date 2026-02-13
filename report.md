@@ -2,8 +2,8 @@
 Tried to test 200 domains<br>
 147 domains tested <br>
 Failed to test 6 domains <br>
-41 of the domains tested used known trackers <br>
-142 of the domains tested supported HTTPS <br>
+40 of the domains tested used known trackers <br>
+141 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -304,7 +304,7 @@ Response encoding: UTF-8 <br>
 
 
 #### example.com
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -487,9 +487,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -559,7 +559,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 2 <br>
-Response encoding: None <br>
+Response encoding: utf-8 <br>
 
 
 #### mts.ru
@@ -1062,7 +1062,6 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `stats.wp.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
