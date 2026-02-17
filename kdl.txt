@@ -2719,3 +2719,4 @@ view.ceros.com
 venmo.com
 tarteaucitron.io
 atm.outlook.mira.tm.svc.cloud.microsoft
+cosmic-westus2-ns-102771606d5e.trafficmanager.net
