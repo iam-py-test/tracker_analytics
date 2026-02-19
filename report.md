@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 146 domains tested <br>
 Failed to test 6 domains <br>
-41 of the domains tested used known trackers <br>
+40 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -718,8 +718,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1031,7 +1031,7 @@ Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 24<br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
 `c.go-mpulse.net`: 2<br>
