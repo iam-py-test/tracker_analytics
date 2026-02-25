@@ -2722,3 +2722,5 @@ atm.outlook.mira.tm.svc.cloud.microsoft
 cosmic-westus2-ns-102771606d5e.trafficmanager.net
 config.aps.amazon-adsystem.com
 merkle.io
+part-0038.t-0009.fb-t-msedge.net
+api.mapbox.com
