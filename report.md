@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
-145 domains tested <br>
-Failed to test 6 domains <br>
+144 domains tested <br>
+Failed to test 7 domains <br>
 39 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
@@ -203,13 +203,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
-
-
-#### cncdn.com
-HTTPS: False <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
 
 
 #### cnn.com
@@ -727,7 +720,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sentry.io
