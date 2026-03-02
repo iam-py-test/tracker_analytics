@@ -2725,3 +2725,8 @@ merkle.io
 part-0038.t-0009.fb-t-msedge.net
 api.mapbox.com
 onlycdn.com
+corpsites-sa.geo.kaspersky.com
+corpsites-za.geo.kaspersky.com
+corpsites-kdp.geo.kaspersky.com
+www.kaspersky.kz
+www.kaspersky.my

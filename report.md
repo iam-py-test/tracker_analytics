@@ -607,7 +607,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -720,7 +720,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### sentry.io
@@ -1045,7 +1045,6 @@ Response encoding: ISO-8859-1 <br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 4<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `google-analytics.com`: 1<br>
