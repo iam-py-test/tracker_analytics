@@ -2730,3 +2730,4 @@ corpsites-za.geo.kaspersky.com
 corpsites-kdp.geo.kaspersky.com
 www.kaspersky.kz
 www.kaspersky.my
+telekomcom-nlb-04dacf67c9d8779a.elb.eu-central-1.amazonaws.com
