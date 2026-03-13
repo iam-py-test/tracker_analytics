@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 6 domains <br>
-38 of the domains tested used known trackers <br>
+37 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -956,9 +956,9 @@ Response encoding: ISO-8859-1 <br>
 
 #### x.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: None <br>
 
 
 #### xiaomi.com
@@ -1051,5 +1051,4 @@ Response encoding: ISO-8859-1 <br>
 `js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
-`t.co`: 2<br>
 `cdn3.optimizely.com`: 1<br>
