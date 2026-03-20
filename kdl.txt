@@ -2736,3 +2736,5 @@ www.icloud.com
 www.icloud.com.cn
 stATic.group-cdn.one
 guc3-dealer.g2.spotify.com
+zoom.com
+cdn.bc0a.com
