@@ -2739,3 +2739,10 @@ guc3-dealer.g2.spotify.com
 zoom.com
 cdn.bc0a.com
 sun9-52.userapi.com
+a1718.r.akamai.net
+dualstack.ebayimg-0.map.fastly.net
+e168507.a.akamaiedge.net
+e88167.a.akamaiedge.net
+e166805.a.akamaiedge.net
+e348525.a.akamaiedge.net
+ipv4.ebayweb.map.fastly.net
