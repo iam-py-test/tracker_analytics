@@ -2746,3 +2746,5 @@ e88167.a.akamaiedge.net
 e166805.a.akamaiedge.net
 e348525.a.akamaiedge.net
 ipv4.ebayweb.map.fastly.net
+js.datadome.co
+gue1-dealer.g2.spotify.com
