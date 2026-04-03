@@ -3,7 +3,7 @@ Tried to test 200 domains<br>
 141 domains tested <br>
 Failed to test 6 domains <br>
 38 of the domains tested used known trackers <br>
-136 of the domains tested supported HTTPS <br>
+137 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -136,7 +136,7 @@ Response encoding: ISO-8859-1 <br>
 
 
 #### baidu.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
