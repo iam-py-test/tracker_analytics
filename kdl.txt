@@ -2748,3 +2748,5 @@ e348525.a.akamaiedge.net
 ipv4.ebayweb.map.fastly.net
 js.datadome.co
 gue1-dealer.g2.spotify.com
+cosmic-northcentralus-ns-dc365057d4ee.trafficmanager.net
+e2581.dscx.akamaiedge.net
