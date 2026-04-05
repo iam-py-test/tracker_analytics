@@ -2750,3 +2750,15 @@ js.datadome.co
 gue1-dealer.g2.spotify.com
 cosmic-northcentralus-ns-dc365057d4ee.trafficmanager.net
 e2581.dscx.akamaiedge.net
+triplinkintl.com
+e184941.dsca.akamaiedge.net
+www.triplinkintl.com
+hk.triplinkintl.com
+sg.triplinkintl.com
+e229846.dscx.akamaiedge.net
+dimg04.tripcdn.com
+a841.dscq.akamai.net
+ak-d.tripcdn.com
+d3umvpe5mygx5c.cloudfront.net
+aw-d.tripcdn.com
+ak-s-cw.tripcdn.com
