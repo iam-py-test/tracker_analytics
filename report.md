@@ -9,13 +9,6 @@ Failed to test 6 domains <br>
 ### Individual domain statistics: 
 
 
-#### adnxs.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### adobe.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -616,6 +609,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 6 <br>
 Response encoding: utf-8 <br>
+
+
+#### oracle.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### outlook.com
