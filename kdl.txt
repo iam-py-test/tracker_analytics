@@ -2762,3 +2762,5 @@ ak-d.tripcdn.com
 d3umvpe5mygx5c.cloudfront.net
 aw-d.tripcdn.com
 ak-s-cw.tripcdn.com
+dw0co1l755x1v.cloudfront.net
+aw-s.tripcdn.com
