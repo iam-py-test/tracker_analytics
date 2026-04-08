@@ -2764,3 +2764,5 @@ aw-d.tripcdn.com
 ak-s-cw.tripcdn.com
 dw0co1l755x1v.cloudfront.net
 aw-s.tripcdn.com
+atm.office.mira.tm.svc.cloud.microsoft
+uhf-fd-prod-hzhxfzbjbfcre5dp.b02.azurefd.net
