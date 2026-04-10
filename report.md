@@ -2,18 +2,11 @@
 Tried to test 200 domains<br>
 141 domains tested <br>
 Failed to test 6 domains <br>
-38 of the domains tested used known trackers <br>
+37 of the domains tested used known trackers <br>
 137 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
-
-
-#### adnxs.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### adobe.com
@@ -459,9 +452,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -579,7 +572,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -616,6 +609,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 6 <br>
 Response encoding: utf-8 <br>
+
+
+#### oracle.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### outlook.com
@@ -678,7 +678,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### samsung.com
@@ -1020,10 +1020,10 @@ Response encoding: ISO-8859-1 <br>
 `widgets.outbrain.com`: 2<br>
 `odb.outbrain.com`: 2<br>
 `stats.wp.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `www.sentry.dev`: 1<br>
 `plausible.io`: 1<br>
