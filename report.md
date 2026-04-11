@@ -9,6 +9,13 @@ Failed to test 6 domains <br>
 ### Individual domain statistics: 
 
 
+#### adnxs.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### adobe.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -756,13 +763,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
-
-
-#### telekom.net
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
 
 
 #### theguardian.com
