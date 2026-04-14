@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
+144 domains tested <br>
 Failed to test 6 domains <br>
 37 of the domains tested used known trackers <br>
-139 of the domains tested supported HTTPS <br>
+141 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -283,7 +283,7 @@ Response encoding: UTF-8 <br>
 
 
 #### example.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -322,6 +322,13 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
+
+
+#### forbes.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
 
 
 #### forms.gle
@@ -683,8 +690,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -886,9 +893,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### whatsapp.com
@@ -1010,7 +1017,7 @@ Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 21<br>
+`www.googletagmanager.com`: 20<br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
 `c.go-mpulse.net`: 2<br>
@@ -1046,6 +1053,7 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
+`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
 `t.co`: 2<br>
