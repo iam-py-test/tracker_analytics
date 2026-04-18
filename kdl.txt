@@ -2767,3 +2767,4 @@ aw-s.tripcdn.com
 atm.office.mira.tm.svc.cloud.microsoft
 uhf-fd-prod-hzhxfzbjbfcre5dp.b02.azurefd.net
 mr-b02.tm-azurefd.net
+cosmic-eastus2-ns-cf228143ea2a.trafficmanager.net
