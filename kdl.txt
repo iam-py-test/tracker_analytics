@@ -2770,3 +2770,4 @@ mr-b02.tm-azurefd.net
 cosmic-eastus2-ns-cf228143ea2a.trafficmanager.net
 StAtiC.group-cdn.one
 ipv4only.arpa
+res-8.public.onecdn.static.microsoft.cdn.cloudflare.net
