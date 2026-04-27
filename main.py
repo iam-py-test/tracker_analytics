@@ -180,8 +180,7 @@ def hastrackers(html,d=""):
 				if srcurl in known_tracker_urls:
 					report["total"] += 1
 					report["has_trackers"] = True
-				if script_with_tracker_in_url.match(srcurl) or script_with_analytics_in_url.match(srcurl) or script_with_datacollection_in_url.match(srcurl) or script_with_pageview_in_url.match(srcurl) or 	
-script_with_hitcounter_in_url.match(srcurl) or script_with_ad_targeting_in_url.match(srcurl):
+				if script_with_tracker_in_url.match(srcurl) or script_with_analytics_in_url.match(srcurl) or script_with_datacollection_in_url.match(srcurl) or script_with_pageview_in_url.match(srcurl) or script_with_hitcounter_in_url.match(srcurl) or script_with_ad_targeting_in_url.match(srcurl):
 					suspect_strings.append(srcurl)
 				domain = urlparse(srcurl).netloc
 				root = psl.privatesuffix(domain)
