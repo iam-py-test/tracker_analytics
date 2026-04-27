@@ -31,12 +31,12 @@ abletoscan = 0
 failedtoscan = 0
 suspect_strings = []
 # regexs to extract possible trackers
-script_with_tracker_in_url = re.compile("https?://[a-zA-Z./]*tracker[a-zA-Z./]*\.js")
-script_with_analytics_in_url = re.compile("https?://[a-zA-Z./]*analytics[a-zA-Z./]*\.js")
-script_with_datacollection_in_url = re.compile("https?://[a-zA-Z./]*datacollect[a-zA-Z./]*\.js")
-script_with_pageview_in_url = re.compile("https?://[a-zA-Z./]*pageview[a-zA-Z./]*\.js")
-script_with_hitcounter_in_url = re.compile("https?://[a-zA-Z./]*hitcount[a-zA-Z./]*\.js")
-script_with_ad_targeting_in_url = re.compile("https?://[a-zA-Z./]*ad-target[a-zA-Z./]*\.js")
+script_with_tracker_in_url = re.compile(r"https?://[a-zA-Z./]*tracker[a-zA-Z./]*\.js")
+script_with_analytics_in_url = re.compile(r"https?://[a-zA-Z./]*analytics[a-zA-Z./]*\.js")
+script_with_datacollection_in_url = re.compile(r"https?://[a-zA-Z./]*datacollect[a-zA-Z./]*\.js")
+script_with_pageview_in_url = re.compile(r"https?://[a-zA-Z./]*pageview[a-zA-Z./]*\.js")
+script_with_hitcounter_in_url = re.compile(r"https?://[a-zA-Z./]*hitcount[a-zA-Z./]*\.js")
+script_with_ad_targeting_in_url = re.compile(r"https?://[a-zA-Z./]*ad-target[a-zA-Z./]*\.js")
 dnsr = dns.resolver.Resolver()
 
 cname_cache = {}
@@ -109,6 +109,8 @@ def hastrackers(html,d=""):
 				full_url = urllib.parse.urljoin("http://{}".format(d),prefetch.get("href"))
 				if full_url == "":
 					continue
+				if script_with_tracker_in_url.match(full_url):
+					suspect_strings.append(full_url)
 				domain = urlparse(full_url).netloc
 				root = psl.privatesuffix(domain)
 				cname = get_cname(domain)
@@ -178,6 +180,9 @@ def hastrackers(html,d=""):
 				if srcurl in known_tracker_urls:
 					report["total"] += 1
 					report["has_trackers"] = True
+				if script_with_tracker_in_url.match(srcurl) or script_with_analytics_in_url.match(srcurl) or script_with_datacollection_in_url.match(srcurl) or script_with_pageview_in_url.match(srcurl) or 	
+script_with_hitcounter_in_url.match(srcurl) or script_with_ad_targeting_in_url.match(srcurl):
+					suspect_strings.append(srcurl)
 				domain = urlparse(srcurl).netloc
 				root = psl.privatesuffix(domain)
 				cname = get_cname(domain)
