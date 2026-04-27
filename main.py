@@ -53,6 +53,12 @@ try:
 except:
 	known_urls_list = []
 
+new_kul = []
+for kurl in known_urls_list:
+	if kurl.startswith("http"):
+		new_kul.append(kurl)
+known_urls_list = new_kul
+
 trackers_found_obj = {}
 
 # functions
@@ -115,7 +121,7 @@ def hastrackers(html,d=""):
 						trackers_found_obj[domain] += 1
 				if domain not in known_domains_list and domain != "":
 					known_domains_list.append(domain)
-				if full_url not in known_urls_list:
+				if full_url not in known_urls_list and full_url.startswith("http"): # avoid adding data: urls
 					known_urls_list.append(full_url)
 			except Exception as err:
 				pass
