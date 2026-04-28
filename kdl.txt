@@ -2774,3 +2774,4 @@ res-8.public.onecdn.static.microsoft.cdn.cloudflare.net
 i5.ebayimg.com
 d2jma3uliasueq.cloudfront.net
 ebay.es
+apiproxy-logging-s1-cee16861ef0ad576.elb.us-east-1.amazonaws.com

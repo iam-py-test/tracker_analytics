@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 142 domains tested <br>
 Failed to test 7 domains <br>
-40 of the domains tested used known trackers <br>
+38 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
 
@@ -475,7 +475,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### linkedin.com
@@ -586,7 +586,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 3 <br>
 Response encoding: utf-8 <br>
 
 
@@ -776,7 +776,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### theguardian.com
@@ -886,9 +886,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### whatsapp.com
@@ -935,9 +935,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 4 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1003,7 +1003,7 @@ Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 23<br>
+`www.googletagmanager.com`: 21<br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
 `c.go-mpulse.net`: 2<br>
@@ -1024,10 +1024,11 @@ Response encoding: ISO-8859-1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 3<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
+`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
@@ -1036,6 +1037,5 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 79<br>
-`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
