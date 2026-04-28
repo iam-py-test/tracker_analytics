@@ -26,3 +26,4 @@ window.dexter.Analytics = window.dexter.Analytics || {};
 _paq.push(['setTrackerUrl', u+'matomo.php']);
 <link rel="dns-prefetch" href="https://static.doubleclick.net">
 window.CQ_Analytics = {};
+http://doubleclick.net/static/js/analytics.min.js
