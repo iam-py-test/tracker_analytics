@@ -2775,3 +2775,7 @@ i5.ebayimg.com
 d2jma3uliasueq.cloudfront.net
 ebay.es
 apiproxy-logging-s1-cee16861ef0ad576.elb.us-east-1.amazonaws.com
+ab.chatgpt.com
+global-t-ts.trafficmanager.net
+apiproxy-logging-s2-0b45f5f991947a1f.elb.us-west-2.amazonaws.com
+s-0005.dual-s-msedge.net
