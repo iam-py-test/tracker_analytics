@@ -2779,3 +2779,5 @@ ab.chatgpt.com
 global-t-ts.trafficmanager.net
 apiproxy-logging-s2-0b45f5f991947a1f.elb.us-west-2.amazonaws.com
 s-0005.dual-s-msedge.net
+res-ocdi-stls-prod.edgesuite.net
+edge-term4-iad5.roblox.com
