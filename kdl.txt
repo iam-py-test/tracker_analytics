@@ -2786,3 +2786,4 @@ www.fastly.comnull
 pme-dfp-greenid-prod.trafficmanager.net
 a1211.dscr.akamai.net
 i1-e.pinimg.com
+res-stls-prod.edgesuite.net
