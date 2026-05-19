@@ -2790,3 +2790,6 @@ res-stls-prod.edgesuite.net
 thenai.org
 ec2-3-130-221-114.us-east-2.compute.amazonaws.com
 atm.common.mira.tm.svc.cloud.microsoft
+sun1-89.userapi.com
+st1-89.vk.com
+sun1-25.userapi.com
