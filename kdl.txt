@@ -2793,3 +2793,7 @@ atm.common.mira.tm.svc.cloud.microsoft
 sun1-89.userapi.com
 st1-89.vk.com
 sun1-25.userapi.com
+rkn.flocktory.com
+api.flocktory.com
+sun1-28.userapi.com
+st1-28.vk.com
