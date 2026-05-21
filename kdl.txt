@@ -2797,3 +2797,4 @@ rkn.flocktory.com
 api.flocktory.com
 sun1-28.userapi.com
 st1-28.vk.com
+st1-25.vk.com
