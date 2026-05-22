@@ -2798,3 +2798,5 @@ api.flocktory.com
 sun1-28.userapi.com
 st1-28.vk.com
 st1-25.vk.com
+sun1-21.userapi.com
+st1-21.vk.com
