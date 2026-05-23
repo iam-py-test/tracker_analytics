@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 6 domains <br>
-41 of the domains tested used known trackers <br>
+42 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -586,7 +586,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -790,7 +790,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### theguardian.com
@@ -893,9 +893,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
 
 
 #### whatsapp.com
@@ -1036,7 +1036,6 @@ Response encoding: ISO-8859-1 <br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
@@ -1045,5 +1044,6 @@ Response encoding: ISO-8859-1 <br>
 `swissknife.taboola.com`: 2<br>
 `dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 76<br>
+`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 2<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
