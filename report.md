@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 6 domains <br>
-42 of the domains tested used known trackers <br>
+41 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -266,6 +266,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
+
+
+#### ebay.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### epicgames.com
@@ -667,13 +674,6 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### pubmatic.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: UTF-8 <br>
-
-
 #### qq.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -1009,7 +1009,7 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 23<br>
+`www.googletagmanager.com`: 22<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `s.go-mpulse.net`: 2<br>
@@ -1018,7 +1018,7 @@ Response encoding: ISO-8859-1 <br>
 `symantec.demdex.net`: 2<br>
 `cm.everesttech.net`: 2<br>
 `symantec.tt.omtrdc.net`: 2<br>
-`www.google-analytics.com`: 6<br>
+`www.google-analytics.com`: 5<br>
 `nexus.ensighten.com`: 3<br>
 `cdn.optimizely.com`: 5<br>
 `tpc.googlesyndication.com`: 2<br>
