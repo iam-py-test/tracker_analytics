@@ -2804,3 +2804,5 @@ sun1-84.userapi.com
 st1-84.vk.com
 sun1-29.userapi.com
 st1-29.vk.com
+sun1-30.userapi.com
+st1-30.vk.com
