@@ -2806,3 +2806,6 @@ sun1-29.userapi.com
 st1-29.vk.com
 sun1-30.userapi.com
 st1-30.vk.com
+dwt.soundcloud.com.first-party-js.datadome.co
+sun1-85.userapi.com
+st1-85.vk.com
