@@ -2813,3 +2813,7 @@ www.nih.gov.cdn.cloudflare.net
 a951.dscr.akamai.net
 sun1-83.userapi.com
 st1-83.vk.com
+apollo.archive.org
+specials-images.forbesimg.com
+sun1-47.userapi.com
+st1-47.vk.com
