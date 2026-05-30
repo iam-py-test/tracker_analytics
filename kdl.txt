@@ -2817,3 +2817,6 @@ apollo.archive.org
 specials-images.forbesimg.com
 sun1-47.userapi.com
 st1-47.vk.com
+secure.gravatar.com
+sun1-55.userapi.com
+st1-55.vk.com
