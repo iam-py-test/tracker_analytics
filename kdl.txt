@@ -2822,3 +2822,5 @@ sun1-55.userapi.com
 st1-55.vk.com
 sun1-54.userapi.com
 st1-54.vk.com
+sun1-27.userapi.com
+st1-27.vk.com
