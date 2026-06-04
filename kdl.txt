@@ -2828,3 +2828,6 @@ sun1-22.userapi.com
 st1-22.vk.com
 sun1-14.userapi.com
 st1-14.vk.com
+api.oaistatsig.com
+sun1-88.userapi.com
+st1-88.vk.com
