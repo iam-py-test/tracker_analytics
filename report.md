@@ -445,9 +445,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -685,7 +685,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### sentry.io
@@ -755,7 +755,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### theguardian.com
@@ -907,9 +907,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: UTF-8 <br>
 
 
 #### workers.dev
@@ -944,7 +944,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: utf-8 <br>
 
 
 #### yandex.ru
@@ -974,7 +974,7 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 19<br>
+`www.googletagmanager.com`: 21<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -989,8 +989,7 @@ Response encoding: ISO-8859-1 <br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
 `www.google-analytics.com`: 3<br>
-`stats.wp.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
+`stats.wp.com`: 5<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
