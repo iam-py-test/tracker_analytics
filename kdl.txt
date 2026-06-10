@@ -2842,3 +2842,6 @@ d7zt8mfa3otti.cloudfront.net
 assets.secure.ctfassets.net
 cdn.microsoftctfimages.com
 dmsproduction-fd-ajcbbzabe5effhej.b01.azurefd.net
+s-0005.dual-s-dc-msedge.net
+sun1-26.userapi.com
+st1-26.vk.com
