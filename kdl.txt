@@ -2845,3 +2845,4 @@ dmsproduction-fd-ajcbbzabe5effhej.b01.azurefd.net
 s-0005.dual-s-dc-msedge.net
 sun1-26.userapi.com
 st1-26.vk.com
+a2047.api7.akamai.net
