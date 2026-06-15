@@ -2846,3 +2846,8 @@ s-0005.dual-s-dc-msedge.net
 sun1-26.userapi.com
 st1-26.vk.com
 a2047.api7.akamai.net
+auth.openai.com.cdn.cloudflare.net
+auth.openai.com
+auth-cdn.oaistatic.com
+staTIC.group-cdn.one
+a2047.api6.akamai.net
