@@ -2851,3 +2851,6 @@ auth.openai.com
 auth-cdn.oaistatic.com
 staTIC.group-cdn.one
 a2047.api6.akamai.net
+a2047.api9.akamai.net
+sun1-19.userapi.com
+st1-19.vk.com
