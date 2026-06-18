@@ -2855,3 +2855,6 @@ a2047.api9.akamai.net
 sun1-19.userapi.com
 st1-19.vk.com
 a2047.api5.akamai.net
+e86303.dscd.akamaiedge.net
+blogs-images.forbes.com
+a2047.api3.akamai.net
