@@ -2860,3 +2860,5 @@ blogs-images.forbes.com
 a2047.api3.akamai.net
 sun1-87.userapi.com
 st1-87.vk.com
+nic.direct
+a2047.api2.akamai.net
