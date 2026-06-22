@@ -2863,3 +2863,7 @@ st1-87.vk.com
 nic.direct
 a2047.api2.akamai.net
 a2047.api4.akamai.net
+new.applovin.com
+a2047.api8.akamai.net
+sun1-94.userapi.com
+st1-94.vk.com
