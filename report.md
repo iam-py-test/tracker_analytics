@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 140 domains tested <br>
 Failed to test 7 domains <br>
-38 of the domains tested used known trackers <br>
+37 of the domains tested used known trackers <br>
 136 of the domains tested supported HTTPS <br>
 
 
@@ -95,8 +95,8 @@ Response encoding: utf-8 <br>
 
 #### applovin.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -468,7 +468,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### linkedin.com
@@ -990,7 +990,6 @@ Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `www.googletagmanager.com`: 19<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`new.applovin.com`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
 `tpc.googlesyndication.com`: 2<br>
