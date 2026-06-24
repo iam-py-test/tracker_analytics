@@ -2867,3 +2867,5 @@ new.applovin.com
 a2047.api8.akamai.net
 sun1-94.userapi.com
 st1-94.vk.com
+sun1-17.userapi.com
+st1-17.vk.com
