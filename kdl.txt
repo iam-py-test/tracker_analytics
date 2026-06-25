@@ -2869,3 +2869,5 @@ sun1-94.userapi.com
 st1-94.vk.com
 sun1-17.userapi.com
 st1-17.vk.com
+edge.authz.identity-prd.a.intuit.com
+authz.intuitcdn.net
