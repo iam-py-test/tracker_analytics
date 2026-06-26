@@ -2871,3 +2871,7 @@ sun1-17.userapi.com
 st1-17.vk.com
 edge.authz.identity-prd.a.intuit.com
 authz.intuitcdn.net
+sun1-24.userapi.com
+st1-24.vk.com
+ton.twimg.com
+cdn.syndication.twimg.com
