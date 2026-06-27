@@ -2875,3 +2875,4 @@ sun1-24.userapi.com
 st1-24.vk.com
 ton.twimg.com
 cdn.syndication.twimg.com
+cosmic-westus2-ns-7880e79d3daf.trafficmanager.net
