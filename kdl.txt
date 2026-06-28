@@ -2876,3 +2876,6 @@ st1-24.vk.com
 ton.twimg.com
 cdn.syndication.twimg.com
 cosmic-westus2-ns-7880e79d3daf.trafficmanager.net
+cosmic-northcentralus-ns-43ae3b05babb.trafficmanager.net
+STatiC.group-cdn.one
+a2047.api1.akamai.net
