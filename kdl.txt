@@ -2879,3 +2879,7 @@ cosmic-westus2-ns-7880e79d3daf.trafficmanager.net
 cosmic-northcentralus-ns-43ae3b05babb.trafficmanager.net
 STatiC.group-cdn.one
 a2047.api1.akamai.net
+k6fem79d.api.sanity.io
+statIc.group-cdn.one
+sun1-16.userapi.com
+st1-16.vk.com
