@@ -2883,3 +2883,6 @@ k6fem79d.api.sanity.io
 statIc.group-cdn.one
 sun1-16.userapi.com
 st1-16.vk.com
+edge-term4-atl4.roblox.com
+sun1-23.userapi.com
+st1-23.vk.com
