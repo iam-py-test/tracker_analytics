@@ -2892,3 +2892,4 @@ mediaprojects-cdn1.p.smailru.net
 pogoda.imgsmail.ru
 sun1-96.userapi.com
 st1-96.vk.com
+cosmic-northcentralus-ns-8916360bbdeb.trafficmanager.net
