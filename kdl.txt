@@ -2893,3 +2893,5 @@ pogoda.imgsmail.ru
 sun1-96.userapi.com
 st1-96.vk.com
 cosmic-northcentralus-ns-8916360bbdeb.trafficmanager.net
+sun1-20.userapi.com
+st1-20.vk.com
