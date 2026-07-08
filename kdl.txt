@@ -2897,3 +2897,5 @@ sun1-20.userapi.com
 st1-20.vk.com
 cosmic-eastus2-ns-de27eb73d620.trafficmanager.net
 edge.cofra.me
+sun1-99.userapi.com
+st1-99.vk.com
