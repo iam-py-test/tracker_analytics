@@ -2901,3 +2901,4 @@ sun1-99.userapi.com
 st1-99.vk.com
 sun1-15.userapi.com
 st1-15.vk.com
+cosmic-westus2-ns-ff3c0f4bc497.trafficmanager.net
