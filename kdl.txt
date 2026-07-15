@@ -2902,3 +2902,5 @@ st1-99.vk.com
 sun1-15.userapi.com
 st1-15.vk.com
 cosmic-westus2-ns-ff3c0f4bc497.trafficmanager.net
+part-0042.t-0009.fb-t-msedge.net
+s-part-0042.t-0009.t-msedge.net
