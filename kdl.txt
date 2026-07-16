@@ -2904,3 +2904,5 @@ st1-15.vk.com
 cosmic-westus2-ns-ff3c0f4bc497.trafficmanager.net
 part-0042.t-0009.fb-t-msedge.net
 s-part-0042.t-0009.t-msedge.net
+e6576.e21.akamaiedge.net
+resources.samsung.com
