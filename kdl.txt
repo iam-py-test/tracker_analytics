@@ -2907,3 +2907,8 @@ s-part-0042.t-0009.t-msedge.net
 e6576.e21.akamaiedge.net
 resources.samsung.com
 st1-89.vk.ru
+cosmic-eastus2-ns-00d36985e57d.trafficmanager.net
+mc-157073-720658632.us-east-1.elb.amazonaws.com
+nihd10prod.prod.acquia-sites.com
+st.vk.ru
+st1-25.vk.ru
