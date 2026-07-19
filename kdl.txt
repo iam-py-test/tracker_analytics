@@ -2912,3 +2912,5 @@ mc-157073-720658632.us-east-1.elb.amazonaws.com
 nihd10prod.prod.acquia-sites.com
 st.vk.ru
 st1-25.vk.ru
+sun1-57.userapi.com
+st1-57.vk.ru
