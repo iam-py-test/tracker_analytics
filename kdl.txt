@@ -2914,3 +2914,6 @@ st.vk.ru
 st1-25.vk.ru
 sun1-57.userapi.com
 st1-57.vk.ru
+www.roblox.com.cdn.cloudflare.net
+sun1-56.userapi.com
+st1-56.vk.ru
