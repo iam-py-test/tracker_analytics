@@ -2921,3 +2921,5 @@ d2gt2ux04o03l1.cloudfront.net
 cmp.osano.com
 sun1-93.userapi.com
 st1-93.vk.ru
+st1-88.vk.ru
+codeforthepeople.com
