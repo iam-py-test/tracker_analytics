@@ -2923,3 +2923,5 @@ sun1-93.userapi.com
 st1-93.vk.ru
 st1-88.vk.ru
 codeforthepeople.com
+th.bing.com.cdn.cloudflare.net
+st1-17.vk.ru
