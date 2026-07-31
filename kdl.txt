@@ -2931,3 +2931,5 @@ st1-96.vk.ru
 st1-94.vk.ru
 sun1-18.userapi.com
 st1-18.vk.ru
+tflteams.public.onecdn.static.microsoft
+st1-30.vk.ru
