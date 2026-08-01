@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
 142 domains tested <br>
-Failed to test 4 domains <br>
+Failed to test 3 domains <br>
 39 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
@@ -475,7 +475,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### linkedin.com
@@ -656,7 +656,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
