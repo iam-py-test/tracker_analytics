@@ -2939,3 +2939,5 @@ st1-55.vk.ru
 ecomm.svc.ui.com
 images.svc.ui.com
 ui.us8.list-manage.com
+img.elements.video.cdn.cloudflare.net
+img.elements.video
