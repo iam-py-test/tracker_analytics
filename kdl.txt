@@ -2941,3 +2941,9 @@ images.svc.ui.com
 ui.us8.list-manage.com
 img.elements.video.cdn.cloudflare.net
 img.elements.video
+afternic.com
+e40258.g.akamaiedge.net
+img6.wsimg.com
+img1.wsimg.com
+e126871.dsca.akamaiedge.net
+www.afternic.com
