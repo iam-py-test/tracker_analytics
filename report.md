@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
-Failed to test 3 domains <br>
-41 of the domains tested used known trackers <br>
-140 of the domains tested supported HTTPS <br>
+142 domains tested <br>
+Failed to test 4 domains <br>
+39 of the domains tested used known trackers <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -268,13 +268,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### ebay.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
 #### epicgames.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -329,13 +322,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### forbes.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
-Response encoding: utf-8 <br>
 
 
 #### forms.gle
@@ -494,6 +480,13 @@ Response encoding: utf-8 <br>
 
 #### live.com
 HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
+#### lsrelayaccess.com
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -893,9 +886,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### whatsapp.com
@@ -1023,7 +1016,6 @@ Response encoding: ISO-8859-1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
-`dev.visualwebsiteoptimizer.com`: 3<br>
 `www.google-analytics.com`: 2<br>
 `stats.wp.com`: 3<br>
 `tags.tiqcdn.com`: 1<br>
@@ -1037,8 +1029,8 @@ Response encoding: ISO-8859-1 <br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
 `swissknife.taboola.com`: 2<br>
+`dev.visualwebsiteoptimizer.com`: 1<br>
 `www.taboola.com`: 77<br>
-`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
 `t.co`: 1<br>
