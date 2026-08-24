@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 143 domains tested <br>
 Failed to test 3 domains <br>
-37 of the domains tested used known trackers <br>
+38 of the domains tested used known trackers <br>
 140 of the domains tested supported HTTPS <br>
 
 
@@ -592,8 +592,8 @@ Response encoding: utf-8 <br>
 
 #### nih.gov
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -677,7 +677,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -804,7 +804,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### tiktokv.com
@@ -979,7 +979,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yandex.ru
@@ -1009,7 +1009,7 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 18<br>
+`www.googletagmanager.com`: 19<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 5<br>
@@ -1027,6 +1027,7 @@ Response encoding: ISO-8859-1 <br>
 `www.google-analytics.com`: 2<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 6<br>
+`script.crazyegg.com`: 1<br>
 `static.cloudflareinsights.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `plausible.io`: 1<br>
