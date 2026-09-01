@@ -2975,3 +2975,8 @@ zxmru.v.enacdn.net
 PublicInteractionNLB-3bddf5ff6abb91b6.elb.eu-west-1.amazonaws.com
 st1-86.vk.ru
 st1-84.vk.ru
+ack.de
+x.sni.global.fastly.net
+www.magnite.com
+customer-pages-ab47.mktocloud.com
+resources.magnite.com
