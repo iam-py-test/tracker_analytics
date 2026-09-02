@@ -2980,3 +2980,4 @@ x.sni.global.fastly.net
 www.magnite.com
 customer-pages-ab47.mktocloud.com
 resources.magnite.com
+st1-24.vk.ru
