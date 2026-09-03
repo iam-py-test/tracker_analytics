@@ -2981,3 +2981,7 @@ www.magnite.com
 customer-pages-ab47.mktocloud.com
 resources.magnite.com
 st1-24.vk.ru
+cdn.parsely.com
+shed.outlook.acdc.tm.svc.cloud.microsoft
+adobe-aem.map.fastly.net
+delivery-p167603-e1796511.adobeaemcloud.com
