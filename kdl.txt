@@ -2986,3 +2986,6 @@ shed.outlook.acdc.tm.svc.cloud.microsoft
 adobe-aem.map.fastly.net
 delivery-p167603-e1796511.adobeaemcloud.com
 st1-19.vk.ru
+adsafeprotected.com
+e4047.b.akamaiedge.net
+assets.intuitcdn.net
