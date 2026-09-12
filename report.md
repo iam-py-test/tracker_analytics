@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-145 domains tested <br>
-Failed to test 4 domains <br>
-43 of the domains tested used known trackers <br>
-143 of the domains tested supported HTTPS <br>
+144 domains tested <br>
+Failed to test 5 domains <br>
+42 of the domains tested used known trackers <br>
+142 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -69,7 +69,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: None <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### amazonaws.com
@@ -83,7 +83,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### apache.org
@@ -333,8 +333,8 @@ Response encoding: utf-8 <br>
 
 #### fastly.net
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -614,7 +614,7 @@ Response encoding: ISO-8859-1 <br>
 #### nytimes.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -658,13 +658,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 6 <br>
 Response encoding: utf-8 <br>
-
-
-#### oracle.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
 
 
 #### outlook.com
@@ -718,8 +711,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -907,9 +900,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### whatsapp.com
@@ -1044,14 +1037,12 @@ Response encoding: ISO-8859-1 <br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 6<br>
 `script.crazyegg.com`: 1<br>
-`static.chartbeat.com`: 1<br>
 `static.cloudflareinsights.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
 `t.co`: 1<br>
