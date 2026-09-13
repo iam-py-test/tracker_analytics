@@ -2998,3 +2998,4 @@ st1-16.vk.ru
 base.org
 static-assets.coinbase.com
 dellemc.com
+cf.47cf2c8c9-frontier.amazon.com
