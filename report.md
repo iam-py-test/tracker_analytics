@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-144 domains tested <br>
+143 domains tested <br>
 Failed to test 5 domains <br>
-43 of the domains tested used known trackers <br>
-142 of the domains tested supported HTTPS <br>
+39 of the domains tested used known trackers <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -226,13 +226,6 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
-#### cnn.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 24 <br>
-Response encoding: utf-8 <br>
-
-
 #### creativecommons.org
 HTTPS: True <br>
 Known trackers: True <br>
@@ -333,8 +326,8 @@ Response encoding: utf-8 <br>
 
 #### fastly.net
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -471,6 +464,13 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
+#### hosting24.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### icloud.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -520,14 +520,14 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### mail.ru
-HTTPS: True <br>
+#### lsrelayaccess.com
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
-#### medium.com
+#### mail.ru
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -793,13 +793,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### theguardian.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
-
-
 #### tiktok.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -900,9 +893,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### whatsapp.com
@@ -1016,26 +1009,16 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 24<br>
+`www.googletagmanager.com`: 23<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
-`cdn.optimizely.com`: 5<br>
+`cdn.optimizely.com`: 1<br>
 `cdn.parsely.com`: 2<br>
 `stats.wp.com`: 5<br>
-`tpc.googlesyndication.com`: 2<br>
-`pagead2.googlesyndication.com`: 2<br>
-`www.googletagservices.com`: 2<br>
-`config.aps.amazon-adsystem.com`: 2<br>
-`ib.adnxs.com`: 2<br>
-`cdn.adsafeprotected.com`: 2<br>
-`securepubads.g.doubleclick.net`: 2<br>
-`segment-data-us-east.zqtk.net`: 2<br>
-`js-sec.indexww.com`: 2<br>
-`static.adsafeprotected.com`: 2<br>
 `www.google-analytics.com`: 2<br>
 `tags.tiqcdn.com`: 1<br>
 `bat.bing.com`: 4<br>
-`sb.scorecardresearch.com`: 6<br>
+`sb.scorecardresearch.com`: 5<br>
 `script.crazyegg.com`: 1<br>
 `static.cloudflareinsights.com`: 1<br>
 `c.aps.amazon-adsystem.com`: 1<br>
@@ -1043,7 +1026,6 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
 `t.co`: 1<br>

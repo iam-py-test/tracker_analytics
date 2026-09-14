@@ -2999,3 +2999,5 @@ base.org
 static-assets.coinbase.com
 dellemc.com
 cf.47cf2c8c9-frontier.amazon.com
+hosting24.com
+st1-23.vk.ru
