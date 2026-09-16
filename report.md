@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
-Failed to test 5 domains <br>
-38 of the domains tested used known trackers <br>
-140 of the domains tested supported HTTPS <br>
+141 domains tested <br>
+Failed to test 7 domains <br>
+37 of the domains tested used known trackers <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -677,7 +677,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -786,13 +786,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### telekom.net
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
-
-
 #### tiktok.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -870,13 +863,6 @@ Number of trackers detected: 0 <br>
 Response encoding: None <br>
 
 
-#### vungle.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### w3.org
 HTTPS: True <br>
 Known trackers: False <br>
@@ -942,9 +928,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1009,12 +995,12 @@ Known trackers: True <br>
 Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 21<br>
+`www.googletagmanager.com`: 19<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 1<br>
 `cdn.parsely.com`: 2<br>
-`stats.wp.com`: 5<br>
+`stats.wp.com`: 4<br>
 `www.google-analytics.com`: 2<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 5<br>
