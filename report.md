@@ -275,6 +275,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### duckdns.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: utf-8 <br>
+
+
 #### dzen.ru
 HTTPS: True <br>
 Known trackers: False <br>
@@ -480,9 +487,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### kaspersky.com
@@ -514,13 +521,6 @@ Response encoding: ISO-8859-1 <br>
 
 
 #### mail.ru
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
-#### medium.com
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
@@ -995,13 +995,12 @@ Known trackers: True <br>
 Number of trackers detected: 5 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 21<br>
+`www.googletagmanager.com`: 22<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 3<br>
 `www.google-analytics.com`: 2<br>
 `stats.wp.com`: 4<br>
-`tags.tiqcdn.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 5<br>
 `script.crazyegg.com`: 1<br>
