@@ -3006,3 +3006,9 @@ ct.captcha-delivery.com
 st1-22.vk.ru
 spectrum.com
 duckdns.org
+prod-proxy-nlb-b501fc8c98ccee21.elb.cn-north-1.amazonaws.com.cn
+www.f5.com.cn
+sun1-22.vkuserphoto.ru
+sun1-30.vkuserphoto.ru
+yuga.com
+privacy.yuga.com
