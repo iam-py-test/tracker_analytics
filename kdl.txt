@@ -3012,3 +3012,4 @@ sun1-22.vkuserphoto.ru
 sun1-30.vkuserphoto.ru
 yuga.com
 privacy.yuga.com
+endpoints.news
