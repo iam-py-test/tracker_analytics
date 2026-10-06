@@ -1,8 +1,8 @@
 ## Tracker report
 Tried to test 200 domains<br>
-140 domains tested <br>
-Failed to test 6 domains <br>
-39 of the domains tested used known trackers <br>
+141 domains tested <br>
+Failed to test 7 domains <br>
+42 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -69,6 +69,13 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
+#### android.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
 Response encoding: ISO-8859-1 <br>
 
 
@@ -394,13 +401,6 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
-#### googleadservices.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
 #### googleapis.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -485,6 +485,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### ipify.org
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### kaspersky.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -508,6 +515,13 @@ Response encoding: utf-8 <br>
 
 #### live.com
 HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
+#### lsrelayaccess.com
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -625,13 +639,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### one.one
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
 #### openai.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -746,9 +753,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -988,15 +995,15 @@ Known trackers: True <br>
 Number of trackers detected: 5 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 23<br>
+`www.googletagmanager.com`: 26<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 3<br>
-`www.google-analytics.com`: 2<br>
+`www.google-analytics.com`: 3<br>
 `stats.wp.com`: 3<br>
+`script.crazyegg.com`: 2<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 5<br>
-`script.crazyegg.com`: 1<br>
 `static.cloudflareinsights.com`: 2<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `googletagmanager.com`: 1<br>

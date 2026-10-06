@@ -3015,3 +3015,7 @@ privacy.yuga.com
 endpoints.news
 a1317.dscb.akamai.net
 edge-term4-lga4.roblox.com
+ipify.org
+shiabank.com
+atm.teams.mira.tm.svc.cloud.microsoft
+st1-85.vk.ru
