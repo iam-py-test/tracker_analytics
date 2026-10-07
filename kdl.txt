@@ -3019,3 +3019,5 @@ ipify.org
 shiabank.com
 atm.teams.mira.tm.svc.cloud.microsoft
 st1-85.vk.ru
+1226552209.rsc.cdn77.org
+assets.plesk.com
