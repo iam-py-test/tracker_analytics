@@ -3023,3 +3023,10 @@ st1-85.vk.ru
 assets.plesk.com
 mkt-bitly-media.qrcg.net
 global-free-tools.egodit.org
+is-mzstatic-h3.g.aaplimg.com
+lander.parity.domains
+ubuntu.com
+resc.cloudinary.com.cdn.cloudflare.net
+res.cloudinary.com
+assets.ubuntu.com
+dqyu5ixw5shpo.cloudfront.net

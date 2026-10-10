@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-140 domains tested <br>
-Failed to test 7 domains <br>
-41 of the domains tested used known trackers <br>
-137 of the domains tested supported HTTPS <br>
+142 domains tested <br>
+Failed to test 6 domains <br>
+43 of the domains tested used known trackers <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -62,7 +62,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### android.com
@@ -240,13 +240,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### dns.google
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
-
-
 #### doubleclick.net
 HTTPS: True <br>
 Known trackers: True <br>
@@ -394,6 +387,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### googleadservices.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### googleapis.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -489,7 +489,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### lencr.org
@@ -730,6 +730,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### shiabank.com
+HTTPS: False <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
+
+
 #### shopify.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -746,9 +753,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -805,6 +812,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### ubuntu.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 6 <br>
+Response encoding: utf-8 <br>
 
 
 #### ui.com
@@ -988,11 +1002,11 @@ Known trackers: True <br>
 Number of trackers detected: 5 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 26<br>
+`www.googletagmanager.com`: 30<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 3<br>
-`www.google-analytics.com`: 2<br>
+`www.google-analytics.com`: 3<br>
 `stats.wp.com`: 3<br>
 `script.crazyegg.com`: 2<br>
 `bat.bing.com`: 4<br>
@@ -1005,6 +1019,7 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
+`pagead2.googlesyndication.com`: 2<br>
 `js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
