@@ -3030,3 +3030,4 @@ resc.cloudinary.com.cdn.cloudflare.net
 res.cloudinary.com
 assets.ubuntu.com
 dqyu5ixw5shpo.cloudfront.net
+cloudinary.map.fastly.net

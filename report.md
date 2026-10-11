@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 142 domains tested <br>
 Failed to test 6 domains <br>
-43 of the domains tested used known trackers <br>
+42 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
 
@@ -140,13 +140,6 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
-
-
-#### base.org
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
 
 
 #### bing.com
@@ -772,6 +765,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### t-online.de
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### t.me
 HTTPS: True <br>
 Known trackers: False <br>
@@ -999,13 +999,13 @@ Response encoding: utf-8 <br>
 #### zoom.us
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 5 <br>
+Number of trackers detected: 4 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 29<br>
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
 `analytics.archive.org`: 1<br>
-`cdn.optimizely.com`: 3<br>
+`cdn.optimizely.com`: 2<br>
 `www.google-analytics.com`: 3<br>
 `stats.wp.com`: 3<br>
 `script.crazyegg.com`: 2<br>
