@@ -3031,3 +3031,5 @@ res.cloudinary.com
 assets.ubuntu.com
 dqyu5ixw5shpo.cloudfront.net
 cloudinary.map.fastly.net
+crashlytics.com
+firebase.google.com
