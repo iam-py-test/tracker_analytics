@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-145 domains tested <br>
+147 domains tested <br>
 Failed to test 5 domains <br>
 45 of the domains tested used known trackers <br>
-141 of the domains tested supported HTTPS <br>
+142 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -115,7 +115,7 @@ Response encoding: ISO-8859-1 <br>
 
 
 #### baidu.com
-HTTPS: True <br>
+HTTPS: False <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -252,6 +252,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
+
+
+#### ebay.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### endpoints.news
@@ -445,9 +452,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### ipify.org
@@ -632,6 +639,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### pages.dev
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### paypal.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -753,9 +767,9 @@ Response encoding: utf-8 <br>
 
 #### snapchat.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### soundcloud.com
@@ -1013,7 +1027,7 @@ Response encoding: utf-8 <br>
 #### yuga.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 3 <br>
+Number of trackers detected: 2 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1024,7 +1038,7 @@ Number of trackers detected: 6 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 29<br>
+`www.googletagmanager.com`: 30<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 8<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -1037,9 +1051,8 @@ Response encoding: ISO-8859-1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
-`www.google-analytics.com`: 3<br>
+`www.google-analytics.com`: 4<br>
 `stats.wp.com`: 3<br>
-`tags.tiqcdn.com`: 1<br>
 `script.crazyegg.com`: 2<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
@@ -1047,7 +1060,7 @@ Response encoding: ISO-8859-1 <br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `google-analytics.com`: 1<br>
-`plausible.io`: 2<br>
+`plausible.io`: 1<br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>

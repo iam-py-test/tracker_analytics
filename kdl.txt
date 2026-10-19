@@ -3037,3 +3037,5 @@ scorecardresearch.com
 youtube-nocookie.com
 samsungcloud.com
 skybridge.click
+pages.dev
+banana.yuga.com
