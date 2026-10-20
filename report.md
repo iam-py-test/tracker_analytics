@@ -1,6 +1,6 @@
 ## Tracker report
 Tried to test 200 domains<br>
-147 domains tested <br>
+146 domains tested <br>
 Failed to test 5 domains <br>
 45 of the domains tested used known trackers <br>
 142 of the domains tested supported HTTPS <br>
@@ -115,7 +115,7 @@ Response encoding: ISO-8859-1 <br>
 
 
 #### baidu.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
@@ -146,7 +146,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: UTF-8 <br>
 
 
 #### cloud.microsoft
@@ -200,9 +200,9 @@ Response encoding: UTF-8 <br>
 
 #### criteo.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 84 <br>
+Response encoding: UTF-8 <br>
 
 
 #### digicert.com
@@ -254,13 +254,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### ebay.com
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### endpoints.news
 HTTPS: True <br>
 Known trackers: False <br>
@@ -279,7 +272,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### example.com
@@ -578,8 +571,8 @@ Response encoding: utf-8 <br>
 
 #### nih.gov
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -620,9 +613,9 @@ Response encoding: utf-8 <br>
 
 #### openai.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
 
 
 #### opera.com
@@ -697,8 +690,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -1038,7 +1031,7 @@ Number of trackers detected: 6 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 30<br>
+`www.googletagmanager.com`: 31<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 8<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -1052,11 +1045,11 @@ Response encoding: ISO-8859-1 <br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
 `www.google-analytics.com`: 4<br>
+`www.criteo.com`: 83<br>
 `stats.wp.com`: 3<br>
-`script.crazyegg.com`: 2<br>
+`script.crazyegg.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
-`static.cloudflareinsights.com`: 2<br>
 `c.aps.amazon-adsystem.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `google-analytics.com`: 1<br>
@@ -1068,4 +1061,5 @@ Response encoding: ISO-8859-1 <br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
 `t.co`: 1<br>
+`static.cloudflareinsights.com`: 1<br>
 `logx.optimizely.com`: 1<br>
