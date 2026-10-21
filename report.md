@@ -201,7 +201,7 @@ Response encoding: UTF-8 <br>
 #### criteo.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 84 <br>
+Number of trackers detected: 85 <br>
 Response encoding: UTF-8 <br>
 
 
@@ -272,7 +272,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### example.com
@@ -461,7 +461,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### lencr.org
@@ -690,8 +690,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
@@ -956,9 +956,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Known trackers: True <br>
+Number of trackers detected: 3 <br>
+Response encoding: UTF-8 <br>
 
 
 #### workers.dev
@@ -1031,7 +1031,7 @@ Number of trackers detected: 6 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 31<br>
+`www.googletagmanager.com`: 32<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 8<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -1045,8 +1045,8 @@ Response encoding: ISO-8859-1 <br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
 `www.google-analytics.com`: 4<br>
-`www.criteo.com`: 83<br>
-`stats.wp.com`: 3<br>
+`www.criteo.com`: 84<br>
+`stats.wp.com`: 4<br>
 `script.crazyegg.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
