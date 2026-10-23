@@ -3043,3 +3043,5 @@ widgets.tree-nation.com
 s.tstat.net
 st1-27.vk.ru
 nflximg.com
+ddbm2.paypal.com.first-party-js.datadome.co
+ddbm2.paypal.com
