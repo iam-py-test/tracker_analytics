@@ -3047,3 +3047,7 @@ ddbm2.paypal.com.first-party-js.datadome.co
 ddbm2.paypal.com
 oh-pool.tt.omtrdc.net
 bybanking.com
+va-pool.tt.omtrdc.net
+geo-accdn-wrlb-us.livepersonk.akadns.net
+geo-lptag-wrlb-us.livepersonk.akadns.net
+st1-28.vk.ru
