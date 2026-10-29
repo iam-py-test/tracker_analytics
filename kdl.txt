@@ -3051,3 +3051,6 @@ va-pool.tt.omtrdc.net
 geo-accdn-wrlb-us.livepersonk.akadns.net
 geo-lptag-wrlb-us.livepersonk.akadns.net
 st1-28.vk.ru
+or-pool.tt.omtrdc.net
+global-weighted-us-west-1.px.quantserve.com
+corporate-media.telekom.com
