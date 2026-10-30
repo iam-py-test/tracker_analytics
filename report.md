@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-143 domains tested <br>
-Failed to test 6 domains <br>
+142 domains tested <br>
+Failed to test 7 domains <br>
 42 of the domains tested used known trackers <br>
-139 of the domains tested supported HTTPS <br>
+138 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -55,7 +55,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### android.com
@@ -635,7 +635,7 @@ Response encoding: utf-8 <br>
 #### pinterest.com
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -728,13 +728,6 @@ HTTPS: True <br>
 Known trackers: True <br>
 Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
-
-
-#### skybridge.click
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
 
 
 #### skype.com
@@ -1029,7 +1022,6 @@ Response encoding: ISO-8859-1 <br>
 `script.crazyegg.com`: 1<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
-`c.aps.amazon-adsystem.com`: 1<br>
 `googletagmanager.com`: 1<br>
 `google-analytics.com`: 1<br>
 `plausible.io`: 1<br>
