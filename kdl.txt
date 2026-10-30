@@ -3054,3 +3054,8 @@ st1-28.vk.ru
 or-pool.tt.omtrdc.net
 global-weighted-us-west-1.px.quantserve.com
 corporate-media.telekom.com
+bx-0004.bx-dc-msedge.net
+ciscosystemsinc.tt.omtrdc.net
+target.cisco.com
+cisco.com.ssl.sc.omtrdc.net
+smetrics.cisco.com

@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-142 domains tested <br>
-Failed to test 7 domains <br>
-42 of the domains tested used known trackers <br>
-138 of the domains tested supported HTTPS <br>
+143 domains tested <br>
+Failed to test 6 domains <br>
+41 of the domains tested used known trackers <br>
+139 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -431,9 +431,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### ipify.org
@@ -485,11 +485,11 @@ Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
 
 
-#### medium.com
+#### meraki.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: UTF-8 <br>
+Known trackers: True <br>
+Number of trackers detected: 2 <br>
+Response encoding: utf-8 <br>
 
 
 #### microsoft.com
@@ -730,6 +730,13 @@ Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
+#### skybridge.click
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### skype.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -893,9 +900,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### whatsapp.com
@@ -1018,8 +1025,8 @@ Response encoding: ISO-8859-1 <br>
 `static.adsafeprotected.com`: 2<br>
 `www.google-analytics.com`: 3<br>
 `stats.wp.com`: 4<br>
-`tags.tiqcdn.com`: 1<br>
 `script.crazyegg.com`: 1<br>
+`ciscosystemsinc.tt.omtrdc.net`: 2<br>
 `bat.bing.com`: 4<br>
 `sb.scorecardresearch.com`: 7<br>
 `googletagmanager.com`: 1<br>
@@ -1028,7 +1035,6 @@ Response encoding: ISO-8859-1 <br>
 `secure.quantserve.com`: 1<br>
 `ssl.google-analytics.com`: 2<br>
 `pixel.quantserve.com`: 1<br>
-`js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
 `t.co`: 1<br>
