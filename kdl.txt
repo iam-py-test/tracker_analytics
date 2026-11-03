@@ -3059,3 +3059,7 @@ ciscosystemsinc.tt.omtrdc.net
 target.cisco.com
 cisco.com.ssl.sc.omtrdc.net
 smetrics.cisco.com
+astrumu.io
+trillion-assets.b-cdn.net
+assets.abovedomains.com
+tbcache.com
