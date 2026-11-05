@@ -3064,3 +3064,5 @@ trillion-assets.b-cdn.net
 assets.abovedomains.com
 tbcache.com
 quickconnect.to
+www.samsungcloud.com
+global-weighted-us-east-1.px.quantserve.com
