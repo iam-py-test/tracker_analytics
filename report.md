@@ -23,6 +23,13 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
+#### afternic.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### aliyuncs.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -807,13 +814,6 @@ Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
 
 
-#### theguardian.com
-HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
-
-
 #### tiktok.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -970,9 +970,9 @@ Response encoding: utf-8 <br>
 
 #### x.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: None <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
+Response encoding: UTF-8 <br>
 
 
 #### yahoo.com
@@ -1036,7 +1036,7 @@ Response encoding: ISO-8859-1 <br>
 `script.crazyegg.com`: 1<br>
 `ciscosystemsinc.tt.omtrdc.net`: 2<br>
 `bat.bing.com`: 4<br>
-`sb.scorecardresearch.com`: 5<br>
+`sb.scorecardresearch.com`: 4<br>
 `googletagmanager.com`: 1<br>
 `google-analytics.com`: 1<br>
 `plausible.io`: 1<br>
@@ -1046,4 +1046,5 @@ Response encoding: ISO-8859-1 <br>
 `js.adsrvr.org`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
+`t.co`: 1<br>
 `logx.optimizely.com`: 1<br>
