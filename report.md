@@ -2,7 +2,7 @@
 Tried to test 200 domains<br>
 144 domains tested <br>
 Failed to test 5 domains <br>
-40 of the domains tested used known trackers <br>
+38 of the domains tested used known trackers <br>
 139 of the domains tested supported HTTPS <br>
 
 
@@ -48,7 +48,7 @@ Response encoding: UTF-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: None <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### amazonaws.com
@@ -452,9 +452,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### ipify.org
@@ -956,9 +956,9 @@ Response encoding: utf-8 <br>
 
 #### wordpress.org
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 3 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### workers.dev
@@ -1017,7 +1017,7 @@ Number of trackers detected: 6 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 24<br>
+`www.googletagmanager.com`: 22<br>
 `analytics.archive.org`: 1<br>
 `cdn.optimizely.com`: 8<br>
 `tpc.googlesyndication.com`: 2<br>
@@ -1031,8 +1031,7 @@ Response encoding: ISO-8859-1 <br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
 `www.google-analytics.com`: 3<br>
-`stats.wp.com`: 4<br>
-`tags.tiqcdn.com`: 1<br>
+`stats.wp.com`: 3<br>
 `script.crazyegg.com`: 1<br>
 `ciscosystemsinc.tt.omtrdc.net`: 2<br>
 `bat.bing.com`: 4<br>
