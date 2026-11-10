@@ -3067,3 +3067,4 @@ quickconnect.to
 www.samsungcloud.com
 global-weighted-us-east-1.px.quantserve.com
 firefox-portal-detection.com
+paypalobjects.com
