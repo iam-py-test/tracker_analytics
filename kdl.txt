@@ -3068,3 +3068,5 @@ www.samsungcloud.com
 global-weighted-us-east-1.px.quantserve.com
 firefox-portal-detection.com
 paypalobjects.com
+ct.ddc.paypal.com.fpc.datadome.co
+ct.ddc.paypal.com
