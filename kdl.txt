@@ -3070,3 +3070,12 @@ firefox-portal-detection.com
 paypalobjects.com
 ct.ddc.paypal.com.fpc.datadome.co
 ct.ddc.paypal.com
+brave.com
+dualstack.o.sni.global.fastly.net
+laptop-updates.brave.com
+d3mm6zq65mi65u.cloudfront.net
+referrals.brave.com
+d2cbcq2c2d2d1v.cloudfront.net
+analytics.brave.com
+search.brave.com
+skyhigh.cloud
