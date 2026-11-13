@@ -3079,3 +3079,6 @@ d2cbcq2c2d2d1v.cloudfront.net
 analytics.brave.com
 search.brave.com
 skyhigh.cloud
+fs.outlook.mira.tm.svc.cloud.microsoft
+d36gcs9qe30vnp.cloudfront.net
+cdn.foundation.roblox.com
