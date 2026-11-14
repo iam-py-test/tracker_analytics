@@ -1,9 +1,9 @@
 ## Tracker report
 Tried to test 200 domains<br>
-141 domains tested <br>
-Failed to test 8 domains <br>
+144 domains tested <br>
+Failed to test 5 domains <br>
 37 of the domains tested used known trackers <br>
-133 of the domains tested supported HTTPS <br>
+140 of the domains tested supported HTTPS <br>
 
 
 ### Individual domain statistics: 
@@ -101,7 +101,7 @@ Response encoding: UTF-8 <br>
 
 
 #### azure.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
@@ -157,7 +157,7 @@ Response encoding: utf-8 <br>
 
 
 #### cloud.microsoft
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
@@ -457,6 +457,13 @@ Number of trackers detected: 0 <br>
 Response encoding: ISO-8859-1 <br>
 
 
+#### instagram.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: utf-8 <br>
+
+
 #### intuit.com
 HTTPS: True <br>
 Known trackers: True <br>
@@ -475,7 +482,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### lencr.org
@@ -490,6 +497,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
+
+
+#### live.com
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### lsrelayaccess.com
@@ -626,10 +640,10 @@ Response encoding: utf-8 <br>
 
 
 #### outlook.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: us-ascii <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### pages.dev
@@ -744,6 +758,13 @@ Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
+#### skybridge.click
+HTTPS: True <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: UTF-8 <br>
+
+
 #### skyhigh.cloud
 HTTPS: True <br>
 Known trackers: False <br>
@@ -752,7 +773,7 @@ Response encoding: ISO-8859-1 <br>
 
 
 #### skype.com
-HTTPS: False <br>
+HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: utf-8 <br>
