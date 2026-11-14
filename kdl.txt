@@ -3083,3 +3083,4 @@ fs.outlook.mira.tm.svc.cloud.microsoft
 d36gcs9qe30vnp.cloudfront.net
 cdn.foundation.roblox.com
 a978.r.akamai.net
+www.current.a.prd.aadg.akadns.net
