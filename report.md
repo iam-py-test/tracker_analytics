@@ -1,7 +1,7 @@
 ## Tracker report
 Tried to test 200 domains<br>
 142 domains tested <br>
-Failed to test 7 domains <br>
+Failed to test 6 domains <br>
 39 of the domains tested used known trackers <br>
 138 of the domains tested supported HTTPS <br>
 
@@ -131,7 +131,7 @@ Response encoding: utf-8 <br>
 #### bit.ly
 HTTPS: True <br>
 Known trackers: True <br>
-Number of trackers detected: 2 <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -466,9 +466,9 @@ Response encoding: utf-8 <br>
 
 #### intuit.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: UTF-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### ipify.org
@@ -482,7 +482,7 @@ Response encoding: ISO-8859-1 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: utf-8 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### lencr.org
@@ -615,7 +615,7 @@ Response encoding: utf-8 <br>
 HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
+Response encoding: utf-8 <br>
 
 
 #### okcdn.ru
@@ -681,13 +681,6 @@ Number of trackers detected: 0 <br>
 Response encoding: None <br>
 
 
-#### quickconnect.to
-HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
-Response encoding: ISO-8859-1 <br>
-
-
 #### reddit.com
 HTTPS: True <br>
 Known trackers: False <br>
@@ -711,8 +704,8 @@ Response encoding: ISO-8859-1 <br>
 
 #### roblox.com
 HTTPS: True <br>
-Known trackers: False <br>
-Number of trackers detected: 0 <br>
+Known trackers: True <br>
+Number of trackers detected: 1 <br>
 Response encoding: utf-8 <br>
 
 
@@ -770,6 +763,13 @@ HTTPS: True <br>
 Known trackers: False <br>
 Number of trackers detected: 0 <br>
 Response encoding: UTF-8 <br>
+
+
+#### soundcloud.com
+HTTPS: True <br>
+Known trackers: True <br>
+Number of trackers detected: 4 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### spotify.com
@@ -893,9 +893,9 @@ Response encoding: utf-8 <br>
 
 #### webex.com
 HTTPS: True <br>
-Known trackers: True <br>
-Number of trackers detected: 1 <br>
-Response encoding: utf-8 <br>
+Known trackers: False <br>
+Number of trackers detected: 0 <br>
+Response encoding: ISO-8859-1 <br>
 
 
 #### whatsapp.com
@@ -1003,9 +1003,8 @@ Number of trackers detected: 6 <br>
 Response encoding: ISO-8859-1 <br>
 ### Statistics for each tracker
 `amazonwebservicesinc.tt.omtrdc.net`: 1<br>
-`www.googletagmanager.com`: 25<br>
+`www.googletagmanager.com`: 26<br>
 `analytics.archive.org`: 1<br>
-`cdn.optimizely.com`: 8<br>
 `tpc.googlesyndication.com`: 2<br>
 `pagead2.googlesyndication.com`: 2<br>
 `www.googletagservices.com`: 2<br>
@@ -1016,19 +1015,20 @@ Response encoding: ISO-8859-1 <br>
 `segment-data-us-east.zqtk.net`: 2<br>
 `js-sec.indexww.com`: 2<br>
 `static.adsafeprotected.com`: 2<br>
+`cdn.optimizely.com`: 7<br>
 `www.google-analytics.com`: 2<br>
 `stats.wp.com`: 4<br>
-`tags.tiqcdn.com`: 1<br>
 `script.crazyegg.com`: 1<br>
 `ciscosystemsinc.tt.omtrdc.net`: 2<br>
 `bat.bing.com`: 4<br>
-`sb.scorecardresearch.com`: 3<br>
+`sb.scorecardresearch.com`: 4<br>
 `googletagmanager.com`: 1<br>
 `google-analytics.com`: 1<br>
 `plausible.io`: 1<br>
-`js.adsrvr.org`: 1<br>
+`secure.quantserve.com`: 1<br>
+`ssl.google-analytics.com`: 2<br>
+`pixel.quantserve.com`: 1<br>
 `target.microsoft.com`: 1<br>
 `microsoftmscompoc.tt.omtrdc.net`: 1<br>
-`ssl.google-analytics.com`: 1<br>
 `t.co`: 1<br>
 `logx.optimizely.com`: 1<br>
