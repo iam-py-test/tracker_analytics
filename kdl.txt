@@ -3088,3 +3088,6 @@ global-free-tools.qr-code-generator.com
 widget.external.ignite.marketing.aws.dev
 imagery4.apps-ds.google-edge.edge.shopifynetwork.com
 shopify-assets.shopifycdn.com
+doi.org
+www.recaptcha.net
+imagery4.apps-ds.cloudflare-edge.edge.shopifynetwork.com
