@@ -3091,3 +3091,5 @@ shopify-assets.shopifycdn.com
 doi.org
 www.recaptcha.net
 imagery4.apps-ds.cloudflare-edge.edge.shopifynetwork.com
+centinel-analytica.com
+www.centinelanalytica.com
