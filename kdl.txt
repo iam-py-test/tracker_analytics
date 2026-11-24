@@ -3093,3 +3093,5 @@ www.recaptcha.net
 imagery4.apps-ds.cloudflare-edge.edge.shopifynetwork.com
 centinel-analytica.com
 www.centinelanalytica.com
+mr-afd-azuredge.tm-azurefd.net
+cdn.openai.com
