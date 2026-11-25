@@ -3095,3 +3095,5 @@ centinel-analytica.com
 www.centinelanalytica.com
 mr-afd-azuredge.tm-azurefd.net
 cdn.openai.com
+perimeterx2.map.fastly.net
+client.px-cloud.net
