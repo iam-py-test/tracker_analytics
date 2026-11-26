@@ -3097,3 +3097,9 @@ mr-afd-azuredge.tm-azurefd.net
 cdn.openai.com
 perimeterx2.map.fastly.net
 client.px-cloud.net
+atm2.outlook.mira.tm.svc.cloud.microsoft
+hcaptcha.com
+www.hcaptcha.com
+js.hcaptcha.com
+corpsites-sw.geo.kaspersky.com
+mip.web.unity.com
